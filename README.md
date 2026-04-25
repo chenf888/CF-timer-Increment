@@ -151,10 +151,6 @@ This project is for personal learning and communication. Commercial use is not a
 
 ---
 
-## 🖼️ Screenshot (Example)
-
-*Add your own screenshot here – for example:*  
-
 ---
 
 **Enjoy the journey through time! ⏳**

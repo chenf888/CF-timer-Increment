@@ -1,10 +1,5 @@
 # ⏱️ Timer Increment — 时间增量游戏
 
-> **Language / 语言**  
-> [English](#english-version) | [中文](#中文版本)
-
----
-
 ## ✨ 游戏简介
 
 **Timer Increment** 是一款以「时间」为核心资源的增量游戏（Idle/Incremental Game）。  

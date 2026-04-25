@@ -1,8 +1,5 @@
 # ⏱️ Timer Increment — 时间增量游戏
 
-[![Game Version](https://img.shields.io/badge/version-1.4.1-blue)](https://github.com/你的用户名/仓库名)
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
-
 > **Language / 语言**  
 > [English](#english-version) | [中文](#中文版本)
 

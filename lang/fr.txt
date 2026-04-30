@@ -1,0 +1,402 @@
+[game_title] Timer Incrémental
+[version_text] Version actuelle 1.4.2
+[join_us] Rejoignez-nous
+[about] À propos
+[about_title] À propos de Timer Incrémental
+[about_desc] Ceci est un jeu incrémental de temps où les joueurs achètent des améliorations et accomplissent des défis pour accélérer l'accumulation de temps, expérimentant une croissance allant de lente à explosive.
+[author] Auteur :
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Astuce de jeu :
+[gameplay_text] Améliorez d'abord la vitesse et les minutes automatiques, puis collectez les bonus de cycle et le temps doré pour obtenir des minutes plus rapidement.
+[acknowledgment] Remerciements :
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Merci à tous les joueurs pour leur soutien et leurs retours !
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Êtes-vous sûr de vouloir quitter le mode défi ? La progression actuelle sera perdue.
+[exit_challenge_success] Mode défi quitté.
+[enter_challenge_success] Mode défi activé ! Vous pouvez maintenant choisir et commencer un défi.
+[resume] Reprendre
+[play] Démarrer
+[pause] Pause
+[export_prompt] Veuillez copier le code de sauvegarde ci-dessous :
+[export_prompt_raw] Veuillez copier la sauvegarde brute ci-dessous :
+[import_prompt] Veuillez coller la chaîne de sauvegarde :
+[import_success] Importation réussie ! Le jeu va se rafraîchir.
+[import_error] Sauvegarde invalide, impossible à analyser ! Vérifiez que la copie est complète. Erreur :
+[delete_confirm] ⚠️ Avertissement : Cette action supprimera définitivement toutes les données de jeu, y compris la sauvegarde, la progression des succès, l'historique des clics, les jalons, etc.\n\nVoulez-vous vraiment tout effacer et recommencer à zéro ?
+[delete_success] Toutes les données ont été effacées !
+[time_day] jour
+[time_hour] h
+[time_minute] min
+[time_second] s
+[tab_timer] Minuteur
+[tab_upgrades] Améliorations
+[tab_achievements] Succès
+[tab_challenges] Défis
+[tab_rebirth] Renaissance
+[tab_stats] Statistiques
+[tab_settings] Paramètres
+[settings_title] Paramètres du jeu
+[save_management] Gestion de la sauvegarde
+[export_save] Exporter la sauvegarde
+[import_save] Importer la sauvegarde
+[interface_theme] Thème de l'interface
+[theme_desc] Changer de style visuel
+[danger_operations] Opérations dangereuses
+[delete_save] Réinitialiser
+[delete_save_desc] Efface complètement toutes les données de jeu (sauvegarde, succès, historique de clics, etc.). Cette action est irréversible !
+[current_minute_seconds] Secondes de la minute en cours
+[accumulated_seconds] Secondes accumulées
+[completed_cycles] Cycles terminés
+[current_multiplier] Multiplicateur actuel
+[play] Démarrer
+[pause] Pause
+[resume] Reprendre
+[minutes_owned] Minutes possédées :
+[basic_upgrades] Améliorations de base
+[advanced_upgrades] Améliorations avancées
+[expert_upgrades] Améliorations expertes
+[ach_first_step_title] Premier pas
+[ach_first_step_desc] Acheter une première amélioration
+[ach_one_hour_title] Une heure !
+[ach_one_hour_desc] Atteindre 1 heure de temps accumulé
+[ach_time_traveler_title] Voyageur temporel
+[ach_time_traveler_desc] Atteindre 10 000 secondes de temps accumulé
+[ach_100_minutes_title] 100 minutes mémorables
+[ach_100_minutes_desc] Posséder 100 minutes
+[ach_1000_minutes_title] Légende des 1000 minutes
+[ach_1000_minutes_desc] Posséder 1 000 minutes
+[ach_start_cycle_title] Début du cycle
+[ach_start_cycle_desc] Terminer 1 cycle
+[ach_time_controller_title] Maître du temps
+[ach_time_controller_desc] Atteindre un multiplicateur de 3.0x ou plus
+[ach_time_accelerator_title] Accélérateur de temps
+[ach_time_accelerator_desc] Atteindre un multiplicateur de 5.0x
+[ach_extreme_speed_title] Vitesse extrême
+[ach_extreme_speed_desc] Atteindre un multiplicateur de vitesse de 10.0x
+[ach_meteor_acceleration_title] Accélération fulgurante
+[ach_meteor_acceleration_desc] Atteindre un multiplicateur de vitesse de 25.0x
+[ach_prestige_beginning_title] Début du prestige
+[ach_prestige_beginning_desc] Posséder 1 000 PDR
+[ach_fragment_obtained_title] Fragment temporel obtenu
+[ach_fragment_obtained_desc] Obtenir 1 fragment temporel (FDR)
+[ach_first_rebirth_title] Première renaissance
+[ach_first_rebirth_desc] Accomplir 1 renaissance temporelle
+[ach_fragment_reset_title] Réinitialisation de fragment
+[ach_fragment_reset_desc] Accomplir 1 réinitialisation de fragment temporel
+[ach_fragment_upgrader_title] Amélioreur de fragment
+[ach_fragment_upgrader_desc] Acheter 1 amélioration de fragment temporel
+[ach_fragment_craftsman_title] Artisan de fragment
+[ach_fragment_craftsman_desc] Acheter 5 améliorations de fragment temporel
+[ach_challenge_door_title] Porte des défis
+[ach_challenge_door_desc] Terminer 1 défi
+[ach_challenge_master_title] Maître des défis
+[ach_challenge_master_desc] Terminer 3 défis
+[ach_ultimate_challenge_title] Défi ultime
+[ach_ultimate_challenge_desc] Terminer 5 défis
+[ach_hundred_year_solitude_title] Cent ans de solitude
+[ach_hundred_year_solitude_desc] Terminer 52 560 000 cycles (minutes)
+[ch_speed_demon_title] Démon de la vitesse
+[ch_speed_demon_desc] Atteindre un multiplicateur de vitesse de 25x en 3 minutes
+[ch_speed_demon_reward] +1.0x de vitesse de base permanent
+[ch_time_master_title] Maître du temps
+[ch_time_master_desc] Terminer 200 cycles en 2 minutes
+[ch_time_master_reward] Débloque l'amélioration Bonus de cycle
+[ch_efficiency_expert_title] Expert en efficacité
+[ch_efficiency_expert_desc] Atteindre 100x de multiplicateur de vitesse avec moins de 1000 minutes
+[ch_efficiency_expert_reward] Débloque l'amélioration Optimisation des coûts
+[ch_minimalist_master_title] Maître minimaliste
+[ch_minimalist_master_desc] Atteindre 5000 secondes accumulées sans acheter aucune amélioration
+[ch_minimalist_master_reward] Débloque l'amélioration Minutes automatiques
+[ch_golden_chaser_title] Chasseur de temps doré
+[ch_golden_chaser_desc] Déclencher 5 fois le temps doré en 10 minutes
+[ch_golden_chaser_reward] Probabilité de temps doré +5% permanente
+[up_speed_boost_name] Boost de vitesse
+[up_speed_boost_desc] Augmente la vitesse de base de 0.1x par niveau
+[up_auto_seconds_name] Secondes automatiques
+[up_auto_seconds_desc] Génère automatiquement 0.1 seconde par seconde et par niveau
+[up_minute_boost_name] Minutes bonus
+[up_minute_boost_desc] Génère automatiquement 0.01 minute par seconde et par niveau
+[up_speed_multiplier_name] Multiplicateur de vitesse
+[up_speed_multiplier_desc] Augmente le multiplicateur de vitesse de 10% par niveau
+[up_minute_multiplier_name] Multiplicateur de minutes
+[up_minute_multiplier_desc] Augmente le multiplicateur d'obtention de minutes de 10% par niveau
+[up_cycle_bonus_name] Bonus de cycle
+[up_cycle_bonus_desc] Chaque cycle accorde 1 minute supplémentaire
+[up_auto_minutes_name] Minutes automatiques
+[up_auto_minutes_desc] Génère automatiquement 0.01 minute par seconde et par niveau
+[up_cost_reduction_name] Optimisation des coûts
+[up_cost_reduction_desc] Réduit le coût de toutes les améliorations de 5% par niveau
+[up_golden_time_name] Temps doré
+[up_golden_time_desc] Augmente de 1% par niveau la probabilité d'obtenir aléatoirement une récompense doublée
+[reb1_name] Amélioration de renaissance 1
+[reb1_desc] Après renaissance, gain de secondes ×2, l'effet de Boost de vitesse passe à 0.15
+[reb2_name] Amélioration de renaissance 2
+[reb2_desc] Conserve le Boost de vitesse niveau 3 après renaissance, et les minutes améliorent le gain de vitesse par seconde
+[reb3_name] Amélioration de renaissance 3
+[reb3_desc] Gain de secondes ×2.5, chaque minute augmente le multiplicateur de secondes de 0.01
+[reb4_name] Amélioration de renaissance 4
+[reb4_desc] La production de secondes est multipliée par la racine carrée des minutes possédées
+[reb5_name] Amélioration de renaissance 5
+[reb5_desc] Débloque le défi SDV1
+[reb6_name] Amélioration de renaissance 6
+[reb6_desc] Débloque le convertisseur, 60 secondes donnent 1 minute multipliée par 1 + √(nombre de renaissances)
+[reb7_name] Amélioration de renaissance 7
+[reb7_desc] Débloque SDV2 et améliore la production
+[reb8_name] Amélioration de renaissance 8
+[reb8_desc] Production de points ×7.8 (nécessite d'avoir terminé SDV2)
+[reb9_name] Amélioration de renaissance 9
+[reb9_desc] Chaque amélioration PDR achetée augmente l'effet de Boost de vitesse de +0.02
+[reb10_name] Amélioration de renaissance 10
+[reb10_desc] Débloque le défi SDV3
+[reb11_name] Amélioration de renaissance 11
+[reb11_desc] Gain de PDR doublé, et les PDR augmentent le gain de secondes
+[vdp11_name] Amélioration de fragment 1-1
+[vdp11_desc] Production de secondes ×2, gain de PDR ×2
+[vdp12_name] Amélioration de fragment 1-2
+[vdp12_desc] Gain de minutes ×3
+[vdp21_name] Amélioration de fragment 2-1
+[vdp21_desc] La production de secondes est améliorée selon les minutes possédées : ×(1 + minutes^0.6)
+[vdp22_name] Amélioration de fragment 2-2
+[vdp22_desc] La production de secondes est améliorée selon les PDR actuels : ×(1 + PDR^0.7)
+[vdp23_name] Amélioration de fragment 2-3
+[vdp23_desc] Le gain de minutes est amélioré selon les PDR actuels : ×(1 + PDR^0.55)
+[vdp33_name] Amélioration de fragment 3-3
+[vdp33_desc] Chaque défi terminé augmente la production de secondes de +0.02
+[vdp41_name] Débloquer les boosters
+[vdp41_desc] Débloque le système de boosters, offrant des bonus supplémentaires
+[sdv1_title] SDV1
+[sdv1_desc] Une minute passe à 120 secondes, les PDR sont réinitialisés et toutes les améliorations sont ignorées. Objectif : terminer le défi en 7777 secondes.
+[sdv1_reward] Après réussite, le nombre de secondes par minute passe à 40 secondes
+[sdv2_title] SDV2
+[sdv2_desc] Débloque SDV2, Boost de vitesse +0.05, efficacité des minutes bonus doublée.
+[sdv2_reward] Améliore la capacité de production exclusive de SDV2
+[sdv3_title] SDV3
+[sdv3_desc] Pendant ce défi, le plafond souple est actif en permanence et la production est élevée à la puissance 0.8125. Objectif : terminer en 2125 secondes.
+[sdv3_reward] Après réussite, 25% de chances par minute d'obtenir des minutes doublées
+[current_bonus] Bonus actuel
+[current_income] Revenu actuel
+[current_multiplier_label] Multiplicateur actuel
+[cycle_reward] Bonus de cycle
+[cost_reduced] Coût réduit
+[golden_probability] Probabilité dorée
+[speed] Vitesse
+[minutes_short] min
+[up_effect_speed] Bonus actuel : +{0}x vitesse
+[up_effect_auto_seconds] Revenu actuel : +{0} s/s
+[up_effect_minute_boost] Revenu actuel : +{0} min/s
+[up_effect_speed_multiplier] Multiplicateur : x{0} vitesse
+[up_effect_minute_multiplier] Multiplicateur : x{0} minutes
+[up_effect_cycle_bonus] Bonus de cycle : +{0} min/cycle
+[up_effect_auto_minutes] Minutes auto : +{0} min/s
+[up_effect_cost_reduction] Coût réduit : {0}%
+[up_effect_golden_time] Probabilité dorée : {0}%
+[upgrade_button] Améliorer {0} {1}
+[minutes_currency] minutes
+[theme_blue] Bleu
+[theme_darkred] Rouge
+[theme_minimal] Noir
+[theme_neon] Violet & Bleu
+[theme_yellow] Jaune
+[progress] Progression
+[unlocked] Débloqué
+[reward] Récompense
+[time_limit] Limite de temps
+[in_progress] En cours
+[complete] Terminé
+[start_challenge] Commencer le défi
+[abandon_challenge] Abandonner le défi
+[no_time_limit] Sans limite de temps
+[rebirth_info] Infos de renaissance
+[rebirth_upgrades_tab] Améliorations de renaissance
+[time_fragment_upgrades] Améliorations de fragments
+[sdv_challenges] Défis SDV
+[time_rebirth_points] Points de renaissance temporelle (PDR)
+[time_fragments] Fragments temporels (FDR)
+[rebirth_count] Nombre de renaissances
+[fragment_reset_count] Nombre de réinitialisations de fragments
+[time_rebirth] Renaissance temporelle
+[get_time_fragments] Obtenir des fragments temporels
+[current_rebirth_gain] Gain actuel de renaissance :
+[sdp_label] PDR
+[rebirth_desc] La renaissance temporelle réinitialise la partie en cours et rapporte des PDR, utilisables pour acheter des améliorations de renaissance. Obtenir des fragments temporels consomme des PDR et augmente les FDR.
+[sdv_challenge_note] Les défis SDV sont indépendants des défis principaux et offrent des récompenses de renaissance exclusives.
+[time_rebirth_upgrades_desc] Utilisez les PDR pour acheter des améliorations de renaissance, renforçant ainsi les gains de renaissance et les capacités spéciales.
+[time_fragment_upgrades_desc] Utilisez les FDR pour acheter des améliorations de fragments, renforçant la production de secondes, le gain de minutes et l'efficacité des renaissances.
+[booster_level] Niveau de booster
+[sdv_challenge_desc] Les défis SDV sont indépendants des défis normaux et offrent des bonus de renaissance spéciaux. Un seul défi à la fois ; abandonner permet d'en choisir un autre.
+[current_sdv_challenge] Défi SDV en cours
+[completed_sdv_challenges] Défis SDV terminés
+[none] Aucun
+[game_stats] Statistiques de jeu
+[total_accumulated_seconds] Total des secondes accumulées
+[current_speed_multiplier] Multiplicateur de vitesse actuel
+[highest_second_speed] Vitesse max en s/s
+[current_minutes] Minutes actuelles
+[current_seconds] Secondes actuelles
+[total_rebirths] Total de renaissances
+[current_sdp] PDR actuels
+[current_vdp] FDR actuels
+[total_current_upgrades] Total des améliorations achetées
+[total_current_rebirth_upgrades] Total des améliorations de renaissance
+[current_challenges_completed] Défis terminés actuellement
+[save_created_time] Date de création de la sauvegarde
+[save_elapsed_time] Temps écoulé de la sauvegarde
+[current_theme] Thème actuel
+[footer_text] Avance avec le temps - PAR
+[speed_boost] Boost de vitesse
+[speed_boost_desc] Augmente la vitesse de base de 0.1x par niveau
+[auto_seconds] Secondes automatiques
+[auto_seconds_desc] Génère automatiquement 0.1 seconde par seconde et par niveau
+[extra_minutes] Minutes bonus
+[extra_minutes_desc] Génère automatiquement 0.01 minute par seconde et par niveau
+[speed_multiplier] Multiplicateur de vitesse
+[speed_multiplier_desc] Augmente le multiplicateur de vitesse de 10% par niveau
+[minute_multiplier] Multiplicateur de minutes
+[minute_multiplier_desc] Augmente le multiplicateur de minutes de 10% par niveau
+[cycle_bonus] Bonus de cycle
+[cycle_bonus_desc] Chaque cycle accorde 1 minute supplémentaire
+[auto_minutes] Minutes automatiques
+[auto_minutes_desc] Génère automatiquement 0.01 minute par seconde et par niveau
+[cost_optimization] Optimisation des coûts
+[cost_optimization_desc] Réduit le coût de toutes les améliorations de 5% par niveau
+[golden_time] Temps doré
+[golden_time_desc] Augmente de 1% par niveau la probabilité d'obtenir aléatoirement une récompense doublée
+[current_bonus] Bonus actuel
+[current_income] Revenu actuel
+[current_multiplier_label] Multiplicateur actuel
+[cycle_reward] Bonus de cycle
+[cost_reduced] Coût réduit
+[golden_probability] Probabilité dorée
+[upgrade] Améliorer
+[completed] Terminé
+[purchase] Acheter
+[minutes_currency] minutes
+[need_purchase_previous] Achetez d'abord le précédent
+[sdp_currency] PDR
+[vdp_currency] FDR
+[challenge_mode_title] Mode défi
+[current_challenge] Défi en cours
+[remaining_time] Temps restant
+[exit_challenge] Quitter le défi
+[welcome_challenge] Bienvenue dans le mode défi !
+[challenge_desc_text] En mode défi, vous ferez face à diverses limitations et objectifs. Réussir un défi vous accordera des récompenses permanentes !
+[challenge_rules_title] Règles du défi :
+[challenge_rule1] Aucun achat d'amélioration possible en mode défi
+[challenge_rule2] Les défis ont une limite de temps ou des conditions spéciales
+[challenge_rule3] Échouer ou quitter réinitialisera la progression actuelle
+[challenge_rule4] Réussir vous donne une récompense permanente
+[enter_challenge_mode] Entrer en mode défi
+[time_limit] Limite de temps
+[reward] Récompense
+[progress] Progression
+[in_progress] En cours
+[complete] Terminé
+[start_challenge] Commencer le défi
+[abandon_challenge] Abandonner le défi
+[achievement_first_step] Premier pas
+[achievement_first_step_desc] Acheter une première amélioration
+[achievement_one_hour] Une heure !
+[achievement_one_hour_desc] Atteindre 1 heure de temps accumulé
+[achievement_time_traveler] Voyageur temporel
+[achievement_time_traveler_desc] Atteindre 10 000 secondes de temps accumulé
+[achievement_100_minutes] 100 minutes mémorables
+[achievement_100_minutes_desc] Posséder 100 minutes
+[achievement_1000_minutes] Légende des 1000 minutes
+[achievement_1000_minutes_desc] Posséder 1 000 minutes
+[achievement_start_cycle] Début du cycle
+[achievement_start_cycle_desc] Terminer 1 cycle
+[achievement_time_controller] Maître du temps
+[achievement_time_controller_desc] Atteindre un multiplicateur de 3.0x ou plus
+[achievement_time_accelerator] Accélérateur de temps
+[achievement_time_accelerator_desc] Atteindre un multiplicateur de 5.0x
+[achievement_extreme_speed] Vitesse extrême
+[achievement_extreme_speed_desc] Atteindre un multiplicateur de vitesse de 10.0x
+[achievement_meteor_acceleration] Accélération fulgurante
+[achievement_meteor_acceleration_desc] Atteindre un multiplicateur de vitesse de 25.0x
+[achievement_prestige_beginning] Début du prestige
+[achievement_prestige_beginning_desc] Posséder 1 000 PDR
+[achievement_fragment_obtained] Fragment temporel obtenu
+[achievement_fragment_obtained_desc] Obtenir 1 fragment temporel (FDR)
+[achievement_first_rebirth] Première renaissance
+[achievement_first_rebirth_desc] Accomplir 1 renaissance temporelle
+[achievement_fragment_reset] Réinitialisation de fragment
+[achievement_fragment_reset_desc] Accomplir 1 réinitialisation de fragment temporel
+[achievement_fragment_upgrader] Amélioreur de fragment
+[achievement_fragment_upgrader_desc] Acheter 1 amélioration de fragment temporel
+[achievement_fragment_craftsman] Artisan de fragment
+[achievement_fragment_craftsman_desc] Acheter 5 améliorations de fragment temporel
+[achievement_challenge_door] Porte des défis
+[achievement_challenge_door_desc] Terminer 1 défi
+[achievement_challenge_master] Maître des défis
+[achievement_challenge_master_desc] Terminer 3 défis
+[achievement_ultimate_challenge] Défi ultime
+[achievement_ultimate_challenge_desc] Terminer 5 défis
+[achievement_hundred_year_solitude] Cent ans de solitude
+[achievement_hundred_year_solitude_desc] Terminer 52 560 000 cycles (minutes)
+[import_prompt] Veuillez coller la chaîne de sauvegarde :
+[export_prompt] Veuillez copier le code de sauvegarde ci-dessous :
+[import_success] Importation réussie ! Le jeu va se rafraîchir.
+[import_error] Sauvegarde invalide, impossible à analyser ! Vérifiez que la copie est complète.
+[delete_confirm] ⚠️ Avertissement : Cette action supprimera définitivement toutes les données de jeu, y compris la sauvegarde, la progression des succès, l'historique des clics, les jalons, etc.
+[delete_confirm_question] Voulez-vous vraiment tout effacer et recommencer à zéro ?
+[delete_success] Toutes les données ont été effacées !
+[save_load_error] Échec du chargement de la sauvegarde :
+[save_check_message] Veuillez vérifier que la sauvegarde est correcte ou réessayez l'importation.
+[exit_challenge_confirm] Êtes-vous sûr de vouloir quitter le mode défi ? La progression actuelle sera perdue.
+[exit_challenge_success] Mode défi quitté.
+[enter_challenge_success] Mode défi activé ! Vous pouvez maintenant choisir et commencer un défi.
+[challenge_start_message] Défi commencé !
+[target] Objectif :
+[time_format] min
+[rebirth_need_minutes] Il faut au moins 10 minutes pour effectuer une renaissance temporelle.
+[rebirth_success] Renaissance temporelle réussie, vous avez obtenu
+[vdp_need_sdp] Il faut au moins 1000 PDR pour obtenir un fragment temporel.
+[vdp_cannot_obtain] Impossible d'obtenir un fragment temporel actuellement.
+[vdp_obtained] Obtenu
+[time_fragments_obtained] fragments temporels !
+[abandon_sdv_confirm] Voulez-vous vraiment abandonner le défi SDV en cours ?
+[sdv_started] Défi SDV débuté :
+[sdv_unlock_hint] Déblocable après achat de l'amélioration de renaissance SDV correspondante
+[challenge_failed] Défi échoué ! Temps écoulé.
+[speed_calc_error] Erreur de calcul de vitesse, restauration de la valeur par défaut :
+[speed_calc_error_hint] Cela peut être dû à une corruption des données de sauvegarde.
+[seconds_per_second] s/s
+[minutes_per_second] min/s
+[minutes_per_cycle] min/cycle
+[minutes_per_second_auto] min/s
+[seconds] secondes
+[no_time_limit] Sans limite de temps
+[unlocked] Débloqué
+[locked_status] Verrouillé
+[start_sdv] Démarrer SDV
+[abandon_sdv] Abandonner SDV
+[rebirth_gain_sdp] Renaissance temporelle ({0} PDR disponibles)
+[upgrade_completed] Terminé
+[need_purchase_previous] Achetez d'abord le précédent
+[purchase_button] Acheter {0} {1}
+[sdp_currency] PDR
+[upgrade_completed] Terminé
+[need_purchase_previous] Achetez d'abord le précédent
+[purchase_button] Acheter {0} {1}
+[vdp_currency] FDR
+[start_sdv] Démarrer SDV
+[abandon_sdv] Abandonner SDV
+[sdv_unlock_hint] Déblocable après achat de l'amélioration de renaissance SDV correspondante
+[abandon_sdv_confirm] Voulez-vous vraiment abandonner le défi SDV en cours ?
+[rebirth_button_text] Renaissance temporelle ({0} PDR disponibles)
+[insufficient_funds] Fonds insuffisants
+[unit_seconds_per_second] s/s
+[none] Aucun
+[yes] Oui
+[no] Non
+[basic_upgrades] Améliorations de base
+[advanced_upgrades] Améliorations avancées
+[expert_upgrades] Améliorations expertes
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Choisir la langue de l'interface
+[load_language_fail] Échec du chargement de la langue

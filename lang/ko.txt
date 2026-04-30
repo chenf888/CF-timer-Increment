@@ -1,0 +1,402 @@
+[game_title] 타이머 인크리멘탈
+[version_text] 현재 버전 1.4.2
+[join_us] 참여하기
+[about] 정보
+[about_title] 타이머 인크리멘탈 정보
+[about_desc] 시간을 축적하는 인크리멘탈 게임입니다. 업그레이드를 구매하고 도전을 완료하여 시간 축적을 가속화하고, 느린 성장에서 폭발적인 가속까지 경험할 수 있습니다.
+[author] 제작자:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] 플레이 팁:
+[gameplay_text] 먼저 속도와 자동 분을 우선적으로 올리고, 그 다음 주기 보너스와 골든 타임을 모아 더 빠르게 분을 획득하세요.
+[acknowledgment] 감사의 말:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] 지원과 피드백을 보내주신 모든 플레이어에게 감사드립니다!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] 도전 모드를 종료하시겠습니까? 현재 진행 상황이 손실됩니다.
+[exit_challenge_success] 도전 모드를 종료했습니다.
+[enter_challenge_success] 도전 모드에 입장했습니다! 이제 도전을 선택하고 시작할 수 있습니다.
+[resume] 계속하기
+[play] 시작
+[pause] 일시 정지
+[export_prompt] 아래 세이브 코드를 복사하세요:
+[export_prompt_raw] 아래 원시 세이브 데이터를 복사하세요:
+[import_prompt] 세이브 문자열을 붙여넣으세요:
+[import_success] 가져오기 성공! 게임이 새로고침됩니다.
+[import_error] 세이브 데이터가 유효하지 않아 해석할 수 없습니다! 완전히 복사되었는지 확인하세요. 오류:
+[delete_confirm] ⚠️ 경고: 이 작업은 세이브 데이터, 업적 진행 상황, 클릭 기록, 마일스톤 등 모든 게임 데이터를 영구적으로 삭제합니다.\n\n정말로 모든 데이터를 삭제하고 처음부터 다시 시작하시겠습니까?
+[delete_success] 모든 데이터가 완전히 삭제되었습니다!
+[time_day] 일
+[time_hour] 시간
+[time_minute] 분
+[time_second] 초
+[tab_timer] 타이머
+[tab_upgrades] 업그레이드
+[tab_achievements] 업적
+[tab_challenges] 도전
+[tab_rebirth] 환생
+[tab_stats] 통계
+[tab_settings] 설정
+[settings_title] 게임 설정
+[save_management] 세이브 관리
+[export_save] 세이브 내보내기
+[import_save] 세이브 가져오기
+[interface_theme] 인터페이스 테마
+[theme_desc] 다양한 비주얼 스타일로 전환
+[danger_operations] 위험한 작업
+[delete_save] 데이터 삭제
+[delete_save_desc] 게임 데이터(세이브, 업적, 클릭 기록 등)를 완전히 삭제합니다. 이 작업은 되돌릴 수 없습니다!
+[current_minute_seconds] 현재 분의 초 수
+[accumulated_seconds] 누적 초 수
+[completed_cycles] 완료된 주기
+[current_multiplier] 현재 배율
+[play] 시작
+[pause] 일시 정지
+[resume] 계속하기
+[minutes_owned] 보유 분:
+[basic_upgrades] 기본 업그레이드
+[advanced_upgrades] 고급 업그레이드
+[expert_upgrades] 전문가 업그레이드
+[ach_first_step_title] 첫걸음
+[ach_first_step_desc] 첫 번째 업그레이드 구매
+[ach_one_hour_title] 1시간!
+[ach_one_hour_desc] 누적 시간이 1시간에 도달
+[ach_time_traveler_title] 시간 여행자
+[ach_time_traveler_desc] 누적 시간이 10000초에 도달
+[ach_100_minutes_title] 100분 기념
+[ach_100_minutes_desc] 100분 보유
+[ach_1000_minutes_title] 1000분 전설
+[ach_1000_minutes_desc] 1000분 보유
+[ach_start_cycle_title] 주기 시작
+[ach_start_cycle_desc] 주기 1회 완료
+[ach_time_controller_title] 시간 지배자
+[ach_time_controller_desc] 배율 3.0x 이상 도달
+[ach_time_accelerator_title] 시간 가속사
+[ach_time_accelerator_desc] 배율 5.0x 도달
+[ach_extreme_speed_title] 초가속
+[ach_extreme_speed_desc] 속도 배율 10.0x 도달
+[ach_meteor_acceleration_title] 유성 가속
+[ach_meteor_acceleration_desc] 속도 배율 25.0x 도달
+[ach_prestige_beginning_title] 프레스티지의 시작
+[ach_prestige_beginning_desc] 1000 SDP 보유
+[ach_fragment_obtained_title] 시간 조각 획득
+[ach_fragment_obtained_desc] 시간 조각(VDP) 1개 획득
+[ach_first_rebirth_title] 환생 첫 경험
+[ach_first_rebirth_desc] 시간 환생 1회 완료
+[ach_fragment_reset_title] 조각 리셋
+[ach_fragment_reset_desc] 시간 조각 리셋 1회 완료
+[ach_fragment_upgrader_title] 조각 강화자
+[ach_fragment_upgrader_desc] 시간 조각 업그레이드 1개 구매
+[ach_fragment_craftsman_title] 조각 장인
+[ach_fragment_craftsman_desc] 시간 조각 업그레이드 5개 구매
+[ach_challenge_door_title] 도전의 문
+[ach_challenge_door_desc] 도전 1개 클리어
+[ach_challenge_master_title] 도전 마스터
+[ach_challenge_master_desc] 도전 3개 클리어
+[ach_ultimate_challenge_title] 궁극의 도전
+[ach_ultimate_challenge_desc] 도전 5개 클리어
+[ach_hundred_year_solitude_title] 백 년의 고독
+[ach_hundred_year_solitude_desc] 52560000 주기(분) 완료
+[ch_speed_demon_title] 스피드 데몬
+[ch_speed_demon_desc] 3분 이내에 속도 배율 25x 도달
+[ch_speed_demon_reward] 영구적으로 기본 속도 +1.0x
+[ch_time_master_title] 타임 마스터
+[ch_time_master_desc] 2분 이내에 200 주기 완료
+[ch_time_master_reward] 주기 보너스 업그레이드 해금
+[ch_efficiency_expert_title] 효율 전문가
+[ch_efficiency_expert_desc] 사용 분 1000 미만으로 속도 배율 100x 도달
+[ch_efficiency_expert_reward] 비용 최적화 업그레이드 해금
+[ch_minimalist_master_title] 미니멀리스트 마스터
+[ch_minimalist_master_desc] 업그레이드를 전혀 구매하지 않고 누적 시간 5000초 도달
+[ch_minimalist_master_reward] 자동 분 업그레이드 해금
+[ch_golden_chaser_title] 골든 체이서
+[ch_golden_chaser_desc] 10분 이내에 골든 타임 5회 발동
+[ch_golden_chaser_reward] 골든 타임 확률 영구 +5%
+[up_speed_boost_name] 속도 강화
+[up_speed_boost_desc] 레벨당 기본 속도가 영구적으로 0.1x 증가
+[up_auto_seconds_name] 자동 초
+[up_auto_seconds_desc] 레벨당 매초 자동으로 0.1초 획득
+[up_minute_boost_name] 추가 분
+[up_minute_boost_desc] 레벨당 매초 추가로 0.01분 획득
+[up_speed_multiplier_name] 속도 배증
+[up_speed_multiplier_desc] 레벨당 속도 배율이 10% 증가
+[up_minute_multiplier_name] 분 배증
+[up_minute_multiplier_desc] 레벨당 분 획득 배율이 10% 증가
+[up_cycle_bonus_name] 주기 보너스
+[up_cycle_bonus_desc] 주기당 추가로 1분 획득
+[up_auto_minutes_name] 자동 분
+[up_auto_minutes_desc] 레벨당 매초 자동으로 0.01분 획득
+[up_cost_reduction_name] 비용 최적화
+[up_cost_reduction_desc] 레벨당 모든 업그레이드의 비용이 5% 감소
+[up_golden_time_name] 골든 타임
+[up_golden_time_desc] 레벨당 무작위로 2배 보상을 받을 확률이 1% 증가
+[reb1_name] 시간 환생 업그레이드 1
+[reb1_desc] 환생 후 초 획득 ×2, 속도 강화 효과가 0.15가 됨
+[reb2_name] 시간 환생 업그레이드 2
+[reb2_desc] 환생 시 속도 강화 레벨 3을 유지하고, 분이 초속 획득 속도를 향상시킴
+[reb3_name] 시간 환생 업그레이드 3
+[reb3_desc] 초 획득 ×2.5, 분마다 초 배율이 0.01 증가
+[reb4_name] 시간 환생 업그레이드 4
+[reb4_desc] 보유한 분의 제곱근에 따라 초 생산 상승
+[reb5_name] 시간 환생 업그레이드 5
+[reb5_desc] SDV1 도전 해금
+[reb6_name] 시간 환생 업그레이드 6
+[reb6_desc] 변환기 해금, 60초당 1분 획득이 1 + √환생 횟수 배가 됨
+[reb7_name] 시간 환생 업그레이드 7
+[reb7_desc] SDV2를 해금하고 생산 향상
+[reb8_name] 시간 환생 업그레이드 8
+[reb8_desc] 포인트 생산 ×7.8 (SDV2 클리어 필요)
+[reb9_name] 시간 환생 업그레이드 9
+[reb9_desc] SDP 업그레이드를 구매할 때마다 속도 강화 효과가 +0.02
+[reb10_name] 시간 환생 업그레이드 10
+[reb10_desc] SDV3 도전 해금
+[reb11_name] 시간 환생 업그레이드 11
+[reb11_desc] SDP 획득이 배증되고, SDP에 따라 초 획득 상승
+[vdp11_name] 시간 조각 업그레이드 1-1
+[vdp11_desc] 초 생산 ×2, SDP 획득 ×2
+[vdp12_name] 시간 조각 업그레이드 1-2
+[vdp12_desc] 분 획득 ×3
+[vdp21_name] 시간 조각 업그레이드 2-1
+[vdp21_desc] 보유 분에 따라 초 생산 향상: ×(1 + 분^0.6)
+[vdp22_name] 시간 조각 업그레이드 2-2
+[vdp22_desc] 현재 SDP에 따라 초 생산 향상: ×(1 + SDP^0.7)
+[vdp23_name] 시간 조각 업그레이드 2-3
+[vdp23_desc] 현재 SDP에 따라 분 획득 향상: ×(1 + SDP^0.55)
+[vdp33_name] 시간 조각 업그레이드 3-3
+[vdp33_desc] 도전을 1개 클리어할 때마다 초 생산 +0.02
+[vdp41_name] 부스터 해금
+[vdp41_desc] 추가 보너스를 제공하는 부스터 시스템 해금
+[sdv1_title] SDV1
+[sdv1_desc] 1분이 120초가 되고, SDP가 리셋되며 모든 업그레이드가 무시됩니다. 목표: 7777초 이내에 도전 완료.
+[sdv1_reward] 클리어 후 매분 초 수가 40초가 됨
+[sdv2_title] SDV2
+[sdv2_desc] SDV2 해금, 속도 강화 +0.05, 추가 분 생산 효율 배증.
+[sdv2_reward] SDV2 전용 생산 능력 향상
+[sdv3_title] SDV3
+[sdv3_desc] 도전 중 항상 소프트캡이 발동되어 생산이 ^0.8125가 됩니다. 목표: 2125초 이내에 완료.
+[sdv3_reward] 클리어 후 매분 25% 확률로 분 2배
+[current_bonus] 현재 보너스
+[current_income] 현재 수입
+[current_multiplier_label] 현재 배율
+[cycle_reward] 주기 보너스
+[cost_reduced] 비용 감소
+[golden_probability] 골든 확률
+[speed] 속도
+[minutes_short] 분
+[up_effect_speed] 현재 보너스: +{0}x 속도
+[up_effect_auto_seconds] 현재 수입: +{0} 초/초
+[up_effect_minute_boost] 현재 수입: +{0} 분/초
+[up_effect_speed_multiplier] 현재 배율: x{0} 속도
+[up_effect_minute_multiplier] 현재 배율: x{0} 분
+[up_effect_cycle_bonus] 주기 보너스: +{0} 분/주기
+[up_effect_auto_minutes] 자동 분: +{0} 분/초
+[up_effect_cost_reduction] 비용 감소: {0}%
+[up_effect_golden_time] 골든 확률: {0}%
+[upgrade_button] 업그레이드 {0} {1}
+[minutes_currency] 분
+[theme_blue] 파랑
+[theme_darkred] 빨강
+[theme_minimal] 검정
+[theme_neon] 보라+파랑
+[theme_yellow] 노랑
+[progress] 진행 상황
+[unlocked] 달성 완료
+[reward] 보상
+[time_limit] 제한 시간
+[in_progress] 진행 중
+[complete] 완료
+[start_challenge] 도전 시작
+[abandon_challenge] 도전 포기
+[no_time_limit] 제한 시간 없음
+[rebirth_info] 환생 정보
+[rebirth_upgrades_tab] 환생 업그레이드
+[time_fragment_upgrades] 시간 조각 업그레이드
+[sdv_challenges] SDV 도전
+[time_rebirth_points] 시간 환생 포인트 (SDP)
+[time_fragments] 시간 조각 (VDP)
+[rebirth_count] 환생 횟수
+[fragment_reset_count] 조각 리셋 횟수
+[time_rebirth] 시간 환생
+[get_time_fragments] 시간 조각 획득
+[current_rebirth_gain] 현재 환생으로 획득 가능:
+[sdp_label] SDP
+[rebirth_desc] 시간 환생은 현재 실행을 리셋하고 SDP를 획득합니다. SDP는 환생 업그레이드 구매에 사용됩니다. 시간 조각을 획득하면 SDP를 소모하고 VDP가 증가합니다.
+[sdv_challenge_note] SDV 도전은 메인 도전과 독립적이며, 클리어 시 특별한 환생 보상을 획득할 수 있습니다.
+[time_rebirth_upgrades_desc] SDP를 사용하여 시간 환생 업그레이드를 구매하고, 환생의 혜택과 특수 능력을 강화합니다.
+[time_fragment_upgrades_desc] VDP를 사용하여 시간 조각 업그레이드를 구매하고, 초 생산, 분 획득, 환생 효율을 강화합니다.
+[booster_level] 부스터 레벨
+[sdv_challenge_desc] SDV 도전은 일반 도전과 독립적이며, 클리어하면 특별한 환생 보너스를 얻을 수 있습니다. 동시에 하나의 도전만 진행할 수 있으며, 포기 후 다시 선택할 수 있습니다.
+[current_sdv_challenge] 현재 SDV 도전
+[completed_sdv_challenges] 완료된 SDV 도전
+[none] 없음
+[game_stats] 게임 통계
+[total_accumulated_seconds] 누적 총 초
+[current_speed_multiplier] 현재 속도 배율
+[highest_second_speed] 최고 초속
+[current_minutes] 현재 분 수
+[current_seconds] 현재 초 수
+[total_rebirths] 누적 환생 횟수
+[current_sdp] 현재 SDP
+[current_vdp] 현재 VDP
+[total_current_upgrades] 현재 업그레이드 총 수
+[total_current_rebirth_upgrades] 현재 환생 업그레이드 총 수
+[current_challenges_completed] 현재 도전 클리어 수
+[save_created_time] 세이브 생성 시간
+[save_elapsed_time] 세이브 경과 시간
+[current_theme] 현재 테마
+[footer_text] 시간을 넘어 - BY
+[speed_boost] 속도 강화
+[speed_boost_desc] 레벨당 기본 속도가 영구적으로 0.1x 증가
+[auto_seconds] 자동 초
+[auto_seconds_desc] 레벨당 매초 자동으로 0.1초 획득
+[extra_minutes] 추가 분
+[extra_minutes_desc] 레벨당 매초 추가로 0.01분 획득
+[speed_multiplier] 속도 배증
+[speed_multiplier_desc] 레벨당 속도 배율이 10% 증가
+[minute_multiplier] 분 배증
+[minute_multiplier_desc] 레벨당 분 획득 배율이 10% 증가
+[cycle_bonus] 주기 보너스
+[cycle_bonus_desc] 주기당 추가로 1분 획득
+[auto_minutes] 자동 분
+[auto_minutes_desc] 레벨당 매초 자동으로 0.01분 획득
+[cost_optimization] 비용 최적화
+[cost_optimization_desc] 레벨당 모든 업그레이드의 비용이 5% 감소
+[golden_time] 골든 타임
+[golden_time_desc] 레벨당 무작위로 2배 보상을 받을 확률이 1% 증가
+[current_bonus] 현재 보너스
+[current_income] 현재 수입
+[current_multiplier_label] 현재 배율
+[cycle_reward] 주기 보너스
+[cost_reduced] 비용 감소
+[golden_probability] 골든 확률
+[upgrade] 업그레이드
+[completed] 완료
+[purchase] 구매
+[minutes_currency] 분
+[need_purchase_previous] 먼저 이전 항목을 구매하세요
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] 도전 모드
+[current_challenge] 현재 도전
+[remaining_time] 남은 시간
+[exit_challenge] 도전 종료
+[welcome_challenge] 도전 모드에 오신 것을 환영합니다!
+[challenge_desc_text] 도전 모드에서는 다양한 제한과 목표에 직면하게 됩니다. 도전을 성공하면 영구적인 보상을 획득할 수 있습니다!
+[challenge_rules_title] 도전 규칙:
+[challenge_rule1] 도전 모드에서는 업그레이드를 구매할 수 없습니다
+[challenge_rule2] 도전에는 제한 시간 또는 특수 조건이 있습니다
+[challenge_rule3] 실패 또는 종료 시 현재 진행 상황이 리셋됩니다
+[challenge_rule4] 성공 시 영구적인 보상을 획득할 수 있습니다
+[enter_challenge_mode] 도전 모드 입장
+[time_limit] 제한 시간
+[reward] 보상
+[progress] 진행 상황
+[in_progress] 진행 중
+[complete] 완료
+[start_challenge] 도전 시작
+[abandon_challenge] 도전 포기
+[achievement_first_step] 첫걸음
+[achievement_first_step_desc] 첫 번째 업그레이드 구매
+[achievement_one_hour] 1시간!
+[achievement_one_hour_desc] 누적 시간이 1시간에 도달
+[achievement_time_traveler] 시간 여행자
+[achievement_time_traveler_desc] 누적 시간이 10000초에 도달
+[achievement_100_minutes] 100분 기념
+[achievement_100_minutes_desc] 100분 보유
+[achievement_1000_minutes] 1000분 전설
+[achievement_1000_minutes_desc] 1000분 보유
+[achievement_start_cycle] 주기 시작
+[achievement_start_cycle_desc] 주기 1회 완료
+[achievement_time_controller] 시간 지배자
+[achievement_time_controller_desc] 배율 3.0x 이상 도달
+[achievement_time_accelerator] 시간 가속사
+[achievement_time_accelerator_desc] 배율 5.0x 도달
+[achievement_extreme_speed] 초가속
+[achievement_extreme_speed_desc] 속도 배율 10.0x 도달
+[achievement_meteor_acceleration] 유성 가속
+[achievement_meteor_acceleration_desc] 속도 배율 25.0x 도달
+[achievement_prestige_beginning] 프레스티지의 시작
+[achievement_prestige_beginning_desc] 1000 SDP 보유
+[achievement_fragment_obtained] 시간 조각 획득
+[achievement_fragment_obtained_desc] 시간 조각(VDP) 1개 획득
+[achievement_first_rebirth] 환생 첫 경험
+[achievement_first_rebirth_desc] 시간 환생 1회 완료
+[achievement_fragment_reset] 조각 리셋
+[achievement_fragment_reset_desc] 시간 조각 리셋 1회 완료
+[achievement_fragment_upgrader] 조각 강화자
+[achievement_fragment_upgrader_desc] 시간 조각 업그레이드 1개 구매
+[achievement_fragment_craftsman] 조각 장인
+[achievement_fragment_craftsman_desc] 시간 조각 업그레이드 5개 구매
+[achievement_challenge_door] 도전의 문
+[achievement_challenge_door_desc] 도전 1개 클리어
+[achievement_challenge_master] 도전 마스터
+[achievement_challenge_master_desc] 도전 3개 클리어
+[achievement_ultimate_challenge] 궁극의 도전
+[achievement_ultimate_challenge_desc] 도전 5개 클리어
+[achievement_hundred_year_solitude] 백 년의 고독
+[achievement_hundred_year_solitude_desc] 52560000 주기(분) 완료
+[import_prompt] 세이브 문자열을 붙여넣으세요:
+[export_prompt] 아래 세이브 코드를 복사하세요:
+[import_success] 가져오기 성공! 게임이 새로고침됩니다.
+[import_error] 세이브 데이터가 유효하지 않아 해석할 수 없습니다! 완전히 복사되었는지 확인하세요.
+[delete_confirm] ⚠️ 경고: 이 작업은 세이브 데이터, 업적 진행 상황, 클릭 기록, 마일스톤 등 모든 게임 데이터를 완전히 삭제합니다.
+[delete_confirm_question] 정말로 모든 데이터를 삭제하고 처음부터 다시 시작하시겠습니까?
+[delete_success] 모든 데이터가 완전히 삭제되었습니다!
+[save_load_error] 세이브 불러오기 실패:
+[save_check_message] 세이브 데이터가 올바른지 확인하거나 다시 가져오기를 시도해 주세요.
+[exit_challenge_confirm] 도전 모드를 종료하시겠습니까? 현재 진행 상황이 손실됩니다.
+[exit_challenge_success] 도전 모드를 종료했습니다.
+[enter_challenge_success] 도전 모드에 입장했습니다! 이제 도전을 선택하고 시작할 수 있습니다.
+[challenge_start_message] 도전 시작!
+[target] 목표:
+[time_format] 분
+[rebirth_need_minutes] 시간 환생을 하려면 최소 10분이 필요합니다.
+[rebirth_success] 시간 환생 성공, 획득:
+[vdp_need_sdp] 시간 조각을 획득하려면 최소 1000 SDP가 필요합니다.
+[vdp_cannot_obtain] 현재 시간 조각을 획득할 수 없습니다.
+[vdp_obtained] 획득했습니다:
+[time_fragments_obtained] 시간 조각!
+[abandon_sdv_confirm] 현재 SDV 도전을 포기하시겠습니까?
+[sdv_started] SDV 도전을 시작했습니다:
+[sdv_unlock_hint] 해당 SDV 환생 업그레이드 구매 후 해금됩니다
+[challenge_failed] 도전 실패! 시간이 초과되었습니다.
+[speed_calc_error] 속도 계산 오류가 발생하여 기본값으로 복원되었습니다:
+[speed_calc_error_hint] 세이브 데이터 손상이 원인일 수 있습니다.
+[seconds_per_second] 초/초
+[minutes_per_second] 분/초
+[minutes_per_cycle] 분/주기
+[minutes_per_second_auto] 분/초
+[seconds] 초
+[no_time_limit] 제한 시간 없음
+[unlocked] 달성 완료
+[locked_status] 미해금
+[start_sdv] SDV 시작
+[abandon_sdv] SDV 포기
+[rebirth_gain_sdp] 시간 환생 ({0} SDP 획득 가능)
+[upgrade_completed] 완료
+[need_purchase_previous] 먼저 이전 항목을 구매하세요
+[purchase_button] 구매 {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] 완료
+[need_purchase_previous] 먼저 이전 항목을 구매하세요
+[purchase_button] 구매 {0} {1}
+[vdp_currency] VDP
+[start_sdv] SDV 시작
+[abandon_sdv] SDV 포기
+[sdv_unlock_hint] 해당 SDV 환생 업그레이드 구매 후 해금됩니다
+[abandon_sdv_confirm] 현재 SDV 도전을 포기하시겠습니까?
+[rebirth_button_text] 시간 환생 ({0} SDP 획득 가능)
+[insufficient_funds] 잔액 부족
+[unit_seconds_per_second] 초/s
+[none] 없음
+[yes] 예
+[no] 아니요
+[basic_upgrades] 기본 업그레이드
+[advanced_upgrades] 고급 업그레이드
+[expert_upgrades] 전문가 업그레이드
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] 인터페이스 언어 선택
+[load_language_fail] 언어 불러오기 실패

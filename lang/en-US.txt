@@ -1,0 +1,402 @@
+[game_title] Timer Incremental
+[version_text] Current Version 1.4.2
+[join_us] Join Us
+[about] About
+[about_title] About Timer Incremental
+[about_desc] This is an incremental time game where players purchase upgrades and complete challenges to accelerate time accumulation, experiencing growth from slow to explosive.
+[author] Author: 
+[author_name] ChenFengJiushiLang(QQ 399095982)
+[gameplay_tip] Gameplay Tip: 
+[gameplay_text] Prioritize speed and auto-minutes, then collect cycle bonuses and golden time to gain minutes faster.
+[acknowledgment] Acknowledgements: 
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Thanks to all players for their support and feedback!
+[author_name_short] Feng Chen
+[tab_timer] Timer
+[tab_upgrades] Upgrades
+[tab_achievements] Achievements
+[tab_challenges] Challenges
+[tab_rebirth] Rebirth
+[tab_stats] Statistics
+[tab_settings] Settings
+[settings_title] Game Settings
+[save_management] Save Management
+[export_save] Export Save
+[import_save] Import Save
+[interface_theme] Interface Theme
+[theme_desc] Switch different visual styles
+[danger_operations] Dangerous Operations
+[delete_save] Delete Save
+[delete_save_desc] Completely clear all game data (save, achievements, click records, etc.). This cannot be undone!
+[exit_challenge_confirm] Are you sure you want to exit challenge mode? Current progress will be lost.
+[exit_challenge_success] Exited challenge mode.
+[enter_challenge_success] Entered challenge mode! Now you can select and start a challenge.
+[resume] Resume
+[play] Start
+[pause] Pause
+[export_prompt] Please copy the save code below:
+[export_prompt_raw] Please copy the raw save below:
+[import_prompt] Please paste the save string:
+[import_success] Import successful! The game will refresh.
+[import_error] Invalid save, unable to parse! Please check if copied completely. Error: 
+[delete_confirm] ⚠️ Warning: This action will permanently delete all game data, including saves, achievements, click records, milestones, etc.\n\nAre you sure you want to reset everything?
+[delete_success] All data has been completely cleared!
+[time_day] d
+[time_hour] h
+[time_minute] m
+[time_second] s
+[up_effect_speed] Current Bonus: +{0}x Speed
+[up_effect_auto_seconds] Current Income: +{0} sec/sec
+[up_effect_minute_boost] Current Income: +{0} min/sec
+[up_effect_speed_multiplier] Multiplier: x{0} Speed
+[up_effect_minute_multiplier] Multiplier: x{0} Minutes
+[up_effect_cycle_bonus] Cycle Reward: +{0} min/cycle
+[up_effect_auto_minutes] Auto Minutes: +{0} min/sec
+[up_effect_cost_reduction] Cost Reduced: {0}%
+[up_effect_golden_time] Golden Chance: {0}%
+[up_speed_boost_name] Speed Boost
+[up_speed_boost_desc] Permanently increase base speed by 0.1x per level
+[up_auto_seconds_name] Auto Seconds
+[up_auto_seconds_desc] Automatically gain 0.1 seconds per second per level
+[up_minute_boost_name] Extra Minutes
+[up_minute_boost_desc] Gain an additional 0.01 minutes per second per level
+[up_speed_multiplier_name] Speed Multiplier
+[up_speed_multiplier_desc] Increase speed multiplier by 10% per level
+[up_minute_multiplier_name] Minute Multiplier
+[up_minute_multiplier_desc] Increase minute gain multiplier by 10% per level
+[up_cycle_bonus_name] Cycle Bonus
+[up_cycle_bonus_desc] Gain 1 extra minute per cycle
+[up_auto_minutes_name] Auto Minutes
+[up_auto_minutes_desc] Automatically gain 0.01 minutes per second per level
+[up_cost_reduction_name] Cost Optimization
+[up_cost_reduction_desc] Reduce all upgrade costs by 5% per level
+[up_golden_time_name] Golden Time
+[up_golden_time_desc] Increase chance of random double rewards by 1% per level
+[reb1_name] Time Rebirth Upgrade 1
+[reb1_desc] After rebirth, seconds gain x2, Speed Boost effect becomes 0.15
+[reb2_name] Time Rebirth Upgrade 2
+[reb2_desc] Retain Speed Boost level 3 on rebirth, and minutes increase second gain speed
+[reb3_name] Time Rebirth Upgrade 3
+[reb3_desc] Seconds gain x2.5, and each minute adds 0.01 to second multiplier
+[reb4_name] Time Rebirth Upgrade 4
+[reb4_desc] Increase second production based on the square root of minutes owned
+[reb5_name] Time Rebirth Upgrade 5
+[reb5_desc] Unlock SDV1 challenge
+[reb6_name] Time Rebirth Upgrade 6
+[reb6_desc] Unlock converter: 60 seconds per minute becomes 1 + √(rebirth count) times
+[reb7_name] Time Rebirth Upgrade 7
+[reb7_desc] Unlock SDV2 and boost production
+[reb8_name] Time Rebirth Upgrade 8
+[reb8_desc] Point production x7.8 (requires SDV2 completed)
+[reb9_name] Time Rebirth Upgrade 9
+[reb9_desc] Each purchased SDP upgrade increases Speed Boost effect by +0.02
+[reb10_name] Time Rebirth Upgrade 10
+[reb10_desc] Unlock SDV3 challenge
+[reb11_name] Time Rebirth Upgrade 11
+[reb11_desc] SDP gain doubled, and increase second gain based on SDP
+[vdp11_name] Time Fragment Upgrade 1-1
+[vdp11_desc] Second production x2, SDP gain x2
+[vdp12_name] Time Fragment Upgrade 1-2
+[vdp12_desc] Minute gain x3
+[vdp21_name] Time Fragment Upgrade 2-1
+[vdp21_desc] Boost second production based on minutes owned: x(1 + minutes^0.6)
+[vdp22_name] Time Fragment Upgrade 2-2
+[vdp22_desc] Boost second production based on current SDP: x(1 + SDP^0.7)
+[vdp23_name] Time Fragment Upgrade 2-3
+[vdp23_desc] Boost minute gain based on current SDP: x(1 + SDP^0.55)
+[vdp33_name] Time Fragment Upgrade 3-3
+[vdp33_desc] Per completed challenge, second production +0.02
+[vdp41_name] Unlock Booster
+[vdp41_desc] Unlock the booster system, providing extra bonuses
+[sdv1_title] SDV1
+[sdv1_desc] One minute becomes 120 seconds, reset SDP and ignore all upgrades. Goal: complete the challenge in 7777 seconds.
+[sdv1_reward] After completion, seconds per minute become 40 seconds
+[sdv2_title] SDV2
+[sdv2_desc] Unlock SDV2, Speed Boost +0.05, extra minute production rate doubled.
+[sdv2_reward] Improve SDV2 exclusive production capacity
+[sdv3_title] SDV3
+[sdv3_desc] Softcap is always active during the challenge, production ^0.8125. Goal: complete in 2125 seconds.
+[sdv3_reward] After completion, there is a 25% chance of double minutes per minute
+[current_bonus] Current Bonus
+[current_income] Current Income
+[current_multiplier_label] Current Multiplier
+[cycle_reward] Cycle Reward
+[cost_reduced] Cost Reduced
+[golden_probability] Golden Probability
+[speed] Speed
+[minutes_short] min
+[upgrade_button] Upgrade {0} {1}
+[minutes_currency] min
+[current_minute_seconds] Seconds of current minute
+[accumulated_seconds] Accumulated Seconds
+[completed_cycles] Completed Cycles
+[current_multiplier] Current Multiplier
+[play] Start
+[pause] Pause
+[resume] Resume
+[ach_first_step_title] First Step
+[ach_first_step_desc] Purchase your first upgrade
+[ach_one_hour_title] One Hour!
+[ach_one_hour_desc] Accumulate 1 hour of time
+[ach_time_traveler_title] Time Traveler
+[ach_time_traveler_desc] Accumulate 10,000 seconds
+[ach_100_minutes_title] Century Minutes
+[ach_100_minutes_desc] Own 100 minutes
+[ach_1000_minutes_title] Millennium Legend
+[ach_1000_minutes_desc] Own 1,000 minutes
+[ach_start_cycle_title] Begin Cycle
+[ach_start_cycle_desc] Complete 1 cycle
+[ach_time_controller_title] Time Controller
+[ach_time_controller_desc] Reach 3.0x multiplier or higher
+[ach_time_accelerator_title] Time Accelerator
+[ach_time_accelerator_desc] Reach 5.0x multiplier
+[ach_extreme_speed_title] Extreme Sprint
+[ach_extreme_speed_desc] Reach 10.0x speed multiplier
+[ach_meteor_acceleration_title] Meteor Acceleration
+[ach_meteor_acceleration_desc] Reach 25.0x speed multiplier
+[ach_prestige_beginning_title] Prestige Beginning
+[ach_prestige_beginning_desc] Own 1,000 SDP
+[ach_fragment_obtained_title] Fragment Obtained
+[ach_fragment_obtained_desc] Obtain 1 Time Fragment (VDP)
+[ach_first_rebirth_title] First Rebirth
+[ach_first_rebirth_desc] Complete 1 time rebirth
+[ach_fragment_reset_title] Fragment Reset
+[ach_fragment_reset_desc] Complete 1 time fragment reset
+[ach_fragment_upgrader_title] Fragment Upgrader
+[ach_fragment_upgrader_desc] Purchase 1 time fragment upgrade
+[ach_fragment_craftsman_title] Fragment Craftsman
+[ach_fragment_craftsman_desc] Purchase 5 time fragment upgrades
+[ach_challenge_door_title] Challenge Door
+[ach_challenge_door_desc] Complete 1 challenge
+[ach_challenge_master_title] Challenge Master
+[ach_challenge_master_desc] Complete 3 challenges
+[ach_ultimate_challenge_title] Ultimate Challenge
+[ach_ultimate_challenge_desc] Complete 5 challenges
+[ach_hundred_year_solitude_title] Hundred Years of Solitude
+[ach_hundred_year_solitude_desc] Complete 52,560,000 cycles (minutes)
+[ch_speed_demon_title] Speed Demon
+[ch_speed_demon_desc] Reach 25x speed multiplier within 3 minutes
+[ch_speed_demon_reward] Permanent +1.0x base speed
+[ch_time_master_title] Time Master
+[ch_time_master_desc] Complete 200 cycles within 2 minutes
+[ch_time_master_reward] Unlock cycle bonus upgrade
+[ch_efficiency_expert_title] Efficiency Expert
+[ch_efficiency_expert_desc] Reach 100x speed multiplier with less than 1,000 minutes
+[ch_efficiency_expert_reward] Unlock cost optimization upgrade
+[ch_minimalist_master_title] Minimalist Master
+[ch_minimalist_master_desc] Reach 5,000 accumulated seconds without buying any upgrades
+[ch_minimalist_master_reward] Unlock auto minutes upgrade
+[ch_golden_chaser_title] Golden Chaser
+[ch_golden_chaser_desc] Trigger 5 golden times within 10 minutes
+[ch_golden_chaser_reward] Golden time chance permanently +5%
+[theme_blue] Blue
+[theme_darkred] Red
+[theme_minimal] Black
+[theme_neon] Purple+Blue
+[theme_yellow] Yellow
+[progress] Progress
+[unlocked] Unlocked
+[reward] Reward
+[time_limit] Time Limit
+[in_progress] In Progress
+[complete] Completed
+[start_challenge] Start Challenge
+[abandon_challenge] Abandon Challenge
+[no_time_limit] No Time Limit
+[minutes_owned] Minutes Owned: 
+[basic_upgrades] Basic Upgrades
+[advanced_upgrades] Advanced Upgrades
+[expert_upgrades] Expert Upgrades
+[rebirth_info] Rebirth Info
+[rebirth_upgrades_tab] Rebirth Upgrades
+[time_fragment_upgrades] Time Fragment Upgrades
+[sdv_challenges] SDV Challenges
+[time_rebirth_points] Time Rebirth Points (SDP)
+[time_fragments] Time Fragments (VDP)
+[rebirth_count] Rebirth Count
+[fragment_reset_count] Fragment Reset Count
+[time_rebirth] Time Rebirth
+[get_time_fragments] Get Time Fragments
+[current_rebirth_gain] Current Rebirth Gain: 
+[sdp_label] SDP
+[rebirth_desc] Time Rebirth resets the current run and grants SDP, which can be used to purchase rebirth upgrades. Getting Time Fragments consumes SDP and increases VDP.
+[sdv_challenge_note] SDV challenges are independent from main challenges and grant exclusive rebirth rewards upon completion.
+[time_rebirth_upgrades_desc] Use SDP to purchase time rebirth upgrades, improving rebirth gains and special abilities.
+[time_fragment_upgrades_desc] Use VDP to purchase time fragment upgrades, enhancing second production, minute acquisition, and rebirth efficiency.
+[booster_level] Booster Level
+[sdv_challenge_desc] SDV challenges are independent from regular challenges and grant special rebirth bonuses upon completion. Only one challenge can be active at a time, and you can reselect after abandoning.
+[current_sdv_challenge] Current SDV Challenge
+[completed_sdv_challenges] Completed SDV Challenges
+[none] None
+[game_stats] Game Statistics
+[total_accumulated_seconds] Total Accumulated Seconds
+[current_speed_multiplier] Current Speed Multiplier
+[highest_second_speed] Highest Second Speed
+[current_minutes] Current Minutes
+[current_seconds] Current Seconds
+[total_rebirths] Total Rebirths
+[current_sdp] Current SDP
+[current_vdp] Current VDP
+[total_current_upgrades] Total Current Upgrades
+[total_current_rebirth_upgrades] Total Current Rebirth Upgrades
+[current_challenges_completed] Current Challenges Completed
+[save_created_time] Save Created Time
+[save_elapsed_time] Save Elapsed Time
+[current_theme] Current Theme
+[footer_text] Moving forward with time - BY
+[speed_boost] Speed Boost
+[speed_boost_desc] Permanently increase base speed by 0.1x per level
+[auto_seconds] Auto Seconds
+[auto_seconds_desc] Automatically gain 0.1 seconds per second per level
+[extra_minutes] Extra Minutes
+[extra_minutes_desc] Gain an additional 0.01 minutes per second per level
+[speed_multiplier] Speed Multiplier
+[speed_multiplier_desc] Increase speed multiplier by 10% per level
+[minute_multiplier] Minute Multiplier
+[minute_multiplier_desc] Increase minute gain multiplier by 10% per level
+[cycle_bonus] Cycle Bonus
+[cycle_bonus_desc] Gain 1 extra minute per cycle
+[auto_minutes] Auto Minutes
+[auto_minutes_desc] Automatically gain 0.01 minutes per second per level
+[cost_optimization] Cost Optimization
+[cost_optimization_desc] Reduce all upgrade costs by 5% per level
+[golden_time] Golden Time
+[golden_time_desc] Increase chance of random double rewards by 1% per level
+[current_bonus] Current Bonus
+[current_income] Current Income
+[current_multiplier_label] Current Multiplier
+[cycle_reward] Cycle Reward
+[cost_reduced] Cost Reduced
+[golden_probability] Golden Probability
+[upgrade] Upgrade
+[completed] Completed
+[purchase] Purchase
+[minutes_currency] Minutes
+[need_purchase_previous] Buy Previous First
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Challenge Mode
+[current_challenge] Current Challenge
+[remaining_time] Remaining Time
+[exit_challenge] Exit Challenge
+[welcome_challenge] Welcome to Challenge Mode!
+[challenge_desc_text] In challenge mode, you will face various restrictions and objectives. Successfully completing challenges will grant permanent rewards!
+[challenge_rules_title] Challenge Rules:
+[challenge_rule1] Cannot purchase upgrades in challenge mode
+[challenge_rule2] Challenges have time limits or special conditions
+[challenge_rule3] Failure or exit will reset current progress
+[challenge_rule4] Successful completion grants permanent rewards
+[enter_challenge_mode] Enter Challenge Mode
+[time_limit] Time Limit
+[reward] Reward
+[progress] Progress
+[in_progress] In Progress
+[complete] Completed
+[start_challenge] Start Challenge
+[abandon_challenge] Abandon Challenge
+[achievement_first_step] First Step
+[achievement_first_step_desc] Purchase your first upgrade
+[achievement_one_hour] One Hour!
+[achievement_one_hour_desc] Accumulate 1 hour of time
+[achievement_time_traveler] Time Traveler
+[achievement_time_traveler_desc] Accumulate 10,000 seconds
+[achievement_100_minutes] Century Minutes
+[achievement_100_minutes_desc] Own 100 minutes
+[achievement_1000_minutes] Millennium Legend
+[achievement_1000_minutes_desc] Own 1,000 minutes
+[achievement_start_cycle] Begin Cycle
+[achievement_start_cycle_desc] Complete 1 cycle
+[achievement_time_controller] Time Controller
+[achievement_time_controller_desc] Reach 3.0x multiplier or higher
+[achievement_time_accelerator] Time Accelerator
+[achievement_time_accelerator_desc] Reach 5.0x multiplier
+[achievement_extreme_speed] Extreme Sprint
+[achievement_extreme_speed_desc] Reach 10.0x speed multiplier
+[achievement_meteor_acceleration] Meteor Acceleration
+[achievement_meteor_acceleration_desc] Reach 25.0x speed multiplier
+[achievement_prestige_beginning] Prestige Beginning
+[achievement_prestige_beginning_desc] Own 1,000 SDP
+[achievement_fragment_obtained] Fragment Obtained
+[achievement_fragment_obtained_desc] Obtain 1 Time Fragment (VDP)
+[achievement_first_rebirth] First Rebirth
+[achievement_first_rebirth_desc] Complete 1 time rebirth
+[achievement_fragment_reset] Fragment Reset
+[achievement_fragment_reset_desc] Complete 1 time fragment reset
+[achievement_fragment_upgrader] Fragment Upgrader
+[achievement_fragment_upgrader_desc] Purchase 1 time fragment upgrade
+[achievement_fragment_craftsman] Fragment Craftsman
+[achievement_fragment_craftsman_desc] Purchase 5 time fragment upgrades
+[achievement_challenge_door] Challenge Door
+[achievement_challenge_door_desc] Complete 1 challenge
+[achievement_challenge_master] Challenge Master
+[achievement_challenge_master_desc] Complete 3 challenges
+[achievement_ultimate_challenge] Ultimate Challenge
+[achievement_ultimate_challenge_desc] Complete 5 challenges
+[achievement_hundred_year_solitude] Hundred Years of Solitude
+[achievement_hundred_year_solitude_desc] Complete 52,560,000 cycles (minutes)
+[import_prompt] Please paste the save string:
+[export_prompt] Please copy the save code below:
+[import_success] Import successful! Game will refresh.
+[import_error] Invalid save file, unable to parse! Please check if copied completely.
+[delete_confirm] ⚠️ Warning: This action will permanently delete all game data, including save, achievement progress, click records, milestones, etc.
+[delete_confirm_question] Are you sure you want to completely delete and restart?
+[delete_success] All data has been completely cleared!
+[save_load_error] Save loading failed: 
+[save_check_message] Please check if the save is correct or try re-importing.
+[exit_challenge_confirm] Are you sure you want to exit challenge mode? Current progress will be lost.
+[exit_challenge_success] Exited challenge mode.
+[enter_challenge_success] Entered challenge mode! Now you can select and start challenges.
+[challenge_start_message] Challenge started!
+[target] Target: 
+[time_format] min
+[rebirth_need_minutes] Need at least 10 minutes to perform time rebirth.
+[rebirth_success] Time rebirth successful, gained 
+[vdp_need_sdp] Need at least 1,000 SDP to obtain time fragments.
+[vdp_cannot_obtain] Currently unable to obtain time fragments.
+[vdp_obtained] Obtained 
+[time_fragments_obtained] time fragments!
+[abandon_sdv_confirm] Are you sure you want to abandon the current SDV challenge?
+[sdv_started] Started SDV challenge: 
+[sdv_unlock_hint] Need to purchase corresponding SDV rebirth upgrade to unlock
+[challenge_failed] Challenge failed! Time's up.
+[speed_calc_error] Speed calculation error, restored to default: 
+[speed_calc_error_hint] This may be caused by corrupted save data.
+[seconds_per_second] sec/sec
+[minutes_per_second] min/sec
+[minutes_per_cycle] min/cycle
+[minutes_per_second_auto] min/sec
+[seconds] sec
+[no_time_limit] No Time Limit
+[unlocked] Unlocked
+[locked_status] Locked
+[start_sdv] Start SDV
+[abandon_sdv] Abandon SDV
+[rebirth_gain_sdp] Time Rebirth (Gain {0} SDP)
+[upgrade_completed] Completed
+[need_purchase_previous] Purchase previous first
+[purchase_button] Purchase {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Completed
+[need_purchase_previous] Purchase previous first
+[purchase_button] Purchase {0} {1}
+[vdp_currency] VDP
+[start_sdv] Start SDV
+[abandon_sdv] Abandon SDV
+[sdv_unlock_hint] Requires corresponding SDV rebirth upgrade to unlock
+[none] None
+[abandon_sdv_confirm] Are you sure you want to abandon the current SDV challenge?
+[rebirth_button_text] Time Rebirth (gain {0} SDP)
+[insufficient_funds] Insufficient funds
+[unit_seconds_per_second] sec/s
+[yes] Yes
+[no] No
+[basic_upgrades] Basic Upgrades
+[advanced_upgrades] Advanced Upgrades
+[expert_upgrades] Expert Upgrades
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Select interface language
+[load_language_fail] Language loading failed

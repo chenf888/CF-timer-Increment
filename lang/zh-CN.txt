@@ -1,0 +1,402 @@
+[game_title] 计时器增量
+[version_text] 当前版本 1.4.2
+[join_us] 加入我们
+[about] 关于
+[about_title] 关于计时器增量
+[about_desc] 这是一个时间增量游戏，玩家通过购买升级和完成挑战来加速时间累计，体验从缓慢到爆发的成长过程。
+[author] 作者：
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] 玩法提示：
+[gameplay_text] 优先提升速度与自动分钟，然后收集周期奖励与黄金时间，以更快获得分钟。
+[acknowledgment] 鸣谢：
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] 感谢所有支持和反馈的玩家！
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] 确定要退出挑战模式吗？当前进度将丢失。
+[exit_challenge_success] 已退出挑战模式。
+[enter_challenge_success] 已进入挑战模式！现在你可以选择并开始挑战。
+[resume] 继续
+[play] 开始
+[pause] 暂停
+[export_prompt] 请复制下方存档代码：
+[export_prompt_raw] 请复制下方原始存档：
+[import_prompt] 请粘贴存档字符串：
+[import_success] 导入成功！游戏即将刷新。
+[import_error] 存档无效，无法解析！请检查是否复制完整。错误：
+[delete_confirm] ⚠️ 警告：此操作将永久删除所有游戏数据，包括存档、成就进度、点击记录、里程碑等。\n\n确定要彻底删档重来吗？
+[delete_success] 所有数据已彻底清除！
+[time_day] 天
+[time_hour] 时
+[time_minute] 分
+[time_second] 秒
+[tab_timer] 计时器
+[tab_upgrades] 升级
+[tab_achievements] 成就
+[tab_challenges] 挑战
+[tab_rebirth] 重生
+[tab_stats] 统计
+[tab_settings] 设置
+[settings_title] 游戏设置
+[save_management] 存档管理
+[export_save] 导出存档
+[import_save] 导入存档
+[interface_theme] 界面主题
+[theme_desc] 切换不同视觉风格
+[danger_operations] 危险操作
+[delete_save] 删档重来
+[delete_save_desc] 彻底清除所有游戏数据（存档、成就、点击记录等）。此操作不可恢复！
+[current_minute_seconds] 当前分钟的秒数
+[accumulated_seconds] 累计秒数
+[completed_cycles] 已完成周期
+[current_multiplier] 当前倍率
+[play] 开始
+[pause] 暂停
+[resume] 继续
+[minutes_owned] 拥有分钟：
+[basic_upgrades] 基础升级
+[advanced_upgrades] 高级升级
+[expert_upgrades] 专家升级
+[ach_first_step_title] 第一步
+[ach_first_step_desc] 购买第一个升级
+[ach_one_hour_title] 一小时！
+[ach_one_hour_desc] 累计时间达到 1 小时
+[ach_time_traveler_title] 时间旅行者
+[ach_time_traveler_desc] 累计时间达到 10000 秒
+[ach_100_minutes_title] 百分钟纪念
+[ach_100_minutes_desc] 拥有 100 分钟
+[ach_1000_minutes_title] 千分钟传奇
+[ach_1000_minutes_desc] 拥有 1000 分钟
+[ach_start_cycle_title] 开始循环
+[ach_start_cycle_desc] 完成 1 个周期
+[ach_time_controller_title] 时间掌控者
+[ach_time_controller_desc] 达到 3.0x 或更高倍率
+[ach_time_accelerator_title] 时间加速师
+[ach_time_accelerator_desc] 达到 5.0x 倍率
+[ach_extreme_speed_title] 极速冲刺
+[ach_extreme_speed_desc] 达到 10.0x 速度倍率
+[ach_meteor_acceleration_title] 流星加速
+[ach_meteor_acceleration_desc] 达到 25.0x 速度倍率
+[ach_prestige_beginning_title] 声望开端
+[ach_prestige_beginning_desc] 拥有 1000 SDP
+[ach_fragment_obtained_title] 时间碎片获得
+[ach_fragment_obtained_desc] 获得 1 个时间碎片（VDP）
+[ach_first_rebirth_title] 重生初体验
+[ach_first_rebirth_desc] 完成 1 次时间重生
+[ach_fragment_reset_title] 碎片重置
+[ach_fragment_reset_desc] 完成 1 次时间碎片重置
+[ach_fragment_upgrader_title] 碎片升级者
+[ach_fragment_upgrader_desc] 购买 1 个时间碎片升级
+[ach_fragment_craftsman_title] 碎片匠人
+[ach_fragment_craftsman_desc] 购买 5 个时间碎片升级
+[ach_challenge_door_title] 挑战之门
+[ach_challenge_door_desc] 完成 1 个挑战
+[ach_challenge_master_title] 挑战大师
+[ach_challenge_master_desc] 完成 3 个挑战
+[ach_ultimate_challenge_title] 终极挑战
+[ach_ultimate_challenge_desc] 完成 5 个挑战
+[ach_hundred_year_solitude_title] 百年孤独
+[ach_hundred_year_solitude_desc] 完成 52560000 个周期（分钟）
+[ch_speed_demon_title] 速度恶魔
+[ch_speed_demon_desc] 在 3 分钟内达到 25x 速度倍率
+[ch_speed_demon_reward] 永久 +1.0x 基础速度
+[ch_time_master_title] 时间大师
+[ch_time_master_desc] 在 2 分钟内完成 200 个周期
+[ch_time_master_reward] 解锁周期奖励升级
+[ch_efficiency_expert_title] 效率专家
+[ch_efficiency_expert_desc] 使用少于 1000 分钟达到 100x 速度倍率
+[ch_efficiency_expert_reward] 解锁成本优化升级
+[ch_minimalist_master_title] 极简大师
+[ch_minimalist_master_desc] 不购买任何升级，达到 5000 秒累计时间
+[ch_minimalist_master_reward] 解锁自动分钟升级
+[ch_golden_chaser_title] 黄金追逐者
+[ch_golden_chaser_desc] 在 10 分钟内触发 5 次黄金时间
+[ch_golden_chaser_reward] 黄金时间概率永久 +5%
+[up_speed_boost_name] 速度强化
+[up_speed_boost_desc] 每升一级永久增加 0.1x 基础速度
+[up_auto_seconds_name] 自动秒数
+[up_auto_seconds_desc] 每升一级每秒自动获得 0.1 秒
+[up_minute_boost_name] 额外分钟
+[up_minute_boost_desc] 每升一级每秒额外获得 0.01 分钟
+[up_speed_multiplier_name] 速度倍增
+[up_speed_multiplier_desc] 每升一级增加 10% 速度倍率
+[up_minute_multiplier_name] 分钟倍增
+[up_minute_multiplier_desc] 每升一级增加 10% 分钟获得倍率
+[up_cycle_bonus_name] 周期奖励
+[up_cycle_bonus_desc] 每个周期额外获得 1 分钟
+[up_auto_minutes_name] 自动分钟
+[up_auto_minutes_desc] 每升一级每秒自动获得 0.01 分钟
+[up_cost_reduction_name] 成本优化
+[up_cost_reduction_desc] 每升一级降低 5% 所有升级成本
+[up_golden_time_name] 黄金时间
+[up_golden_time_desc] 每升一级增加 1% 随机获得双倍奖励概率
+[reb1_name] 时间重生升级1
+[reb1_desc] 重生后秒数获取 ×2，速度强化效果变为 0.15
+[reb2_name] 时间重生升级2
+[reb2_desc] 重生时保留速度强化等级 3，并让分钟提升秒速获取速度
+[reb3_name] 时间重生升级3
+[reb3_desc] 秒数获取 ×2.5，并让每分钟为秒数倍率增加 0.01
+[reb4_name] 时间重生升级4
+[reb4_desc] 根据已有分钟数的平方根提升秒数生产
+[reb5_name] 时间重生升级5
+[reb5_desc] 解锁 SDV1 挑战
+[reb6_name] 时间重生升级6
+[reb6_desc] 解锁转换器，使 60 秒获得一分钟变为 1 + √重生次数 倍
+[reb7_name] 时间重生升级7
+[reb7_desc] 解锁 SDV2，并提升生产
+[reb8_name] 时间重生升级8
+[reb8_desc] 点数生产 ×7.8（需完成 SDV2）
+[reb9_name] 时间重生升级9
+[reb9_desc] 每购买一个 SDP 升级，速度强化效果 +0.02
+[reb10_name] 时间重生升级10
+[reb10_desc] 解锁 SDV3 挑战
+[reb11_name] 时间重生升级11
+[reb11_desc] SDP 获取翻倍，并根据 SDP 提升秒数获取
+[vdp11_name] 时间碎片升级1-1
+[vdp11_desc] 秒数生产 ×2，SDP 获得 ×2
+[vdp12_name] 时间碎片升级1-2
+[vdp12_desc] 分钟获取 ×3
+[vdp21_name] 时间碎片升级2-1
+[vdp21_desc] 根据已有分钟数提高秒生产：×(1 + 分钟^0.6)
+[vdp22_name] 时间碎片升级2-2
+[vdp22_desc] 根据当前 SDP 提高秒生产：×(1 + SDP^0.7)
+[vdp23_name] 时间碎片升级2-3
+[vdp23_desc] 根据当前 SDP 提高分钟获取：×(1 + SDP^0.55)
+[vdp33_name] 时间碎片升级3-3
+[vdp33_desc] 每完成一个挑战，秒生产 +0.02
+[vdp41_name] 解锁助推器
+[vdp41_desc] 解锁助推器系统，提供额外加成
+[sdv1_title] SDV1
+[sdv1_desc] 一分钟变为 120 秒，重置 SDP 并无视所有升级，目标：7777 秒完成挑战。
+[sdv1_reward] 完成后每分钟秒数变为 40 秒
+[sdv2_title] SDV2
+[sdv2_desc] 解锁 SDV2，速度强化 +0.05，额外分钟生产效率翻倍。
+[sdv2_reward] 提升 SDV2 专属生产能力
+[sdv3_title] SDV3
+[sdv3_desc] 挑战中一直触发软上限，生产 ^0.8125，目标：2125 秒完成。
+[sdv3_reward] 完成后每分钟有 25% 概率双倍分钟
+[current_bonus] 当前加成
+[current_income] 当前收益
+[current_multiplier_label] 当前倍率
+[cycle_reward] 周期奖励
+[cost_reduced] 成本降低
+[golden_probability] 黄金概率
+[speed] 速度
+[minutes_short] 分钟
+[up_effect_speed] 当前加成: +{0}x 速度
+[up_effect_auto_seconds] 当前收益: +{0} 秒/秒
+[up_effect_minute_boost] 当前收益: +{0} 分钟/秒
+[up_effect_speed_multiplier] 当前倍率: x{0} 速度
+[up_effect_minute_multiplier] 当前倍率: x{0} 分钟
+[up_effect_cycle_bonus] 周期奖励: +{0} 分钟/周期
+[up_effect_auto_minutes] 自动分钟: +{0} 分/秒
+[up_effect_cost_reduction] 成本降低: {0}%
+[up_effect_golden_time] 黄金概率: {0}%
+[upgrade_button] 升级 {0} {1}
+[minutes_currency] 分钟
+[theme_blue] 蓝
+[theme_darkred] 红
+[theme_minimal] 黑
+[theme_neon] 紫+蓝
+[theme_yellow] 黄
+[progress] 进度
+[unlocked] 已达成
+[reward] 奖励
+[time_limit] 时间限制
+[in_progress] 进行中
+[complete] 已完成
+[start_challenge] 开始挑战
+[abandon_challenge] 放弃挑战
+[no_time_limit] 无时间限制
+[rebirth_info] 重生信息
+[rebirth_upgrades_tab] 重生升级
+[time_fragment_upgrades] 时间碎片升级
+[sdv_challenges] SDV 挑战
+[time_rebirth_points] 时间重生点数 (SDP)
+[time_fragments] 时间碎片 (VDP)
+[rebirth_count] 重生次数
+[fragment_reset_count] 碎片重置次数
+[time_rebirth] 时间重生
+[get_time_fragments] 获得时间碎片
+[current_rebirth_gain] 当前重生可获得：
+[sdp_label] SDP
+[rebirth_desc] 时间重生会重置当前运行并获得 SDP，可用于购买重生升级。获得时间碎片会消耗 SDP 并增加 VDP。
+[sdv_challenge_note] SDV 挑战与主挑战独立，完成后可获得专属重生奖励。
+[time_rebirth_upgrades_desc] 使用 SDP 购买时间重生升级，提升重生收益和特殊能力。
+[time_fragment_upgrades_desc] 使用 VDP 购买时间碎片升级，强化秒生产、分钟获取和重生效率。
+[booster_level] 助推器等级
+[sdv_challenge_desc] SDV 挑战与常规挑战独立，完成后可获得特殊重生加成。每个挑战只能同时进行一个，放弃后可重新选择。
+[current_sdv_challenge] 当前 SDV 挑战
+[completed_sdv_challenges] 已完成 SDV 挑战
+[none] 无
+[game_stats] 游戏统计
+[total_accumulated_seconds] 累计总秒数
+[current_speed_multiplier] 当前速度倍率
+[highest_second_speed] 最高秒速
+[current_minutes] 当前分钟数
+[current_seconds] 当前秒数
+[total_rebirths] 累计重生次数
+[current_sdp] 当前 SDP
+[current_vdp] 当前 VDP
+[total_current_upgrades] 当前升级总数
+[total_current_rebirth_upgrades] 当前重生升级总数
+[current_challenges_completed] 当前挑战已完成
+[save_created_time] 存档创建时间
+[save_elapsed_time] 存档已过时间
+[current_theme] 当前主题
+[footer_text] 随时间向前 - BY
+[speed_boost] 速度强化
+[speed_boost_desc] 每升一级永久增加 0.1x 基础速度
+[auto_seconds] 自动秒数
+[auto_seconds_desc] 每升一级每秒自动获得 0.1 秒
+[extra_minutes] 额外分钟
+[extra_minutes_desc] 每升一级每秒额外获得 0.01 分钟
+[speed_multiplier] 速度倍增
+[speed_multiplier_desc] 每升一级增加 10% 速度倍率
+[minute_multiplier] 分钟倍增
+[minute_multiplier_desc] 每升一级增加 10% 分钟获得倍率
+[cycle_bonus] 周期奖励
+[cycle_bonus_desc] 每个周期额外获得 1 分钟
+[auto_minutes] 自动分钟
+[auto_minutes_desc] 每升一级每秒自动获得 0.01 分钟
+[cost_optimization] 成本优化
+[cost_optimization_desc] 每升一级降低 5% 所有升级成本
+[golden_time] 黄金时间
+[golden_time_desc] 每升一级增加 1% 随机获得双倍奖励概率
+[current_bonus] 当前加成
+[current_income] 当前收益
+[current_multiplier_label] 当前倍率
+[cycle_reward] 周期奖励
+[cost_reduced] 成本降低
+[golden_probability] 黄金概率
+[upgrade] 升级
+[completed] 已完成
+[purchase] 购买
+[minutes_currency] 分钟
+[need_purchase_previous] 先购买上一项
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] 挑战模式
+[current_challenge] 当前挑战
+[remaining_time] 剩余时间
+[exit_challenge] 退出挑战
+[welcome_challenge] 欢迎来到挑战模式！
+[challenge_desc_text] 在挑战模式中，你将面临各种限制和目标。成功完成挑战将获得永久奖励！
+[challenge_rules_title] 挑战规则：
+[challenge_rule1] 进入挑战模式后无法购买升级
+[challenge_rule2] 挑战有时间限制或特殊条件
+[challenge_rule3] 失败或退出将重置当前进度
+[challenge_rule4] 成功完成获得永久奖励
+[enter_challenge_mode] 进入挑战模式
+[time_limit] 时间限制
+[reward] 奖励
+[progress] 进度
+[in_progress] 进行中
+[complete] 已完成
+[start_challenge] 开始挑战
+[abandon_challenge] 放弃挑战
+[achievement_first_step] 第一步
+[achievement_first_step_desc] 购买第一个升级
+[achievement_one_hour] 一小时！
+[achievement_one_hour_desc] 累计时间达到 1 小时
+[achievement_time_traveler] 时间旅行者
+[achievement_time_traveler_desc] 累计时间达到 10000 秒
+[achievement_100_minutes] 百分钟纪念
+[achievement_100_minutes_desc] 拥有 100 分钟
+[achievement_1000_minutes] 千分钟传奇
+[achievement_1000_minutes_desc] 拥有 1000 分钟
+[achievement_start_cycle] 开始循环
+[achievement_start_cycle_desc] 完成 1 个周期
+[achievement_time_controller] 时间掌控者
+[achievement_time_controller_desc] 达到 3.0x 或更高倍率
+[achievement_time_accelerator] 时间加速师
+[achievement_time_accelerator_desc] 达到 5.0x 倍率
+[achievement_extreme_speed] 极速冲刺
+[achievement_extreme_speed_desc] 达到 10.0x 速度倍率
+[achievement_meteor_acceleration] 流星加速
+[achievement_meteor_acceleration_desc] 达到 25.0x 速度倍率
+[achievement_prestige_beginning] 声望开端
+[achievement_prestige_beginning_desc] 拥有 1000 SDP
+[achievement_fragment_obtained] 时间碎片获得
+[achievement_fragment_obtained_desc] 获得 1 个时间碎片（VDP）
+[achievement_first_rebirth] 重生初体验
+[achievement_first_rebirth_desc] 完成 1 次时间重生
+[achievement_fragment_reset] 碎片重置
+[achievement_fragment_reset_desc] 完成 1 次时间碎片重置
+[achievement_fragment_upgrader] 碎片升级者
+[achievement_fragment_upgrader_desc] 购买 1 个时间碎片升级
+[achievement_fragment_craftsman] 碎片匠人
+[achievement_fragment_craftsman_desc] 购买 5 个时间碎片升级
+[achievement_challenge_door] 挑战之门
+[achievement_challenge_door_desc] 完成 1 个挑战
+[achievement_challenge_master] 挑战大师
+[achievement_challenge_master_desc] 完成 3 个挑战
+[achievement_ultimate_challenge] 终极挑战
+[achievement_ultimate_challenge_desc] 完成 5 个挑战
+[achievement_hundred_year_solitude] 百年孤独
+[achievement_hundred_year_solitude_desc] 完成 52560000 个周期（分钟）
+[import_prompt] 请粘贴存档字符串：
+[export_prompt] 请复制下方存档代码：
+[import_success] 导入成功！游戏即将刷新。
+[import_error] 存档无效，无法解析！请检查是否复制完整。
+[delete_confirm] ⚠️ 警告：此操作将永久删除所有游戏数据，包括存档、成就进度、点击记录、里程碑等。
+[delete_confirm_question] 确定要彻底删档重来吗？
+[delete_success] 所有数据已彻底清除！
+[save_load_error] 存档加载失败：
+[save_check_message] 请检查存档是否正确或尝试重新导入。
+[exit_challenge_confirm] 确定要退出挑战模式吗？当前进度将丢失。
+[exit_challenge_success] 已退出挑战模式。
+[enter_challenge_success] 已进入挑战模式！现在你可以选择并开始挑战。
+[challenge_start_message] 挑战开始！
+[target] 目标：
+[time_format] 分
+[rebirth_need_minutes] 需要至少 10 分钟才能时间重生。
+[rebirth_success] 时间重生成功，获得
+[vdp_need_sdp] 需要至少 1000 SDP 才能获得时间碎片。
+[vdp_cannot_obtain] 当前无法获得时间碎片。
+[vdp_obtained] 获得
+[time_fragments_obtained] 时间碎片！
+[abandon_sdv_confirm] 确定要放弃当前 SDV 挑战吗？
+[sdv_started] 开始 SDV 挑战：
+[sdv_unlock_hint] 需购买对应 SDV 重生升级后解锁
+[challenge_failed] 挑战失败！时间已到。
+[speed_calc_error] 速度计算出错，已恢复默认值:
+[speed_calc_error_hint] 这可能是由于存档数据损坏导致的。
+[seconds_per_second] 秒/秒
+[minutes_per_second] 分钟/秒
+[minutes_per_cycle] 分钟/周期
+[minutes_per_second_auto] 分/秒
+[seconds] 秒
+[no_time_limit] 无时间限制
+[unlocked] 已达成
+[locked_status] 未解锁
+[start_sdv] 开始 SDV
+[abandon_sdv] 放弃 SDV
+[rebirth_gain_sdp] 时间重生（可得 {0} SDP）
+[upgrade_completed] 已完成
+[need_purchase_previous] 先购买上一项
+[purchase_button] 购买 {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] 已完成
+[need_purchase_previous] 先购买上一项
+[purchase_button] 购买 {0} {1}
+[vdp_currency] VDP
+[start_sdv] 开始 SDV
+[abandon_sdv] 放弃 SDV
+[sdv_unlock_hint] 需购买对应 SDV 重生升级后解锁
+[abandon_sdv_confirm] 确定要放弃当前 SDV 挑战吗？
+[rebirth_button_text] 时间重生（可得 {0} SDP）
+[insufficient_funds] 余额不足
+[unit_seconds_per_second] 秒/s
+[none] 无
+[yes] 是
+[no] 否
+[basic_upgrades] 基础升级
+[advanced_upgrades] 高级升级
+[expert_upgrades] 专家升级
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] 选择界面语言
+[load_language_fail] 语言加载失败

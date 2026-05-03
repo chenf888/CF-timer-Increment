@@ -1,0 +1,424 @@
+[game_title] Bộ đếm thời gian tăng dần
+[version_text] Phiên bản 1.4.2
+[join_us] Tham gia cùng chúng tôi
+[about] Giới thiệu
+[about_title] Về Bộ đếm thời gian tăng dần
+[about_desc] Đây là game tăng dần thời gian, người chơi mua nâng cấp và hoàn thành thử thách để tăng tốc tích lũy thời gian, trải nghiệm quá trình phát triển từ chậm đến bùng nổ.
+[author] Tác giả:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Gợi ý cách chơi:
+[gameplay_text] Ưu tiên tăng tốc độ và phút tự động, sau đó thu thập thưởng chu kỳ và thời gian vàng để nhận phút nhanh hơn.
+[acknowledgment] Cảm ơn:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Cảm ơn tất cả người chơi đã ủng hộ và phản hồi!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Bạn có chắc muốn thoát khỏi chế độ thử thách? Tiến trình hiện tại sẽ bị mất.
+[exit_challenge_success] Đã thoát khỏi chế độ thử thách.
+[enter_challenge_success] Đã vào chế độ thử thách! Giờ bạn có thể chọn và bắt đầu thử thách.
+[resume] Tiếp tục
+[play] Bắt đầu
+[pause] Tạm dừng
+[export_prompt] Vui lòng sao chép mã lưu trữ bên dưới:
+[export_prompt_raw] Vui lòng sao chép bản lưu trữ thô bên dưới:
+[import_prompt] Vui lòng dán chuỗi lưu trữ:
+[import_success] Nhập thành công! Game sẽ làm mới.
+[import_error] Lưu trữ không hợp lệ, không thể phân tích! Hãy kiểm tra xem đã sao chép đầy đủ chưa. Lỗi:
+[delete_confirm] ⚠️ Cảnh báo: Thao tác này sẽ xóa vĩnh viễn tất cả dữ liệu game, bao gồm lưu trữ, tiến trình thành tựu, lịch sử nhấp, cột mốc, v.v.\n\nBạn có chắc muốn xóa toàn bộ và chơi lại?
+[delete_success] Đã xóa hoàn toàn tất cả dữ liệu!
+[time_day] ngày
+[time_hour] giờ
+[time_minute] phút
+[time_second] giây
+[tab_timer] Bộ đếm
+[tab_upgrades] Nâng cấp
+[tab_achievements] Thành tựu
+[tab_challenges] Thử thách
+[tab_rebirth] Tái sinh
+[tab_stats] Thống kê
+[tab_settings] Cài đặt
+[settings_title] Cài đặt game
+[save_management] Quản lý lưu trữ
+[export_save] Xuất lưu trữ
+[import_save] Nhập lưu trữ
+[interface_theme] Giao diện chủ đề
+[theme_desc] Chuyển đổi phong cách hình ảnh khác nhau
+[danger_operations] Thao tác nguy hiểm
+[delete_save] Xóa lưu trữ
+[delete_save_desc] Xóa hoàn toàn mọi dữ liệu game (lưu trữ, thành tựu, lịch sử nhấp, v.v.). Thao tác không thể khôi phục!
+[current_minute_seconds] Số giây hiện tại trong phút
+[accumulated_seconds] Tổng số giây tích lũy
+[completed_cycles] Số chu kỳ đã hoàn thành
+[current_multiplier] Hệ số nhân hiện tại
+[play] Bắt đầu
+[pause] Tạm dừng
+[resume] Tiếp tục
+[minutes_owned] Số phút sở hữu:
+[basic_upgrades] Nâng cấp cơ bản
+[advanced_upgrades] Nâng cấp nâng cao
+[expert_upgrades] Nâng cấp chuyên gia
+[ach_first_step_title] Bước đầu tiên
+[ach_first_step_desc] Mua nâng cấp đầu tiên
+[ach_one_hour_title] Một giờ!
+[ach_one_hour_desc] Tổng thời gian đạt 1 giờ
+[ach_time_traveler_title] Du hành thời gian
+[ach_time_traveler_desc] Tổng thời gian đạt 10000 giây
+[ach_100_minutes_title] Kỷ niệm 100 phút
+[ach_100_minutes_desc] Sở hữu 100 phút
+[ach_1000_minutes_title] Huyền thoại 1000 phút
+[ach_1000_minutes_desc] Sở hữu 1000 phút
+[ach_start_cycle_title] Bắt đầu chu kỳ
+[ach_start_cycle_desc] Hoàn thành 1 chu kỳ
+[ach_time_controller_title] Người điều khiển thời gian
+[ach_time_controller_desc] Đạt hệ số nhân 3.0x hoặc cao hơn
+[ach_time_accelerator_title] Máy gia tốc thời gian
+[ach_time_accelerator_desc] Đạt hệ số nhân 5.0x
+[ach_extreme_speed_title] Bứt tốc cực hạn
+[ach_extreme_speed_desc] Đạt hệ số nhân tốc độ 10.0x
+[ach_meteor_acceleration_title] Sao băng tăng tốc
+[ach_meteor_acceleration_desc] Đạt hệ số nhân tốc độ 25.0x
+[ach_prestige_beginning_title] Khởi đầu uy tín
+[ach_prestige_beginning_desc] Sở hữu 1000 SDP
+[ach_fragment_obtained_title] Nhận mảnh thời gian
+[ach_fragment_obtained_desc] Nhận 1 mảnh thời gian (VDP)
+[ach_first_rebirth_title] Lần đầu tái sinh
+[ach_first_rebirth_desc] Thực hiện 1 lần tái sinh thời gian
+[ach_fragment_reset_title] Đặt lại mảnh
+[ach_fragment_reset_desc] Thực hiện 1 lần đặt lại mảnh thời gian
+[ach_fragment_upgrader_title] Người nâng cấp mảnh
+[ach_fragment_upgrader_desc] Mua 1 nâng cấp mảnh thời gian
+[ach_fragment_craftsman_title] Thợ thủ công mảnh
+[ach_fragment_craftsman_desc] Mua 5 nâng cấp mảnh thời gian
+[ach_challenge_door_title] Cánh cửa thử thách
+[ach_challenge_door_desc] Hoàn thành 1 thử thách
+[ach_challenge_master_title] Bậc thầy thử thách
+[ach_challenge_master_desc] Hoàn thành 3 thử thách
+[ach_ultimate_challenge_title] Thử thách tối thượng
+[ach_ultimate_challenge_desc] Hoàn thành 5 thử thách
+[ach_hundred_year_solitude_title] Trăm năm cô đơn
+[ach_hundred_year_solitude_desc] Hoàn thành 52560000 chu kỳ (phút)
+[ch_speed_demon_title] Quỷ tốc độ
+[ch_speed_demon_desc] Đạt hệ số nhân tốc độ 25x trong 3 phút
+[ch_speed_demon_reward] Tăng vĩnh viễn +1.0x tốc độ cơ bản
+[ch_time_master_title] Bậc thầy thời gian
+[ch_time_master_desc] Hoàn thành 200 chu kỳ trong 2 phút
+[ch_time_master_reward] Mở khóa nâng cấp thưởng chu kỳ
+[ch_efficiency_expert_title] Chuyên gia hiệu suất
+[ch_efficiency_expert_desc] Đạt hệ số nhân tốc độ 100x với ít hơn 1000 phút
+[ch_efficiency_expert_reward] Mở khóa nâng cấp tối ưu chi phí
+[ch_minimalist_master_title] Bậc thầy tối giản
+[ch_minimalist_master_desc] Đạt 5000 giây tích lũy mà không mua bất kỳ nâng cấp nào
+[ch_minimalist_master_reward] Mở khóa nâng cấp phút tự động
+[ch_golden_chaser_title] Người săn vàng
+[ch_golden_chaser_desc] Kích hoạt 5 lần thời gian vàng trong 10 phút
+[ch_golden_chaser_reward] Xác suất thời gian vàng tăng vĩnh viễn +5%
+[up_speed_boost_name] Tăng cường tốc độ
+[up_speed_boost_desc] Mỗi cấp tăng vĩnh viễn 0.1x tốc độ cơ bản
+[up_auto_seconds_name] Giây tự động
+[up_auto_seconds_desc] Mỗi cấp tự động nhận 0.1 giây mỗi giây
+[up_minute_boost_name] Phút thêm
+[up_minute_boost_desc] Mỗi cấp thêm 0.01 phút mỗi giây
+[up_speed_multiplier_name] Nhân tốc độ
+[up_speed_multiplier_desc] Mỗi cấp tăng 10% hệ số nhân tốc độ
+[up_minute_multiplier_name] Nhân phút
+[up_minute_multiplier_desc] Mỗi cấp tăng 10% hệ số nhận phút
+[up_cycle_bonus_name] Thưởng chu kỳ
+[up_cycle_bonus_desc] Mỗi chu kỳ thêm 1 phút
+[up_auto_minutes_name] Phút tự động
+[up_auto_minutes_desc] Mỗi cấp tự động nhận 0.01 phút mỗi giây
+[up_cost_reduction_name] Tối ưu chi phí
+[up_cost_reduction_desc] Mỗi cấp giảm 5% chi phí tất cả nâng cấp
+[up_golden_time_name] Thời gian vàng
+[up_golden_time_desc] Mỗi cấp tăng 1% xác suất nhận thưởng đôi ngẫu nhiên
+[reb1_name] Nâng cấp tái sinh thời gian 1
+[reb1_desc] Sau tái sinh, nhận giây ×2, hiệu ứng tăng cường tốc độ thành 0.15
+[reb2_name] Nâng cấp tái sinh thời gian 2
+[reb2_desc] Giữ lại 3 cấp tăng cường tốc độ khi tái sinh, và để phút tăng tốc độ nhận giây
+[reb3_name] Nâng cấp tái sinh thời gian 3
+[reb3_desc] Nhận giây ×2.5, và mỗi phút thêm 0.01 cho hệ số nhân giây
+[reb4_name] Nâng cấp tái sinh thời gian 4
+[reb4_desc] Tăng sản xuất giây dựa trên căn bậc hai của số phút hiện có
+[reb5_name] Nâng cấp tái sinh thời gian 5
+[reb5_desc] Mở khóa thử thách SDV1
+[reb6_name] Nâng cấp tái sinh thời gian 6
+[reb6_desc] Mở khóa bộ chuyển đổi, làm cho 60 giây thành 1 phút nhân với 1 + √(số lần tái sinh)
+[reb7_name] Nâng cấp tái sinh thời gian 7
+[reb7_desc] Mở khóa SDV2 và tăng sản xuất
+[reb8_name] Nâng cấp tái sinh thời gian 8
+[reb8_desc] Sản xuất điểm ×7.8 (cần hoàn thành SDV2)
+[reb9_name] Nâng cấp tái sinh thời gian 9
+[reb9_desc] Mỗi lần mua nâng cấp SDP, hiệu ứng tăng cường tốc độ +0.02
+[reb10_name] Nâng cấp tái sinh thời gian 10
+[reb10_desc] Mở khóa thử thách SDV3
+[reb11_name] Nâng cấp tái sinh thời gian 11
+[reb11_desc] Nhận SDP gấp đôi, và tăng nhận giây dựa trên SDP
+[vdp11_name] Nâng cấp mảnh thời gian 1-1
+[vdp11_desc] Sản xuất giây ×2, nhận SDP ×2
+[vdp12_name] Nâng cấp mảnh thời gian 1-2
+[vdp12_desc] Nhận phút ×3
+[vdp21_name] Nâng cấp mảnh thời gian 2-1
+[vdp21_desc] Tăng sản xuất giây dựa trên số phút hiện có: ×(1 + phút^0.6)
+[vdp22_name] Nâng cấp mảnh thời gian 2-2
+[vdp22_desc] Tăng sản xuất giây dựa trên SDP hiện tại: ×(1 + SDP^0.7)
+[vdp23_name] Nâng cấp mảnh thời gian 2-3
+[vdp23_desc] Tăng nhận phút dựa trên SDP hiện tại: ×(1 + SDP^0.55)
+[vdp33_name] Nâng cấp mảnh thời gian 3-3
+[vdp33_desc] Mỗi thử thách hoàn thành, sản xuất giây +0.02
+[vdp41_name] Mở khóa bộ tăng tốc
+[vdp41_desc] Mở khóa hệ thống bộ tăng tốc, cung cấp thêm phần thưởng
+[sdv1_title] SDV1
+[sdv1_desc] Một phút thành 120 giây, đặt lại SDP và bỏ qua mọi nâng cấp. Mục tiêu: 7777 giây để hoàn thành thử thách.
+[sdv1_reward] Sau khi hoàn thành, mỗi phút là 40 giây
+[sdv2_title] SDV2
+[sdv2_desc] Mở khóa SDV2, tăng cường tốc độ +0.05, hiệu quả sản xuất phút thêm tăng gấp đôi.
+[sdv2_reward] Tăng khả năng sản xuất đặc biệt của SDV2
+[sdv3_title] SDV3
+[sdv3_desc] Trong thử thách luôn kích hoạt giới hạn mềm, sản xuất ^0.8125. Mục tiêu: 2125 giây để hoàn thành.
+[sdv3_reward] Sau khi hoàn thành, 25% xác suất nhân đôi phút mỗi phút
+[current_bonus] Phần thưởng hiện tại
+[current_income] Thu nhập hiện tại
+[current_multiplier_label] Hệ số nhân hiện tại
+[cycle_reward] Thưởng chu kỳ
+[cost_reduced] Giảm chi phí
+[golden_probability] Xác suất vàng
+[speed] Tốc độ
+[minutes_short] phút
+[up_effect_speed] Phần thưởng hiện tại: +{0}x tốc độ
+[up_effect_auto_seconds] Thu nhập hiện tại: +{0} giây/giây
+[up_effect_minute_boost] Thu nhập hiện tại: +{0} phút/giây
+[up_effect_speed_multiplier] Hệ số nhân hiện tại: x{0} tốc độ
+[up_effect_minute_multiplier] Hệ số nhân hiện tại: x{0} phút
+[up_effect_cycle_bonus] Thưởng chu kỳ: +{0} phút/chu kỳ
+[up_effect_auto_minutes] Phút tự động: +{0} phút/giây
+[up_effect_cost_reduction] Giảm chi phí: {0}%
+[up_effect_golden_time] Xác suất vàng: {0}%
+[upgrade_button] Nâng cấp {0} {1}
+[minutes_currency] phút
+[theme_blue] Xanh lam
+[theme_darkred] Đỏ
+[theme_minimal] Đen
+[theme_neon] Tím + Xanh lam
+[theme_yellow] Vàng
+[progress] Tiến độ
+[unlocked] Đã đạt
+[reward] Phần thưởng
+[time_limit] Giới hạn thời gian
+[in_progress] Đang tiến hành
+[complete] Đã hoàn thành
+[start_challenge] Bắt đầu thử thách
+[abandon_challenge] Từ bỏ thử thách
+[no_time_limit] Không giới hạn thời gian
+[rebirth_info] Thông tin tái sinh
+[rebirth_upgrades_tab] Nâng cấp tái sinh
+[time_fragment_upgrades] Nâng cấp mảnh thời gian
+[sdv_challenges] Thử thách SDV
+[time_rebirth_points] Điểm tái sinh thời gian (SDP)
+[time_fragments] Mảnh thời gian (VDP)
+[rebirth_count] Số lần tái sinh
+[fragment_reset_count] Số lần đặt lại mảnh
+[time_rebirth] Tái sinh thời gian
+[get_time_fragments] Nhận mảnh thời gian
+[current_rebirth_gain] Lần tái sinh hiện tại có thể nhận:
+[sdp_label] SDP
+[rebirth_desc] Tái sinh thời gian sẽ đặt lại lần chạy hiện tại và nhận SDP, dùng để mua nâng cấp tái sinh. Nhận mảnh thời gian sẽ tiêu hao SDP và tăng VDP.
+[sdv_challenge_note] Thử thách SDV độc lập với thử thách chính, sau khi hoàn thành nhận phần thưởng tái sinh riêng.
+[time_rebirth_upgrades_desc] Dùng SDP để mua nâng cấp tái sinh thời gian, tăng lợi ích tái sinh và khả năng đặc biệt.
+[time_fragment_upgrades_desc] Dùng VDP để mua nâng cấp mảnh thời gian, tăng cường sản xuất giây, nhận phút và hiệu suất tái sinh.
+[booster_level] Cấp độ bộ tăng tốc
+[sdv_challenge_desc] Thử thách SDV độc lập với thử thách thông thường, sau khi hoàn thành nhận phần thưởng tái sinh đặc biệt. Mỗi thử thách chỉ có thể thực hiện một lần, sau khi từ bỏ có thể chọn lại.
+[current_sdv_challenge] Thử thách SDV hiện tại
+[completed_sdv_challenges] Thử thách SDV đã hoàn thành
+[none] Không có
+[game_stats] Thống kê game
+[total_accumulated_seconds] Tổng số giây tích lũy
+[current_speed_multiplier] Hệ số nhân tốc độ hiện tại
+[highest_second_speed] Tốc độ giây cao nhất
+[current_minutes] Số phút hiện tại
+[current_seconds] Số giây hiện tại
+[total_rebirths] Tổng số lần tái sinh
+[current_sdp] SDP hiện tại
+[current_vdp] VDP hiện tại
+[total_current_upgrades] Tổng số nâng cấp hiện tại
+[total_current_rebirth_upgrades] Tổng số nâng cấp tái sinh hiện tại
+[current_challenges_completed] Thử thách đã hoàn thành
+[save_created_time] Thời gian tạo lưu trữ
+[save_elapsed_time] Thời gian đã qua của lưu trữ
+[current_theme] Chủ đề hiện tại
+[footer_text] Tiến bước cùng thời gian - BY
+[speed_boost] Tăng cường tốc độ
+[speed_boost_desc] Mỗi cấp tăng vĩnh viễn 0.1x tốc độ cơ bản
+[auto_seconds] Giây tự động
+[auto_seconds_desc] Mỗi cấp tự động nhận 0.1 giây mỗi giây
+[extra_minutes] Phút thêm
+[extra_minutes_desc] Mỗi cấp thêm 0.01 phút mỗi giây
+[speed_multiplier] Nhân tốc độ
+[speed_multiplier_desc] Mỗi cấp tăng 10% hệ số nhân tốc độ
+[minute_multiplier] Nhân phút
+[minute_multiplier_desc] Mỗi cấp tăng 10% hệ số nhận phút
+[cycle_bonus] Thưởng chu kỳ
+[cycle_bonus_desc] Mỗi chu kỳ thêm 1 phút
+[auto_minutes] Phút tự động
+[auto_minutes_desc] Mỗi cấp tự động nhận 0.01 phút mỗi giây
+[cost_optimization] Tối ưu chi phí
+[cost_optimization_desc] Mỗi cấp giảm 5% chi phí tất cả nâng cấp
+[golden_time] Thời gian vàng
+[golden_time_desc] Mỗi cấp tăng 1% xác suất nhận thưởng đôi ngẫu nhiên
+[current_bonus] Phần thưởng hiện tại
+[current_income] Thu nhập hiện tại
+[current_multiplier_label] Hệ số nhân hiện tại
+[cycle_reward] Thưởng chu kỳ
+[cost_reduced] Giảm chi phí
+[golden_probability] Xác suất vàng
+[upgrade] Nâng cấp
+[completed] Đã hoàn thành
+[purchase] Mua
+[minutes_currency] phút
+[need_purchase_previous] Mua cấp trước trước
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Chế độ thử thách
+[current_challenge] Thử thách hiện tại
+[remaining_time] Thời gian còn lại
+[exit_challenge] Thoát thử thách
+[welcome_challenge] Chào mừng đến với chế độ thử thách!
+[challenge_desc_text] Trong chế độ thử thách, bạn sẽ đối mặt với nhiều giới hạn và mục tiêu khác nhau. Hoàn thành thử thách thành công sẽ nhận được phần thưởng vĩnh viễn!
+[challenge_rules_title] Quy tắc thử thách:
+[challenge_rule1] Khi vào chế độ thử thách, không thể mua nâng cấp
+[challenge_rule2] Thử thách có giới hạn thời gian hoặc điều kiện đặc biệt
+[challenge_rule3] Thất bại hoặc thoát sẽ đặt lại tiến trình hiện tại
+[challenge_rule4] Hoàn thành thành công nhận phần thưởng vĩnh viễn
+[enter_challenge_mode] Vào chế độ thử thách
+[time_limit] Giới hạn thời gian
+[reward] Phần thưởng
+[progress] Tiến độ
+[in_progress] Đang tiến hành
+[complete] Đã hoàn thành
+[start_challenge] Bắt đầu thử thách
+[abandon_challenge] Từ bỏ thử thách
+[achievement_first_step] Bước đầu tiên
+[achievement_first_step_desc] Mua nâng cấp đầu tiên
+[achievement_one_hour] Một giờ!
+[achievement_one_hour_desc] Tổng thời gian đạt 1 giờ
+[achievement_time_traveler] Du hành thời gian
+[achievement_time_traveler_desc] Tổng thời gian đạt 10000 giây
+[achievement_100_minutes] Kỷ niệm 100 phút
+[achievement_100_minutes_desc] Sở hữu 100 phút
+[achievement_1000_minutes] Huyền thoại 1000 phút
+[achievement_1000_minutes_desc] Sở hữu 1000 phút
+[achievement_start_cycle] Bắt đầu chu kỳ
+[achievement_start_cycle_desc] Hoàn thành 1 chu kỳ
+[achievement_time_controller] Người điều khiển thời gian
+[achievement_time_controller_desc] Đạt hệ số nhân 3.0x hoặc cao hơn
+[achievement_time_accelerator] Máy gia tốc thời gian
+[achievement_time_accelerator_desc] Đạt hệ số nhân 5.0x
+[achievement_extreme_speed] Bứt tốc cực hạn
+[achievement_extreme_speed_desc] Đạt hệ số nhân tốc độ 10.0x
+[achievement_meteor_acceleration] Sao băng tăng tốc
+[achievement_meteor_acceleration_desc] Đạt hệ số nhân tốc độ 25.0x
+[achievement_prestige_beginning] Khởi đầu uy tín
+[achievement_prestige_beginning_desc] Sở hữu 1000 SDP
+[achievement_fragment_obtained] Nhận mảnh thời gian
+[achievement_fragment_obtained_desc] Nhận 1 mảnh thời gian (VDP)
+[achievement_first_rebirth] Lần đầu tái sinh
+[achievement_first_rebirth_desc] Thực hiện 1 lần tái sinh thời gian
+[achievement_fragment_reset] Đặt lại mảnh
+[achievement_fragment_reset_desc] Thực hiện 1 lần đặt lại mảnh thời gian
+[achievement_fragment_upgrader] Người nâng cấp mảnh
+[achievement_fragment_upgrader_desc] Mua 1 nâng cấp mảnh thời gian
+[achievement_fragment_craftsman] Thợ thủ công mảnh
+[achievement_fragment_craftsman_desc] Mua 5 nâng cấp mảnh thời gian
+[achievement_challenge_door] Cánh cửa thử thách
+[achievement_challenge_door_desc] Hoàn thành 1 thử thách
+[achievement_challenge_master] Bậc thầy thử thách
+[achievement_challenge_master_desc] Hoàn thành 3 thử thách
+[achievement_ultimate_challenge] Thử thách tối thượng
+[achievement_ultimate_challenge_desc] Hoàn thành 5 thử thách
+[achievement_hundred_year_solitude] Trăm năm cô đơn
+[achievement_hundred_year_solitude_desc] Hoàn thành 52560000 chu kỳ (phút)
+[import_prompt] Vui lòng dán chuỗi lưu trữ:
+[export_prompt] Vui lòng sao chép mã lưu trữ bên dưới:
+[import_success] Nhập thành công! Game sẽ làm mới.
+[import_error] Lưu trữ không hợp lệ, không thể phân tích! Hãy kiểm tra xem đã sao chép đầy đủ chưa.
+[delete_confirm] ⚠️ Cảnh báo: Thao tác này sẽ xóa vĩnh viễn tất cả dữ liệu game, bao gồm lưu trữ, tiến trình thành tựu, lịch sử nhấp, cột mốc, v.v.
+[delete_confirm_question] Bạn có chắc muốn xóa toàn bộ và chơi lại?
+[delete_success] Đã xóa hoàn toàn tất cả dữ liệu!
+[save_load_error] Lỗi tải lưu trữ:
+[save_check_message] Hãy kiểm tra lưu trữ có đúng không hoặc thử nhập lại.
+[exit_challenge_confirm] Bạn có chắc muốn thoát khỏi chế độ thử thách? Tiến trình hiện tại sẽ bị mất.
+[exit_challenge_success] Đã thoát khỏi chế độ thử thách.
+[enter_challenge_success] Đã vào chế độ thử thách! Giờ bạn có thể chọn và bắt đầu thử thách.
+[challenge_start_message] Thử thách bắt đầu!
+[target] Mục tiêu:
+[time_format] phút
+[rebirth_need_minutes] Cần ít nhất 10 phút để tái sinh thời gian.
+[rebirth_success] Tái sinh thời gian thành công, nhận được
+[vdp_need_sdp] Cần ít nhất 1000 SDP để nhận mảnh thời gian.
+[vdp_cannot_obtain] Hiện tại không thể nhận mảnh thời gian.
+[vdp_obtained] Đã nhận
+[time_fragments_obtained] mảnh thời gian!
+[abandon_sdv_confirm] Bạn có chắc muốn từ bỏ thử thách SDV hiện tại?
+[sdv_started] Bắt đầu thử thách SDV:
+[sdv_unlock_hint] Cần mua nâng cấp tái sinh SDV tương ứng để mở khóa
+[challenge_failed] Thử thách thất bại! Hết giờ.
+[speed_calc_error] Lỗi tính tốc độ, đã khôi phục giá trị mặc định:
+[speed_calc_error_hint] Điều này có thể do dữ liệu lưu trữ bị hỏng.
+[seconds_per_second] giây/giây
+[minutes_per_second] phút/giây
+[minutes_per_cycle] phút/chu kỳ
+[minutes_per_second_auto] phút/giây
+[seconds] giây
+[no_time_limit] Không giới hạn thời gian
+[unlocked] Đã đạt
+[locked_status] Chưa mở khóa
+[start_sdv] Bắt đầu SDV
+[abandon_sdv] Từ bỏ SDV
+[rebirth_gain_sdp] Tái sinh thời gian (được {0} SDP)
+[upgrade_completed] Đã hoàn thành
+[need_purchase_previous] Mua cấp trước trước
+[purchase_button] Mua {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Đã hoàn thành
+[need_purchase_previous] Mua cấp trước trước
+[purchase_button] Mua {0} {1}
+[vdp_currency] VDP
+[start_sdv] Bắt đầu SDV
+[abandon_sdv] Từ bỏ SDV
+[sdv_unlock_hint] Cần mua nâng cấp tái sinh SDV tương ứng để mở khóa
+[abandon_sdv_confirm] Bạn có chắc muốn từ bỏ thử thách SDV hiện tại?
+[rebirth_button_text] Tái sinh thời gian (được {0} SDP)
+[insufficient_funds] Không đủ tiền
+[unit_seconds_per_second] giây/s
+[none] Không có
+[yes] Có
+[no] Không
+[basic_upgrades] Nâng cấp cơ bản
+[advanced_upgrades] Nâng cấp nâng cao
+[expert_upgrades] Nâng cấp chuyên gia
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Chọn ngôn ngữ giao diện
+[load_language_fail] Tải ngôn ngữ thất bại
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

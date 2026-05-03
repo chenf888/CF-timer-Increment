@@ -1,0 +1,424 @@
+[game_title] Temporizador Incremental
+[version_text] Versão 1.4.2
+[join_us] Junte-se a nós
+[about] Sobre
+[about_title] Sobre o Temporizador Incremental
+[about_desc] Este é um jogo de incremento de tempo onde o jogador compra upgrades e completa desafios para acelerar a acumulação de tempo, experimentando um processo de crescimento de lento a explosivo.
+[author] Autor:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Dica de jogabilidade:
+[gameplay_text] Priorize aumentar a velocidade e minutos automáticos, depois colete recompensas de ciclo e tempo dourado para obter minutos mais rapidamente.
+[acknowledgment] Agradecimentos:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Obrigado a todos os jogadores pelo apoio e feedback!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Tem certeza que deseja sair do modo desafio? O progresso atual será perdido.
+[exit_challenge_success] Modo desafio encerrado.
+[enter_challenge_success] Modo desafio ativado! Agora você pode escolher e iniciar um desafio.
+[resume] Continuar
+[play] Iniciar
+[pause] Pausar
+[export_prompt] Por favor, copie o código de salvamento abaixo:
+[export_prompt_raw] Por favor, copie o salvamento bruto abaixo:
+[import_prompt] Por favor, cole a string de salvamento:
+[import_success] Importação bem-sucedida! O jogo será atualizado.
+[import_error] Salvamento inválido, não foi possível analisar! Verifique se copiou tudo. Erro:
+[delete_confirm] ⚠️ Aviso: Esta operação excluirá permanentemente todos os dados do jogo, incluindo salvamentos, progresso de conquistas, histórico de cliques, marcos, etc.\n\nTem certeza que deseja excluir tudo e recomeçar?
+[delete_success] Todos os dados foram completamente apagados!
+[time_day] dia
+[time_hour] hora
+[time_minute] min
+[time_second] seg
+[tab_timer] Temporizador
+[tab_upgrades] Upgrades
+[tab_achievements] Conquistas
+[tab_challenges] Desafios
+[tab_rebirth] Renascimento
+[tab_stats] Estatísticas
+[tab_settings] Configurações
+[settings_title] Configurações do Jogo
+[save_management] Gerenciamento de Salvamento
+[export_save] Exportar Salvamento
+[import_save] Importar Salvamento
+[interface_theme] Tema da Interface
+[theme_desc] Alterar estilo visual
+[danger_operations] Operações Perigosas
+[delete_save] Excluir Salvamento
+[delete_save_desc] Remove permanentemente todos os dados do jogo (salvamento, conquistas, histórico de cliques, etc.). Operação irreversível!
+[current_minute_seconds] Segundos atuais do minuto
+[accumulated_seconds] Segundos acumulados
+[completed_cycles] Ciclos completados
+[current_multiplier] Multiplicador atual
+[play] Iniciar
+[pause] Pausar
+[resume] Continuar
+[minutes_owned] Minutos possuídos:
+[basic_upgrades] Upgrades Básicos
+[advanced_upgrades] Upgrades Avançados
+[expert_upgrades] Upgrades Especialistas
+[ach_first_step_title] Primeiro Passo
+[ach_first_step_desc] Compre o primeiro upgrade
+[ach_one_hour_title] Uma hora!
+[ach_one_hour_desc] Tempo acumulado atingiu 1 hora
+[ach_time_traveler_title] Viajante do Tempo
+[ach_time_traveler_desc] Tempo acumulado atingiu 10000 segundos
+[ach_100_minutes_title] Centenário de Minutos
+[ach_100_minutes_desc] Possua 100 minutos
+[ach_1000_minutes_title] Lenda dos 1000 Minutos
+[ach_1000_minutes_desc] Possua 1000 minutos
+[ach_start_cycle_title] Iniciar Ciclo
+[ach_start_cycle_desc] Complete 1 ciclo
+[ach_time_controller_title] Controlador do Tempo
+[ach_time_controller_desc] Atingir multiplicador 3.0x ou superior
+[ach_time_accelerator_title] Acelerador do Tempo
+[ach_time_accelerator_desc] Atingir multiplicador 5.0x
+[ach_extreme_speed_title] Sprint Extremo
+[ach_extreme_speed_desc] Atingir multiplicador de velocidade 10.0x
+[ach_meteor_acceleration_title] Aceleração Meteoro
+[ach_meteor_acceleration_desc] Atingir multiplicador de velocidade 25.0x
+[ach_prestige_beginning_title] Início do Prestígio
+[ach_prestige_beginning_desc] Possua 1000 SDP
+[ach_fragment_obtained_title] Fragmento de Tempo Obtido
+[ach_fragment_obtained_desc] Obtenha 1 fragmento de tempo (VDP)
+[ach_first_rebirth_title] Primeiro Renascimento
+[ach_first_rebirth_desc] Execute 1 renascimento temporal
+[ach_fragment_reset_title] Reinicialização de Fragmentos
+[ach_fragment_reset_desc] Execute 1 reinicialização de fragmentos de tempo
+[ach_fragment_upgrader_title] Upgrade de Fragmentos
+[ach_fragment_upgrader_desc] Compre 1 upgrade de fragmento de tempo
+[ach_fragment_craftsman_title] Artesão de Fragmentos
+[ach_fragment_craftsman_desc] Compre 5 upgrades de fragmento de tempo
+[ach_challenge_door_title] Porta dos Desafios
+[ach_challenge_door_desc] Complete 1 desafio
+[ach_challenge_master_title] Mestre dos Desafios
+[ach_challenge_master_desc] Complete 3 desafios
+[ach_ultimate_challenge_title] Desafio Supremo
+[ach_ultimate_challenge_desc] Complete 5 desafios
+[ach_hundred_year_solitude_title] Cem Anos de Solidão
+[ach_hundred_year_solitude_desc] Complete 52560000 ciclos (minutos)
+[ch_speed_demon_title] Demônio da Velocidade
+[ch_speed_demon_desc] Atingir 25x de multiplicador de velocidade em 3 minutos
+[ch_speed_demon_reward] +1.0x de velocidade base permanente
+[ch_time_master_title] Mestre do Tempo
+[ch_time_master_desc] Completar 200 ciclos em 2 minutos
+[ch_time_master_reward] Desbloqueia upgrade de recompensa de ciclo
+[ch_efficiency_expert_title] Especialista em Eficiência
+[ch_efficiency_expert_desc] Atingir 100x de multiplicador de velocidade usando menos de 1000 minutos
+[ch_efficiency_expert_reward] Desbloqueia upgrade de otimização de custo
+[ch_minimalist_master_title] Mestre Minimalista
+[ch_minimalist_master_desc] Atingir 5000 segundos acumulados sem comprar nenhum upgrade
+[ch_minimalist_master_reward] Desbloqueia upgrade de minutos automáticos
+[ch_golden_chaser_title] Caçador de Ouro
+[ch_golden_chaser_desc] Acionar 5 vezes o tempo dourado em 10 minutos
+[ch_golden_chaser_reward] Probabilidade de tempo dourado permanente +5%
+[up_speed_boost_name] Reforço de Velocidade
+[up_speed_boost_desc] Cada nível aumenta permanentemente a velocidade base em 0.1x
+[up_auto_seconds_name] Segundos Automáticos
+[up_auto_seconds_desc] Cada nível ganha automaticamente 0.1 segundo por segundo
+[up_minute_boost_name] Minutos Extras
+[up_minute_boost_desc] Cada nível ganha 0.01 minuto extra por segundo
+[up_speed_multiplier_name] Multiplicador de Velocidade
+[up_speed_multiplier_desc] Cada nível aumenta o multiplicador de velocidade em 10%
+[up_minute_multiplier_name] Multiplicador de Minutos
+[up_minute_multiplier_desc] Cada nível aumenta o multiplicador de ganho de minutos em 10%
+[up_cycle_bonus_name] Recompensa de Ciclo
+[up_cycle_bonus_desc] Cada ciclo concede 1 minuto extra
+[up_auto_minutes_name] Minutos Automáticos
+[up_auto_minutes_desc] Cada nível ganha automaticamente 0.01 minuto por segundo
+[up_cost_reduction_name] Otimização de Custo
+[up_cost_reduction_desc] Cada nível reduz o custo de todos os upgrades em 5%
+[up_golden_time_name] Tempo Dourado
+[up_golden_time_desc] Cada nível aumenta em 1% a chance de recompensa dupla aleatória
+[reb1_name] Upgrade de Renascimento Temporal 1
+[reb1_desc] Após renascimento, ganho de segundos ×2, efeito de reforço de velocidade torna-se 0.15
+[reb2_name] Upgrade de Renascimento Temporal 2
+[reb2_desc] Mantém 3 níveis de reforço de velocidade ao renascer, e faz o minuto aumentar a velocidade de ganho de segundos
+[reb3_name] Upgrade de Renascimento Temporal 3
+[reb3_desc] Ganho de segundos ×2.5, e cada minuto adiciona 0.01 ao multiplicador de segundos
+[reb4_name] Upgrade de Renascimento Temporal 4
+[reb4_desc] Aumenta a produção de segundos com base na raiz quadrada dos minutos possuídos
+[reb5_name] Upgrade de Renascimento Temporal 5
+[reb5_desc] Desbloqueia o desafio SDV1
+[reb6_name] Upgrade de Renascimento Temporal 6
+[reb6_desc] Desbloqueia o conversor, fazendo com que 60 segundos virem 1 minuto multiplicado por 1 + √(número de renascimentos)
+[reb7_name] Upgrade de Renascimento Temporal 7
+[reb7_desc] Desbloqueia SDV2 e aumenta a produção
+[reb8_name] Upgrade de Renascimento Temporal 8
+[reb8_desc] Produção de pontos ×7.8 (requer conclusão do SDV2)
+[reb9_name] Upgrade de Renascimento Temporal 9
+[reb9_desc] A cada compra de upgrade SDP, efeito de reforço de velocidade +0.02
+[reb10_name] Upgrade de Renascimento Temporal 10
+[reb10_desc] Desbloqueia o desafio SDV3
+[reb11_name] Upgrade de Renascimento Temporal 11
+[reb11_desc] Ganho de SDP duplicado e aumenta ganho de segundos com base no SDP
+[vdp11_name] Upgrade de Fragmento de Tempo 1-1
+[vdp11_desc] Produção de segundos ×2, ganho de SDP ×2
+[vdp12_name] Upgrade de Fragmento de Tempo 1-2
+[vdp12_desc] Ganho de minutos ×3
+[vdp21_name] Upgrade de Fragmento de Tempo 2-1
+[vdp21_desc] Aumenta a produção de segundos com base nos minutos possuídos: ×(1 + minutos^0.6)
+[vdp22_name] Upgrade de Fragmento de Tempo 2-2
+[vdp22_desc] Aumenta a produção de segundos com base no SDP atual: ×(1 + SDP^0.7)
+[vdp23_name] Upgrade de Fragmento de Tempo 2-3
+[vdp23_desc] Aumenta o ganho de minutos com base no SDP atual: ×(1 + SDP^0.55)
+[vdp33_name] Upgrade de Fragmento de Tempo 3-3
+[vdp33_desc] A cada desafio completo, produção de segundos +0.02
+[vdp41_name] Desbloquear Acelerador
+[vdp41_desc] Desbloqueia o sistema de acelerador, fornecendo bônus adicionais
+[sdv1_title] SDV1
+[sdv1_desc] Um minuto se torna 120 segundos, reinicia SDP e ignora todos os upgrades. Objetivo: 7777 segundos para completar o desafio.
+[sdv1_reward] Após a conclusão, cada minuto equivale a 40 segundos
+[sdv2_title] SDV2
+[sdv2_desc] Desbloqueia SDV2, reforço de velocidade +0.05, eficiência de produção de minutos extras dobrada.
+[sdv2_reward] Aumenta a capacidade de produção especial do SDV2
+[sdv3_title] SDV3
+[sdv3_desc] Durante o desafio, limite suave sempre ativo, produção ^0.8125. Objetivo: 2125 segundos para completar.
+[sdv3_reward] Após a conclusão, 25% de chance de minutos duplos por minuto
+[current_bonus] Bônus atual
+[current_income] Ganho atual
+[current_multiplier_label] Multiplicador atual
+[cycle_reward] Recompensa de ciclo
+[cost_reduced] Redução de custo
+[golden_probability] Probabilidade de ouro
+[speed] Velocidade
+[minutes_short] min
+[up_effect_speed] Bônus atual: +{0}x velocidade
+[up_effect_auto_seconds] Ganho atual: +{0} seg/seg
+[up_effect_minute_boost] Ganho atual: +{0} min/seg
+[up_effect_speed_multiplier] Multiplicador atual: x{0} velocidade
+[up_effect_minute_multiplier] Multiplicador atual: x{0} minutos
+[up_effect_cycle_bonus] Recompensa de ciclo: +{0} min/ciclo
+[up_effect_auto_minutes] Minutos automáticos: +{0} min/seg
+[up_effect_cost_reduction] Redução de custo: {0}%
+[up_effect_golden_time] Probabilidade de ouro: {0}%
+[upgrade_button] Melhorar {0} {1}
+[minutes_currency] minutos
+[theme_blue] Azul
+[theme_darkred] Vermelho
+[theme_minimal] Preto
+[theme_neon] Roxo+Azul
+[theme_yellow] Amarelo
+[progress] Progresso
+[unlocked] Alcançado
+[reward] Recompensa
+[time_limit] Limite de tempo
+[in_progress] Em andamento
+[complete] Concluído
+[start_challenge] Iniciar desafio
+[abandon_challenge] Abandonar desafio
+[no_time_limit] Sem limite de tempo
+[rebirth_info] Informações de Renascimento
+[rebirth_upgrades_tab] Upgrades de Renascimento
+[time_fragment_upgrades] Upgrades de Fragmentos de Tempo
+[sdv_challenges] Desafios SDV
+[time_rebirth_points] Pontos de Renascimento Temporal (SDP)
+[time_fragments] Fragmentos de Tempo (VDP)
+[rebirth_count] Número de renascimentos
+[fragment_reset_count] Número de reinicializações de fragmentos
+[time_rebirth] Renascimento Temporal
+[get_time_fragments] Obter Fragmentos de Tempo
+[current_rebirth_gain] Renascimento atual renderá:
+[sdp_label] SDP
+[rebirth_desc] O renascimento temporal reinicia a execução atual e concede SDP, que pode ser usado para comprar upgrades de renascimento. Obter fragmentos de tempo consome SDP e aumenta VDP.
+[sdv_challenge_note] Desafios SDV são independentes dos desafios principais e concedem recompensas de renascimento exclusivas após concluídos.
+[time_rebirth_upgrades_desc] Use SDP para comprar upgrades de renascimento temporal, aumentando os ganhos de renascimento e habilidades especiais.
+[time_fragment_upgrades_desc] Use VDP para comprar upgrades de fragmentos de tempo, fortalecendo a produção de segundos, ganho de minutos e eficiência de renascimento.
+[booster_level] Nível do Acelerador
+[sdv_challenge_desc] Desafios SDV são independentes dos desafios normais e concedem bônus especiais de renascimento após concluídos. Cada desafio pode ser feito um de cada vez; se abandonado, pode ser escolhido novamente.
+[current_sdv_challenge] Desafio SDV atual
+[completed_sdv_challenges] Desafios SDV concluídos
+[none] Nenhum
+[game_stats] Estatísticas do Jogo
+[total_accumulated_seconds] Total de segundos acumulados
+[current_speed_multiplier] Multiplicador de velocidade atual
+[highest_second_speed] Maior velocidade de segundos
+[current_minutes] Minutos atuais
+[current_seconds] Segundos atuais
+[total_rebirths] Total de renascimentos
+[current_sdp] SDP atual
+[current_vdp] VDP atual
+[total_current_upgrades] Total de upgrades atuais
+[total_current_rebirth_upgrades] Total de upgrades de renascimento atuais
+[current_challenges_completed] Desafios concluídos
+[save_created_time] Data de criação do salvamento
+[save_elapsed_time] Tempo decorrido do salvamento
+[current_theme] Tema atual
+[footer_text] Avançando com o tempo - POR
+[speed_boost] Reforço de Velocidade
+[speed_boost_desc] Cada nível aumenta permanentemente a velocidade base em 0.1x
+[auto_seconds] Segundos Automáticos
+[auto_seconds_desc] Cada nível ganha automaticamente 0.1 segundo por segundo
+[extra_minutes] Minutos Extras
+[extra_minutes_desc] Cada nível ganha 0.01 minuto extra por segundo
+[speed_multiplier] Multiplicador de Velocidade
+[speed_multiplier_desc] Cada nível aumenta o multiplicador de velocidade em 10%
+[minute_multiplier] Multiplicador de Minutos
+[minute_multiplier_desc] Cada nível aumenta o multiplicador de ganho de minutos em 10%
+[cycle_bonus] Recompensa de Ciclo
+[cycle_bonus_desc] Cada ciclo concede 1 minuto extra
+[auto_minutes] Minutos Automáticos
+[auto_minutes_desc] Cada nível ganha automaticamente 0.01 minuto por segundo
+[cost_optimization] Otimização de Custo
+[cost_optimization_desc] Cada nível reduz o custo de todos os upgrades em 5%
+[golden_time] Tempo Dourado
+[golden_time_desc] Cada nível aumenta em 1% a chance de recompensa dupla aleatória
+[current_bonus] Bônus atual
+[current_income] Ganho atual
+[current_multiplier_label] Multiplicador atual
+[cycle_reward] Recompensa de ciclo
+[cost_reduced] Redução de custo
+[golden_probability] Probabilidade de ouro
+[upgrade] Melhorar
+[completed] Concluído
+[purchase] Comprar
+[minutes_currency] minutos
+[need_purchase_previous] Compre o anterior primeiro
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Modo Desafio
+[current_challenge] Desafio atual
+[remaining_time] Tempo restante
+[exit_challenge] Sair do desafio
+[welcome_challenge] Bem-vindo ao Modo Desafio!
+[challenge_desc_text] No modo desafio, você enfrentará várias limitações e objetivos. Completar um desafio com sucesso renderá recompensas permanentes!
+[challenge_rules_title] Regras do Desafio:
+[challenge_rule1] Ao entrar no modo desafio, não é possível comprar upgrades
+[challenge_rule2] O desafio tem limite de tempo ou condições especiais
+[challenge_rule3] Falha ou saída reiniciará o progresso atual
+[challenge_rule4] Conclusão bem-sucedida concede recompensa permanente
+[enter_challenge_mode] Entrar no Modo Desafio
+[time_limit] Limite de tempo
+[reward] Recompensa
+[progress] Progresso
+[in_progress] Em andamento
+[complete] Concluído
+[start_challenge] Iniciar desafio
+[abandon_challenge] Abandonar desafio
+[achievement_first_step] Primeiro Passo
+[achievement_first_step_desc] Compre o primeiro upgrade
+[achievement_one_hour] Uma hora!
+[achievement_one_hour_desc] Tempo acumulado atingiu 1 hora
+[achievement_time_traveler] Viajante do Tempo
+[achievement_time_traveler_desc] Tempo acumulado atingiu 10000 segundos
+[achievement_100_minutes] Centenário de Minutos
+[achievement_100_minutes_desc] Possua 100 minutos
+[achievement_1000_minutes] Lenda dos 1000 Minutos
+[achievement_1000_minutes_desc] Possua 1000 minutos
+[achievement_start_cycle] Iniciar Ciclo
+[achievement_start_cycle_desc] Complete 1 ciclo
+[achievement_time_controller] Controlador do Tempo
+[achievement_time_controller_desc] Atingir multiplicador 3.0x ou superior
+[achievement_time_accelerator] Acelerador do Tempo
+[achievement_time_accelerator_desc] Atingir multiplicador 5.0x
+[achievement_extreme_speed] Sprint Extremo
+[achievement_extreme_speed_desc] Atingir multiplicador de velocidade 10.0x
+[achievement_meteor_acceleration] Aceleração Meteoro
+[achievement_meteor_acceleration_desc] Atingir multiplicador de velocidade 25.0x
+[achievement_prestige_beginning] Início do Prestígio
+[achievement_prestige_beginning_desc] Possua 1000 SDP
+[achievement_fragment_obtained] Fragmento de Tempo Obtido
+[achievement_fragment_obtained_desc] Obtenha 1 fragmento de tempo (VDP)
+[achievement_first_rebirth] Primeiro Renascimento
+[achievement_first_rebirth_desc] Execute 1 renascimento temporal
+[achievement_fragment_reset] Reinicialização de Fragmentos
+[achievement_fragment_reset_desc] Execute 1 reinicialização de fragmentos de tempo
+[achievement_fragment_upgrader] Upgrade de Fragmentos
+[achievement_fragment_upgrader_desc] Compre 1 upgrade de fragmento de tempo
+[achievement_fragment_craftsman] Artesão de Fragmentos
+[achievement_fragment_craftsman_desc] Compre 5 upgrades de fragmento de tempo
+[achievement_challenge_door] Porta dos Desafios
+[achievement_challenge_door_desc] Complete 1 desafio
+[achievement_challenge_master] Mestre dos Desafios
+[achievement_challenge_master_desc] Complete 3 desafios
+[achievement_ultimate_challenge] Desafio Supremo
+[achievement_ultimate_challenge_desc] Complete 5 desafios
+[achievement_hundred_year_solitude] Cem Anos de Solidão
+[achievement_hundred_year_solitude_desc] Complete 52560000 ciclos (minutos)
+[import_prompt] Por favor, cole a string de salvamento:
+[export_prompt] Por favor, copie o código de salvamento abaixo:
+[import_success] Importação bem-sucedida! O jogo será atualizado.
+[import_error] Salvamento inválido, não foi possível analisar! Verifique se copiou tudo.
+[delete_confirm] ⚠️ Aviso: Esta operação excluirá permanentemente todos os dados do jogo, incluindo salvamentos, progresso de conquistas, histórico de cliques, marcos, etc.
+[delete_confirm_question] Tem certeza que deseja excluir tudo e recomeçar?
+[delete_success] Todos os dados foram completamente apagados!
+[save_load_error] Erro ao carregar salvamento:
+[save_check_message] Verifique se o salvamento está correto ou tente importar novamente.
+[exit_challenge_confirm] Tem certeza que deseja sair do modo desafio? O progresso atual será perdido.
+[exit_challenge_success] Modo desafio encerrado.
+[enter_challenge_success] Modo desafio ativado! Agora você pode escolher e iniciar um desafio.
+[challenge_start_message] Desafio iniciado!
+[target] Objetivo:
+[time_format] min
+[rebirth_need_minutes] É necessário pelo menos 10 minutos para renascer temporalmente.
+[rebirth_success] Renascimento temporal bem-sucedido, recebeu
+[vdp_need_sdp] É necessário pelo menos 1000 SDP para obter fragmentos de tempo.
+[vdp_cannot_obtain] Não é possível obter fragmentos de tempo agora.
+[vdp_obtained] Recebeu
+[time_fragments_obtained] fragmento(s) de tempo!
+[abandon_sdv_confirm] Tem certeza que deseja abandonar o desafio SDV atual?
+[sdv_started] Iniciando desafio SDV:
+[sdv_unlock_hint] É necessário comprar o upgrade de renascimento SDV correspondente para desbloquear
+[challenge_failed] Desafio falhou! Tempo esgotado.
+[speed_calc_error] Erro no cálculo de velocidade, valor padrão restaurado:
+[speed_calc_error_hint] Isso pode ser devido a dados de salvamento corrompidos.
+[seconds_per_second] seg/seg
+[minutes_per_second] min/seg
+[minutes_per_cycle] min/ciclo
+[minutes_per_second_auto] min/seg
+[seconds] segundos
+[no_time_limit] Sem limite de tempo
+[unlocked] Alcançado
+[locked_status] Não desbloqueado
+[start_sdv] Iniciar SDV
+[abandon_sdv] Abandonar SDV
+[rebirth_gain_sdp] Renascimento temporal (receberá {0} SDP)
+[upgrade_completed] Concluído
+[need_purchase_previous] Compre o anterior primeiro
+[purchase_button] Comprar {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Concluído
+[need_purchase_previous] Compre o anterior primeiro
+[purchase_button] Comprar {0} {1}
+[vdp_currency] VDP
+[start_sdv] Iniciar SDV
+[abandon_sdv] Abandonar SDV
+[sdv_unlock_hint] É necessário comprar o upgrade de renascimento SDV correspondente para desbloquear
+[abandon_sdv_confirm] Tem certeza que deseja abandonar o desafio SDV atual?
+[rebirth_button_text] Renascimento temporal (receberá {0} SDP)
+[insufficient_funds] Saldo insuficiente
+[unit_seconds_per_second] seg/s
+[none] Nenhum
+[yes] Sim
+[no] Não
+[basic_upgrades] Upgrades Básicos
+[advanced_upgrades] Upgrades Avançados
+[expert_upgrades] Upgrades Especialistas
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Selecionar idioma da interface
+[load_language_fail] Falha ao carregar idioma
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

@@ -1,0 +1,424 @@
+[game_title] Zamanlayıcı Birikimi
+[version_text] Güncel sürüm 1.4.2
+[join_us] Bize Katılın
+[about] Hakkında
+[about_title] Zamanlayıcı Birikimi Hakkında
+[about_desc] Bu, oyuncuların zaman birikimini hızlandırmak için yükseltmeler satın aldığı ve görevleri tamamladığı, yavaştan patlamaya doğru bir büyüme süreci deneyimlediği bir birikim oyunudur.
+[author] Yazar:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Oynanış İpucu:
+[gameplay_text] Öncelikle hızı ve otomatik dakikaları artırın, ardından döngü ödülleri ile altın zamanı toplayarak dakikaları daha hızlı kazanın.
+[acknowledgment] Teşekkürler:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Destek ve geri bildirimler için tüm oyunculara teşekkürler!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Görev modundan çıkmak istediğinize emin misiniz? Mevcut ilerleme kaybolacak.
+[exit_challenge_success] Görev modundan çıkıldı.
+[enter_challenge_success] Görev moduna girildi! Artık bir görev seçip başlayabilirsiniz.
+[resume] Devam Et
+[play] Başlat
+[pause] Duraklat
+[export_prompt] Lütfen aşağıdaki kayıt kodunu kopyalayın:
+[export_prompt_raw] Lütfen aşağıdaki ham kaydı kopyalayın:
+[import_prompt] Lütfen kayıt dizesini yapıştırın:
+[import_success] İçe aktarma başarılı! Oyun yenilenecek.
+[import_error] Kayıt geçersiz, ayrıştırılamadı! Lütfen tam olarak kopyaladığınızı kontrol edin. Hata:
+[delete_confirm] ⚠️ Uyarı: Bu işlem, kayıtlar, başarımlar, tıklama geçmişi, kilometre taşları vb. tüm oyun verilerini kalıcı olarak silecektir.\n\nTamamen silip baştan başlamak istediğinize emin misiniz?
+[delete_success] Tüm veriler tamamen silindi!
+[time_day] gün
+[time_hour] sa
+[time_minute] dk
+[time_second] sn
+[tab_timer] Zamanlayıcı
+[tab_upgrades] Yükseltmeler
+[tab_achievements] Başarımlar
+[tab_challenges] Görevler
+[tab_rebirth] Yeniden Doğuş
+[tab_stats] İstatistikler
+[tab_settings] Ayarlar
+[settings_title] Oyun Ayarları
+[save_management] Kayıt Yönetimi
+[export_save] Kaydı Dışa Aktar
+[import_save] Kaydı İçe Aktar
+[interface_theme] Arayüz Teması
+[theme_desc] Farklı görsel stiller arasında geçiş yapın
+[danger_operations] Tehlikeli İşlemler
+[delete_save] Kaydı Sil
+[delete_save_desc] Tüm oyun verilerini (kayıt, başarımlar, tıklama geçmişi vb.) tamamen siler. Bu işlem geri alınamaz!
+[current_minute_seconds] Geçerli dakikanın saniyeleri
+[accumulated_seconds] Birikmiş saniyeler
+[completed_cycles] Tamamlanan döngüler
+[current_multiplier] Güncel çarpan
+[play] Başlat
+[pause] Duraklat
+[resume] Devam Et
+[minutes_owned] Sahip olunan dakika:
+[basic_upgrades] Temel Yükseltmeler
+[advanced_upgrades] Gelişmiş Yükseltmeler
+[expert_upgrades] Uzman Yükseltmeler
+[ach_first_step_title] İlk Adım
+[ach_first_step_desc] İlk yükseltmeyi satın al
+[ach_one_hour_title] Bir Saat!
+[ach_one_hour_desc] Biriken süre 1 saate ulaştı
+[ach_time_traveler_title] Zaman Yolcusu
+[ach_time_traveler_desc] Biriken süre 10000 saniyeye ulaştı
+[ach_100_minutes_title] 100 Dakika Anısı
+[ach_100_minutes_desc] 100 dakikaya sahip ol
+[ach_1000_minutes_title] 1000 Dakika Efsanesi
+[ach_1000_minutes_desc] 1000 dakikaya sahip ol
+[ach_start_cycle_title] Döngüyü Başlat
+[ach_start_cycle_desc] 1 döngüyü tamamla
+[ach_time_controller_title] Zaman Kontrolcüsü
+[ach_time_controller_desc] 3.0x veya daha yüksek çarpana ulaş
+[ach_time_accelerator_title] Zaman Hızlandırıcı
+[ach_time_accelerator_desc] 5.0x çarpana ulaş
+[ach_extreme_speed_title] Aşırı Sprint
+[ach_extreme_speed_desc] 10.0x hız çarpanına ulaş
+[ach_meteor_acceleration_title] Meteor Hızlanması
+[ach_meteor_acceleration_desc] 25.0x hız çarpanına ulaş
+[ach_prestige_beginning_title] İtibar Başlangıcı
+[ach_prestige_beginning_desc] 1000 SDP'ye sahip ol
+[ach_fragment_obtained_title] Zaman Parçası Elde Edildi
+[ach_fragment_obtained_desc] 1 zaman parçası (VDP) elde et
+[ach_first_rebirth_title] İlk Yeniden Doğuş
+[ach_first_rebirth_desc] 1 zaman yeniden doğuşu gerçekleştir
+[ach_fragment_reset_title] Parça Sıfırlama
+[ach_fragment_reset_desc] 1 zaman parçası sıfırlaması gerçekleştir
+[ach_fragment_upgrader_title] Parça Yükseltici
+[ach_fragment_upgrader_desc] 1 zaman parçası yükseltmesi satın al
+[ach_fragment_craftsman_title] Parça Ustası
+[ach_fragment_craftsman_desc] 5 zaman parçası yükseltmesi satın al
+[ach_challenge_door_title] Görev Kapısı
+[ach_challenge_door_desc] 1 görevi tamamla
+[ach_challenge_master_title] Görev Ustası
+[ach_challenge_master_desc] 3 görevi tamamla
+[ach_ultimate_challenge_title] Nihai Görev
+[ach_ultimate_challenge_desc] 5 görevi tamamla
+[ach_hundred_year_solitude_title] Yüz Yıllık Yalnızlık
+[ach_hundred_year_solitude_desc] 52560000 döngüyü (dakika) tamamla
+[ch_speed_demon_title] Hız Şeytanı
+[ch_speed_demon_desc] 3 dakika içinde 25x hız çarpanına ulaş
+[ch_speed_demon_reward] Kalıcı +1.0x temel hız
+[ch_time_master_title] Zaman Ustası
+[ch_time_master_desc] 2 dakika içinde 200 döngüyü tamamla
+[ch_time_master_reward] Döngü ödülü yükseltmesini aç
+[ch_efficiency_expert_title] Verimlilik Uzmanı
+[ch_efficiency_expert_desc] 1000 dakikadan az kullanarak 100x hız çarpanına ulaş
+[ch_efficiency_expert_reward] Maliyet optimizasyonu yükseltmesini aç
+[ch_minimalist_master_title] Minimalist Usta
+[ch_minimalist_master_desc] Hiç yükseltme satın almadan 5000 saniye birikmiş süreye ulaş
+[ch_minimalist_master_reward] Otomatik dakika yükseltmesini aç
+[ch_golden_chaser_title] Altın Takipçisi
+[ch_golden_chaser_desc] 10 dakika içinde 5 kez altın zaman tetikle
+[ch_golden_chaser_reward] Altın zaman olasılığı kalıcı +5%
+[up_speed_boost_name] Hız Güçlendirme
+[up_speed_boost_desc] Her seviye kalıcı olarak temel hızı 0.1x artırır
+[up_auto_seconds_name] Otomatik Saniyeler
+[up_auto_seconds_desc] Her seviye saniyede 0.1 saniye otomatik kazandırır
+[up_minute_boost_name] Ekstra Dakika
+[up_minute_boost_desc] Her seviye saniyede 0.01 dakika ekstra kazandırır
+[up_speed_multiplier_name] Hız Katlayıcı
+[up_speed_multiplier_desc] Her seviye hız çarpanını %10 artırır
+[up_minute_multiplier_name] Dakika Katlayıcı
+[up_minute_multiplier_desc] Her seviye dakika kazanma çarpanını %10 artırır
+[up_cycle_bonus_name] Döngü Ödülü
+[up_cycle_bonus_desc] Her döngüde 1 ekstra dakika kazandırır
+[up_auto_minutes_name] Otomatik Dakikalar
+[up_auto_minutes_desc] Her seviye saniyede 0.01 dakika otomatik kazandırır
+[up_cost_reduction_name] Maliyet Optimizasyonu
+[up_cost_reduction_desc] Her seviye tüm yükseltme maliyetlerini %5 azaltır
+[up_golden_time_name] Altın Zaman
+[up_golden_time_desc] Her seviye rastgele çift ödül şansını %1 artırır
+[reb1_name] Zaman Yeniden Doğuş Yükseltmesi 1
+[reb1_desc] Yeniden doğuştan sonra saniye kazanımı ×2, hız güçlendirme etkisi 0.15 olur
+[reb2_name] Zaman Yeniden Doğuş Yükseltmesi 2
+[reb2_desc] Yeniden doğarken 3 seviye hız güçlendirmeyi korur ve dakikanın saniye kazanma hızını artırmasını sağlar
+[reb3_name] Zaman Yeniden Doğuş Yükseltmesi 3
+[reb3_desc] Saniye kazanımı ×2.5 ve her dakika saniye çarpanına 0.01 ekler
+[reb4_name] Zaman Yeniden Doğuş Yükseltmesi 4
+[reb4_desc] Sahip olunan dakikaların kareköküne göre saniye üretimini artırır
+[reb5_name] Zaman Yeniden Doğuş Yükseltmesi 5
+[reb5_desc] SDV1 görevini açar
+[reb6_name] Zaman Yeniden Doğuş Yükseltmesi 6
+[reb6_desc] Dönüştürücüyü açar, 60 saniyenin 1 + √(yeniden doğuş sayısı) katı kadar dakika vermesini sağlar
+[reb7_name] Zaman Yeniden Doğuş Yükseltmesi 7
+[reb7_desc] SDV2'yi açar ve üretimi artırır
+[reb8_name] Zaman Yeniden Doğuş Yükseltmesi 8
+[reb8_desc] Puan üretimi ×7.8 (SDV2'nin tamamlanmasını gerektirir)
+[reb9_name] Zaman Yeniden Doğuş Yükseltmesi 9
+[reb9_desc] Satın alınan her SDP yükseltmesi için hız güçlendirme etkisi +0.02
+[reb10_name] Zaman Yeniden Doğuş Yükseltmesi 10
+[reb10_desc] SDV3 görevini açar
+[reb11_name] Zaman Yeniden Doğuş Yükseltmesi 11
+[reb11_desc] SDP kazanımını ikiye katlar ve SDP'ye göre saniye kazanımını artırır
+[vdp11_name] Zaman Parçası Yükseltmesi 1-1
+[vdp11_desc] Saniye üretimi ×2, SDP kazanımı ×2
+[vdp12_name] Zaman Parçası Yükseltmesi 1-2
+[vdp12_desc] Dakika kazanımı ×3
+[vdp21_name] Zaman Parçası Yükseltmesi 2-1
+[vdp21_desc] Sahip olunan dakikalara göre saniye üretimini artırır: ×(1 + dakika^0.6)
+[vdp22_name] Zaman Parçası Yükseltmesi 2-2
+[vdp22_desc] Mevcut SDP'ye göre saniye üretimini artırır: ×(1 + SDP^0.7)
+[vdp23_name] Zaman Parçası Yükseltmesi 2-3
+[vdp23_desc] Mevcut SDP'ye göre dakika kazanımını artırır: ×(1 + SDP^0.55)
+[vdp33_name] Zaman Parçası Yükseltmesi 3-3
+[vdp33_desc] Tamamlanan her görev için saniye üretimi +0.02
+[vdp41_name] Güçlendiriciyi Aç
+[vdp41_desc] Ekstra bonuslar sağlayan güçlendirici sistemini açar
+[sdv1_title] SDV1
+[sdv1_desc] Bir dakika 120 saniye olur, SDP'yi sıfırlar ve tüm yükseltmeleri yoksayar. Hedef: Görevi 7777 saniyede tamamlamak.
+[sdv1_reward] Tamamlandıktan sonra her dakika 40 saniye olur
+[sdv2_title] SDV2
+[sdv2_desc] SDV2'yi açar, hız güçlendirme +0.05, ekstra dakika üretim verimliliği iki katına çıkar.
+[sdv2_reward] SDV2'ye özel üretim yeteneğini artırır
+[sdv3_title] SDV3
+[sdv3_desc] Görev boyunca yumuşak üst sınır her zaman aktiftir, üretim ^0.8125. Hedef: 2125 saniyede tamamlamak.
+[sdv3_reward] Tamamlandıktan sonra her dakika için %25 çift dakika şansı
+[current_bonus] Güncel Bonus
+[current_income] Güncel Kazanç
+[current_multiplier_label] Güncel Çarpan
+[cycle_reward] Döngü Ödülü
+[cost_reduced] Maliyet Azaltma
+[golden_probability] Altın Olasılığı
+[speed] Hız
+[minutes_short] dk
+[up_effect_speed] Güncel bonus: +{0}x hız
+[up_effect_auto_seconds] Güncel kazanç: +{0} sn/sn
+[up_effect_minute_boost] Güncel kazanç: +{0} dk/sn
+[up_effect_speed_multiplier] Güncel çarpan: x{0} hız
+[up_effect_minute_multiplier] Güncel çarpan: x{0} dakika
+[up_effect_cycle_bonus] Döngü ödülü: +{0} dk/döngü
+[up_effect_auto_minutes] Otomatik dakika: +{0} dk/sn
+[up_effect_cost_reduction] Maliyet azaltma: {0}%
+[up_effect_golden_time] Altın olasılığı: {0}%
+[upgrade_button] Yükselt {0} {1}
+[minutes_currency] dakika
+[theme_blue] Mavi
+[theme_darkred] Kırmızı
+[theme_minimal] Siyah
+[theme_neon] Mor+Mavi
+[theme_yellow] Sarı
+[progress] İlerleme
+[unlocked] Başarıldı
+[reward] Ödül
+[time_limit] Zaman Sınırı
+[in_progress] Devam Ediyor
+[complete] Tamamlandı
+[start_challenge] Göreve Başla
+[abandon_challenge] Görevi Bırak
+[no_time_limit] Zaman sınırı yok
+[rebirth_info] Yeniden Doğuş Bilgisi
+[rebirth_upgrades_tab] Yeniden Doğuş Yükseltmeleri
+[time_fragment_upgrades] Zaman Parçası Yükseltmeleri
+[sdv_challenges] SDV Görevleri
+[time_rebirth_points] Zaman Yeniden Doğuş Puanları (SDP)
+[time_fragments] Zaman Parçaları (VDP)
+[rebirth_count] Yeniden doğuş sayısı
+[fragment_reset_count] Parça sıfırlama sayısı
+[time_rebirth] Zaman Yeniden Doğuşu
+[get_time_fragments] Zaman Parçası Kazan
+[current_rebirth_gain] Mevcut yeniden doğuş şunları verebilir:
+[sdp_label] SDP
+[rebirth_desc] Zaman yeniden doğuşu mevcut oynayışı sıfırlar ve yeniden doğuş yükseltmeleri satın almak için kullanılabilecek SDP verir. Zaman parçaları elde etmek SDP harcar ve VDP'yi artırır.
+[sdv_challenge_note] SDV görevleri ana görevlerden bağımsızdır, tamamlandıktan sonra özel yeniden doğuş ödülleri verir.
+[time_rebirth_upgrades_desc] Yeniden doğuş kazançlarını ve özel yetenekleri artırmak için SDP kullanarak zaman yeniden doğuşu yükseltmeleri satın alın.
+[time_fragment_upgrades_desc] Saniye üretimini, dakika kazanımını ve yeniden doğuş verimliliğini güçlendirmek için VDP kullanarak zaman parçası yükseltmeleri satın alın.
+[booster_level] Güçlendirici Seviyesi
+[sdv_challenge_desc] SDV görevleri normal görevlerden bağımsızdır, tamamlandıktan sonra özel yeniden doğuş bonusları verir. Her görev aynı anda yalnızca bir tane yapılabilir, bırakılırsa tekrar seçilebilir.
+[current_sdv_challenge] Mevcut SDV Görevi
+[completed_sdv_challenges] Tamamlanan SDV Görevleri
+[none] Yok
+[game_stats] Oyun İstatistikleri
+[total_accumulated_seconds] Toplam birikmiş saniye
+[current_speed_multiplier] Güncel hız çarpanı
+[highest_second_speed] En yüksek saniye hızı
+[current_minutes] Güncel dakika sayısı
+[current_seconds] Güncel saniye sayısı
+[total_rebirths] Toplam yeniden doğuş sayısı
+[current_sdp] Güncel SDP
+[current_vdp] Güncel VDP
+[total_current_upgrades] Güncel toplam yükseltme sayısı
+[total_current_rebirth_upgrades] Güncel toplam yeniden doğuş yükseltmesi sayısı
+[current_challenges_completed] Tamamlanan görevler
+[save_created_time] Kayıt oluşturma zamanı
+[save_elapsed_time] Kaydın geçen süresi
+[current_theme] Güncel tema
+[footer_text] Zamanla ilerle - BY
+[speed_boost] Hız Güçlendirme
+[speed_boost_desc] Her seviye kalıcı olarak temel hızı 0.1x artırır
+[auto_seconds] Otomatik Saniyeler
+[auto_seconds_desc] Her seviye saniyede 0.1 saniye otomatik kazandırır
+[extra_minutes] Ekstra Dakikalar
+[extra_minutes_desc] Her seviye saniyede 0.01 dakika ekstra kazandırır
+[speed_multiplier] Hız Katlayıcı
+[speed_multiplier_desc] Her seviye hız çarpanını %10 artırır
+[minute_multiplier] Dakika Katlayıcı
+[minute_multiplier_desc] Her seviye dakika kazanma çarpanını %10 artırır
+[cycle_bonus] Döngü Ödülü
+[cycle_bonus_desc] Her döngüde 1 ekstra dakika kazandırır
+[auto_minutes] Otomatik Dakikalar
+[auto_minutes_desc] Her seviye saniyede 0.01 dakika otomatik kazandırır
+[cost_optimization] Maliyet Optimizasyonu
+[cost_optimization_desc] Her seviye tüm yükseltme maliyetlerini %5 azaltır
+[golden_time] Altın Zaman
+[golden_time_desc] Her seviye rastgele çift ödül şansını %1 artırır
+[current_bonus] Güncel Bonus
+[current_income] Güncel Kazanç
+[current_multiplier_label] Güncel Çarpan
+[cycle_reward] Döngü Ödülü
+[cost_reduced] Maliyet Azaltma
+[golden_probability] Altın Olasılığı
+[upgrade] Yükselt
+[completed] Tamamlandı
+[purchase] Satın Al
+[minutes_currency] dakika
+[need_purchase_previous] Önce bir öncekini satın alın
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Görev Modu
+[current_challenge] Mevcut Görev
+[remaining_time] Kalan Süre
+[exit_challenge] Görevden Çık
+[welcome_challenge] Görev Moduna Hoş Geldiniz!
+[challenge_desc_text] Görev modunda çeşitli kısıtlamalar ve hedeflerle karşılaşacaksınız. Bir görevi başarıyla tamamlamak kalıcı ödüller kazandıracak!
+[challenge_rules_title] Görev Kuralları:
+[challenge_rule1] Görev moduna girildiğinde yükseltme satın alınamaz
+[challenge_rule2] Görevin zaman sınırı veya özel koşulları vardır
+[challenge_rule3] Başarısızlık veya çıkış mevcut ilerlemeyi sıfırlar
+[challenge_rule4] Başarılı tamamlama kalıcı ödül kazandırır
+[enter_challenge_mode] Görev Moduna Gir
+[time_limit] Zaman Sınırı
+[reward] Ödül
+[progress] İlerleme
+[in_progress] Devam Ediyor
+[complete] Tamamlandı
+[start_challenge] Göreve Başla
+[abandon_challenge] Görevi Bırak
+[achievement_first_step] İlk Adım
+[achievement_first_step_desc] İlk yükseltmeyi satın al
+[achievement_one_hour] Bir Saat!
+[achievement_one_hour_desc] Biriken süre 1 saate ulaştı
+[achievement_time_traveler] Zaman Yolcusu
+[achievement_time_traveler_desc] Biriken süre 10000 saniyeye ulaştı
+[achievement_100_minutes] 100 Dakika Anısı
+[achievement_100_minutes_desc] 100 dakikaya sahip ol
+[achievement_1000_minutes] 1000 Dakika Efsanesi
+[achievement_1000_minutes_desc] 1000 dakikaya sahip ol
+[achievement_start_cycle] Döngüyü Başlat
+[achievement_start_cycle_desc] 1 döngüyü tamamla
+[achievement_time_controller] Zaman Kontrolcüsü
+[achievement_time_controller_desc] 3.0x veya daha yüksek çarpana ulaş
+[achievement_time_accelerator] Zaman Hızlandırıcı
+[achievement_time_accelerator_desc] 5.0x çarpana ulaş
+[achievement_extreme_speed] Aşırı Sprint
+[achievement_extreme_speed_desc] 10.0x hız çarpanına ulaş
+[achievement_meteor_acceleration] Meteor Hızlanması
+[achievement_meteor_acceleration_desc] 25.0x hız çarpanına ulaş
+[achievement_prestige_beginning] İtibar Başlangıcı
+[achievement_prestige_beginning_desc] 1000 SDP'ye sahip ol
+[achievement_fragment_obtained] Zaman Parçası Elde Edildi
+[achievement_fragment_obtained_desc] 1 zaman parçası (VDP) elde et
+[achievement_first_rebirth] İlk Yeniden Doğuş
+[achievement_first_rebirth_desc] 1 zaman yeniden doğuşu gerçekleştir
+[achievement_fragment_reset] Parça Sıfırlama
+[achievement_fragment_reset_desc] 1 zaman parçası sıfırlaması gerçekleştir
+[achievement_fragment_upgrader] Parça Yükseltici
+[achievement_fragment_upgrader_desc] 1 zaman parçası yükseltmesi satın al
+[achievement_fragment_craftsman] Parça Ustası
+[achievement_fragment_craftsman_desc] 5 zaman parçası yükseltmesi satın al
+[achievement_challenge_door] Görev Kapısı
+[achievement_challenge_door_desc] 1 görevi tamamla
+[achievement_challenge_master] Görev Ustası
+[achievement_challenge_master_desc] 3 görevi tamamla
+[achievement_ultimate_challenge] Nihai Görev
+[achievement_ultimate_challenge_desc] 5 görevi tamamla
+[achievement_hundred_year_solitude] Yüz Yıllık Yalnızlık
+[achievement_hundred_year_solitude_desc] 52560000 döngüyü (dakika) tamamla
+[import_prompt] Lütfen kayıt dizesini yapıştırın:
+[export_prompt] Lütfen aşağıdaki kayıt kodunu kopyalayın:
+[import_success] İçe aktarma başarılı! Oyun yenilenecek.
+[import_error] Kayıt geçersiz, ayrıştırılamadı! Lütfen tam olarak kopyaladığınızı kontrol edin.
+[delete_confirm] ⚠️ Uyarı: Bu işlem, kayıtlar, başarımlar, tıklama geçmişi, kilometre taşları vb. tüm oyun verilerini kalıcı olarak silecektir.
+[delete_confirm_question] Tamamen silip baştan başlamak istediğinize emin misiniz?
+[delete_success] Tüm veriler tamamen silindi!
+[save_load_error] Kayıt yüklenirken hata oluştu:
+[save_check_message] Lütfen kaydın doğru olup olmadığını kontrol edin veya yeniden içe aktarmayı deneyin.
+[exit_challenge_confirm] Görev modundan çıkmak istediğinize emin misiniz? Mevcut ilerleme kaybolacak.
+[exit_challenge_success] Görev modundan çıkıldı.
+[enter_challenge_success] Görev moduna girildi! Artık bir görev seçip başlayabilirsiniz.
+[challenge_start_message] Görev başladı!
+[target] Hedef:
+[time_format] dk
+[rebirth_need_minutes] Zaman yeniden doğuşu yapmak için en az 10 dakika gerekir.
+[rebirth_success] Zaman yeniden doğuşu başarılı, kazanıldı:
+[vdp_need_sdp] Zaman parçası elde etmek için en az 1000 SDP gerekir.
+[vdp_cannot_obtain] Şu anda zaman parçası elde edilemiyor.
+[vdp_obtained] Kazanıldı:
+[time_fragments_obtained] zaman parçası!
+[abandon_sdv_confirm] Mevcut SDV görevinden vazgeçmek istediğinize emin misiniz?
+[sdv_started] SDV görevi başlatılıyor:
+[sdv_unlock_hint] Açmak için ilgili SDV yeniden doğuş yükseltmesinin satın alınması gerekir
+[challenge_failed] Görev başarısız! Süre doldu.
+[speed_calc_error] Hız hesaplama hatası, varsayılan değere döndürüldü:
+[speed_calc_error_hint] Bu, kayıt verilerinin bozulmasından kaynaklanıyor olabilir.
+[seconds_per_second] sn/sn
+[minutes_per_second] dk/sn
+[minutes_per_cycle] dk/döngü
+[minutes_per_second_auto] dk/sn
+[seconds] saniye
+[no_time_limit] Zaman sınırı yok
+[unlocked] Başarıldı
+[locked_status] Açılmadı
+[start_sdv] SDV'yi Başlat
+[abandon_sdv] SDV'yi Bırak
+[rebirth_gain_sdp] Zaman yeniden doğuşu ({0} SDP kazanılacak)
+[upgrade_completed] Tamamlandı
+[need_purchase_previous] Önce bir öncekini satın alın
+[purchase_button] Satın Al {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Tamamlandı
+[need_purchase_previous] Önce bir öncekini satın alın
+[purchase_button] Satın Al {0} {1}
+[vdp_currency] VDP
+[start_sdv] SDV'yi Başlat
+[abandon_sdv] SDV'yi Bırak
+[sdv_unlock_hint] Açmak için ilgili SDV yeniden doğuş yükseltmesinin satın alınması gerekir
+[abandon_sdv_confirm] Mevcut SDV görevinden vazgeçmek istediğinize emin misiniz?
+[rebirth_button_text] Zaman yeniden doğuşu ({0} SDP kazanılacak)
+[insufficient_funds] Yetersiz bakiye
+[unit_seconds_per_second] sn/s
+[none] Yok
+[yes] Evet
+[no] Hayır
+[basic_upgrades] Temel Yükseltmeler
+[advanced_upgrades] Gelişmiş Yükseltmeler
+[expert_upgrades] Uzman Yükseltmeler
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Arayüz dilini seçin
+[load_language_fail] Dil yüklenemedi
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

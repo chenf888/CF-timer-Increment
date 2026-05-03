@@ -1,0 +1,340 @@
+[game_title] Timer Incremento
+[version_text] Versione attuale 1.4.2
+[join_us] Unisciti a noi
+[about] Informazioni
+[about_title] Informazioni su Timer Incremento
+[about_desc] Questo è un gioco di incremento del tempo. I giocatori accelerano l’accumulo di tempo acquistando potenziamenti e completando sfide, vivendo una crescita da lenta a esplosiva.
+[author] Autore:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Consiglio di gioco:
+[gameplay_text] Migliora prima velocità e minuti automatici, poi raccogli ricompense ciclo e tempo dorato per ottenere minuti più velocemente.
+[acknowledgment] Ringraziamenti:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Grazie a tutti i giocatori per il supporto e i feedback!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Sicuro di voler uscire dalla modalità sfida? Il progresso attuale andrà perso.
+[exit_challenge_success] Sei uscito dalla modalità sfida.
+[enter_challenge_success] Sei entrato nella modalità sfida! Ora puoi scegliere e iniziare una sfida.
+[resume] Riprendi
+[play] Avvia
+[pause] Pausa
+[export_prompt] Copia il codice di salvataggio qui sotto:
+[export_prompt_raw] Copia il salvataggio originale qui sotto:
+[import_prompt] Incolla la stringa di salvataggio:
+[import_success] Importazione riuscita! Il gioco si aggiornerà a breve.
+[import_error] Salvataggio non valido, impossibile analizzare! Controlla di aver copiato tutto. Errore:
+[delete_confirm] ⚠️ Attenzione: questa azione cancellerà permanentemente tutti i dati di gioco, inclusi salvataggi, progresso achievement, cronologia clic, traguardi e altro.
+
+Sicuro di voler cancellare tutto e ricominciare da capo?
+[delete_success] Tutti i dati sono stati cancellati definitivamente!
+[time_day] giorno
+[time_hour] ora
+[time_minute] minuto
+[time_second] secondo
+[tab_timer] Timer
+[tab_upgrades] Potenziamenti
+[tab_achievements] Achievement
+[tab_challenges] Sfide
+[tab_rebirth] Rinascita
+[tab_stats] Statistiche
+[tab_settings] Impostazioni
+[settings_title] Impostazioni di gioco
+[save_management] Gestione salvataggi
+[export_save] Esporta salvataggio
+[import_save] Importa salvataggio
+[interface_theme] Tema interfaccia
+[theme_desc] Cambia stile visivo
+[danger_operations] Operazioni pericolose
+[delete_save] Cancella salvataggio e ricomincia
+[delete_save_desc] Cancella tutti i dati di gioco definitivamente (salvataggi, achievement, cronologia clic ecc.). Azione irreversibile!
+[current_minute_seconds] Secondi del minuto attuale
+[accumulated_seconds] Secondi accumulati
+[completed_cycles] Cicli completati
+[current_multiplier] Moltiplicatore attuale
+[minutes_owned] Minuti posseduti:
+[basic_upgrades] Potenziamenti base
+[advanced_upgrades] Potenziamenti avanzati
+[expert_upgrades] Potenziamenti esperti
+[ach_first_step_title] Primo passo
+[ach_first_step_desc] Acquista il primo potenziamento
+[ach_one_hour_title] Un’ora!
+[ach_one_hour_desc] Tempo totale raggiunto: 1 ora
+[ach_time_traveler_title] Viaggiatore del tempo
+[ach_time_traveler_desc] Tempo totale raggiunto: 10000 secondi
+[ach_100_minutes_title] Ricordo 100 minuti
+[ach_100_minutes_desc] Possiedi 100 minuti
+[ach_1000_minutes_title] Leggenda 1000 minuti
+[ach_1000_minutes_desc] Possiedi 1000 minuti
+[ach_start_cycle_title] Inizio ciclo
+[ach_start_cycle_desc] Completa 1 ciclo
+[ach_time_controller_title] Controllore del tempo
+[ach_time_controller_desc] Raggiungi moltiplicatore 3.0x o superiore
+[ach_time_accelerator_title] Acceleratore del tempo
+[ach_time_accelerator_desc] Raggiungi moltiplicatore 5.0x
+[ach_extreme_speed_title] Velocità estrema
+[ach_extreme_speed_desc] Raggiungi moltiplicatore di velocità 10.0x
+[ach_meteor_acceleration_title] Accelerazione meteora
+[ach_meteor_acceleration_desc] Raggiungi moltiplicatore di velocità 25.0x
+[ach_prestige_beginning_title] Inizio prestigio
+[ach_prestige_beginning_desc] Possiedi 1000 SDP
+[ach_fragment_obtained_title] Frammento temporale ottenuto
+[ach_fragment_obtained_desc] Ottieni 1 frammento temporale (VDP)
+[ach_first_rebirth_title] Prima rinascita
+[ach_first_rebirth_desc] Completa 1 rinascita temporale
+[ach_fragment_reset_title] Reset frammento
+[ach_fragment_reset_desc] Completa 1 reset frammento temporale
+[ach_fragment_upgrader_title] Potenziatore frammenti
+[ach_fragment_upgrader_desc] Acquista 1 potenziamento frammento temporale
+[ach_fragment_craftsman_title] Artigiano frammenti
+[ach_fragment_craftsman_desc] Acquista 5 potenziamenti frammenti temporali
+[ach_challenge_door_title] Porta delle sfide
+[ach_challenge_door_desc] Completa 1 sfida
+[ach_challenge_master_title] Maestro delle sfide
+[ach_challenge_master_desc] Completa 3 sfide
+[ach_ultimate_challenge_title] Sfida definitiva
+[ach_ultimate_challenge_desc] Completa 5 sfide
+[ach_hundred_year_solitude_title] Solitudine centenaria
+[ach_hundred_year_solitude_desc] Completa 52560000 cicli (minuti)
+[ch_speed_demon_title] Demone della velocità
+[ch_speed_demon_desc] Raggiungi 25x moltiplicatore di velocità in 3 minuti
+[ch_speed_demon_reward] +1.0x velocità base permanente
+[ch_time_master_title] Maestro del tempo
+[ch_time_master_desc] Completa 200 cicli in 2 minuti
+[ch_time_master_reward] Sblocca potenziamento ricompensa ciclo
+[ch_efficiency_expert_title] Esperto di efficienza
+[ch_efficiency_expert_desc] Raggiungi 100x moltiplicatore di velocità con meno di 1000 minuti
+[ch_efficiency_expert_reward] Sblocca potenziamento ottimizzazione costi
+[ch_minimalist_master_title] Maestro minimalista
+[ch_minimalist_master_desc] Raggiungi 5000 secondi di tempo totale senza acquistare alcun potenziamento
+[ch_minimalist_master_reward] Sblocca potenziamento minuti automatici
+[ch_golden_chaser_title] Cacciatore d’oro
+[ch_golden_chaser_desc] Attiva il tempo dorato 5 volte in 10 minuti
+[ch_golden_chaser_reward] +5% probabilità tempo dorato permanente
+[up_speed_boost_name] Potenziamento velocità
+[up_speed_boost_desc] Ogni livello aumenta permanentemente la velocità base di +0.1x
+[up_auto_seconds_name] Secondi automatici
+[up_auto_seconds_desc] Ogni livello fornisce automaticamente 0.1 secondo al secondo
+[up_minute_boost_name] Minuti extra
+[up_minute_boost_desc] Ogni livello fornisce 0.01 minuto extra al secondo
+[up_speed_multiplier_name] Moltiplicazione velocità
+[up_speed_multiplier_desc] Ogni livello aumenta il moltiplicatore di velocità del 10%
+[up_minute_multiplier_name] Moltiplicazione minuti
+[up_minute_multiplier_desc] Ogni livello aumenta il moltiplicatore di guadagno minuti del 10%
+[up_cycle_bonus_name] Ricompensa ciclo
+[up_cycle_bonus_desc] 1 minuto extra per ciclo
+[up_auto_minutes_name] Minuti automatici
+[up_auto_minutes_desc] Ogni livello fornisce automaticamente 0.01 minuto al secondo
+[up_cost_reduction_name] Riduzione costi
+[up_cost_reduction_desc] Ogni livello riduce tutti i costi dei potenziamenti del 5%
+[up_golden_time_name] Tempo dorato
+[up_golden_time_desc] Ogni livello aumenta la probabilità di ricompensa doppia dell’1%
+[reb1_name] Potenziamento Rinascita Temporale 1
+[reb1_desc] Dopo la rinascita ×2 guadagno secondi, potenziamento velocità diventa 0.15
+[reb2_name] Potenziamento Rinascita Temporale 2
+[reb2_desc] Mantieni livello 3 di potenziamento velocità alla rinascita, i minuti aumentano la velocità secondi
+[reb3_name] Potenziamento Rinascita Temporale 3
+[reb3_desc] ×2.5 guadagno secondi, ogni minuto aggiunge +0.01 al moltiplicatore secondi
+[reb4_name] Potenziamento Rinascita Temporale 4
+[reb4_desc] Aumenta produzione secondi basandosi sulla radice quadrata dei minuti posseduti
+[reb5_name] Potenziamento Rinascita Temporale 5
+[reb5_desc] Sblocca sfida SDV1
+[reb6_name] Potenziamento Rinascita Temporale 6
+[reb6_desc] Sblocca convertitore, 60 secondi = 1 minuto → 1 + √(numero rinascite) volte
+[reb7_name] Potenziamento Rinascita Temporale 7
+[reb7_desc] Sblocca SDV2 e aumenta produzione
+[reb8_name] Potenziamento Rinascita Temporale 8
+[reb8_desc] Produzione punti ×7.8 (richiede SDV2 completato)
+[reb9_name] Potenziamento Rinascita Temporale 9
+[reb9_desc] Ogni potenziamento SDP acquistato aggiunge +0.02 al potenziamento velocità
+[reb10_name] Potenziamento Rinascita Temporale 10
+[reb10_desc] Sblocca sfida SDV3
+[reb11_name] Potenziamento Rinascita Temporale 11
+[reb11_desc] Guadagno SDP raddoppiato, aumenta guadagno secondi basandosi su SDP
+[vdp11_name] Potenziamento Frammento 1-1
+[vdp11_desc] ×2 produzione secondi, ×2 guadagno SDP
+[vdp12_name] Potenziamento Frammento 1-2
+[vdp12_desc] ×3 guadagno minuti
+[vdp21_name] Potenziamento Frammento 2-1
+[vdp21_desc] Aumenta produzione secondi basandosi sui minuti posseduti: ×(1 + minuti^0.6)
+[vdp22_name] Potenziamento Frammento 2-2
+[vdp22_desc] Aumenta produzione secondi basandosi su SDP attuale: ×(1 + SDP^0.7)
+[vdp23_name] Potenziamento Frammento 2-3
+[vdp23_desc] Aumenta guadagno minuti basandosi su SDP attuale: ×(1 + SDP^0.55)
+[vdp33_name] Potenziamento Frammento 3-3
+[vdp33_desc] Ogni sfida completata aggiunge +0.02 alla produzione secondi
+[vdp41_name] Sblocca potenziatore
+[vdp41_desc] Sblocca sistema potenziatori per bonus extra
+[sdv1_title] SDV1
+[sdv1_desc] 1 minuto = 120 secondi, reset SDP, ignora tutti i potenziamenti. Obiettivo: completare 7777 secondi.
+[sdv1_reward] Dopo completamento, 1 minuto diventa 40 secondi
+[sdv2_title] SDV2
+[sdv2_desc] Sblocca SDV2, +0.05 potenziamento velocità, efficacia raddoppiata produzione minuti extra.
+[sdv2_reward] Aumenta capacità produttiva esclusiva SDV2
+[sdv3_title] SDV3
+[sdv3_desc] Limite morbido costante nella sfida, produzione ^0.8125. Obiettivo: completare 2125 secondi.
+[sdv3_reward] Dopo completamento, 25% probabilità minuto doppio al minuto
+[current_bonus] Bonus attuale
+[current_income] Entrate attuali
+[current_multiplier_label] Moltiplicatore attuale
+[cycle_reward] Ricompensa ciclo
+[cost_reduced] Costo ridotto
+[golden_probability] Probabilità dorata
+[speed] Velocità
+[minutes_short] min
+[up_effect_speed] Bonus attuale: +{0}x velocità
+[up_effect_auto_seconds] Entrate attuali: +{0} s/s
+[up_effect_minute_boost] Entrate attuali: +{0} min/s
+[up_effect_speed_multiplier] Moltiplicatore attuale: ×{0} velocità
+[up_effect_minute_multiplier] Moltiplicatore attuale: ×{0} minuti
+[up_effect_cycle_bonus] Ricompensa ciclo: +{0} min/ciclo
+[up_effect_auto_minutes] Minuti automatici: +{0} min/s
+[up_effect_cost_reduction] Riduzione costo: {0}%
+[up_effect_golden_time] Probabilità dorata: {0}%
+[upgrade_button] Potenzia {0} {1}
+[minutes_currency] minuti
+[theme_blue] Blu
+[theme_darkred] Rosso
+[theme_minimal] Nero
+[theme_neon] Viola+Blu
+[theme_yellow] Giallo
+[progress] Progresso
+[unlocked] Sbloccato
+[reward] Ricompensa
+[time_limit] Limite di tempo
+[in_progress] In corso
+[complete] Completato
+[start_challenge] Inizia sfida
+[abandon_challenge] Abbandona sfida
+[no_time_limit] Nessun limite di tempo
+[rebirth_info] Info rinascita
+[rebirth_upgrades_tab] Potenziamenti rinascita
+[time_fragment_upgrades] Potenziamenti frammenti temporali
+[sdv_challenges] Sfide SDV
+[time_rebirth_points] Punti Rinascita Temporale (SDP)
+[time_fragments] Frammenti Temporali (VDP)
+[rebirth_count] Numero di rinascite
+[fragment_reset_count] Numero di reset frammenti
+[time_rebirth] Rinascita Temporale
+[get_time_fragments] Ottieni frammenti temporali
+[current_rebirth_gain] Guadagno rinascita attuale:
+[sdp_label] SDP
+[rebirth_desc] La rinascita temporale resetta la partita corrente e dona SDP, usabile per potenziamenti. Ottenere frammenti costa SDP e aumenta VDP.
+[sdv_challenge_note] Le sfide SDV sono indipendenti dalle sfide principali e danno ricompense esclusive.
+[time_rebirth_upgrades_desc] Usa SDP per acquistare potenziamenti di rinascita e aumentare guadagni e abilità speciali.
+[time_fragment_upgrades_desc] Usa VDP per acquistare potenziamenti frammenti e rafforzare produzione, guadagni e efficienza.
+[booster_level] Livello potenziatore
+[sdv_challenge_desc] Sfide SDV indipendenti; solo una alla volta, abbandonabile e ripetibile.
+[current_sdv_challenge] Sfida SDV attuale
+[completed_sdv_challenges] Sfide SDV completate
+[none] Nessuno
+[game_stats] Statistiche di gioco
+[total_accumulated_seconds] Totale secondi accumulati
+[current_speed_multiplier] Moltiplicatore di velocità attuale
+[highest_second_speed] Velocità secondi massima
+[current_minutes] Minuti attuali
+[current_seconds] Secondi attuali
+[total_rebirths] Numero totale di rinascite
+[current_sdp] SDP attuale
+[current_vdp] VDP attuale
+[total_current_upgrades] Totale potenziamenti attuali
+[total_current_rebirth_upgrades] Totale potenziamenti rinascita attuali
+[current_challenges_completed] Sfide completate attualmente
+[save_created_time] Data creazione salvataggio
+[save_elapsed_time] Tempo trascorso dal salvataggio
+[current_theme] Tema attuale
+[footer_text] In avanti con il tempo - BY
+[speed_boost] Potenziamento velocità
+[speed_boost_desc] Ogni livello aumenta permanentemente velocità base di +0.1x
+[auto_seconds] Secondi automatici
+[auto_seconds_desc] Ogni livello fornisce 0.1 secondo al secondo automaticamente
+[extra_minutes] Minuti extra
+[extra_minutes_desc] Ogni livello fornisce 0.01 minuto extra al secondo
+[speed_multiplier] Moltiplicazione velocità
+[speed_multiplier_desc] Ogni livello aumenta moltiplicatore velocità del 10%
+[minute_multiplier] Moltiplicazione minuti
+[minute_multiplier_desc] Ogni livello aumenta moltiplicatore guadagno minuti del 10%
+[cycle_bonus] Ricompensa ciclo
+[cycle_bonus_desc] 1 minuto extra per ciclo
+[auto_minutes] Minuti automatici
+[auto_minutes_desc] Ogni livello fornisce 0.01 minuto al secondo automaticamente
+[cost_optimization] Ottimizzazione costi
+[cost_optimization_desc] Ogni livello riduce tutti i costi dei potenziamenti del 5%
+[golden_time] Tempo dorato
+[golden_time_desc] Ogni livello aumenta probabilità di ricompensa doppia dell’1%
+[upgrade] Potenzia
+[completed] Completato
+[purchase] Acquista
+[need_purchase_previous] Acquista prima l’elemento precedente
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Modalità sfida
+[current_challenge] Sfida attuale
+[remaining_time] Tempo rimanente
+[exit_challenge] Esci dalla sfida
+[welcome_challenge] Benvenuto nella modalità sfida!
+[challenge_desc_text] In questa modalità affronterai limiti e obiettivi. Il completamento con successo dona ricompense permanenti!
+[challenge_rules_title] Regole della sfida:
+[challenge_rule1] Non puoi acquistare potenziamenti in modalità sfida
+[challenge_rule2] Le sfide hanno limite di tempo o condizioni speciali
+[challenge_rule3] Fallimento o uscita resettano il progresso
+[challenge_rule4] Completamento con successo → ricompensa permanente
+[enter_challenge_mode] Entra nella modalità sfida
+[target] Obiettivo:
+[time_format] min
+[rebirth_need_minutes] Per la rinascita temporale servono almeno 10 minuti.
+[rebirth_success] Rinascita temporale riuscita, ottenuto:
+[vdp_need_sdp] Per ottenere frammenti servono almeno 1000 SDP.
+[vdp_cannot_obtain] Impossibile ottenere frammenti ora.
+[vdp_obtained] Ottenuto
+[time_fragments_obtained] frammenti temporali!
+[abandon_sdv_confirm] Sicuro di voler abbandonare la sfida SDV attuale?
+[sdv_started] Sfida SDV avviata:
+[sdv_unlock_hint] Richiede il potenziamento SDV corrispondente per sbloccare
+[challenge_failed] Sfida fallita! Tempo scaduto.
+[speed_calc_error] Errore calcolo velocità, valore predefinito ripristinato:
+[speed_calc_error_hint] Può dipendere da un salvataggio danneggiato.
+[seconds_per_second] s/s
+[minutes_per_second] min/s
+[minutes_per_cycle] min/ciclo
+[minutes_per_second_auto] min/s
+[seconds] secondi
+[locked_status] Bloccato
+[start_sdv] Avvia SDV
+[abandon_sdv] Abbandona SDV
+[rebirth_gain_sdp] Rinascita Temporale (ottieni {0} SDP)
+[upgrade_completed] Completato
+[purchase_button] Acquista {0} {1}
+[rebirth_button_text] Rinascita Temporale (ottieni {0} SDP)
+[insufficient_funds] Saldo insufficiente
+[unit_seconds_per_second] s/s
+[yes] Sì
+[no] No
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Seleziona lingua interfaccia
+[load_language_fail] Caricamento lingua fallito
+[change_language] Cambia lingua
+[choose_language] Scegli lingua
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

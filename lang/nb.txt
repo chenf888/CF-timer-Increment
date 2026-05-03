@@ -1,0 +1,424 @@
+[game_title] Tidsinkrement
+[version_text] Gjeldende versjon 1.4.2
+[join_us] Bli med oss
+[about] Om
+[about_title] Om Tidsinkrement
+[about_desc] Dette er et tidsinkrementspill der spilleren akselererer tidsoppbygningen ved å kjøpe oppgraderinger og fullføre utfordringer, og opplever en vekst fra langsom til eksplosiv.
+[author] Forfatter:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Spilletips:
+[gameplay_text] Prioriter å øke hastighet og automatiske minutter, deretter samle syklusbelønninger og gyllen tid for å få minutter raskere.
+[acknowledgment] Takke til:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Takk til alle spillere som støtter og gir tilbakemeldinger!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Er du sikker på at du vil avslutte utfordringsmodusen? Gjeldende fremgang går tapt.
+[exit_challenge_success] Du har avsluttet utfordringsmodusen.
+[enter_challenge_success] Du har gått inn i utfordringsmodusen! Nå kan du velge og starte en utfordring.
+[resume] Fortsett
+[play] Start
+[pause] Pause
+[export_prompt] Kopier lagringskoden nedenfor:
+[export_prompt_raw] Kopier den originale lagringen nedenfor:
+[import_prompt] Lim inn lagringsstrengen:
+[import_success] Import vellykket! Spillet vil snart oppdateres.
+[import_error] Ugyldig lagring, kan ikke analyseres! Sjekk om du har kopiert hele innholdet. Feil:
+[delete_confirm] ⚠️ Advarsel: Denne handlingen vil slette alle spildata permanent, inkludert lagring, prestasjonsfremgang, klikkregistreringer, milepæler osv.
+[delete_success] Alle data er slettet fullstendig!
+[time_day] dager
+[time_hour] timer
+[time_minute] minutter
+[time_second] sekunder
+[tab_timer] Timer
+[tab_upgrades] Oppgraderinger
+[tab_achievements] Prestasjoner
+[tab_challenges] Utfordringer
+[tab_rebirth] Gjenfødelse
+[tab_stats] Statistikk
+[tab_settings] Innstillinger
+[settings_title] Spillinnstillinger
+[save_management] Lagringshåndtering
+[export_save] Eksporter lagring
+[import_save] Importer lagring
+[interface_theme] Grensesnittstema
+[theme_desc] Bytt mellom forskjellige visuelle stiler
+[danger_operations] Farlige handlinger
+[delete_save] Slett lagring og start på nytt
+[delete_save_desc] Slett alle spildata fullstendig (lagring, prestasjoner, klikkregistreringer osv.). Denne handlingen kan ikke angres!
+[current_minute_seconds] Sekunder i gjeldende minutt
+[accumulated_seconds] Akkumulerte sekunder
+[completed_cycles] Fullførte sykluser
+[current_multiplier] Gjeldende multiplikator
+[play] Start
+[pause] Pause
+[resume] Fortsett
+[minutes_owned] Eide minutter:
+[basic_upgrades] Grunnleggende oppgraderinger
+[advanced_upgrades] Avanserte oppgraderinger
+[expert_upgrades] Ekspertoppgraderinger
+[ach_first_step_title] Første skritt
+[ach_first_step_desc] Kjøp den første oppgraderingen
+[ach_one_hour_title] En time!
+[ach_one_hour_desc] Akkumulert tid nå 1 time
+[ach_time_traveler_title] Tidsreisende
+[ach_time_traveler_desc] Akkumulert tid nå 10000 sekunder
+[ach_100_minutes_title] 100 minutter minne
+[ach_100_minutes_desc] Eier 100 minutter
+[ach_1000_minutes_title] 1000 minutter legende
+[ach_1000_minutes_desc] Eier 1000 minutter
+[ach_start_cycle_title] Start syklus
+[ach_start_cycle_desc] Fullfør 1 syklus
+[ach_time_controller_title] Tidsmester
+[ach_time_controller_desc] Oppnår 3.0x eller høyere multiplikator
+[ach_time_accelerator_title] Tidsakselerator
+[ach_time_accelerator_desc] Oppnår 5.0x multiplikator
+[ach_extreme_speed_title] Ekstrem hastighet
+[ach_extreme_speed_desc] Oppnår 10.0x hastighetsmultiplikator
+[ach_meteor_acceleration_title] Meteoroakselerasjon
+[ach_meteor_acceleration_desc] Oppnår 25.0x hastighetsmultiplikator
+[ach_prestige_beginning_title] Prestisjebegynnelse
+[ach_prestige_beginning_desc] Eier 1000 SDP
+[ach_fragment_obtained_title] Tidsfragment oppnådd
+[ach_fragment_obtained_desc] Få 1 tidsfragment (VDP)
+[ach_first_rebirth_title] Første gjenfødelse
+[ach_first_rebirth_desc] Fullfør 1 tidsgjenfødelse
+[ach_fragment_reset_title] Fragmenttilbakestilling
+[ach_fragment_reset_desc] Fullfør 1 tidsfragmenttilbakestilling
+[ach_fragment_upgrader_title] Fragmentoppgraderer
+[ach_fragment_upgrader_desc] Kjøp 1 tidsfragmentoppgradering
+[ach_fragment_craftsman_title] Fragmentsmed
+[ach_fragment_craftsman_desc] Kjøp 5 tidsfragmentoppgraderinger
+[ach_challenge_door_title] Utfordringsdør
+[ach_challenge_door_desc] Fullfør 1 utfordring
+[ach_challenge_master_title] Utfordringsmester
+[ach_challenge_master_desc] Fullfør 3 utfordringer
+[ach_ultimate_challenge_title] Endelig utfordring
+[ach_ultimate_challenge_desc] Fullfør 5 utfordringer
+[ach_hundred_year_solitude_title] Hundre års ensomhet
+[ach_hundred_year_solitude_desc] Fullfør 52560000 sykluser (minutter)
+[ch_speed_demon_title] Hastighetsdemon
+[ch_speed_demon_desc] Oppnår 25x hastighetsmultiplikator innen 3 minutter
+[ch_speed_demon_reward] Permanent +1.0x grunnleggende hastighet
+[ch_time_master_title] Tidsmester
+[ch_time_master_desc] Fullfør 200 sykluser innen 2 minutter
+[ch_time_master_reward] Lås opp syklusbelønningsoppgradering
+[ch_efficiency_expert_title] Effektivitetsekspert
+[ch_efficiency_expert_desc] Oppnår 100x hastighetsmultiplikator med mindre enn 1000 minutter
+[ch_efficiency_expert_reward] Lås opp kostnadsoptimaliseringsoppgradering
+[ch_minimalist_master_title] Minimalistisk mester
+[ch_minimalist_master_desc] Oppnår 5000 sekunder akkumulert tid uten å kjøpe noen oppgraderinger
+[ch_minimalist_master_reward] Lås opp automatiske minutter oppgradering
+[ch_golden_chaser_title] Gyllen jakter
+[ch_golden_chaser_desc] Utløs 5 ganger gyllen tid innen 10 minutter
+[ch_golden_chaser_reward] Gyllen tid sannsynlighet permanent +5%
+[up_speed_boost_name] Hastighetsforsterkning
+[up_speed_boost_desc] Hvert nivå øker permanent grunnleggende hastighet med 0.1x
+[up_auto_seconds_name] Automatiske sekunder
+[up_auto_seconds_desc] Hvert nivå gir automatisk 0.1 sekunder per sekund
+[up_minute_boost_name] Ekstra minutter
+[up_minute_boost_desc] Hvert nivå gir ekstra 0.01 minutter per sekund
+[up_speed_multiplier_name] Hastighetsdobling
+[up_speed_multiplier_desc] Hvert nivå øker hastighetsmultiplikatoren med 10%
+[up_minute_multiplier_name] Minuttveddobling
+[up_minute_multiplier_desc] Hvert nivå øker minuttinntektsmultiplikatoren med 10%
+[up_cycle_bonus_name] Syklusbelønning
+[up_cycle_bonus_desc] Hver syklus gir ekstra 1 minutt
+[up_auto_minutes_name] Automatiske minutter
+[up_auto_minutes_desc] Hvert nivå gir automatisk 0.01 minutter per sekund
+[up_cost_reduction_name] Kostnadsreduksjon
+[up_cost_reduction_desc] Hvert nivå reduserer kostnaden for alle oppgraderinger med 5%
+[up_golden_time_name] Gyllen tid
+[up_golden_time_desc] Hvert nivå øker sannsynligheten for tilfeldig dobbelt belønning med 1%
+[reb1_name] Tidsgjenfødelseoppgradering 1
+[reb1_desc] Sekundinntekt ×2 etter gjenfødelse, hastighetsforsterkningseffekt blir 0.15
+[reb2_name] Tidsgjenfødelseoppgradering 2
+[reb2_desc] Behold hastighetsforsterkningsnivå 3 ved gjenfødelse, og la minutter øke sekundinntektsfarten
+[reb3_name] Tidsgjenfødelseoppgradering 3
+[reb3_desc] Sekundinntekt ×2.5, og hver minutt øker sekundmultiplikatoren med 0.01
+[reb4_name] Tidsgjenfødelseoppgradering 4
+[reb4_desc] Øk sekundproduksjon basert på kvadratroten av eksisterende minutter
+[reb5_name] Tidsgjenfødelseoppgradering 5
+[reb5_desc] Lås opp SDV1-utfordringen
+[reb6_name] Tidsgjenfødelseoppgradering 6
+[reb6_desc] Lås opp konverteren, slik at 60 sekunder gir 1 minutt blir 1 + √gjenfødelsesganger ganger
+[reb7_name] Tidsgjenfødelseoppgradering 7
+[reb7_desc] Lås opp SDV2 og øk produksjon
+[reb8_name] Tidsgjenfødelseoppgradering 8
+[reb8_desc] Poengproduksjon ×7.8 (krever fullført SDV2)
+[reb9_name] Tidsgjenfødelseoppgradering 9
+[reb9_desc] Hver kjøpt SDP-oppgradering øker hastighetsforsterkningseffekten med 0.02
+[reb10_name] Tidsgjenfødelseoppgradering 10
+[reb10_desc] Lås opp SDV3-utfordringen
+[reb11_name] Tidsgjenfødelseoppgradering 11
+[reb11_desc] SDP-inntekt dobles, og øk sekundinntekt basert på SDP
+[vdp11_name] Tidsfragmentoppgradering 1-1
+[vdp11_desc] Sekundproduksjon ×2, SDP-inntekt ×2
+[vdp12_name] Tidsfragmentoppgradering 1-2
+[vdp12_desc] Minuttinntekt ×3
+[vdp21_name] Tidsfragmentoppgradering 2-1
+[vdp21_desc] Øk sekundproduksjon basert på eksisterende minutter: ×(1 + minutter^0.6)
+[vdp22_name] Tidsfragmentoppgradering 2-2
+[vdp22_desc] Øk sekundproduksjon basert på gjeldende SDP: ×(1 + SDP^0.7)
+[vdp23_name] Tidsfragmentoppgradering 2-3
+[vdp23_desc] Øk minuttinntekt basert på gjeldende SDP: ×(1 + SDP^0.55)
+[vdp33_name] Tidsfragmentoppgradering 3-3
+[vdp33_desc] Hver fullført utfordring øker sekundproduksjonen med 0.02
+[vdp41_name] Lås opp forsterker
+[vdp41_desc] Lås opp forsterkersystemet som gir ekstra fordeler
+[sdv1_title] SDV1
+[sdv1_desc] Ett minutt blir 120 sekunder, tilbakestill SDP og ignorer alle oppgraderinger. Mål: Fullfør utfordringen på 7777 sekunder.
+[sdv1_reward] Etter fullførelse blir ett minutt 40 sekunder
+[sdv2_title] SDV2
+[sdv2_desc] Lås opp SDV2, hastighetsforsterkning +0.05, ekstra minuttproduksjonseffektivitet dobles.
+[sdv2_reward] Øk SDV2-eksklusiv produksjonsevne
+[sdv3_title] SDV3
+[sdv3_desc] Utløs myk øvre grense hele tiden under utfordringen, produksjon ^0.8125. Mål: Fullfør på 2125 sekunder.
+[sdv3_reward] Etter fullførelse har hver minutt 25% sannsynlighet for dobbelt minutter
+[current_bonus] Gjeldende bonus
+[current_income] Gjeldende inntekt
+[current_multiplier_label] Gjeldende multiplikator
+[cycle_reward] Syklusbelønning
+[cost_reduced] Kostnad redusert
+[golden_probability] Gyllen sannsynlighet
+[speed] Hastighet
+[minutes_short] minutter
+[up_effect_speed] Gjeldende bonus: +{0}x hastighet
+[up_effect_auto_seconds] Gjeldende inntekt: +{0} sekunder/sekund
+[up_effect_minute_boost] Gjeldende inntekt: +{0} minutter/sekund
+[up_effect_speed_multiplier] Gjeldende multiplikator: x{0} hastighet
+[up_effect_minute_multiplier] Gjeldende multiplikator: x{0} minutter
+[up_effect_cycle_bonus] Syklusbelønning: +{0} minutter/syklus
+[up_effect_auto_minutes] Automatiske minutter: +{0} minutter/sekund
+[up_effect_cost_reduction] Kostnadsreduksjon: {0}%
+[up_effect_golden_time] Gyllen sannsynlighet: {0}%
+[upgrade_button] Oppgrader {0} {1}
+[minutes_currency] minutter
+[theme_blue] Blå
+[theme_darkred] Rød
+[theme_minimal] Svart
+[theme_neon] Lilla+Blå
+[theme_yellow] Gul
+[progress] Fremgang
+[unlocked] Låst opp
+[reward] Belønning
+[time_limit] Tidsbegrensning
+[in_progress] I gang
+[complete] Fullført
+[start_challenge] Start utfordring
+[abandon_challenge] Forkast utfordring
+[no_time_limit] Ingen tidsbegrensning
+[rebirth_info] Gjenfødelsesinformasjon
+[rebirth_upgrades_tab] Gjenfødelsesoppgraderinger
+[time_fragment_upgrades] Tidsfragmentoppgraderinger
+[sdv_challenges] SDV-utfordringer
+[time_rebirth_points] Tidsgjenfødelsespoeng (SDP)
+[time_fragments] Tidsfragmenter (VDP)
+[rebirth_count] Antall gjenfødelser
+[fragment_reset_count] Antall fragmenttilbakestillinger
+[time_rebirth] Tidsgjenfødelse
+[get_time_fragments] Få tidsfragmenter
+[current_rebirth_gain] Gjeldende gjenfødelse gir:
+[sdp_label] SDP
+[rebirth_desc] Tidsgjenfødelse tilbakestiller gjeldende kjøring og gir SDP som kan brukes til å kjøpe gjenfødelsesoppgraderinger. Å få tidsfragmenter bruker SDP og øker VDP.
+[sdv_challenge_note] SDV-utfordringer er uavhengige av hovedutfordringene, og fullføring gir eksklusive gjenfødelsesbelønninger.
+[time_rebirth_upgrades_desc] Bruk SDP til å kjøpe tidsgjenfødelsesoppgraderinger for å forbedre gjenfødelsesgevinster og spesielle evner.
+[time_fragment_upgrades_desc] Bruk VDP til å kjøpe tidsfragmentoppgraderinger for å styrke sekundproduksjon, minuttinntekt og gjenfødelseseffektivitet.
+[booster_level] Forsternivå
+[sdv_challenge_desc] SDV-utfordringer er uavhengige av vanlige utfordringer, og fullføring gir spesielle gjenfødelsesfordeler. Du kan bare gjennomføre én utfordring om gangen, og du kan velge på nytt etter å ha forkastet den.
+[current_sdv_challenge] Gjeldende SDV-utfordring
+[completed_sdv_challenges] Fullførte SDV-utfordringer
+[none] Ingen
+[game_stats] Spillstatistikk
+[total_accumulated_seconds] Total akkumulerte sekunder
+[current_speed_multiplier] Gjeldende hastighetsmultiplikator
+[highest_second_speed] Høyeste sekundhastighet
+[current_minutes] Gjeldende antall minutter
+[current_seconds] Gjeldende antall sekunder
+[total_rebirths] Totalt antall gjenfødelser
+[current_sdp] Gjeldende SDP
+[current_vdp] Gjeldende VDP
+[total_current_upgrades] Totalt antall oppgraderinger
+[total_current_rebirth_upgrades] Totalt antall gjenfødelsesoppgraderinger
+[current_challenges_completed] Gjeldende fullførte utfordringer
+[save_created_time] Lagring opprettet tid
+[save_elapsed_time] Tid siden lagring ble opprettet
+[current_theme] Gjeldende tema
+[footer_text] Fremover med tiden - BY
+[speed_boost] Hastighetsforsterkning
+[speed_boost_desc] Hvert nivå øker permanent grunnleggende hastighet med 0.1x
+[auto_seconds] Automatiske sekunder
+[auto_seconds_desc] Hvert nivå gir automatisk 0.1 sekunder per sekund
+[extra_minutes] Ekstra minutter
+[extra_minutes_desc] Hvert nivå gir ekstra 0.01 minutter per sekund
+[speed_multiplier] Hastighetsdobling
+[speed_multiplier_desc] Hvert nivå øker hastighetsmultiplikatoren med 10%
+[minute_multiplier] Minuttveddobling
+[minute_multiplier_desc] Hvert nivå øker minuttinntektsmultiplikatoren med 10%
+[cycle_bonus] Syklusbelønning
+[cycle_bonus_desc] Hver syklus gir ekstra 1 minutt
+[auto_minutes] Automatiske minutter
+[auto_minutes_desc] Hvert nivå gir automatisk 0.01 minutter per sekund
+[cost_optimization] Kostnadsoptimalisering
+[cost_optimization_desc] Hvert nivå reduserer kostnaden for alle oppgraderinger med 5%
+[golden_time] Gyllen tid
+[golden_time_desc] Hvert nivå øker sannsynligheten for tilfeldig dobbelt belønning med 1%
+[current_bonus] Gjeldende bonus
+[current_income] Gjeldende inntekt
+[current_multiplier_label] Gjeldende multiplikator
+[cycle_reward] Syklusbelønning
+[cost_reduced] Kostnad redusert
+[golden_probability] Gyllen sannsynlighet
+[upgrade] Oppgrader
+[completed] Fullført
+[purchase] Kjøp
+[minutes_currency] minutter
+[need_purchase_previous] Kjøp forrige element først
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Utfordringsmodus
+[current_challenge] Gjeldende utfordring
+[remaining_time] Gjenværende tid
+[exit_challenge] Avslutt utfordring
+[welcome_challenge] Velkommen til utfordringsmodusen!
+[challenge_desc_text] I utfordringsmodusen vil du møte forskjellige begrensninger og mål. Vellykket fullføring gir permanente belønninger!
+[challenge_rules_title] Utfordringsregler:
+[challenge_rule1] Du kan ikke kjøpe oppgraderinger etter å ha gått inn i utfordringsmodusen
+[challenge_rule2] Utfordringer har tidsbegrensninger eller spesielle betingelser
+[challenge_rule3] Feil eller avslutning tilbakestiller gjeldende fremgang
+[challenge_rule4] Vellykket fullføring gir permanente belønninger
+[enter_challenge_mode] Gå inn i utfordringsmodus
+[time_limit] Tidsbegrensning
+[reward] Belønning
+[progress] Fremgang
+[in_progress] I gang
+[complete] Fullført
+[start_challenge] Start utfordring
+[abandon_challenge] Forkast utfordring
+[achievement_first_step] Første skritt
+[achievement_first_step_desc] Kjøp den første oppgraderingen
+[achievement_one_hour] En time!
+[achievement_one_hour_desc] Akkumulert tid nå 1 time
+[achievement_time_traveler] Tidsreisende
+[achievement_time_traveler_desc] Akkumulert tid nå 10000 sekunder
+[achievement_100_minutes] 100 minutter minne
+[achievement_100_minutes_desc] Eier 100 minutter
+[achievement_1000_minutes] 1000 minutter legende
+[achievement_1000_minutes_desc] Eier 1000 minutter
+[achievement_start_cycle] Start syklus
+[achievement_start_cycle_desc] Fullfør 1 syklus
+[achievement_time_controller] Tidsmester
+[achievement_time_controller_desc] Oppnår 3.0x eller høyere multiplikator
+[achievement_time_accelerator] Tidsakselerator
+[achievement_time_accelerator_desc] Oppnår 5.0x multiplikator
+[achievement_extreme_speed] Ekstrem hastighet
+[achievement_extreme_speed_desc] Oppnår 10.0x hastighetsmultiplikator
+[achievement_meteor_acceleration] Meteoroakselerasjon
+[achievement_meteor_acceleration_desc] Oppnår 25.0x hastighetsmultiplikator
+[achievement_prestige_beginning] Prestisjebegynnelse
+[achievement_prestige_beginning_desc] Eier 1000 SDP
+[achievement_fragment_obtained] Tidsfragment oppnådd
+[achievement_fragment_obtained_desc] Få 1 tidsfragment (VDP)
+[achievement_first_rebirth] Første gjenfødelse
+[achievement_first_rebirth_desc] Fullfør 1 tidsgjenfødelse
+[achievement_fragment_reset] Fragmenttilbakestilling
+[achievement_fragment_reset_desc] Fullfør 1 tidsfragmenttilbakestilling
+[achievement_fragment_upgrader] Fragmentoppgraderer
+[achievement_fragment_upgrader_desc] Kjøp 1 tidsfragmentoppgradering
+[achievement_fragment_craftsman] Fragmentsmed
+[achievement_fragment_craftsman_desc] Kjøp 5 tidsfragmentoppgraderinger
+[achievement_challenge_door] Utfordringsdør
+[achievement_challenge_door_desc] Fullfør 1 utfordring
+[achievement_challenge_master] Utfordringsmester
+[achievement_challenge_master_desc] Fullfør 3 utfordringer
+[achievement_ultimate_challenge] Endelig utfordring
+[achievement_ultimate_challenge_desc] Fullfør 5 utfordringer
+[achievement_hundred_year_solitude] Hundre års ensomhet
+[achievement_hundred_year_solitude_desc] Fullfør 52560000 sykluser (minutter)
+[import_prompt] Lim inn lagringsstrengen:
+[export_prompt] Kopier lagringskoden nedenfor:
+[import_success] Import vellykket! Spillet vil snart oppdateres.
+[import_error] Ugyldig lagring, kan ikke analyseres! Sjekk om du har kopiert hele innholdet.
+[delete_confirm] ⚠️ Advarsel: Denne handlingen vil slette alle spildata permanent, inkludert lagring, prestasjonsfremgang, klikkregistreringer, milepæler osv.
+[delete_confirm_question] Er du sikker på at du vil slette alt og starte på nytt?
+[delete_success] Alle data er slettet fullstendig!
+[save_load_error] Lagringslasting feilet:
+[save_check_message] Sjekk om lagringen er korrekt eller prøv å importere på nytt.
+[exit_challenge_confirm] Er du sikker på at du vil avslutte utfordringsmodusen? Gjeldende fremgang går tapt.
+[exit_challenge_success] Du har avsluttet utfordringsmodusen.
+[enter_challenge_success] Du har gått inn i utfordringsmodusen! Nå kan du velge og starte en utfordring.
+[challenge_start_message] Utfordring startet!
+[target] Mål:
+[time_format] minutter
+[rebirth_need_minutes] Du trenger minst 10 minutter for å gjøre tidsgjenfødelse.
+[rebirth_success] Tidsgjenfødelse vellykket, fikk
+[vdp_need_sdp] Du trenger minst 1000 SDP for å få tidsfragmenter.
+[vdp_cannot_obtain] Kan ikke få tidsfragmenter for øyeblikket.
+[vdp_obtained] Fikk
+[time_fragments_obtained] tidsfragmenter!
+[abandon_sdv_confirm] Er du sikker på at du vil forkaste gjeldende SDV-utfordring?
+[sdv_started] Startet SDV-utfordring:
+[sdv_unlock_hint] Låses opp etter å ha kjøpt tilsvarende SDV-gjenfødelsesoppgradering
+[challenge_failed] Utfordring mislyktes! Tiden er ute.
+[speed_calc_error] Hastighetsberegning feilet, har gjenopprettet standardverdi:
+[speed_calc_error_hint] Dette kan være forårsaket av skadet lagringsdata.
+[seconds_per_second] sekunder/sekund
+[minutes_per_second] minutter/sekund
+[minutes_per_cycle] minutter/syklus
+[minutes_per_second_auto] minutter/sekund
+[seconds] sekunder
+[no_time_limit] Ingen tidsbegrensning
+[unlocked] Låst opp
+[locked_status] Ikke låst opp
+[start_sdv] Start SDV
+[abandon_sdv] Forkast SDV
+[rebirth_gain_sdp] Tidsgjenfødelse (får {0} SDP)
+[upgrade_completed] Fullført
+[need_purchase_previous] Kjøp forrige element først
+[purchase_button] Kjøp {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Fullført
+[need_purchase_previous] Kjøp forrige element først
+[purchase_button] Kjøp {0} {1}
+[vdp_currency] VDP
+[start_sdv] Start SDV
+[abandon_sdv] Forkast SDV
+[sdv_unlock_hint] Låses opp etter å ha kjøpt tilsvarende SDV-gjenfødelsesoppgradering
+[abandon_sdv_confirm] Er du sikker på at du vil forkaste gjeldende SDV-utfordring?
+[rebirth_button_text] Tidsgjenfødelse (får {0} SDP)
+[insufficient_funds] Ikke nok midler
+[unit_seconds_per_second] sek/s
+[none] Ingen
+[yes] Ja
+[no] Nei
+[basic_upgrades] Grunnleggende oppgraderinger
+[advanced_upgrades] Avanserte oppgraderinger
+[expert_upgrades] Ekspertoppgraderinger
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Velg grensesnittspråk
+[load_language_fail] Språklasting feilet
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

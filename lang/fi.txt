@@ -1,0 +1,340 @@
+[game_title] Kellon lisäys
+[version_text] Nykyinen versio 1.4.2
+[join_us] Liity mukaan
+[about] Tietoa
+[about_title] Tietoa Kellon lisäyksestä
+[about_desc] Tämä on aikalisäpeli. Pelaajat nopeuttavat ajan kertymistä ostamalla päivityksiä ja suorittamalla haasteita, ja kääntyvät hitaasta räjähdysmäiseen kasvuun.
+[author] Tekijä:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Pelivinkki:
+[gameplay_text] Paranna ensin nopeutta ja automaattisia minuutteja, kerää sitten syklipaljoja ja kultaista aikaa saadaksesi minuutteja nopeammin.
+[acknowledgment] Kiitokset:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Kiitos kaikille pelaajille tuesta ja palautteesta!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Haluatko varmasti poistua haastemodista? Nykyinen edistys katoaa.
+[exit_challenge_success] Poistuit haastemodista.
+[enter_challenge_success] Astuit haastemodiin! Voit nyt valita ja aloittaa haasteen.
+[resume] Jatka
+[play] Aloita
+[pause] Tauko
+[export_prompt] Kopioi alla oleva tallennuskoodi:
+[export_prompt_raw] Kopioi alla oleva alkuperäinen tallennus:
+[import_prompt] Liitä tallennusmerkkijono:
+[import_success] Tuonti onnistui! Peli päivittyy pian.
+[import_error] Virheellinen tallennus, ei voida jäsentää! Tarkista, että kopioit koko merkkijonon. Virhe:
+[delete_confirm] ⚠️ Varoitus: Tämä toimenpite poistaa kaikki pelidata pysyvästi, mukaan lukien tallennukset, saavutusten edistyksen, klikkauksen historian, merkkipaalut ja paljon muuta.
+
+Haluatko varmasti poistaa kaiken ja aloittaa alusta?
+[delete_success] Kaikki tiedot poistettu pysyvästi!
+[time_day] päivä
+[time_hour] tunti
+[time_minute] minuutti
+[time_second] sekunti
+[tab_timer] Kello
+[tab_upgrades] Päivitykset
+[tab_achievements] Saavutukset
+[tab_challenges] Haasteet
+[tab_rebirth] Syntymä
+[tab_stats] Tilastot
+[tab_settings] Asetukset
+[settings_title] Pelin asetukset
+[save_management] Tallennusten hallinta
+[export_save] Vie tallennus
+[import_save] Tuo tallennus
+[interface_theme] Käyttöliittymän teema
+[theme_desc] Vaihda visuaalista tyyliä
+[danger_operations] Vaaralliset toimenpiteet
+[delete_save] Poista tallennus ja aloita alusta
+[delete_save_desc] Poistaa kaikki pelidata pysyvästi (tallennukset, saavutukset, klikkaushistoria jne.). Toimenpidettä ei voi kumota!
+[current_minute_seconds] Nykyisen minuutin sekunnit
+[accumulated_seconds] Kerätyt sekunnit
+[completed_cycles] Suoritetut syklit
+[current_multiplier] Nykyinen kerroin
+[minutes_owned] Omistat minuutteja:
+[basic_upgrades] Peruspäivitykset
+[advanced_upgrades] Edistyneet päivitykset
+[expert_upgrades] Asiantuntijapäivitykset
+[ach_first_step_title] Ensimmäinen askel
+[ach_first_step_desc] Osta ensimmäinen päivitys
+[ach_one_hour_title] Yksi tunti!
+[ach_one_hour_desc] Kokonaisaika saavuttaa 1 tunti
+[ach_time_traveler_title] Aikamatkustaja
+[ach_time_traveler_desc] Kokonaisaika saavuttaa 10000 sekuntia
+[ach_100_minutes_title] 100 minuutin muistomerkki
+[ach_100_minutes_desc] Omista 100 minuuttia
+[ach_1000_minutes_title] 1000 minuutin legenda
+[ach_1000_minutes_desc] Omista 1000 minuuttia
+[ach_start_cycle_title] Sykli aloitettu
+[ach_start_cycle_desc] Suorita 1 sykli
+[ach_time_controller_title] Ajan hallitsija
+[ach_time_controller_desc] Saavuta 3,0x kerroin tai korkeampi
+[ach_time_accelerator_title] Ajan nopeuttaja
+[ach_time_accelerator_desc] Saavuta 5,0x kerroin
+[ach_extreme_speed_title] Äärinnopeus
+[ach_extreme_speed_desc] Saavuta 10,0x nopeuskerroin
+[ach_meteor_acceleration_title] Meteorinopeus
+[ach_meteor_acceleration_desc] Saavuta 25,0x nopeuskerroin
+[ach_prestige_beginning_title] Maineen alku
+[ach_prestige_beginning_desc] Omista 1000 SDP
+[ach_fragment_obtained_title] Aikafragmentti saatu
+[ach_fragment_obtained_desc] Saavuta 1 aikafragmentti (VDP)
+[ach_first_rebirth_title] Ensimmäinen syntymä
+[ach_first_rebirth_desc] Suorita 1 aikasyntymä
+[ach_fragment_reset_title] Fragmentin palautus
+[ach_fragment_reset_desc] Suorita 1 aikafragmentin palautus
+[ach_fragment_upgrader_title] Fragmentin päivitys
+[ach_fragment_upgrader_desc] Osta 1 aikafragmentin päivitys
+[ach_fragment_craftsman_title] Fragmentin käsityöläinen
+[ach_fragment_craftsman_desc] Osta 5 aikafragmentin päivitystä
+[ach_challenge_door_title] Haasteen ovi
+[ach_challenge_door_desc] Suorita 1 haaste
+[ach_challenge_master_title] Haasteen mestari
+[ach_challenge_master_desc] Suorita 3 haastetta
+[ach_ultimate_challenge_title] Loppuhaaste
+[ach_ultimate_challenge_desc] Suorita 5 haastetta
+[ach_hundred_year_solitude_title] Satavuoten yksinäisyys
+[ach_hundred_year_solitude_desc] Suorita 52560000 sykliä (minuuttia)
+[ch_speed_demon_title] Nopeuden demoni
+[ch_speed_demon_desc] Saavuta 25x nopeuskerroin 3 minuutissa
+[ch_speed_demon_reward] pysyvästi +1,0x perusnopeutta
+[ch_time_master_title] Ajan mestari
+[ch_time_master_desc] Suorita 200 sykliä 2 minuutissa
+[ch_time_master_reward] Avaa syklipaljojen päivitys
+[ch_efficiency_expert_title] Tehokkuusasiantuntija
+[ch_efficiency_expert_desc] Saavuta 100x nopeuskerroin alle 1000 minuutilla
+[ch_efficiency_expert_reward] Avaa kustannusoptimoinnin päivitys
+[ch_minimalist_master_title] Minimalistinen mestari
+[ch_minimalist_master_desc] Saavuta 5000 sekuntia kokonaisaikaa ilman päivitysten ostoa
+[ch_minimalist_master_reward] Avaa automaattisten minuuttien päivitys
+[ch_golden_chaser_title] Kulta-etsijä
+[ch_golden_chaser_desc] Aktivoi kultaista aikaa 5 kertaa 10 minuutissa
+[ch_golden_chaser_reward] pysyvästi +5% kultaisten aikojen todennäköisyys
+[up_speed_boost_name] Nopeuden vahvistus
+[up_speed_boost_desc] Joka taso lisää pysyvästi +0,1x perusnopeutta
+[up_auto_seconds_name] Automaattiset sekunnit
+[up_auto_seconds_desc] Joka taso antaa automaattisesti 0,1 sekuntia sekunnissa
+[up_minute_boost_name] Lisäminuutit
+[up_minute_boost_desc] Joka taso antaa lisää 0,01 minuuttia sekunnissa
+[up_speed_multiplier_name] Nopeuden kerroin
+[up_speed_multiplier_desc] Joka taso kasvattaa nopeuskerrointa 10 %
+[up_minute_multiplier_name] Minuutin kerroin
+[up_minute_multiplier_desc] Joka taso kasvattaa minuuttien saantikerrointa 10 %
+[up_cycle_bonus_name] Syklipalja
+[up_cycle_bonus_desc] 1 lisäminuutti per sykli
+[up_auto_minutes_name] Automaattiset minuutit
+[up_auto_minutes_desc] Joka taso antaa automaattisesti 0,01 minuuttia sekunnissa
+[up_cost_reduction_name] Kustannuksen alennus
+[up_cost_reduction_desc] Joka taso alentaa kaikkien päivitysten kustannuksia 5 %
+[up_golden_time_name] Kultainen aika
+[up_golden_time_desc] Joka taso kasvattaa kaksinkertaisten palkintojen todennäköisyyttä 1 %
+[reb1_name] Aikasyntymän päivitys 1
+[reb1_desc] Syntymän jälkeen ×2 sekuntien saanti, nopeuden vahvistus on 0,15
+[reb2_name] Aikasyntymän päivitys 2
+[reb2_desc] Säilytä nopeuden vahvistuksen taso 3 syntymässä, minuutit lisäävät sekuntien nopeutta
+[reb3_name] Aikasyntymän päivitys 3
+[reb3_desc] ×2,5 sekuntien saanti, jokainen minuutti antaa +0,01 sekuntikertoimeen
+[reb4_name] Aikasyntymän päivitys 4
+[reb4_desc] Lisää sekuntien tuotantoa omistettujen minuuttien neliöjuuren perusteella
+[reb5_name] Aikasyntymän päivitys 5
+[reb5_desc] Avaa SDV1-haaste
+[reb6_name] Aikasyntymän päivitys 6
+[reb6_desc] Avaa muunnin, 60 sekuntia = 1 minuutti → 1 + √(syntymien määrä) kertaa
+[reb7_name] Aikasyntymän päivitys 7
+[reb7_desc] Avaa SDV2 ja kasvaa tuotantoa
+[reb8_name] Aikasyntymän päivitys 8
+[reb8_desc] Pistetuotanto ×7,8 (vaatii SDV2 suoritetuksi)
+[reb9_name] Aikasyntymän päivitys 9
+[reb9_desc] Joka ostettu SDP-päivitys antaa +0,02 nopeuden vahvistukseen
+[reb10_name] Aikasyntymän päivitys 10
+[reb10_desc] Avaa SDV3-haaste
+[reb11_name] Aikasyntymän päivitys 11
+[reb11_desc] SDP-saanti kaksinkertaistuu, kasvaa sekuntien saantia SDP:n perusteella
+[vdp11_name] Aikafragmentin päivitys 1-1
+[vdp11_desc] ×2 sekuntien tuotanto, ×2 SDP-saanti
+[vdp12_name] Aikafragmentin päivitys 1-2
+[vdp12_desc] ×3 minuuttien saanti
+[vdp21_name] Aikafragmentin päivitys 2-1
+[vdp21_desc] Lisää sekuntien tuotantoa omistettujen minuuttien perusteella: ×(1 + minuutit^0,6)
+[vdp22_name] Aikafragmentin päivitys 2-2
+[vdp22_desc] Lisää sekuntien tuotantoa nykyisen SDP:n perusteella: ×(1 + SDP^0,7)
+[vdp23_name] Aikafragmentin päivitys 2-3
+[vdp23_desc] Lisää minuuttien saantia nykyisen SDP:n perusteella: ×(1 + SDP^0,55)
+[vdp33_name] Aikafragmentin päivitys 3-3
+[vdp33_desc] Joka suoritettu haaste antaa +0,02 sekuntien tuotantoon
+[vdp41_name] Avaa vahvistin
+[vdp41_desc] Avaa vahvistinsysteemi lisäbonuksia varten
+[sdv1_title] SDV1
+[sdv1_desc] 1 minuutti = 120 sekuntia, palauta SDP, ohita kaikki päivitykset. Tavoite: suorita 7777 sekuntia.
+[sdv1_reward] Suorituksen jälkeen 1 minuutti on 40 sekuntia
+[sdv2_title] SDV2
+[sdv2_desc] Avaa SDV2, +0,05 nopeuden vahvistus, kaksinkertainen lisäminuuttien tuotannon tehokkuus.
+[sdv2_reward] Kasvata SDV2:n erikoistuotantokapasiteettia
+[sdv3_title] SDV3
+[sdv3_desc] Vakio pehmeä raja haasteessa, tuotanto ^0,8125. Tavoite: suorita 2125 sekuntia.
+[sdv3_reward] Suorituksen jälkeen 25 % todennäköisyys kaksinkertaiselle minuutille per minuutti
+[current_bonus] Nykyinen bonus
+[current_income] Nykyinen tulos
+[current_multiplier_label] Nykyinen kerroin
+[cycle_reward] Syklipalja
+[cost_reduced] Kustannus alennettu
+[golden_probability] Kultaisen todennäköisyys
+[speed] Nopeus
+[minutes_short] min
+[up_effect_speed] Nykyinen bonus: +{0}x nopeutta
+[up_effect_auto_seconds] Nykyinen tulos: +{0} s/s
+[up_effect_minute_boost] Nykyinen tulos: +{0} min/s
+[up_effect_speed_multiplier] Nykyinen kerroin: ×{0} nopeutta
+[up_effect_minute_multiplier] Nykyinen kerroin: ×{0} minuuttia
+[up_effect_cycle_bonus] Syklipalja: +{0} min/sykli
+[up_effect_auto_minutes] Automaattiset minuutit: +{0} min/s
+[up_effect_cost_reduction] Kustannuksen alennus: {0} %
+[up_effect_golden_time] Kultainen todennäköisyys: {0} %
+[upgrade_button] Päivitä {0} {1}
+[minutes_currency] minuuttia
+[theme_blue] Sininen
+[theme_darkred] Punainen
+[theme_minimal] Musta
+[theme_neon] Violetti+Sininen
+[theme_yellow] Keltainen
+[progress] Edistyminen
+[unlocked] Avattu
+[reward] Palkinto
+[time_limit] Aikaraja
+[in_progress] Kesken
+[complete] Valmis
+[start_challenge] Aloita haaste
+[abandon_challenge] Luovuta haasteesta
+[no_time_limit] Ei aikarajaa
+[rebirth_info] Syntymän tiedot
+[rebirth_upgrades_tab] Syntymän päivitykset
+[time_fragment_upgrades] Aikafragmentin päivitykset
+[sdv_challenges] SDV-haasteet
+[time_rebirth_points] Aikasyntymän pisteet (SDP)
+[time_fragments] Aikafragmentit (VDP)
+[rebirth_count] Syntymien määrä
+[fragment_reset_count] Fragmenttien palautusten määrä
+[time_rebirth] Aikasyntymä
+[get_time_fragments] Hae aikafragmentteja
+[current_rebirth_gain] Nykyinen syntymän hyöty:
+[sdp_label] SDP
+[rebirth_desc] Aikasyntymä palauttaa nykyisen pelin ja antaa SDP:ää, jota voi käyttää syntymän päivityksiin. Aikafragmenttien saanti maksaa SDP:ää ja kasvattaa VDP:tä.
+[sdv_challenge_note] SDV-haasteet ovat riippumattomia päähaasteista ja antavat eksklusiivisia syntymäpalkintoja suoritettuaan.
+[time_rebirth_upgrades_desc] Käytä SDP:ää ostamaan aikasyntymän päivityksiä lisätäksesi syntymän hyötyjä ja erityisvalmiuksia.
+[time_fragment_upgrades_desc] Käytä VDP:ää ostamaan aikafragmentin päivityksiä vahvistaaksesi sekuntien tuotantoa, minuuttien saantia ja syntymän tehokkuutta.
+[booster_level] Vahvistimen taso
+[sdv_challenge_desc] SDV-haasteet ovat riippumattomia tavallisista haasteista, antavat erityisiä syntymäbonuksia suoritettuaan. Vain yksi haaste kerrallaan, voi luopua ja valita uudelleen.
+[current_sdv_challenge] Nykyinen SDV-haaste
+[completed_sdv_challenges] Suoritetut SDV-haasteet
+[none] Ei mitään
+[game_stats] Pelin tilastot
+[total_accumulated_seconds] Kaikki kerätyt sekunnit
+[current_speed_multiplier] Nykyinen nopeuskerroin
+[highest_second_speed] Korkein sekuntinopeus
+[current_minutes] Nykyiset minuutit
+[current_seconds] Nykyiset sekunnit
+[total_rebirths] Kaikki syntymät
+[current_sdp] Nykyinen SDP
+[current_vdp] Nykyinen VDP
+[total_current_upgrades] Kaikki nykyiset päivitykset
+[total_current_rebirth_upgrades] Kaikki nykyiset syntymän päivitykset
+[current_challenges_completed] Nykyisesti suoritetut haasteet
+[save_created_time] Tallennus luotu
+[save_elapsed_time] Aikaa tallennuksesta
+[current_theme] Nykyinen teema
+[footer_text] Eteenpäin ajan kanssa - BY
+[speed_boost] Nopeuden vahvistus
+[speed_boost_desc] Joka taso lisää pysyvästi +0,1x perusnopeutta
+[auto_seconds] Automaattiset sekunnit
+[auto_seconds_desc] Joka taso antaa automaattisesti 0,1 sekuntia sekunnissa
+[extra_minutes] Lisäminuutit
+[extra_minutes_desc] Joka taso antaa lisää 0,01 minuuttia sekunnissa
+[speed_multiplier] Nopeuden kerroin
+[speed_multiplier_desc] Joka taso kasvattaa nopeuskerrointa 10 %
+[minute_multiplier] Minuutin kerroin
+[minute_multiplier_desc] Joka taso kasvattaa minuuttien saantikerrointa 10 %
+[cycle_bonus] Syklipalja
+[cycle_bonus_desc] 1 lisäminuutti per sykli
+[auto_minutes] Automaattiset minuutit
+[auto_minutes_desc] Joka taso antaa automaattisesti 0,01 minuuttia sekunnissa
+[cost_optimization] Kustannusoptimointi
+[cost_optimization_desc] Joka taso alentaa kaikkien päivitysten kustannuksia 5 %
+[golden_time] Kultainen aika
+[golden_time_desc] Joka taso kasvattaa kaksinkertaisten palkintojen todennäköisyyttä 1 %
+[upgrade] Päivitä
+[completed] Valmis
+[purchase] Osta
+[need_purchase_previous] Osta ensin edellinen kohde
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Haastemodi
+[current_challenge] Nykyinen haaste
+[remaining_time] Jäljellä oleva aika
+[exit_challenge] Poistu haasteesta
+[welcome_challenge] Tervetuloa haastemodiin!
+[challenge_desc_text] Haastemodissa kohtaat rajoituksia ja tavoitteita. Onnistunut suoritus antaa pysyviä palkintoja!
+[challenge_rules_title] Haasteen säännöt:
+[challenge_rule1] Päivityksiä ei voi ostaa haastemodissa
+[challenge_rule2] Haasteilla on aikaraja tai erityisehdot
+[challenge_rule3] Epäonnistuminen tai poistaminen palauttaa nykyisen edistyksen
+[challenge_rule4] Onnistunut suoritus antaa pysyvän palkinnon
+[enter_challenge_mode] Siirry haastemodiin
+[target] Tavoite:
+[time_format] min
+[rebirth_need_minutes] Vähintään 10 minuuttia tarvitaan aikasyntymään.
+[rebirth_success] Aikasyntymä onnistui, sait:
+[vdp_need_sdp] Vähintään 1000 SDP:ää tarvitaan aikafragmentteihin.
+[vdp_cannot_obtain] Et voi saada aikafragmentteja nyt.
+[vdp_obtained] Saavutit
+[time_fragments_obtained] aikafragmenttia!
+[abandon_sdv_confirm] Haluatko varmasti luopua nykyisestä SDV-haasteesta?
+[sdv_started] SDV-haaste aloitettu:
+[sdv_unlock_hint] Vaatii vastaavan SDV-syntymän päivityksen avaamiseen
+[challenge_failed] Haaste epäonnistui! Aika loppui.
+[speed_calc_error] Virhe nopeuden laskennassa, oletusarvo palautettu:
+[speed_calc_error_hint] Tämä voi johtua vaurioituneesta tallennuksesta.
+[seconds_per_second] s/s
+[minutes_per_second] min/s
+[minutes_per_cycle] min/sykli
+[minutes_per_second_auto] min/s
+[seconds] sekuntia
+[locked_status] Lukittu
+[start_sdv] Aloita SDV
+[abandon_sdv] Luovuta SDV:stä
+[rebirth_gain_sdp] Aikasyntymä (sait {0} SDP)
+[upgrade_completed] Valmis
+[purchase_button] Osta {0} {1}
+[rebirth_button_text] Aikasyntymä (sait {0} SDP)
+[insufficient_funds] Saldo ei riitä
+[unit_seconds_per_second] s/s
+[yes] Kyllä
+[no] Ei
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Valitse käyttöliittymän kieli
+[load_language_fail] Kielen lataus epäonnistui
+[change_language] Vaihda kieli
+[choose_language] Valitse kieli
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

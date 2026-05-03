@@ -1,0 +1,340 @@
+[game_title] زيادة العداد
+[version_text] الإصدار الحالي 1.4.2
+[join_us] انضم إلينا
+[about] حول
+[about_title] حول زيادة العداد
+[about_desc] هذه لعبة زيادة وقت. يقوم اللاعبون بتسريع تراكم الوقت عن طريق شراء الترقيات وإكمال التحديات، ويختبرون عملية النمو من البطء إلى الانفجار.
+[author] المُصمم:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] نصيحة اللعب:
+[gameplay_text] قم بتحسين السرعة والدقائق التلقائية أولاً، ثم اجمع مكافآت الدورة والوقت الذهبي للحصول على دقائق بشكل أسرع.
+[acknowledgment] شكر وتقدير:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] شكرًا لجميع اللاعبين الذين يدعمون ويعطيون ملاحظات!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] هل أنت متأكد من الخروج من وضع التحدي؟ سيتم فقدان التقدم الحالي.
+[exit_challenge_success] لقد خرجت من وضع التحدي.
+[enter_challenge_success] لقد دخلت وضع التحدي! يمكنك الآن اختيار وبدء التحدي.
+[resume] استئناف
+[play] بدء
+[pause] إيقاف مؤقت
+[export_prompt] يرجى نسخ كود الحفظ أدناه:
+[export_prompt_raw] يرجى نسخ الحفظ الأصلي أدناه:
+[import_prompt] يرجى لصق سلسلة الحفظ:
+[import_success] الاستيراد ناجح! سيتم تحديث اللعبة قريبًا.
+[import_error] الحفظ غير صالح، لا يمكن تحليله! يرجى التحقق مما إذا كنت قد نسخت بالكامل. خطأ:
+[delete_confirm] ⚠️ تحذير: سيؤدي هذا الإجراء إلى حذف جميع بيانات اللعبة بشكل دائم، بما في ذلك الحفظ وتقدم الإنجازات وسجل النقرات والمعالم والمزيد.
+
+هل أنت متأكد من الحذف الكامل والبدء من جديد؟
+[delete_success] تم حذف جميع البيانات بالكامل!
+[time_day] يوم
+[time_hour] ساعة
+[time_minute] دقيقة
+[time_second] ثانية
+[tab_timer] العداد
+[tab_upgrades] الترقيات
+[tab_achievements] الإنجازات
+[tab_challenges] التحديات
+[tab_rebirth] إعادة الولادة
+[tab_stats] الإحصائيات
+[tab_settings] الإعدادات
+[settings_title] إعدادات اللعبة
+[save_management] إدارة الحفظ
+[export_save] تصدير الحفظ
+[import_save] استيراد الحفظ
+[interface_theme] سمة الواجهة
+[theme_desc] تبديل الأنماط البصرية المختلفة
+[danger_operations] عمليات خطرة
+[delete_save] حذف الحفظ والبدء من جديد
+[delete_save_desc] احذف جميع بيانات اللعبة بالكامل (الحفظ، الإنجازات، سجل النقرات، إلخ). لا يمكن التراجع عن هذا الإجراء!
+[current_minute_seconds] ثواني الدقيقة الحالية
+[accumulated_seconds] الثواني المتراكمة
+[completed_cycles] الدورات المكتملة
+[current_multiplier] المضاعف الحالي
+[minutes_owned] الدقائق المملوكة:
+[basic_upgrades] الترقيات الأساسية
+[advanced_upgrades] الترقيات المتقدمة
+[expert_upgrades] الترقيات الخبيرة
+[ach_first_step_title] الخطوة الأولى
+[ach_first_step_desc] شراء الترقية الأولى
+[ach_one_hour_title] ساعة واحدة!
+[ach_one_hour_desc] الوصول إلى الوقت المتراكم 1 ساعة
+[ach_time_traveler_title] مسافر الزمن
+[ach_time_traveler_desc] الوصول إلى الوقت المتراكم 10000 ثانية
+[ach_100_minutes_title] ذكرى مئة دقيقة
+[ach_100_minutes_desc] امتلاك 100 دقيقة
+[ach_1000_minutes_title] أسطورة ألف دقيقة
+[ach_1000_minutes_desc] امتلاك 1000 دقيقة
+[ach_start_cycle_title] بدء الدورة
+[ach_start_cycle_desc] إكمال دورة واحدة
+[ach_time_controller_title] متحكم الزمن
+[ach_time_controller_desc] الوصول إلى مضاعف 3.0x أو أعلى
+[ach_time_accelerator_title] مسارع الزمن
+[ach_time_accelerator_desc] الوصول إلى مضاعف 5.0x
+[ach_extreme_speed_title] اندفاع السرعة القصوى
+[ach_extreme_speed_desc] الوصول إلى مضاعف سرعة 10.0x
+[ach_meteor_acceleration_title] تسريع النيزك
+[ach_meteor_acceleration_desc] الوصول إلى مضاعف سرعة 25.0x
+[ach_prestige_beginning_title] بدء السمعة
+[ach_prestige_beginning_desc] امتلاك 1000 SDP
+[ach_fragment_obtained_title] الحصول على قطعة الزمن
+[ach_fragment_obtained_desc] الحصول على قطعة زمن واحدة (VDP)
+[ach_first_rebirth_title] تجربة إعادة الولادة الأولى
+[ach_first_rebirth_desc] إكمال إعادة ولادة زمنية واحدة
+[ach_fragment_reset_title] إعادة تعيين القطعة
+[ach_fragment_reset_desc] إكمال إعادة تعيين قطعة زمنية واحدة
+[ach_fragment_upgrader_title] مترقٍ القطع
+[ach_fragment_upgrader_desc] شراء ترقية قطعة زمن واحدة
+[ach_fragment_craftsman_title] حرفي القطع
+[ach_fragment_craftsman_desc] شراء 5 ترقيات قطع زمن
+[ach_challenge_door_title] باب التحدي
+[ach_challenge_door_desc] إكمال تحدي واحد
+[ach_challenge_master_title] سيد التحديات
+[ach_challenge_master_desc] إكمال 3 تحديات
+[ach_ultimate_challenge_title] التحدي النهائي
+[ach_ultimate_challenge_desc] إكمال 5 تحديات
+[ach_hundred_year_solitude_title] الوحدة المائة عام
+[ach_hundred_year_solitude_desc] إكمال 52560000 دورة (دقيقة)
+[ch_speed_demon_title] شيطان السرعة
+[ch_speed_demon_desc] الوصول إلى مضاعف سرعة 25x خلال 3 دقائق
+[ch_speed_demon_reward] +1.0x سرعة أساسية دائمة
+[ch_time_master_title] سيد الزمن
+[ch_time_master_desc] إكمال 200 دورة خلال 2 دقائق
+[ch_time_master_reward] فتح ترقية مكافأة الدورة
+[ch_efficiency_expert_title] خبير الكفاءة
+[ch_efficiency_expert_desc] الوصول إلى مضاعف سرعة 100x بأقل من 1000 دقيقة
+[ch_efficiency_expert_reward] فتح ترقية تحسين التكلفة
+[ch_minimalist_master_title] سيد البساطة
+[ch_minimalist_master_desc] الوصول إلى 5000 ثانية وقت متراكم دون شراء أي ترقيات
+[ch_minimalist_master_reward] فتح ترقية الدقائق التلقائية
+[ch_golden_chaser_title] طالب الذهب
+[ch_golden_chaser_desc] تشغيل 5 مرات للوقت الذهبي خلال 10 دقائق
+[ch_golden_chaser_reward] +5% احتمال الوقت الذهبي دائمًا
+[up_speed_boost_name] تعزيز السرعة
+[up_speed_boost_desc] كل ترقية تزيد +0.1x سرعة أساسية دائمة
+[up_auto_seconds_name] الثواني التلقائية
+[up_auto_seconds_desc] كل ترقية تحصل تلقائيًا على 0.1 ثانية في الثانية
+[up_minute_boost_name] دقائق إضافية
+[up_minute_boost_desc] كل ترقية تحصل على 0.01 دقيقة إضافية في الثانية
+[up_speed_multiplier_name] مضاعفة السرعة
+[up_speed_multiplier_desc] كل ترقية تزيد مضاعف السرعة بنسبة 10%
+[up_minute_multiplier_name] مضاعفة الدقائق
+[up_minute_multiplier_desc] كل ترقية تزيد مضاعف الحصول على الدقائق بنسبة 10%
+[up_cycle_bonus_name] مكافأة الدورة
+[up_cycle_bonus_desc] 1 دقيقة إضافية لكل دورة
+[up_auto_minutes_name] الدقائق التلقائية
+[up_auto_minutes_desc] كل ترقية تحصل تلقائيًا على 0.01 دقيقة في الثانية
+[up_cost_reduction_name] خفض التكلفة
+[up_cost_reduction_desc] كل ترقية تخفض جميع تكاليف الترقيات بنسبة 5%
+[up_golden_time_name] الوقت الذهبي
+[up_golden_time_desc] كل ترقية تزيد احتمال الحصول على مكافأة مزدوجة عشوائية بنسبة 1%
+[reb1_name] ترقية إعادة ولادة الزمن 1
+[reb1_desc] بعد إعادة الولادة، ×2 الحصول على الثواني، وتصبح تعزيز السرعة 0.15
+[reb2_name] ترقية إعادة ولادة الزمن 2
+[reb2_desc] احتفظ بمستوى 3 لتعزيز السرعة عند إعادة الولادة، وتزيد الدقائق من سرعة الثواني
+[reb3_name] ترقية إعادة ولادة الزمن 3
+[reb3_desc] ×2.5 الحصول على الثواني، وكل دقيقة تزيد +0.01 لمضاعف الثواني
+[reb4_name] ترقية إعادة ولادة الزمن 4
+[reb4_desc] زيادة إنتاج الثواني بناءً على الجذر التربيعي للدقائق المملوكة
+[reb5_name] ترقية إعادة ولادة الزمن 5
+[reb5_desc] فتح تحدي SDV1
+[reb6_name] ترقية إعادة ولادة الزمن 6
+[reb6_desc] فتح المحول، 60 ثانية = 1 دقيقة تصبح 1 + √(عدد إعادة الولادة) مرة
+[reb7_name] ترقية إعادة ولادة الزمن 7
+[reb7_desc] فتح SDV2 وزيادة الإنتاج
+[reb8_name] ترقية إعادة ولادة الزمن 8
+[reb8_desc] ×7.8 إنتاج النقاط (يتطلب إكمال SDV2)
+[reb9_name] ترقية إعادة ولادة الزمن 9
+[reb9_desc] كل شراء لترقية SDP يزيد تعزيز السرعة +0.02
+[reb10_name] ترقية إعادة ولادة الزمن 10
+[reb10_desc] فتح تحدي SDV3
+[reb11_name] ترقية إعادة ولادة الزمن 11
+[reb11_desc] مضاعفة الحصول على SDP، وزيادة الحصول على الثواني بناءً على SDP
+[vdp11_name] ترقية قطعة الزمن 1-1
+[vdp11_desc] ×2 إنتاج الثواني، ×2 الحصول على SDP
+[vdp12_name] ترقية قطعة الزمن 1-2
+[vdp12_desc] ×3 الحصول على الدقائق
+[vdp21_name] ترقية قطعة الزمن 2-1
+[vdp21_desc] زيادة إنتاج الثواني بناءً على الدقائق المملوكة: ×(1 + دقيقة^0.6)
+[vdp22_name] ترقية قطعة الزمن 2-2
+[vdp22_desc] زيادة إنتاج الثواني بناءً على SDP الحالي: ×(1 + SDP^0.7)
+[vdp23_name] ترقية قطعة الزمن 2-3
+[vdp23_desc] زيادة الحصول على الدقائق بناءً على SDP الحالي: ×(1 + SDP^0.55)
+[vdp33_name] ترقية قطعة الزمن 3-3
+[vdp33_desc] كل تحدي مكتمل يزيد إنتاج الثواني +0.02
+[vdp41_name] فتح المعزز
+[vdp41_desc] فتح نظام المعزز لتقديم مكافآت إضافية
+[sdv1_title] SDV1
+[sdv1_desc] دقيقة واحدة = 120 ثانية، إعادة تعيين SDP وتجاهل جميع الترقيات. الهدف: إكمال 7777 ثانية.
+[sdv1_reward] بعد الإكمال، تصبح الدقيقة الواحدة 40 ثانية
+[sdv2_title] SDV2
+[sdv2_desc] فتح SDV2، +0.05 تعزيز السرعة، ومضاعفة كفاءة إنتاج الدقائق الإضافية.
+[sdv2_reward] زيادة قدرة الإنتاج الحصرية لـ SDV2
+[sdv3_title] SDV3
+[sdv3_desc] حد ناعم مستمر في التحدي، الإنتاج ^0.8125. الهدف: إكمال 2125 ثانية.
+[sdv3_reward] بعد الإكمال، 25% احتمال للحصول على دقيقة مزدوجة لكل دقيقة
+[current_bonus] المكافأة الحالية
+[current_income] الدخل الحالي
+[current_multiplier_label] المضاعف الحالي
+[cycle_reward] مكافأة الدورة
+[cost_reduced] التكلفة مخفضة
+[golden_probability] احتمال الذهب
+[speed] السرعة
+[minutes_short] دقيقة
+[up_effect_speed] المكافأة الحالية: +{0}x سرعة
+[up_effect_auto_seconds] الدخل الحالي: +{0} ثانية/ثانية
+[up_effect_minute_boost] الدخل الحالي: +{0} دقيقة/ثانية
+[up_effect_speed_multiplier] المضاعف الحالي: ×{0} سرعة
+[up_effect_minute_multiplier] المضاعف الحالي: ×{0} دقيقة
+[up_effect_cycle_bonus] مكافأة الدورة: +{0} دقيقة/دورة
+[up_effect_auto_minutes] الدقائق التلقائية: +{0} دقيقة/ثانية
+[up_effect_cost_reduction] خفض التكلفة: {0}%
+[up_effect_golden_time] احتمال الذهب: {0}%
+[upgrade_button] ترقية {0} {1}
+[minutes_currency] دقيقة
+[theme_blue] أزرق
+[theme_darkred] أحمر
+[theme_minimal] أسود
+[theme_neon] بنفسجي+أزرق
+[theme_yellow] أصفر
+[progress] التقدم
+[unlocked] مفتوح
+[reward] مكافأة
+[time_limit] حد زمني
+[in_progress] قيد التشغيل
+[complete] مكتمل
+[start_challenge] بدء التحدي
+[abandon_challenge] التخلي عن التحدي
+[no_time_limit] بدون حد زمني
+[rebirth_info] معلومات إعادة الولادة
+[rebirth_upgrades_tab] ترقيات إعادة الولادة
+[time_fragment_upgrades] ترقيات قطعة الزمن
+[sdv_challenges] تحديات SDV
+[time_rebirth_points] نقاط إعادة ولادة الزمن (SDP)
+[time_fragments] قطع الزمن (VDP)
+[rebirth_count] عدد إعادة الولادة
+[fragment_reset_count] عدد إعادة تعيين القطعة
+[time_rebirth] إعادة ولادة الزمن
+[get_time_fragments] الحصول على قطع الزمن
+[current_rebirth_gain] المكسب الحالي من إعادة الولادة:
+[sdp_label] SDP
+[rebirth_desc] تعيد إعادة ولادة الزمن ضبط التشغيل الحالي وتمنح SDP، يمكن استخدامها لشراء ترقيات إعادة الولادة. الحصول على قطع الزمن يكلف SDP ويزيد VDP.
+[sdv_challenge_note] تحديات SDV مستقلة عن التحديات الرئيسية، وتمنح مكافآت إعادة ولادة حصرية عند الإكمال.
+[time_rebirth_upgrades_desc] استخدم SDP لشراء ترقيات إعادة ولادة الزمن لزيادة مكاسب إعادة الولادة والقدرات الخاصة.
+[time_fragment_upgrades_desc] استخدم VDP لشراء ترقيات قطعة الزمن لتعزيز إنتاج الثواني والحصول على الدقائق وكفاءة إعادة الولادة.
+[booster_level] مستوى المعزز
+[sdv_challenge_desc] تحديات SDV مستقلة عن التحديات العادية، وتمنح مكافآت إعادة ولادة خاصة عند الإكمال. يمكن تشغيل تحدي واحد فقط في نفس الوقت، ويمكن التخلي عنه واختياره مرة أخرى.
+[current_sdv_challenge] تحدي SDV الحالي
+[completed_sdv_challenges] تحديات SDV المكتملة
+[none] لا شيء
+[game_stats] إحصائيات اللعبة
+[total_accumulated_seconds] إجمالي الثواني المتراكمة
+[current_speed_multiplier] المضاعف الحالي للسرعة
+[highest_second_speed] أعلى سرعة للثواني
+[current_minutes] الدقائق الحالية
+[current_seconds] الثواني الحالية
+[total_rebirths] إجمالي عدد إعادة الولادة
+[current_sdp] SDP الحالي
+[current_vdp] VDP الحالي
+[total_current_upgrades] إجمالي الترقيات الحالية
+[total_current_rebirth_upgrades] إجمالي ترقيات إعادة الولادة الحالية
+[current_challenges_completed] التحديات المكتملة حالياً
+[save_created_time] وقت إنشاء الحفظ
+[save_elapsed_time] الوقت المنقضي منذ الحفظ
+[current_theme] السمة الحالية
+[footer_text] إلى الأمام مع الزمن - BY
+[speed_boost] تعزيز السرعة
+[speed_boost_desc] كل ترقية تزيد +0.1x سرعة أساسية دائمة
+[auto_seconds] الثواني التلقائية
+[auto_seconds_desc] كل ترقية تحصل تلقائيًا على 0.1 ثانية في الثانية
+[extra_minutes] دقائق إضافية
+[extra_minutes_desc] كل ترقية تحصل على 0.01 دقيقة إضافية في الثانية
+[speed_multiplier] مضاعفة السرعة
+[speed_multiplier_desc] كل ترقية تزيد مضاعف السرعة بنسبة 10%
+[minute_multiplier] مضاعفة الدقائق
+[minute_multiplier_desc] كل ترقية تزيد مضاعف الحصول على الدقائق بنسبة 10%
+[cycle_bonus] مكافأة الدورة
+[cycle_bonus_desc] 1 دقيقة إضافية لكل دورة
+[auto_minutes] الدقائق التلقائية
+[auto_minutes_desc] كل ترقية تحصل تلقائيًا على 0.01 دقيقة في الثانية
+[cost_optimization] تحسين التكلفة
+[cost_optimization_desc] كل ترقية تخفض جميع تكاليف الترقيات بنسبة 5%
+[golden_time] الوقت الذهبي
+[golden_time_desc] كل ترقية تزيد احتمال الحصول على مكافأة مزدوجة عشوائية بنسبة 1%
+[upgrade] ترقية
+[completed] مكتمل
+[purchase] شراء
+[need_purchase_previous] اشترِ العنصر السابق أولاً
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] وضع التحدي
+[current_challenge] التحدي الحالي
+[remaining_time] الوقت المتبقي
+[exit_challenge] الخروج من التحدي
+[welcome_challenge] مرحبًا بك في وضع التحدي!
+[challenge_desc_text] في وضع التحدي، ستواجه قيودًا وأهدافًا متنوعة. الإكمال الناجح للتحدي سيمنحك مكافآت دائمة!
+[challenge_rules_title] قواعد التحدي:
+[challenge_rule1] لا يمكن شراء الترقيات في وضع التحدي
+[challenge_rule2] التحديات لها حد زمني أو شروط خاصة
+[challenge_rule3] الفشل أو الخروج يعيد ضبط التقدم الحالي
+[challenge_rule4] الإكمال الناجح يمنح مكافأة دائمة
+[enter_challenge_mode] الدخول إلى وضع التحدي
+[target] الهدف:
+[time_format] دقيقة
+[rebirth_need_minutes] تحتاج إلى 10 دقائق على الأقل لإعادة ولادة الزمن.
+[rebirth_success] إعادة ولادة الزمن ناجحة، حصلت على
+[vdp_need_sdp] تحتاج إلى 1000 SDP على الأقل للحصول على قطع الزمن.
+[vdp_cannot_obtain] لا يمكن الحصول على قطع الزمن حالياً.
+[vdp_obtained] حصلت على
+[time_fragments_obtained] قطع زمن!
+[abandon_sdv_confirm] هل أنت متأكد من التخلي عن تحدي SDV الحالي؟
+[sdv_started] بدء تحدي SDV:
+[sdv_unlock_hint] يتطلب شراء ترقية إعادة ولادة SDV المقابلة للفتح
+[challenge_failed] فشل التحدي! انتهى الوقت.
+[speed_calc_error] خطأ في حساب السرعة، تم استعادة القيمة الافتراضية:
+[speed_calc_error_hint] قد يكون هذا بسبب تلف بيانات الحفظ.
+[seconds_per_second] ثانية/ثانية
+[minutes_per_second] دقيقة/ثانية
+[minutes_per_cycle] دقيقة/دورة
+[minutes_per_second_auto] دقيقة/ثانية
+[seconds] ثواني
+[locked_status] مغلق
+[start_sdv] بدء SDV
+[abandon_sdv] التخلي عن SDV
+[rebirth_gain_sdp] إعادة ولادة الزمن (احصل على {0} SDP)
+[upgrade_completed] مكتمل
+[purchase_button] شراء {0} {1}
+[rebirth_button_text] إعادة ولادة الزمن (احصل على {0} SDP)
+[insufficient_funds] رصيد غير كافٍ
+[unit_seconds_per_second] ث/ث
+[yes] نعم
+[no] لا
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] اختر لغة الواجهة
+[load_language_fail] فشل تحميل اللغة
+[change_language] تغيير اللغة
+[choose_language] اختر اللغة
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

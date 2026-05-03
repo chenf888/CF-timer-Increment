@@ -1,0 +1,424 @@
+[game_title] Incrementarea temporizatorului
+[version_text] Versiunea curentă 1.4.2
+[join_us] Alătură-te nouă
+[about] Despre
+[about_title] Despre Incrementarea temporizatorului
+[about_desc] Acesta este un joc de incrementare a timpului în care jucătorul cumpără upgrade-uri și finalizează provocări pentru a accelera acumularea timpului, experimentând un proces de creștere de la lent la exploziv.
+[author] Autor:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Sfaturi de joc:
+[gameplay_text] Prioritați creșterea vitezei și a minutelor automate, apoi colectați recompensele de ciclu și timpul de aur pentru a obține minute mai rapid.
+[acknowledgment] Mulțumiri:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Mulțumim tuturor jucătorilor pentru sprijin și feedback!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Sigur doriți să ieșiți din modul provocare? Progresul actual se va pierde.
+[exit_challenge_success] Ați ieșit din modul provocare.
+[enter_challenge_success] Ați intrat în modul provocare! Acum puteți selecta și începe o provocare.
+[resume] Continuă
+[play] Start
+[pause] Pauză
+[export_prompt] Copiați codul de salvare de mai jos:
+[export_prompt_raw] Copiați salvarea brută de mai jos:
+[import_prompt] Lipiți șirul de salvare:
+[import_success] Import reușit! Jocul se va reîmprospăta.
+[import_error] Salvare invalidă, nu se poate analiza! Verificați dacă ați copiat complet. Eroare:
+[delete_confirm] ⚠️ Avertisment: Această operațiune va șterge permanent toate datele jocului, inclusiv salvările, progresul realizărilor, istoricul clicurilor, bornele etc.\n\nSigur doriți să ștergeți complet datele și să o luați de la capăt?
+[delete_success] Toate datele au fost șterse definitiv!
+[time_day] zi
+[time_hour] oră
+[time_minute] min
+[time_second] sec
+[tab_timer] Temporizator
+[tab_upgrades] Upgrade-uri
+[tab_achievements] Realizări
+[tab_challenges] Provocări
+[tab_rebirth] Reînviere
+[tab_stats] Statistici
+[tab_settings] Setări
+[settings_title] Setări joc
+[save_management] Gestionare salvare
+[export_save] Exportă salvare
+[import_save] Importă salvare
+[interface_theme] Temă interfață
+[theme_desc] Comută între diferite stiluri vizuale
+[danger_operations] Operațiuni periculoase
+[delete_save] Șterge salvarea și ia-o de la capăt
+[delete_save_desc] Șterge definitiv toate datele jocului (salvare, realizări, istoric clicuri etc.). Operațiune ireversibilă!
+[current_minute_seconds] Secundele minutului curent
+[accumulated_seconds] Secunde acumulate
+[completed_cycles] Cicluri finalizate
+[current_multiplier] Multiplicator curent
+[play] Start
+[pause] Pauză
+[resume] Continuă
+[minutes_owned] Minute deținute:
+[basic_upgrades] Upgrade-uri de bază
+[advanced_upgrades] Upgrade-uri avansate
+[expert_upgrades] Upgrade-uri expert
+[ach_first_step_title] Primul pas
+[ach_first_step_desc] Cumpără primul upgrade
+[ach_one_hour_title] O oră!
+[ach_one_hour_desc] Timpul acumulat a atins 1 oră
+[ach_time_traveler_title] Călător în timp
+[ach_time_traveler_desc] Timpul acumulat a atins 10000 de secunde
+[ach_100_minutes_title] Aniversarea a 100 de minute
+[ach_100_minutes_desc] Deține 100 de minute
+[ach_1000_minutes_title] Legenda celor 1000 de minute
+[ach_1000_minutes_desc] Deține 1000 de minute
+[ach_start_cycle_title] Începe ciclul
+[ach_start_cycle_desc] Finalizează 1 ciclu
+[ach_time_controller_title] Controlorul timpului
+[ach_time_controller_desc] Atinge multiplicatorul 3.0x sau mai mare
+[ach_time_accelerator_title] Acceleratorul timpului
+[ach_time_accelerator_desc] Atinge multiplicatorul 5.0x
+[ach_extreme_speed_title] Sprint extrem
+[ach_extreme_speed_desc] Atinge multiplicatorul de viteză 10.0x
+[ach_meteor_acceleration_title] Accelerație meteor
+[ach_meteor_acceleration_desc] Atinge multiplicatorul de viteză 25.0x
+[ach_prestige_beginning_title] Începutul prestigiului
+[ach_prestige_beginning_desc] Deține 1000 SDP
+[ach_fragment_obtained_title] Fragment de timp obținut
+[ach_fragment_obtained_desc] Obține 1 fragment de timp (VDP)
+[ach_first_rebirth_title] Prima reînviere
+[ach_first_rebirth_desc] Efectuează 1 reînviere temporală
+[ach_fragment_reset_title] Resetare fragmente
+[ach_fragment_reset_desc] Efectuează 1 resetare a fragmentelor de timp
+[ach_fragment_upgrader_title] Upgrade-ul fragmentelor
+[ach_fragment_upgrader_desc] Cumpără 1 upgrade pentru fragmentul de timp
+[ach_fragment_craftsman_title] Meșteșugarul fragmentelor
+[ach_fragment_craftsman_desc] Cumpără 5 upgrade-uri pentru fragmente de timp
+[ach_challenge_door_title] Poarta provocărilor
+[ach_challenge_door_desc] Finalizează 1 provocare
+[ach_challenge_master_title] Maestrul provocărilor
+[ach_challenge_master_desc] Finalizează 3 provocări
+[ach_ultimate_challenge_title] Provocarea supremă
+[ach_ultimate_challenge_desc] Finalizează 5 provocări
+[ach_hundred_year_solitude_title] Un secol de singurătate
+[ach_hundred_year_solitude_desc] Finalizează 52560000 de cicluri (minute)
+[ch_speed_demon_title] Demonul vitezei
+[ch_speed_demon_desc] Atinge multiplicatorul de viteză 25x în 3 minute
+[ch_speed_demon_reward] Viteză de bază permanentă +1.0x
+[ch_time_master_title] Maestrul timpului
+[ch_time_master_desc] Finalizează 200 de cicluri în 2 minute
+[ch_time_master_reward] Deblochează upgrade-ul recompensei de ciclu
+[ch_efficiency_expert_title] Expert în eficiență
+[ch_efficiency_expert_desc] Atinge multiplicatorul de viteză 100x folosind mai puțin de 1000 de minute
+[ch_efficiency_expert_reward] Deblochează upgrade-ul de optimizare a costurilor
+[ch_minimalist_master_title] Maestrul minimalismului
+[ch_minimalist_master_desc] Atinge 5000 de secunde acumulate fără a cumpăra niciun upgrade
+[ch_minimalist_master_reward] Deblochează upgrade-ul minutelor automate
+[ch_golden_chaser_title] Vânătorul de aur
+[ch_golden_chaser_desc] Declanșează timpul de aur de 5 ori în 10 minute
+[ch_golden_chaser_reward] Probabilitatea timpului de aur crește permanent cu +5%
+[up_speed_boost_name] Îmbunătățire viteză
+[up_speed_boost_desc] Fiecare nivel crește permanent viteza de bază cu 0.1x
+[up_auto_seconds_name] Secunde automate
+[up_auto_seconds_desc] Fiecare nivel oferă automat 0.1 secundă pe secundă
+[up_minute_boost_name] Minute suplimentare
+[up_minute_boost_desc] Fiecare nivel oferă 0.01 minut suplimentar pe secundă
+[up_speed_multiplier_name] Multiplicator de viteză
+[up_speed_multiplier_desc] Fiecare nivel crește multiplicatorul de viteză cu 10%
+[up_minute_multiplier_name] Multiplicator de minute
+[up_minute_multiplier_desc] Fiecare nivel crește multiplicatorul de câștig al minutelor cu 10%
+[up_cycle_bonus_name] Recompensă de ciclu
+[up_cycle_bonus_desc] Fiecare ciclu oferă 1 minut suplimentar
+[up_auto_minutes_name] Minute automate
+[up_auto_minutes_desc] Fiecare nivel oferă automat 0.01 minut pe secundă
+[up_cost_reduction_name] Optimizare costuri
+[up_cost_reduction_desc] Fiecare nivel reduce costul tuturor upgrade-urilor cu 5%
+[up_golden_time_name] Timp de aur
+[up_golden_time_desc] Fiecare nivel crește cu 1% șansa de a primi o recompensă dublă aleatorie
+[reb1_name] Upgrade reînviere temporală 1
+[reb1_desc] După reînviere, câștigul de secunde ×2, efectul de îmbunătățire a vitezei devine 0.15
+[reb2_name] Upgrade reînviere temporală 2
+[reb2_desc] Păstrează 3 niveluri de îmbunătățire a vitezei la reînviere și face ca minutul să crească viteza de câștig al secundelor
+[reb3_name] Upgrade reînviere temporală 3
+[reb3_desc] Câștigul de secunde ×2.5, iar fiecare minut adaugă 0.01 la multiplicatorul de secunde
+[reb4_name] Upgrade reînviere temporală 4
+[reb4_desc] Crește producția de secunde în funcție de rădăcina pătrată a minutelor deținute
+[reb5_name] Upgrade reînviere temporală 5
+[reb5_desc] Deblochează provocarea SDV1
+[reb6_name] Upgrade reînviere temporală 6
+[reb6_desc] Deblochează convertorul, făcând ca 60 de secunde să devină 1 minut înmulțit cu 1 + √(numărul de reînvieri)
+[reb7_name] Upgrade reînviere temporală 7
+[reb7_desc] Deblochează SDV2 și crește producția
+[reb8_name] Upgrade reînviere temporală 8
+[reb8_desc] Producția de puncte ×7.8 (necesită finalizarea SDV2)
+[reb9_name] Upgrade reînviere temporală 9
+[reb9_desc] Pentru fiecare upgrade SDP cumpărat, efectul de îmbunătățire a vitezei +0.02
+[reb10_name] Upgrade reînviere temporală 10
+[reb10_desc] Deblochează provocarea SDV3
+[reb11_name] Upgrade reînviere temporală 11
+[reb11_desc] Câștigul de SDP se dublează și crește câștigul de secunde în funcție de SDP
+[vdp11_name] Upgrade fragment de timp 1-1
+[vdp11_desc] Producția de secunde ×2, câștigul de SDP ×2
+[vdp12_name] Upgrade fragment de timp 1-2
+[vdp12_desc] Câștigul de minute ×3
+[vdp21_name] Upgrade fragment de timp 2-1
+[vdp21_desc] Crește producția de secunde în funcție de minutele deținute: ×(1 + minute^0.6)
+[vdp22_name] Upgrade fragment de timp 2-2
+[vdp22_desc] Crește producția de secunde în funcție de SDP-ul curent: ×(1 + SDP^0.7)
+[vdp23_name] Upgrade fragment de timp 2-3
+[vdp23_desc] Crește câștigul de minute în funcție de SDP-ul curent: ×(1 + SDP^0.55)
+[vdp33_name] Upgrade fragment de timp 3-3
+[vdp33_desc] Pentru fiecare provocare finalizată, producția de secunde +0.02
+[vdp41_name] Deblochează acceleratorul
+[vdp41_desc] Deblochează sistemul accelerator, oferind bonusuri suplimentare
+[sdv1_title] SDV1
+[sdv1_desc] Un minut devine 120 de secunde, resetează SDP și ignoră toate upgrade-urile. Obiectiv: 7777 de secunde pentru a finaliza provocarea.
+[sdv1_reward] După finalizare, fiecare minut devine 40 de secunde
+[sdv2_title] SDV2
+[sdv2_desc] Deblochează SDV2, îmbunătățirea vitezei +0.05, eficiența producției de minute suplimentare se dublează.
+[sdv2_reward] Crește capacitatea specială de producție a SDV2
+[sdv3_title] SDV3
+[sdv3_desc] În timpul provocării, limita soft este întotdeauna activă, producția ^0.8125. Obiectiv: 2125 de secunde pentru a finaliza.
+[sdv3_reward] După finalizare, 25% șansă de minute duble în fiecare minut
+[current_bonus] Bonus curent
+[current_income] Venit curent
+[current_multiplier_label] Multiplicator curent
+[cycle_reward] Recompensă de ciclu
+[cost_reduced] Reducere de cost
+[golden_probability] Probabilitate de aur
+[speed] Viteză
+[minutes_short] min
+[up_effect_speed] Bonus curent: +{0}x viteză
+[up_effect_auto_seconds] Venit curent: +{0} sec/sec
+[up_effect_minute_boost] Venit curent: +{0} min/sec
+[up_effect_speed_multiplier] Multiplicator curent: x{0} viteză
+[up_effect_minute_multiplier] Multiplicator curent: x{0} minute
+[up_effect_cycle_bonus] Recompensă de ciclu: +{0} min/ciclu
+[up_effect_auto_minutes] Minute automate: +{0} min/sec
+[up_effect_cost_reduction] Reducere de cost: {0}%
+[up_effect_golden_time] Probabilitate de aur: {0}%
+[upgrade_button] Upgrade {0} {1}
+[minutes_currency] minute
+[theme_blue] Albastru
+[theme_darkred] Roșu
+[theme_minimal] Negru
+[theme_neon] Violet+Albastru
+[theme_yellow] Galben
+[progress] Progres
+[unlocked] Atingere
+[reward] Recompensă
+[time_limit] Limită de timp
+[in_progress] În desfășurare
+[complete] Finalizat
+[start_challenge] Începe provocarea
+[abandon_challenge] Abandonează provocarea
+[no_time_limit] Fără limită de timp
+[rebirth_info] Informații reînviere
+[rebirth_upgrades_tab] Upgrade-uri reînviere
+[time_fragment_upgrades] Upgrade-uri fragmente de timp
+[sdv_challenges] Provocări SDV
+[time_rebirth_points] Puncte de reînviere temporală (SDP)
+[time_fragments] Fragmente de timp (VDP)
+[rebirth_count] Număr reînvieri
+[fragment_reset_count] Număr resetări fragmente
+[time_rebirth] Reînviere temporală
+[get_time_fragments] Obține fragmente de timp
+[current_rebirth_gain] Reînvierea curentă va oferi:
+[sdp_label] SDP
+[rebirth_desc] Reînvierea temporală resetează rularea curentă și oferă SDP, care poate fi folosit pentru a cumpăra upgrade-uri de reînviere. Obținerea fragmentelor de timp consumă SDP și crește VDP.
+[sdv_challenge_note] Provocările SDV sunt independente de provocările principale, iar după finalizare oferă recompense speciale de reînviere.
+[time_rebirth_upgrades_desc] Folosește SDP pentru a cumpăra upgrade-uri de reînviere temporală, crescând beneficiile reînvierii și abilitățile speciale.
+[time_fragment_upgrades_desc] Folosește VDP pentru a cumpăra upgrade-uri de fragmente de timp, întărind producția de secunde, câștigul de minute și eficiența reînvierii.
+[booster_level] Nivel accelerator
+[sdv_challenge_desc] Provocările SDV sunt independente de provocările obișnuite, iar după finalizare oferă bonusuri speciale de reînviere. Fiecare provocare poate fi activă doar una odată; dacă este abandonată, poate fi aleasă din nou.
+[current_sdv_challenge] Provocare SDV curentă
+[completed_sdv_challenges] Provocări SDV finalizate
+[none] Niciunul
+[game_stats] Statistici joc
+[total_accumulated_seconds] Total secunde acumulate
+[current_speed_multiplier] Multiplicator de viteză curent
+[highest_second_speed] Cea mai mare viteză a secundelor
+[current_minutes] Minute curente
+[current_seconds] Secunde curente
+[total_rebirths] Număr total reînvieri
+[current_sdp] SDP curent
+[current_vdp] VDP curent
+[total_current_upgrades] Număr total upgrade-uri curente
+[total_current_rebirth_upgrades] Număr total upgrade-uri de reînviere curente
+[current_challenges_completed] Provocări finalizate
+[save_created_time] Timpul creării salvării
+[save_elapsed_time] Timpul scurs de la salvare
+[current_theme] Tema curentă
+[footer_text] Înainte în timp - BY
+[speed_boost] Îmbunătățire viteză
+[speed_boost_desc] Fiecare nivel crește permanent viteza de bază cu 0.1x
+[auto_seconds] Secunde automate
+[auto_seconds_desc] Fiecare nivel oferă automat 0.1 secundă pe secundă
+[extra_minutes] Minute suplimentare
+[extra_minutes_desc] Fiecare nivel oferă 0.01 minut suplimentar pe secundă
+[speed_multiplier] Multiplicator de viteză
+[speed_multiplier_desc] Fiecare nivel crește multiplicatorul de viteză cu 10%
+[minute_multiplier] Multiplicator de minute
+[minute_multiplier_desc] Fiecare nivel crește multiplicatorul de câștig al minutelor cu 10%
+[cycle_bonus] Recompensă de ciclu
+[cycle_bonus_desc] Fiecare ciclu oferă 1 minut suplimentar
+[auto_minutes] Minute automate
+[auto_minutes_desc] Fiecare nivel oferă automat 0.01 minut pe secundă
+[cost_optimization] Optimizare costuri
+[cost_optimization_desc] Fiecare nivel reduce costul tuturor upgrade-urilor cu 5%
+[golden_time] Timp de aur
+[golden_time_desc] Fiecare nivel crește cu 1% șansa de a primi o recompensă dublă aleatorie
+[current_bonus] Bonus curent
+[current_income] Venit curent
+[current_multiplier_label] Multiplicator curent
+[cycle_reward] Recompensă de ciclu
+[cost_reduced] Reducere de cost
+[golden_probability] Probabilitate de aur
+[upgrade] Upgrade
+[completed] Finalizat
+[purchase] Cumpără
+[minutes_currency] minute
+[need_purchase_previous] Cumpără mai întâi pe cel anterior
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Mod provocare
+[current_challenge] Provocare curentă
+[remaining_time] Timp rămas
+[exit_challenge] Ieșire din provocare
+[welcome_challenge] Bun venit în modul provocare!
+[challenge_desc_text] În modul provocare, vei întâmpina diverse limitări și obiective. Finalizarea cu succes a unei provocări va oferi recompense permanente!
+[challenge_rules_title] Regulile provocării:
+[challenge_rule1] După intrarea în modul provocare, nu poți cumpăra upgrade-uri
+[challenge_rule2] Provocarea are o limită de timp sau condiții speciale
+[challenge_rule3] Eșecul sau ieșirea vor reseta progresul curent
+[challenge_rule4] Finalizarea cu succes oferă o recompensă permanentă
+[enter_challenge_mode] Intră în modul provocare
+[time_limit] Limită de timp
+[reward] Recompensă
+[progress] Progres
+[in_progress] În desfășurare
+[complete] Finalizat
+[start_challenge] Începe provocarea
+[abandon_challenge] Abandonează provocarea
+[achievement_first_step] Primul pas
+[achievement_first_step_desc] Cumpără primul upgrade
+[achievement_one_hour] O oră!
+[achievement_one_hour_desc] Timpul acumulat a atins 1 oră
+[achievement_time_traveler] Călător în timp
+[achievement_time_traveler_desc] Timpul acumulat a atins 10000 de secunde
+[achievement_100_minutes] Aniversarea a 100 de minute
+[achievement_100_minutes_desc] Deține 100 de minute
+[achievement_1000_minutes] Legenda celor 1000 de minute
+[achievement_1000_minutes_desc] Deține 1000 de minute
+[achievement_start_cycle] Începe ciclul
+[achievement_start_cycle_desc] Finalizează 1 ciclu
+[achievement_time_controller] Controlorul timpului
+[achievement_time_controller_desc] Atinge multiplicatorul 3.0x sau mai mare
+[achievement_time_accelerator] Acceleratorul timpului
+[achievement_time_accelerator_desc] Atinge multiplicatorul 5.0x
+[achievement_extreme_speed] Sprint extrem
+[achievement_extreme_speed_desc] Atinge multiplicatorul de viteză 10.0x
+[achievement_meteor_acceleration] Accelerație meteor
+[achievement_meteor_acceleration_desc] Atinge multiplicatorul de viteză 25.0x
+[achievement_prestige_beginning] Începutul prestigiului
+[achievement_prestige_beginning_desc] Deține 1000 SDP
+[achievement_fragment_obtained] Fragment de timp obținut
+[achievement_fragment_obtained_desc] Obține 1 fragment de timp (VDP)
+[achievement_first_rebirth] Prima reînviere
+[achievement_first_rebirth_desc] Efectuează 1 reînviere temporală
+[achievement_fragment_reset] Resetare fragmente
+[achievement_fragment_reset_desc] Efectuează 1 resetare a fragmentelor de timp
+[achievement_fragment_upgrader] Upgrade-ul fragmentelor
+[achievement_fragment_upgrader_desc] Cumpără 1 upgrade pentru fragmentul de timp
+[achievement_fragment_craftsman] Meșteșugarul fragmentelor
+[achievement_fragment_craftsman_desc] Cumpără 5 upgrade-uri pentru fragmente de timp
+[achievement_challenge_door] Poarta provocărilor
+[achievement_challenge_door_desc] Finalizează 1 provocare
+[achievement_challenge_master] Maestrul provocărilor
+[achievement_challenge_master_desc] Finalizează 3 provocări
+[achievement_ultimate_challenge] Provocarea supremă
+[achievement_ultimate_challenge_desc] Finalizează 5 provocări
+[achievement_hundred_year_solitude] Un secol de singurătate
+[achievement_hundred_year_solitude_desc] Finalizează 52560000 de cicluri (minute)
+[import_prompt] Lipiți șirul de salvare:
+[export_prompt] Copiați codul de salvare de mai jos:
+[import_success] Import reușit! Jocul se va reîmprospăta.
+[import_error] Salvare invalidă, nu se poate analiza! Verificați dacă ați copiat complet.
+[delete_confirm] ⚠️ Avertisment: Această operațiune va șterge permanent toate datele jocului, inclusiv salvările, progresul realizărilor, istoricul clicurilor, bornele etc.
+[delete_confirm_question] Sigur doriți să ștergeți complet datele și să o luați de la capăt?
+[delete_success] Toate datele au fost șterse definitiv!
+[save_load_error] Eroare la încărcarea salvării:
+[save_check_message] Verificați dacă salvarea este corectă sau încercați să importați din nou.
+[exit_challenge_confirm] Sigur doriți să ieșiți din modul provocare? Progresul actual se va pierde.
+[exit_challenge_success] Ați ieșit din modul provocare.
+[enter_challenge_success] Ați intrat în modul provocare! Acum puteți selecta și începe o provocare.
+[challenge_start_message] Provocarea a început!
+[target] Obiectiv:
+[time_format] min
+[rebirth_need_minutes] Este nevoie de cel puțin 10 minute pentru a face o reînviere temporală.
+[rebirth_success] Reînviere temporală reușită, ați primit
+[vdp_need_sdp] Este nevoie de cel puțin 1000 SDP pentru a obține fragmente de timp.
+[vdp_cannot_obtain] Momentan nu se pot obține fragmente de timp.
+[vdp_obtained] Ați primit
+[time_fragments_obtained] fragment(e) de timp!
+[abandon_sdv_confirm] Sigur doriți să abandonați provocarea SDV curentă?
+[sdv_started] Începe provocarea SDV:
+[sdv_unlock_hint] Este necesar să cumpărați upgrade-ul de reînviere SDV corespunzător pentru a debloca
+[challenge_failed] Provocare eșuată! Timpul a expirat.
+[speed_calc_error] Eroare la calculul vitezei, s-a revenit la valoarea implicită:
+[speed_calc_error_hint] Acest lucru se poate datora coruperii datelor de salvare.
+[seconds_per_second] sec/sec
+[minutes_per_second] min/sec
+[minutes_per_cycle] min/ciclu
+[minutes_per_second_auto] min/sec
+[seconds] secunde
+[no_time_limit] Fără limită de timp
+[unlocked] Atingere
+[locked_status] Ne-deblocat
+[start_sdv] Începe SDV
+[abandon_sdv] Abandonează SDV
+[rebirth_gain_sdp] Reînviere temporală (veți primi {0} SDP)
+[upgrade_completed] Finalizat
+[need_purchase_previous] Cumpără mai întâi pe cel anterior
+[purchase_button] Cumpără {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Finalizat
+[need_purchase_previous] Cumpără mai întâi pe cel anterior
+[purchase_button] Cumpără {0} {1}
+[vdp_currency] VDP
+[start_sdv] Începe SDV
+[abandon_sdv] Abandonează SDV
+[sdv_unlock_hint] Este necesar să cumpărați upgrade-ul de reînviere SDV corespunzător pentru a debloca
+[abandon_sdv_confirm] Sigur doriți să abandonați provocarea SDV curentă?
+[rebirth_button_text] Reînviere temporală (veți primi {0} SDP)
+[insufficient_funds] Fonduri insuficiente
+[unit_seconds_per_second] sec/s
+[none] Niciunul
+[yes] Da
+[no] Nu
+[basic_upgrades] Upgrade-uri de bază
+[advanced_upgrades] Upgrade-uri avansate
+[expert_upgrades] Upgrade-uri expert
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Selectați limba interfeței
+[load_language_fail] Încărcarea limbii a eșuat
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

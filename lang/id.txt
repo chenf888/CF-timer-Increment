@@ -1,0 +1,340 @@
+[game_title] Timer Increment
+[version_text] Versi saat ini 1.4.2
+[join_us] Bergabunglah
+[about] Tentang
+[about_title] Tentang Timer Increment
+[about_desc] Ini adalah game peningkatan waktu. Pemain mempercepat akumulasi waktu dengan membeli upgrade dan menyelesaikan tantangan, merasakan pertumbuhan dari lambat ke cepat.
+[author] Penulis:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Tips bermain:
+[gameplay_text] Tingkatkan kecepatan dan menit otomatis terlebih dahulu, lalu kumpulkan hadiah siklus dan waktu emas untuk mendapatkan menit lebih cepat.
+[acknowledgment] Ucapan terima kasih:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Terima kasih untuk semua pemain yang mendukung dan memberikan masukan!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Yakin keluar dari mode tantangan? Progres saat ini akan hilang.
+[exit_challenge_success] Keluar dari mode tantangan.
+[enter_challenge_success] Kamu masuk mode tantangan! Sekarang pilih dan mulai tantangan.
+[resume] Lanjut
+[play] Mulai
+[pause] Jeda
+[export_prompt] Salin kode simpan di bawah:
+[export_prompt_raw] Salin simpan asli di bawah:
+[import_prompt] Tempel string simpan:
+[import_success] Impor berhasil! Game akan segera refresh.
+[import_error] Simpan tidak valid, tidak bisa dibaca! Periksa apakah sudah salin lengkap. Error:
+[delete_confirm] ⚠️ Peringatan: Tindakan ini akan menghapus semua data game secara permanen, termasuk simpan, progres prestasi, riwayat klik, milestone, dan lainnya.
+
+Yakin hapus semua dan mulai dari awal?
+[delete_success] Semua data telah dihapus!
+[time_day] hari
+[time_hour] jam
+[time_minute] menit
+[time_second] detik
+[tab_timer] Timer
+[tab_upgrades] Upgrade
+[tab_achievements] Prestasi
+[tab_challenges] Tantangan
+[tab_rebirth] Kelahiran Kembali
+[tab_stats] Statistik
+[tab_settings] Pengaturan
+[settings_title] Pengaturan Game
+[save_management] Kelola Simpan
+[export_save] Ekspor Simpan
+[import_save] Impor Simpan
+[interface_theme] Tema Antarmuka
+[theme_desc] Ganti gaya visual
+[danger_operations] Operasi Berbahaya
+[delete_save] Hapus & Mulai Ulang
+[delete_save_desc] Hapus semua data game (simpan, prestasi, riwayat klik, dll.). Tidak bisa dikembalikan!
+[current_minute_seconds] Detik menit saat ini
+[accumulated_seconds] Detik terkumpul
+[completed_cycles] Siklus selesai
+[current_multiplier] Pengali saat ini
+[minutes_owned] Menit dimiliki:
+[basic_upgrades] Upgrade Dasar
+[advanced_upgrades] Upgrade Lanjutan
+[expert_upgrades] Upgrade Pakar
+[ach_first_step_title] Langkah Pertama
+[ach_first_step_desc] Beli upgrade pertama
+[ach_one_hour_title] Satu Jam!
+[ach_one_hour_desc] Waktu total mencapai 1 jam
+[ach_time_traveler_title] Penjelajah Waktu
+[ach_time_traveler_desc] Waktu total mencapai 10000 detik
+[ach_100_minutes_title] Peringatan 100 Menit
+[ach_100_minutes_desc] Miliki 100 menit
+[ach_1000_minutes_title] Legenda 1000 Menit
+[ach_1000_minutes_desc] Miliki 1000 menit
+[ach_start_cycle_title] Mulai Siklus
+[ach_start_cycle_desc] Selesaikan 1 siklus
+[ach_time_controller_title] Pengendali Waktu
+[ach_time_controller_desc] Capai pengali 3.0x atau lebih
+[ach_time_accelerator_title] Pemercepat Waktu
+[ach_time_accelerator_desc] Capai pengali 5.0x
+[ach_extreme_speed_title] Kecepatan Ekstrem
+[ach_extreme_speed_desc] Capai pengali kecepatan 10.0x
+[ach_meteor_acceleration_title] Akselerasi Meteor
+[ach_meteor_acceleration_desc] Capai pengali kecepatan 25.0x
+[ach_prestige_beginning_title] Awal Prestise
+[ach_prestige_beginning_desc] Miliki 1000 SDP
+[ach_fragment_obtained_title] Fragmen Waktu Didapat
+[ach_fragment_obtained_desc] Dapatkan 1 fragmen waktu (VDP)
+[ach_first_rebirth_title] Kelahiran Kembali Pertama
+[ach_first_rebirth_desc] Selesaikan 1 kelahiran waktu
+[ach_fragment_reset_title] Reset Fragmen
+[ach_fragment_reset_desc] Selesaikan 1 reset fragmen waktu
+[ach_fragment_upgrader_title] Peningkat Fragmen
+[ach_fragment_upgrader_desc] Beli 1 upgrade fragmen waktu
+[ach_fragment_craftsman_title] Tukang Fragmen
+[ach_fragment_craftsman_desc] Beli 5 upgrade fragmen waktu
+[ach_challenge_door_title] Pintu Tantangan
+[ach_challenge_door_desc] Selesaikan 1 tantangan
+[ach_challenge_master_title] Master Tantangan
+[ach_challenge_master_desc] Selesaikan 3 tantangan
+[ach_ultimate_challenge_title] Tantangan Terakhir
+[ach_ultimate_challenge_desc] Selesaikan 5 tantangan
+[ach_hundred_year_solitude_title] Kesepian Seratus Tahun
+[ach_hundred_year_solitude_desc] Selesaikan 52560000 siklus (menit)
+[ch_speed_demon_title] Iblis Kecepatan
+[ch_speed_demon_desc] Capai 25x pengali kecepatan dalam 3 menit
+[ch_speed_demon_reward] +1.0x kecepatan dasar permanen
+[ch_time_master_title] Master Waktu
+[ch_time_master_desc] Selesaikan 200 siklus dalam 2 menit
+[ch_time_master_reward] Buka upgrade hadiah siklus
+[ch_efficiency_expert_title] Pakar Efisiensi
+[ch_efficiency_expert_desc] Capai 100x pengali kecepatan dengan kurang dari 1000 menit
+[ch_efficiency_expert_reward] Buka upgrade optimasi biaya
+[ch_minimalist_master_title] Master Minimalis
+[ch_minimalist_master_desc] Capai 5000 detik waktu total tanpa beli upgrade apapun
+[ch_minimalist_master_reward] Buka upgrade menit otomatis
+[ch_golden_chaser_title] Pemburu Emas
+[ch_golden_chaser_desc] Aktifkan waktu emas 5 kali dalam 10 menit
+[ch_golden_chaser_reward] +5% peluang waktu emas permanen
+[up_speed_boost_name] Peningkat Kecepatan
+[up_speed_boost_desc] Setiap level tambah +0.1x kecepatan dasar permanen
+[up_auto_seconds_name] Detik Otomatis
+[up_auto_seconds_desc] Setiap level dapat 0.1 detik per detik secara otomatis
+[up_minute_boost_name] Menit Tambahan
+[up_minute_boost_desc] Setiap level tambah 0.01 menit per detik
+[up_speed_multiplier_name] Pengali Kecepatan
+[up_speed_multiplier_desc] Setiap level naik 10% pengali kecepatan
+[up_minute_multiplier_name] Pengali Menit
+[up_minute_multiplier_desc] Setiap level naik 10% pengali dapat menit
+[up_cycle_bonus_name] Hadiah Siklus
+[up_cycle_bonus_desc] 1 menit tambahan per siklus
+[up_auto_minutes_name] Menit Otomatis
+[up_auto_minutes_desc] Setiap level dapat 0.01 menit per detik secara otomatis
+[up_cost_reduction_name] Pengurangan Biaya
+[up_cost_reduction_desc] Setiap level turun 5% semua biaya upgrade
+[up_golden_time_name] Waktu Emas
+[up_golden_time_desc] Setiap level naik 1% peluang hadiah ganda
+[reb1_name] Upgrade Kelahiran Waktu 1
+[reb1_desc] Setelah lahir kembali ×2 dapat detik, peningkat kecepatan jadi 0.15
+[reb2_name] Upgrade Kelahiran Waktu 2
+[reb2_desc] Simpan level 3 peningkat kecepatan saat lahir kembali, menit tingkatkan kecepatan detik
+[reb3_name] Upgrade Kelahiran Waktu 3
+[reb3_desc] ×2.5 dapat detik, setiap menit +0.01 pengali detik
+[reb4_name] Upgrade Kelahiran Waktu 4
+[reb4_desc] Tingkatkan produksi detik berdasarkan akar kuadrat menit yang dimiliki
+[reb5_name] Upgrade Kelahiran Waktu 5
+[reb5_desc] Buka tantangan SDV1
+[reb6_name] Upgrade Kelahiran Waktu 6
+[reb6_desc] Buka konverter, 60 detik = 1 menit jadi 1 + √(jumlah kelahiran) kali
+[reb7_name] Upgrade Kelahiran Waktu 7
+[reb7_desc] Buka SDV2 dan tingkatkan produksi
+[reb8_name] Upgrade Kelahiran Waktu 8
+[reb8_desc] Produksi poin ×7.8 (butuh SDV2 selesai)
+[reb9_name] Upgrade Kelahiran Waktu 9
+[reb9_desc] Setiap beli upgrade SDP tambah +0.02 peningkat kecepatan
+[reb10_name] Upgrade Kelahiran Waktu 10
+[reb10_desc] Buka tantangan SDV3
+[reb11_name] Upgrade Kelahiran Waktu 11
+[reb11_desc] Dapat SDP dua kali lipat, tingkatkan dapat detik berdasarkan SDP
+[vdp11_name] Upgrade Fragmen Waktu 1-1
+[vdp11_desc] ×2 produksi detik, ×2 dapat SDP
+[vdp12_name] Upgrade Fragmen Waktu 1-2
+[vdp12_desc] ×3 dapat menit
+[vdp21_name] Upgrade Fragmen Waktu 2-1
+[vdp21_desc] Tingkatkan produksi detik berdasarkan menit yang dimiliki: ×(1 + menit^0.6)
+[vdp22_name] Upgrade Fragmen Waktu 2-2
+[vdp22_desc] Tingkatkan produksi detik berdasarkan SDP saat ini: ×(1 + SDP^0.7)
+[vdp23_name] Upgrade Fragmen Waktu 2-3
+[vdp23_desc] Tingkatkan dapat menit berdasarkan SDP saat ini: ×(1 + SDP^0.55)
+[vdp33_name] Upgrade Fragmen Waktu 3-3
+[vdp33_desc] Setiap tantangan selesai tambah +0.02 produksi detik
+[vdp41_name] Buka Booster
+[vdp41_desc] Buka sistem booster untuk bonus tambahan
+[sdv1_title] SDV1
+[sdv1_desc] 1 menit = 120 detik, reset SDP, abaikan semua upgrade. Tujuan: selesai 7777 detik.
+[sdv1_reward] Setelah selesai, 1 menit jadi 40 detik
+[sdv2_title] SDV2
+[sdv2_desc] Buka SDV2, +0.05 peningkat kecepatan, efisiensi produksi menit tambahan dua kali lipat.
+[sdv2_reward] Tingkatkan kapasitas produksi eksklusif SDV2
+[sdv3_title] SDV3
+[sdv3_desc] Batas lunak konstan di tantangan, produksi ^0.8125. Tujuan: selesai 2125 detik.
+[sdv3_reward] Setelah selesai, 25% peluang menit ganda per menit
+[current_bonus] Bonus Saat Ini
+[current_income] Pendapatan Saat Ini
+[current_multiplier_label] Pengali Saat Ini
+[cycle_reward] Hadiah Siklus
+[cost_reduced] Biaya Dikurangi
+[golden_probability] Peluang Emas
+[speed] Kecepatan
+[minutes_short] menit
+[up_effect_speed] Bonus saat ini: +{0}x kecepatan
+[up_effect_auto_seconds] Pendapatan saat ini: +{0} detik/detik
+[up_effect_minute_boost] Pendapatan saat ini: +{0} menit/detik
+[up_effect_speed_multiplier] Pengali saat ini: ×{0} kecepatan
+[up_effect_minute_multiplier] Pengali saat ini: ×{0} menit
+[up_effect_cycle_bonus] Hadiah siklus: +{0} menit/siklus
+[up_effect_auto_minutes] Menit otomatis: +{0} menit/detik
+[up_effect_cost_reduction] Pengurangan biaya: {0}%
+[up_effect_golden_time] Peluang emas: {0}%
+[upgrade_button] Upgrade {0} {1}
+[minutes_currency] menit
+[theme_blue] Biru
+[theme_darkred] Merah
+[theme_minimal] Hitam
+[theme_neon] Ungu+Biru
+[theme_yellow] Kuning
+[progress] Progres
+[unlocked] Terbuka
+[reward] Hadiah
+[time_limit] Batas Waktu
+[in_progress] Sedang Berjalan
+[complete] Selesai
+[start_challenge] Mulai Tantangan
+[abandon_challenge] Batalkan Tantangan
+[no_time_limit] Tanpa batas waktu
+[rebirth_info] Info Kelahiran Kembali
+[rebirth_upgrades_tab] Upgrade Kelahiran
+[time_fragment_upgrades] Upgrade Fragmen Waktu
+[sdv_challenges] Tantangan SDV
+[time_rebirth_points] Poin Kelahiran Waktu (SDP)
+[time_fragments] Fragmen Waktu (VDP)
+[rebirth_count] Jumlah Kelahiran
+[fragment_reset_count] Jumlah Reset Fragmen
+[time_rebirth] Kelahiran Waktu
+[get_time_fragments] Dapatkan Fragmen Waktu
+[current_rebirth_gain] Hasil kelahiran saat ini:
+[sdp_label] SDP
+[rebirth_desc] Kelahiran waktu reset permainan saat ini dan berikan SDP, bisa beli upgrade kelahiran. Dapat fragmen waktu habiskan SDP dan naikkan VDP.
+[sdv_challenge_note] Tantangan SDV terpisah dari tantangan utama, berikan hadiah kelahiran eksklusif.
+[time_rebirth_upgrades_desc] Gunakan SDP beli upgrade kelahiran waktu untuk tingkatkan hasil dan kemampuan khusus.
+[time_fragment_upgrades_desc] Gunakan VDP beli upgrade fragmen waktu untuk perkuat produksi detik, dapat menit, dan efisiensi kelahiran.
+[booster_level] Level Booster
+[sdv_challenge_desc] Tantangan SDV independen; hanya satu sekaligus, bisa dibatalkan dan dipilih ulang.
+[current_sdv_challenge] Tantangan SDV Saat Ini
+[completed_sdv_challenges] Tantangan SDV Selesai
+[none] Tidak ada
+[game_stats] Statistik Game
+[total_accumulated_seconds] Total detik terkumpul
+[current_speed_multiplier] Pengali kecepatan saat ini
+[highest_second_speed] Kecepatan detik tertinggi
+[current_minutes] Menit saat ini
+[current_seconds] Detik saat ini
+[total_rebirths] Total kelahiran
+[current_sdp] SDP saat ini
+[current_vdp] VDP saat ini
+[total_current_upgrades] Total upgrade saat ini
+[total_current_rebirth_upgrades] Total upgrade kelahiran saat ini
+[current_challenges_completed] Tantangan selesai saat ini
+[save_created_time] Tanggal buat simpan
+[save_elapsed_time] Waktu sejak simpan
+[current_theme] Tema saat ini
+[footer_text] Maju bersama waktu - BY
+[speed_boost] Peningkat Kecepatan
+[speed_boost_desc] Setiap level tambah +0.1x kecepatan dasar permanen
+[auto_seconds] Detik Otomatis
+[auto_seconds_desc] Setiap level dapat 0.1 detik per detik secara otomatis
+[extra_minutes] Menit Tambahan
+[extra_minutes_desc] Setiap level tambah 0.01 menit per detik
+[speed_multiplier] Pengali Kecepatan
+[speed_multiplier_desc] Setiap level naik 10% pengali kecepatan
+[minute_multiplier] Pengali Menit
+[minute_multiplier_desc] Setiap level naik 10% pengali dapat menit
+[cycle_bonus] Hadiah Siklus
+[cycle_bonus_desc] 1 menit tambahan per siklus
+[auto_minutes] Menit Otomatis
+[auto_minutes_desc] Setiap level dapat 0.01 menit per detik secara otomatis
+[cost_optimization] Optimasi Biaya
+[cost_optimization_desc] Setiap level turun 5% semua biaya upgrade
+[golden_time] Waktu Emas
+[golden_time_desc] Setiap level naik 1% peluang hadiah ganda
+[upgrade] Upgrade
+[completed] Selesai
+[purchase] Beli
+[need_purchase_previous] Beli item sebelumnya terlebih dahulu
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Mode Tantangan
+[current_challenge] Tantangan Saat Ini
+[remaining_time] Waktu Tersisa
+[exit_challenge] Keluar Tantangan
+[welcome_challenge] Selamat datang di Mode Tantangan!
+[challenge_desc_text] Di mode tantangan, kamu hadapi batasan dan tujuan. Berhasil selesai dapat hadiah permanen!
+[challenge_rules_title] Aturan Tantangan:
+[challenge_rule1] Tidak bisa beli upgrade di mode tantangan
+[challenge_rule2] Tantangan ada batas waktu atau syarat khusus
+[challenge_rule3] Gagal atau keluar reset progres
+[challenge_rule4] Berhasil selesai dapat hadiah permanen
+[enter_challenge_mode] Masuk Mode Tantangan
+[target] Tujuan:
+[time_format] menit
+[rebirth_need_minutes] Butuh minimal 10 menit untuk kelahiran waktu.
+[rebirth_success] Kelahiran waktu berhasil, dapat:
+[vdp_need_sdp] Butuh minimal 1000 SDP untuk dapat fragmen waktu.
+[vdp_cannot_obtain] Tidak bisa dapat fragmen waktu sekarang.
+[vdp_obtained] Dapat
+[time_fragments_obtained] fragmen waktu!
+[abandon_sdv_confirm] Yakin batalkan tantangan SDV saat ini?
+[sdv_started] Tantangan SDV dimulai:
+[sdv_unlock_hint] Butuh beli upgrade kelahiran SDV yang sesuai untuk buka
+[challenge_failed] Tantangan gagal! Waktu habis.
+[speed_calc_error] Error hitung kecepatan, nilai default dikembalikan:
+[speed_calc_error_hint] Ini bisa karena data simpan rusak.
+[seconds_per_second] detik/detik
+[minutes_per_second] menit/detik
+[minutes_per_cycle] menit/siklus
+[minutes_per_second_auto] menit/detik
+[seconds] detik
+[locked_status] Terkunci
+[start_sdv] Mulai SDV
+[abandon_sdv] Batalkan SDV
+[rebirth_gain_sdp] Kelahiran Waktu (dapat {0} SDP)
+[upgrade_completed] Selesai
+[purchase_button] Beli {0} {1}
+[rebirth_button_text] Kelahiran Waktu (dapat {0} SDP)
+[insufficient_funds] Saldo tidak cukup
+[unit_seconds_per_second] detik/detik
+[yes] Ya
+[no] Tidak
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Pilih bahasa antarmuka
+[load_language_fail] Gagal memuat bahasa
+[change_language] Ganti Bahasa
+[choose_language] Pilih Bahasa
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

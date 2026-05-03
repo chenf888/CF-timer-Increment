@@ -1,0 +1,424 @@
+[game_title] Przyrost czasomierza
+[version_text] Wersja 1.4.2
+[join_us] Dołącz do nas
+[about] O grze
+[about_title] O Przyroście czasomierza
+[about_desc] To gra polegająca na przyroście czasu, w której gracz kupuje ulepszenia i wykonuje wyzwania, aby przyspieszyć akumulację czasu, doświadczając procesu wzrostu od powolnego do eksplozywnego.
+[author] Autor:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Wskazówki dotyczące rozgrywki:
+[gameplay_text] Priorytetowo zwiększaj prędkość i automatyczne minuty, następnie zbieraj nagrody cyklu i złoty czas, aby szybciej zdobywać minuty.
+[acknowledgment] Podziękowania:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Dziękujemy wszystkim graczom za wsparcie i opinie!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Czy na pewno chcesz opuścić tryb wyzwania? Dotychczasowy postęp zostanie utracony.
+[exit_challenge_success] Opuszczono tryb wyzwania.
+[enter_challenge_success] Włączono tryb wyzwania! Teraz możesz wybrać i rozpocząć wyzwanie.
+[resume] Kontynuuj
+[play] Graj
+[pause] Wstrzymaj
+[export_prompt] Skopiuj poniższy kod zapisu:
+[export_prompt_raw] Skopiuj poniższy surowy zapis:
+[import_prompt] Wklej ciąg zapisu:
+[import_success] Import udany! Gra zostanie odświeżona.
+[import_error] Nieprawidłowy zapis, nie można go przeanalizować! Sprawdź, czy skopiowano całość. Błąd:
+[delete_confirm] ⚠️ Ostrzeżenie: Ta operacja trwale usunie wszystkie dane gry, w tym zapisy, postępy osiągnięć, historię kliknięć, kamienie milowe itp.\n\nCzy na pewno chcesz całkowicie usunąć zapis i zacząć od nowa?
+[delete_success] Wszystkie dane zostały całkowicie usunięte!
+[time_day] dzień
+[time_hour] godz.
+[time_minute] min
+[time_second] s
+[tab_timer] Stoper
+[tab_upgrades] Ulepszenia
+[tab_achievements] Osiągnięcia
+[tab_challenges] Wyzwania
+[tab_rebirth] Odrodzenie
+[tab_stats] Statystyki
+[tab_settings] Ustawienia
+[settings_title] Ustawienia gry
+[save_management] Zarządzanie zapisem
+[export_save] Eksportuj zapis
+[import_save] Importuj zapis
+[interface_theme] Motyw interfejsu
+[theme_desc] Zmień różne style wizualne
+[danger_operations] Niebezpieczne operacje
+[delete_save] Usuń zapis i zacznij od nowa
+[delete_save_desc] Całkowicie usuwa wszystkie dane gry (zapis, osiągnięcia, historię kliknięć itp.). Operacja nieodwracalna!
+[current_minute_seconds] Bieżące sekundy minuty
+[accumulated_seconds] Skumulowane sekundy
+[completed_cycles] Ukończone cykle
+[current_multiplier] Bieżący mnożnik
+[play] Graj
+[pause] Wstrzymaj
+[resume] Kontynuuj
+[minutes_owned] Posiadane minuty:
+[basic_upgrades] Podstawowe ulepszenia
+[advanced_upgrades] Zaawansowane ulepszenia
+[expert_upgrades] Eksperckie ulepszenia
+[ach_first_step_title] Pierwszy krok
+[ach_first_step_desc] Kup pierwsze ulepszenie
+[ach_one_hour_title] Godzina!
+[ach_one_hour_desc] Skumulowany czas osiągnął 1 godzinę
+[ach_time_traveler_title] Podróżnik w czasie
+[ach_time_traveler_desc] Skumulowany czas osiągnął 10000 sekund
+[ach_100_minutes_title] 100-minutowy jubileusz
+[ach_100_minutes_desc] Posiadaj 100 minut
+[ach_1000_minutes_title] Legenda 1000 minut
+[ach_1000_minutes_desc] Posiadaj 1000 minut
+[ach_start_cycle_title] Rozpocznij cykl
+[ach_start_cycle_desc] Ukończ 1 cykl
+[ach_time_controller_title] Władca czasu
+[ach_time_controller_desc] Osiągnij mnożnik 3.0x lub wyższy
+[ach_time_accelerator_title] Akcelerator czasu
+[ach_time_accelerator_desc] Osiągnij mnożnik 5.0x
+[ach_extreme_speed_title] Ekstremalne sprint
+[ach_extreme_speed_desc] Osiągnij mnożnik prędkości 10.0x
+[ach_meteor_acceleration_title] Meteor przyspieszenie
+[ach_meteor_acceleration_desc] Osiągnij mnożnik prędkości 25.0x
+[ach_prestige_beginning_title] Początek prestiżu
+[ach_prestige_beginning_desc] Posiadaj 1000 SDP
+[ach_fragment_obtained_title] Zdobycie fragmentu czasu
+[ach_fragment_obtained_desc] Zdobądź 1 fragment czasu (VDP)
+[ach_first_rebirth_title] Pierwsze odrodzenie
+[ach_first_rebirth_desc] Wykonaj 1 odrodzenie czasu
+[ach_fragment_reset_title] Reset fragmentów
+[ach_fragment_reset_desc] Wykonaj 1 reset fragmentów czasu
+[ach_fragment_upgrader_title] Ulepszacz fragmentów
+[ach_fragment_upgrader_desc] Kup 1 ulepszenie fragmentów czasu
+[ach_fragment_craftsman_title] Rzemieślnik fragmentów
+[ach_fragment_craftsman_desc] Kup 5 ulepszeń fragmentów czasu
+[ach_challenge_door_title] Drzwi wyzwań
+[ach_challenge_door_desc] Ukończ 1 wyzwanie
+[ach_challenge_master_title] Mistrz wyzwań
+[ach_challenge_master_desc] Ukończ 3 wyzwania
+[ach_ultimate_challenge_title] Ostateczne wyzwanie
+[ach_ultimate_challenge_desc] Ukończ 5 wyzwań
+[ach_hundred_year_solitude_title] Sto lat samotności
+[ach_hundred_year_solitude_desc] Ukończ 52560000 cykli (minut)
+[ch_speed_demon_title] Demon prędkości
+[ch_speed_demon_desc] Osiągnij 25-krotny mnożnik prędkości w ciągu 3 minut
+[ch_speed_demon_reward] Stała +1.0x prędkości bazowej
+[ch_time_master_title] Mistrz czasu
+[ch_time_master_desc] Wykonaj 200 cykli w ciągu 2 minut
+[ch_time_master_reward] Odblokuj ulepszenie nagrody cyklu
+[ch_efficiency_expert_title] Ekspert efektywności
+[ch_efficiency_expert_desc] Osiągnij 100-krotny mnożnik prędkości przy użyciu mniej niż 1000 minut
+[ch_efficiency_expert_reward] Odblokuj ulepszenie optymalizacji kosztów
+[ch_minimalist_master_title] Mistrz minimalizmu
+[ch_minimalist_master_desc] Osiągnij 5000 sekund skumulowanego czasu bez kupowania żadnych ulepszeń
+[ch_minimalist_master_reward] Odblokuj ulepszenie automatycznych minut
+[ch_golden_chaser_title] Pościg za złotem
+[ch_golden_chaser_desc] Wywołaj 5 razy złoty czas w ciągu 10 minut
+[ch_golden_chaser_reward] Stałe +5% szansy na złoty czas
+[up_speed_boost_name] Wzmocnienie prędkości
+[up_speed_boost_desc] Każdy poziom trwale zwiększa prędkość bazową o 0.1x
+[up_auto_seconds_name] Automatyczne sekundy
+[up_auto_seconds_desc] Każdy poziom automatycznie daje 0.1 sekundy na sekundę
+[up_minute_boost_name] Dodatkowe minuty
+[up_minute_boost_desc] Każdy poziom daje dodatkowe 0.01 minuty na sekundę
+[up_speed_multiplier_name] Zwielokrotnienie prędkości
+[up_speed_multiplier_desc] Każdy poziom zwiększa mnożnik prędkości o 10%
+[up_minute_multiplier_name] Zwielokrotnienie minut
+[up_minute_multiplier_desc] Każdy poziom zwiększa mnożnik zdobywania minut o 10%
+[up_cycle_bonus_name] Nagroda cyklu
+[up_cycle_bonus_desc] Każdy cykl daje dodatkową 1 minutę
+[up_auto_minutes_name] Automatyczne minuty
+[up_auto_minutes_desc] Każdy poziom automatycznie daje 0.01 minuty na sekundę
+[up_cost_reduction_name] Optymalizacja kosztów
+[up_cost_reduction_desc] Każdy poziom obniża koszt wszystkich ulepszeń o 5%
+[up_golden_time_name] Złoty czas
+[up_golden_time_desc] Każdy poziom zwiększa szansę na losową podwójną nagrodę o 1%
+[reb1_name] Ulepszenie odrodzenia czasu 1
+[reb1_desc] Po odrodzeniu zyski sekund ×2, efekt wzmocnienia prędkości wynosi 0.15
+[reb2_name] Ulepszenie odrodzenia czasu 2
+[reb2_desc] Zachowuje 3 poziomy wzmocnienia prędkości podczas odrodzenia i pozwala minucie zwiększyć prędkość zyskiwania sekund
+[reb3_name] Ulepszenie odrodzenia czasu 3
+[reb3_desc] Zyski sekund ×2.5, a każda minuta dodaje 0.01 do mnożnika sekund
+[reb4_name] Ulepszenie odrodzenia czasu 4
+[reb4_desc] Zwiększa produkcję sekund w zależności od pierwiastka kwadratowego z posiadanych minut
+[reb5_name] Ulepszenie odrodzenia czasu 5
+[reb5_desc] Odblokowuje wyzwanie SDV1
+[reb6_name] Ulepszenie odrodzenia czasu 6
+[reb6_desc] Odblokowuje konwerter, sprawiając że 60 sekund zamienia się na minutę z mnożnikiem 1 + √(liczba odrodzeń)
+[reb7_name] Ulepszenie odrodzenia czasu 7
+[reb7_desc] Odblokowuje SDV2 i zwiększa produkcję
+[reb8_name] Ulepszenie odrodzenia czasu 8
+[reb8_desc] Produkcja punktów ×7.8 (wymaga ukończenia SDV2)
+[reb9_name] Ulepszenie odrodzenia czasu 9
+[reb9_desc] Za każdy zakup ulepszenia SDP efekt wzmocnienia prędkości +0.02
+[reb10_name] Ulepszenie odrodzenia czasu 10
+[reb10_desc] Odblokowuje wyzwanie SDV3
+[reb11_name] Ulepszenie odrodzenia czasu 11
+[reb11_desc] Podwaja zyski SDP i zwiększa zyski sekund w zależności od SDP
+[vdp11_name] Ulepszenie fragmentu czasu 1-1
+[vdp11_desc] Produkcja sekund ×2, zyski SDP ×2
+[vdp12_name] Ulepszenie fragmentu czasu 1-2
+[vdp12_desc] Zyski minut ×3
+[vdp21_name] Ulepszenie fragmentu czasu 2-1
+[vdp21_desc] Zwiększa produkcję sekund w zależności od posiadanych minut: ×(1 + minuty^0.6)
+[vdp22_name] Ulepszenie fragmentu czasu 2-2
+[vdp22_desc] Zwiększa produkcję sekund w zależności od bieżącego SDP: ×(1 + SDP^0.7)
+[vdp23_name] Ulepszenie fragmentu czasu 2-3
+[vdp23_desc] Zwiększa zyski minut w zależności od bieżącego SDP: ×(1 + SDP^0.55)
+[vdp33_name] Ulepszenie fragmentu czasu 3-3
+[vdp33_desc] Za każde ukończone wyzwanie produkcja sekund +0.02
+[vdp41_name] Odblokuj wzmacniacz
+[vdp41_desc] Odblokowuje system wzmacniacza, zapewniający dodatkowe premie
+[sdv1_title] SDV1
+[sdv1_desc] Minuta zmienia się na 120 sekund, resetuje SDP i ignoruje wszystkie ulepszenia. Cel: ukończyć 7777 sekund.
+[sdv1_reward] Po ukończeniu każda minuta to 40 sekund
+[sdv2_title] SDV2
+[sdv2_desc] Odblokowuje SDV2, wzmocnienie prędkości +0.05, podwojona efektywność produkcji dodatkowych minut.
+[sdv2_reward] Zwiększa specjalną zdolność produkcyjną SDV2
+[sdv3_title] SDV3
+[sdv3_desc] W trakcie wyzwania stale działa miękki limit, produkcja ^0.8125. Cel: ukończyć 2125 sekund.
+[sdv3_reward] Po ukończeniu 25% szansy na podwójne minuty na minutę
+[current_bonus] Bieżąca premia
+[current_income] Bieżący dochód
+[current_multiplier_label] Bieżący mnożnik
+[cycle_reward] Nagroda cyklu
+[cost_reduced] Obniżka kosztów
+[golden_probability] Szansa na złoty czas
+[speed] Prędkość
+[minutes_short] min
+[up_effect_speed] Bieżąca premia: +{0}x prędkości
+[up_effect_auto_seconds] Bieżący dochód: +{0} s/s
+[up_effect_minute_boost] Bieżący dochód: +{0} min/s
+[up_effect_speed_multiplier] Bieżący mnożnik: x{0} prędkości
+[up_effect_minute_multiplier] Bieżący mnożnik: x{0} minut
+[up_effect_cycle_bonus] Nagroda cyklu: +{0} min/cykl
+[up_effect_auto_minutes] Automatyczne minuty: +{0} min/s
+[up_effect_cost_reduction] Obniżka kosztów: {0}%
+[up_effect_golden_time] Szansa na złoty czas: {0}%
+[upgrade_button] Ulepsz {0} {1}
+[minutes_currency] minut(y)
+[theme_blue] Niebieski
+[theme_darkred] Czerwony
+[theme_minimal] Czarny
+[theme_neon] Fioletowo-niebieski
+[theme_yellow] Żółty
+[progress] Postęp
+[unlocked] Odblokowane
+[reward] Nagroda
+[time_limit] Limit czasu
+[in_progress] W trakcie
+[complete] Ukończone
+[start_challenge] Rozpocznij wyzwanie
+[abandon_challenge] Porzuć wyzwanie
+[no_time_limit] Brak limitu czasu
+[rebirth_info] Informacje o odrodzeniu
+[rebirth_upgrades_tab] Ulepszenia odrodzenia
+[time_fragment_upgrades] Ulepszenia fragmentów czasu
+[sdv_challenges] Wyzwania SDV
+[time_rebirth_points] Punkty odrodzenia czasu (SDP)
+[time_fragments] Fragmenty czasu (VDP)
+[rebirth_count] Liczba odrodzeń
+[fragment_reset_count] Liczba resetów fragmentów
+[time_rebirth] Odrodzenie czasu
+[get_time_fragments] Zdobądź fragmenty czasu
+[current_rebirth_gain] Obecne odrodzenie da:
+[sdp_label] SDP
+[rebirth_desc] Odrodzenie czasu resetuje bieżący przebieg i daje SDP, które można wykorzystać na ulepszenia odrodzenia. Zdobycie fragmentów czasu zużywa SDP i zwiększa VDP.
+[sdv_challenge_note] Wyzwania SDV są niezależne od głównych wyzwań, po ukończeniu dają specjalne nagrody odrodzenia.
+[time_rebirth_upgrades_desc] Użyj SDP, aby kupić ulepszenia odrodzenia czasu, zwiększające zyski z odrodzenia i specjalne zdolności.
+[time_fragment_upgrades_desc] Użyj VDP, aby kupić ulepszenia fragmentów czasu, wzmacniające produkcję sekund, zyski minut i efektywność odrodzenia.
+[booster_level] Poziom wzmacniacza
+[sdv_challenge_desc] Wyzwania SDV są niezależne od zwykłych wyzwań, po ukończeniu dają specjalne premie odrodzenia. Każde wyzwanie może być aktywne tylko jedno, po porzuceniu można je wybrać ponownie.
+[current_sdv_challenge] Bieżące wyzwanie SDV
+[completed_sdv_challenges] Ukończone wyzwania SDV
+[none] Brak
+[game_stats] Statystyki gry
+[total_accumulated_seconds] Łączna liczba sekund
+[current_speed_multiplier] Bieżący mnożnik prędkości
+[highest_second_speed] Najwyższa prędkość sekundowa
+[current_minutes] Bieżąca liczba minut
+[current_seconds] Bieżąca liczba sekund
+[total_rebirths] Łączna liczba odrodzeń
+[current_sdp] Bieżące SDP
+[current_vdp] Bieżące VDP
+[total_current_upgrades] Łączna liczba bieżących ulepszeń
+[total_current_rebirth_upgrades] Łączna liczba bieżących ulepszeń odrodzenia
+[current_challenges_completed] Ukończone wyzwania
+[save_created_time] Czas utworzenia zapisu
+[save_elapsed_time] Czas trwania zapisu
+[current_theme] Bieżący motyw
+[footer_text] Naprzód w czasie - BY
+[speed_boost] Wzmocnienie prędkości
+[speed_boost_desc] Każdy poziom trwale zwiększa prędkość bazową o 0.1x
+[auto_seconds] Automatyczne sekundy
+[auto_seconds_desc] Każdy poziom automatycznie daje 0.1 sekundy na sekundę
+[extra_minutes] Dodatkowe minuty
+[extra_minutes_desc] Każdy poziom daje dodatkowe 0.01 minuty na sekundę
+[speed_multiplier] Zwielokrotnienie prędkości
+[speed_multiplier_desc] Każdy poziom zwiększa mnożnik prędkości o 10%
+[minute_multiplier] Zwielokrotnienie minut
+[minute_multiplier_desc] Każdy poziom zwiększa mnożnik zdobywania minut o 10%
+[cycle_bonus] Nagroda cyklu
+[cycle_bonus_desc] Każdy cykl daje dodatkową 1 minutę
+[auto_minutes] Automatyczne minuty
+[auto_minutes_desc] Każdy poziom automatycznie daje 0.01 minuty na sekundę
+[cost_optimization] Optymalizacja kosztów
+[cost_optimization_desc] Każdy poziom obniża koszt wszystkich ulepszeń o 5%
+[golden_time] Złoty czas
+[golden_time_desc] Każdy poziom zwiększa szansę na losową podwójną nagrodę o 1%
+[current_bonus] Bieżąca premia
+[current_income] Bieżący dochód
+[current_multiplier_label] Bieżący mnożnik
+[cycle_reward] Nagroda cyklu
+[cost_reduced] Obniżka kosztów
+[golden_probability] Szansa na złoty czas
+[upgrade] Ulepsz
+[completed] Ukończone
+[purchase] Kup
+[minutes_currency] minut(y)
+[need_purchase_previous] Najpierw kup poprzedni
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Tryb wyzwania
+[current_challenge] Bieżące wyzwanie
+[remaining_time] Pozostały czas
+[exit_challenge] Opuść wyzwanie
+[welcome_challenge] Witaj w trybie wyzwania!
+[challenge_desc_text] W trybie wyzwania czekają na Ciebie różne ograniczenia i cele. Pomyślne ukończenie wyzwania da trwałe nagrody!
+[challenge_rules_title] Zasady wyzwania:
+[challenge_rule1] Po wejściu do trybu wyzwania nie można kupować ulepszeń
+[challenge_rule2] Wyzwanie ma limit czasu lub specjalne warunki
+[challenge_rule3] Porażka lub opuszczenie zresetuje bieżący postęp
+[challenge_rule4] Pomyślne ukończenie daje trwałą nagrodę
+[enter_challenge_mode] Wejdź do trybu wyzwania
+[time_limit] Limit czasu
+[reward] Nagroda
+[progress] Postęp
+[in_progress] W trakcie
+[complete] Ukończone
+[start_challenge] Rozpocznij wyzwanie
+[abandon_challenge] Porzuć wyzwanie
+[achievement_first_step] Pierwszy krok
+[achievement_first_step_desc] Kup pierwsze ulepszenie
+[achievement_one_hour] Godzina!
+[achievement_one_hour_desc] Skumulowany czas osiągnął 1 godzinę
+[achievement_time_traveler] Podróżnik w czasie
+[achievement_time_traveler_desc] Skumulowany czas osiągnął 10000 sekund
+[achievement_100_minutes] 100-minutowy jubileusz
+[achievement_100_minutes_desc] Posiadaj 100 minut
+[achievement_1000_minutes] Legenda 1000 minut
+[achievement_1000_minutes_desc] Posiadaj 1000 minut
+[achievement_start_cycle] Rozpocznij cykl
+[achievement_start_cycle_desc] Ukończ 1 cykl
+[achievement_time_controller] Władca czasu
+[achievement_time_controller_desc] Osiągnij mnożnik 3.0x lub wyższy
+[achievement_time_accelerator] Akcelerator czasu
+[achievement_time_accelerator_desc] Osiągnij mnożnik 5.0x
+[achievement_extreme_speed] Ekstremalne sprint
+[achievement_extreme_speed_desc] Osiągnij mnożnik prędkości 10.0x
+[achievement_meteor_acceleration] Meteor przyspieszenie
+[achievement_meteor_acceleration_desc] Osiągnij mnożnik prędkości 25.0x
+[achievement_prestige_beginning] Początek prestiżu
+[achievement_prestige_beginning_desc] Posiadaj 1000 SDP
+[achievement_fragment_obtained] Zdobycie fragmentu czasu
+[achievement_fragment_obtained_desc] Zdobądź 1 fragment czasu (VDP)
+[achievement_first_rebirth] Pierwsze odrodzenie
+[achievement_first_rebirth_desc] Wykonaj 1 odrodzenie czasu
+[achievement_fragment_reset] Reset fragmentów
+[achievement_fragment_reset_desc] Wykonaj 1 reset fragmentów czasu
+[achievement_fragment_upgrader] Ulepszacz fragmentów
+[achievement_fragment_upgrader_desc] Kup 1 ulepszenie fragmentów czasu
+[achievement_fragment_craftsman] Rzemieślnik fragmentów
+[achievement_fragment_craftsman_desc] Kup 5 ulepszeń fragmentów czasu
+[achievement_challenge_door] Drzwi wyzwań
+[achievement_challenge_door_desc] Ukończ 1 wyzwanie
+[achievement_challenge_master] Mistrz wyzwań
+[achievement_challenge_master_desc] Ukończ 3 wyzwania
+[achievement_ultimate_challenge] Ostateczne wyzwanie
+[achievement_ultimate_challenge_desc] Ukończ 5 wyzwań
+[achievement_hundred_year_solitude] Sto lat samotności
+[achievement_hundred_year_solitude_desc] Ukończ 52560000 cykli (minut)
+[import_prompt] Wklej ciąg zapisu:
+[export_prompt] Skopiuj poniższy kod zapisu:
+[import_success] Import udany! Gra zostanie odświeżona.
+[import_error] Nieprawidłowy zapis, nie można go przeanalizować! Sprawdź, czy skopiowano całość.
+[delete_confirm] ⚠️ Ostrzeżenie: Ta operacja trwale usunie wszystkie dane gry, w tym zapisy, postępy osiągnięć, historię kliknięć, kamienie milowe itp.
+[delete_confirm_question] Czy na pewno chcesz całkowicie usunąć zapis i zacząć od nowa?
+[delete_success] Wszystkie dane zostały całkowicie usunięte!
+[save_load_error] Błąd ładowania zapisu:
+[save_check_message] Sprawdź poprawność zapisu lub spróbuj ponownie zaimportować.
+[exit_challenge_confirm] Czy na pewno chcesz opuścić tryb wyzwania? Dotychczasowy postęp zostanie utracony.
+[exit_challenge_success] Opuszczono tryb wyzwania.
+[enter_challenge_success] Włączono tryb wyzwania! Teraz możesz wybrać i rozpocząć wyzwanie.
+[challenge_start_message] Wyzwanie rozpoczęte!
+[target] Cel:
+[time_format] min
+[rebirth_need_minutes] Potrzeba co najmniej 10 minut, aby dokonać odrodzenia czasu.
+[rebirth_success] Odrodzenie czasu udane, otrzymano
+[vdp_need_sdp] Potrzeba co najmniej 1000 SDP, aby zdobyć fragmenty czasu.
+[vdp_cannot_obtain] Obecnie nie można zdobyć fragmentów czasu.
+[vdp_obtained] Otrzymano
+[time_fragments_obtained] fragment(y) czasu!
+[abandon_sdv_confirm] Czy na pewno chcesz porzucić bieżące wyzwanie SDV?
+[sdv_started] Rozpoczęto wyzwanie SDV:
+[sdv_unlock_hint] Wymaga zakupu odpowiedniego ulepszenia odrodzenia SDV
+[challenge_failed] Wyzwanie nieudane! Czas minął.
+[speed_calc_error] Błąd obliczania prędkości, przywrócono wartość domyślną:
+[speed_calc_error_hint] Mogło to być spowodowane uszkodzeniem danych zapisu.
+[seconds_per_second] s/s
+[minutes_per_second] min/s
+[minutes_per_cycle] min/cykl
+[minutes_per_second_auto] min/s
+[seconds] sekund(y)
+[no_time_limit] Brak limitu czasu
+[unlocked] Odblokowane
+[locked_status] Nieodblokowane
+[start_sdv] Rozpocznij SDV
+[abandon_sdv] Porzuć SDV
+[rebirth_gain_sdp] Odrodzenie czasu (otrzymasz {0} SDP)
+[upgrade_completed] Ukończone
+[need_purchase_previous] Najpierw kup poprzedni
+[purchase_button] Kup {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Ukończone
+[need_purchase_previous] Najpierw kup poprzedni
+[purchase_button] Kup {0} {1}
+[vdp_currency] VDP
+[start_sdv] Rozpocznij SDV
+[abandon_sdv] Porzuć SDV
+[sdv_unlock_hint] Wymaga zakupu odpowiedniego ulepszenia odrodzenia SDV
+[abandon_sdv_confirm] Czy na pewno chcesz porzucić bieżące wyzwanie SDV?
+[rebirth_button_text] Odrodzenie czasu (otrzymasz {0} SDP)
+[insufficient_funds] Niewystarczające środki
+[unit_seconds_per_second] s/s
+[none] Brak
+[yes] Tak
+[no] Nie
+[basic_upgrades] Podstawowe ulepszenia
+[advanced_upgrades] Zaawansowane ulepszenia
+[expert_upgrades] Eksperckie ulepszenia
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Wybierz język interfejsu
+[load_language_fail] Błąd ładowania języka
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

@@ -1,0 +1,340 @@
+[game_title] Časovač Přírůstek
+[version_text] Aktuální verze 1.4.2
+[join_us] Přidej se
+[about] O aplikaci
+[about_title] O Časovači Přírůstek
+[about_desc] Jedná se o hru s přírůstkem času. Hráči urychlují akumulaci času nákupem vylepšení a splněním výzev a zažívají růst z pomalého na explozivní.
+[author] Autor:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Tipy ke hře:
+[gameplay_text] Nejprve vylepšuj rychlost a automatické minuty, poté sbírej odměny za cykly a zlatý čas, abys získával minuty rychleji.
+[acknowledgment] Poděkování:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Děkujeme všem hráčům za podporu a zpětnou vazbu!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Opravdu chceš ukončit režim výzvy? Aktuální postup se ztratí.
+[exit_challenge_success] Režim výzvy byl ukončen.
+[enter_challenge_success] Vstoupil jsi do režimu výzvy! Nyní můžeš vybrat a spustit výzvu.
+[resume] Pokračovat
+[play] Spustit
+[pause] Pozastavit
+[export_prompt] Zkopíruj níže uvedený kód uložené hry:
+[export_prompt_raw] Zkopíruj níže uvedený původní uložený soubor:
+[import_prompt] Vlož řetězec uložené hry:
+[import_success] Import úspěšný! Hra se brzy obnoví.
+[import_error] Neplatný uložený soubor, nelze analyzovat! Zkontroluj, zda jsi zkopíroval vše. Chyba:
+[delete_confirm] ⚠️ Varování: Tato akce trvale odstraní všechny herní údaje, včetně uložených her, dosahu úspěchů, záznamu kliknutí, milníků a dalšího.
+
+Opravdu chceš vše smazat a začít znovu?
+[delete_success] Všechny údaje byly trvale odstraněny!
+[time_day] den
+[time_hour] hodina
+[time_minute] minuta
+[time_second] sekunda
+[tab_timer] Časovač
+[tab_upgrades] Vylepšení
+[tab_achievements] Úspěchy
+[tab_challenges] Výzvy
+[tab_rebirth] Znovuzrození
+[tab_stats] Statistiky
+[tab_settings] Nastavení
+[settings_title] Nastavení hry
+[save_management] Správa uložených her
+[export_save] Exportovat uloženou hru
+[import_save] Importovat uloženou hru
+[interface_theme] Vzhled rozhraní
+[theme_desc] Přepínání různých vizuálních stylů
+[danger_operations] Nebezpečné operace
+[delete_save] Smazat a začít znovu
+[delete_save_desc] Trvale odstraň všechny herní údaje (uložené hry, úspěchy, záznam kliknutí atd.). Tuto akci nelze vrátit!
+[current_minute_seconds] Sekundy aktuální minuty
+[accumulated_seconds] Celkem nahromaděné sekundy
+[completed_cycles] Dokončené cykly
+[current_multiplier] Aktuální násobič
+[minutes_owned] Počet minut:
+[basic_upgrades] Základní vylepšení
+[advanced_upgrades] Pokročilá vylepšení
+[expert_upgrades] Expertní vylepšení
+[ach_first_step_title] První krok
+[ach_first_step_desc] Koupit první vylepšení
+[ach_one_hour_title] Jedna hodina!
+[ach_one_hour_desc] Celkový čas dosáhl 1 hodiny
+[ach_time_traveler_title] Časový cestovatel
+[ach_time_traveler_desc] Celkový čas dosáhl 10000 sekund
+[ach_100_minutes_title] Památka 100 minut
+[ach_100_minutes_desc] Vlastnit 100 minut
+[ach_1000_minutes_title] Legenda 1000 minut
+[ach_1000_minutes_desc] Vlastnit 1000 minut
+[ach_start_cycle_title] Začátek cyklu
+[ach_start_cycle_desc] Dokončit 1 cyklus
+[ach_time_controller_title] Pán času
+[ach_time_controller_desc] Dosáhnout násobiče 3,0x nebo vyššího
+[ach_time_accelerator_title] Zrychlovač času
+[ach_time_accelerator_desc] Dosáhnout násobiče 5,0x
+[ach_extreme_speed_title] Extrémní rychlost
+[ach_extreme_speed_desc] Dosáhnout rychlostního násobiče 10,0x
+[ach_meteor_acceleration_title] Meteoritické zrychlení
+[ach_meteor_acceleration_desc] Dosáhnout rychlostního násobiče 25,0x
+[ach_prestige_beginning_title] Začátek prestiže
+[ach_prestige_beginning_desc] Vlastnit 1000 SDP
+[ach_fragment_obtained_title] Získán fragment času
+[ach_fragment_obtained_desc] Získat 1 fragment času (VDP)
+[ach_first_rebirth_title] První znovuzrození
+[ach_first_rebirth_desc] Dokončit 1 časové znovuzrození
+[ach_fragment_reset_title] Reset fragmentu
+[ach_fragment_reset_desc] Dokončit 1 reset fragmentu času
+[ach_fragment_upgrader_title] Upgradér fragmentů
+[ach_fragment_upgrader_desc] Koupit 1 vylepšení fragmentu času
+[ach_fragment_craftsman_title] Mistr fragmentů
+[ach_fragment_craftsman_desc] Koupit 5 vylepšení fragmentů času
+[ach_challenge_door_title] Brána výzev
+[ach_challenge_door_desc] Dokončit 1 výzvu
+[ach_challenge_master_title] Mistr výzev
+[ach_challenge_master_desc] Dokončit 3 výzvy
+[ach_ultimate_challenge_title] Konečná výzva
+[ach_ultimate_challenge_desc] Dokončit 5 výzev
+[ach_hundred_year_solitude_title] Stoletá osamělost
+[ach_hundred_year_solitude_desc] Dokončit 52560000 cyklů (minut)
+[ch_speed_demon_title] Ďábel rychlosti
+[ch_speed_demon_desc] Dosáhnout 25x rychlostního násobiče během 3 minut
+[ch_speed_demon_reward] Trvale +1,0x základní rychlost
+[ch_time_master_title] Mistr času
+[ch_time_master_desc] Dokončit 200 cyklů během 2 minut
+[ch_time_master_reward] Odemknout vylepšení odměn za cykly
+[ch_efficiency_expert_title] Expert efektivity
+[ch_efficiency_expert_desc] Dosáhnout 100x rychlostního násobiče za méně než 1000 minut
+[ch_efficiency_expert_reward] Odemknout vylepšení optimalizace nákladů
+[ch_minimalist_master_title] Minimalistický mistr
+[ch_minimalist_master_desc] Dosáhnout 5000 sekund celkového času bez nákupu žádných vylepšení
+[ch_minimalist_master_reward] Odemknout vylepšení automatických minut
+[ch_golden_chaser_title] Lovce zlata
+[ch_golden_chaser_desc] Aktivovat 5x zlatý čas během 10 minut
+[ch_golden_chaser_reward] Trvale +5% šance na zlatý čas
+[up_speed_boost_name] Zvýšení rychlosti
+[up_speed_boost_desc] Každé zlevnění trvale přidá +0,1x základní rychlost
+[up_auto_seconds_name] Automatické sekundy
+[up_auto_seconds_desc] Každé zlevnění automaticky přidá 0,1 sekundy za sekundu
+[up_minute_boost_name] Další minuty
+[up_minute_boost_desc] Každé zlevnění přidá 0,01 minuty za sekundu
+[up_speed_multiplier_name] Násobení rychlosti
+[up_speed_multiplier_desc] Každé zlevnění zvýší rychlostní násobič o 10%
+[up_minute_multiplier_name] Násobení minut
+[up_minute_multiplier_desc] Každé zlevnění zvýší násobič získávání minut o 10%
+[up_cycle_bonus_name] Odměna za cyklus
+[up_cycle_bonus_desc] 1 dodatečná minuta za každý cyklus
+[up_auto_minutes_name] Automatické minuty
+[up_auto_minutes_desc] Každé zlevnění automaticky přidá 0,01 minuty za sekundu
+[up_cost_reduction_name] Snížení nákladů
+[up_cost_reduction_desc] Každé zlevnění sníží všechny náklady na vylepšení o 5%
+[up_golden_time_name] Zlatý čas
+[up_golden_time_desc] Každé zlevnění zvýší šanci na dvojitou odměnu o 1%
+[reb1_name] Vylepšení časového znovuzrození 1
+[reb1_desc] Po znovuzrození ×2 získávání sekund, zvýšení rychlosti se změní na 0,15
+[reb2_name] Vylepšení časového znovuzrození 2
+[reb2_desc] Při znovuzrození si zachová úroveň 3 zvýšení rychlosti, minuty zvyšují rychlost získávání sekund
+[reb3_name] Vylepšení časového znovuzrození 3
+[reb3_desc] ×2,5 získávání sekund, každá minuta přidá +0,01 k násobiči sekund
+[reb4_name] Vylepšení časového znovuzrození 4
+[reb4_desc] Zvýší produkci sekund na základě odmocniny z vlastněných minut
+[reb5_name] Vylepšení časového znovuzrození 5
+[reb5_desc] Odemknout výzvu SDV1
+[reb6_name] Vylepšení časového znovuzrození 6
+[reb6_desc] Odemknout převodník, 60 sekund = 1 minuta se mění na 1 + √(počet znovuzrození) násobek
+[reb7_name] Vylepšení časového znovuzrození 7
+[reb7_desc] Odemknout SDV2 a zvýšit produkci
+[reb8_name] Vylepšení časového znovuzrození 8
+[reb8_desc] Produkce bodů ×7,8 (vyžaduje dokončení SDV2)
+[reb9_name] Vylepšení časového znovuzrození 9
+[reb9_desc] Každé zakoupené SDP vylepšení přidá +0,02 k zvýšení rychlosti
+[reb10_name] Vylepšení časového znovuzrození 10
+[reb10_desc] Odemknout výzvu SDV3
+[reb11_name] Vylepšení časového znovuzrození 11
+[reb11_desc] Získávání SDP se zdvojnásobí, zvyšuje získávání sekund na základě SDP
+[vdp11_name] Vylepšení fragmentu času 1-1
+[vdp11_desc] ×2 produkce sekund, ×2 získávání SDP
+[vdp12_name] Vylepšení fragmentu času 1-2
+[vdp12_desc] ×3 získávání minut
+[vdp21_name] Vylepšení fragmentu času 2-1
+[vdp21_desc] Zvýší produkci sekund na základě vlastněných minut: ×(1 + minuty^0,6)
+[vdp22_name] Vylepšení fragmentu času 2-2
+[vdp22_desc] Zvýší produkci sekund na základě aktuálního SDP: ×(1 + SDP^0,7)
+[vdp23_name] Vylepšení fragmentu času 2-3
+[vdp23_desc] Zvýší získávání minut na základě aktuálního SDP: ×(1 + SDP^0,55)
+[vdp33_name] Vylepšení fragmentu času 3-3
+[vdp33_desc] Každá dokončená výzva přidá +0,02 k produkci sekund
+[vdp41_name] Odemknout posilovač
+[vdp41_desc] Odemknout systém posilovačů pro dodatečné bonusy
+[sdv1_title] SDV1
+[sdv1_desc] 1 minuta = 120 sekund, reset SDP, ignorovat všechna vylepšení. Cíl: dokončit 7777 sekund.
+[sdv1_reward] Po dokončení se 1 minuta změní na 40 sekund
+[sdv2_title] SDV2
+[sdv2_desc] Odemknout SDV2, +0,05 zvýšení rychlosti, zdvojnásobení efektivity produkce dalších minut.
+[sdv2_reward] Zvýšit exkluzivní produkční kapacitu SDV2
+[sdv3_title] SDV3
+[sdv3_desc] Trvalý měkký limit ve výzvě, produkce ^0,8125. Cíl: dokončit 2125 sekund.
+[sdv3_reward] Po dokončení 25% šance na dvojitou minutu za každou minutu
+[current_bonus] Aktuální bonus
+[current_income] Aktuální příjem
+[current_multiplier_label] Aktuální násobič
+[cycle_reward] Odměna za cyklus
+[cost_reduced] Náklady sníženy
+[golden_probability] Šance na zlato
+[speed] Rychlost
+[minutes_short] min
+[up_effect_speed] Aktuální bonus: +{0}x rychlosti
+[up_effect_auto_seconds] Aktuální příjem: +{0} s/s
+[up_effect_minute_boost] Aktuální příjem: +{0} min/s
+[up_effect_speed_multiplier] Aktuální násobič: ×{0} rychlosti
+[up_effect_minute_multiplier] Aktuální násobič: ×{0} minut
+[up_effect_cycle_bonus] Odměna za cyklus: +{0} min/cyklus
+[up_effect_auto_minutes] Automatické minuty: +{0} min/s
+[up_effect_cost_reduction] Snížení nákladů: {0}%
+[up_effect_golden_time] Šance na zlato: {0}%
+[upgrade_button] Vylepšit {0} {1}
+[minutes_currency] minuty
+[theme_blue] Modrá
+[theme_darkred] Červená
+[theme_minimal] Černá
+[theme_neon] Fialová+Modrá
+[theme_yellow] Žlutá
+[progress] Pokrok
+[unlocked] Odemčeno
+[reward] Odměna
+[time_limit] Časový limit
+[in_progress] Probíhá
+[complete] Dokončeno
+[start_challenge] Spustit výzvu
+[abandon_challenge] Zrušit výzvu
+[no_time_limit] Bez časového limitu
+[rebirth_info] Informace o znovuzrození
+[rebirth_upgrades_tab] Vylepšení znovuzrození
+[time_fragment_upgrades] Vylepšení fragmentů času
+[sdv_challenges] SDV výzvy
+[time_rebirth_points] Body časového znovuzrození (SDP)
+[time_fragments] Fragmenty času (VDP)
+[rebirth_count] Počet znovuzrození
+[fragment_reset_count] Počet resetů fragmentů
+[time_rebirth] Časové znovuzrození
+[get_time_fragments] Získat fragmenty času
+[current_rebirth_gain] Aktuální zisk ze znovuzrození:
+[sdp_label] SDP
+[rebirth_desc] Časové znovuzrození resetuje aktuální běh a poskytne SDP, které lze použít na nákup vylepšení znovuzrození. Získání fragmentů času spotřebuje SDP a zvýší VDP.
+[sdv_challenge_note] SDV výzvy jsou nezávislé na hlavních výzvách, po dokončení poskytují exkluzivní odměny za znovuzrození.
+[time_rebirth_upgrades_desc] Použij SDP na nákup vylepšení časového znovuzrození pro zvýšení zisku ze znovuzrození a speciálních schopností.
+[time_fragment_upgrades_desc] Použij VDP na nákup vylepšení fragmentů času pro posílení produkce sekund, získávání minut a efektivity znovuzrození.
+[booster_level] Úroveň posilovače
+[sdv_challenge_desc] SDV výzvy jsou nezávislé na běžných výzvách, po dokončení poskytují speciální bonusy za znovuzrození. Lze spustit pouze jednu výzvu najednou, po zrušení lze znovu vybrat.
+[current_sdv_challenge] Aktuální SDV výzva
+[completed_sdv_challenges] Dokončené SDV výzvy
+[none] Žádné
+[game_stats] Statistiky hry
+[total_accumulated_seconds] Celkem nahromaděné sekundy
+[current_speed_multiplier] Aktuální rychlostní násobič
+[highest_second_speed] Nejvyšší rychlost sekund
+[current_minutes] Aktuální minuty
+[current_seconds] Aktuální sekundy
+[total_rebirths] Celkový počet znovuzrození
+[current_sdp] Aktuální SDP
+[current_vdp] Aktuální VDP
+[total_current_upgrades] Celkový počet aktuálních vylepšení
+[total_current_rebirth_upgrades] Celkový počet aktuálních vylepšení znovuzrození
+[current_challenges_completed] Aktuálně dokončené výzvy
+[save_created_time] Čas vytvoření uložené hry
+[save_elapsed_time] Uplynulý čas od uložení
+[current_theme] Aktuální motiv
+[footer_text] Kupředu s časem - BY
+[speed_boost] Zvýšení rychlosti
+[speed_boost_desc] Každé zlevnění trvale přidá +0,1x základní rychlost
+[auto_seconds] Automatické sekundy
+[auto_seconds_desc] Každé zlevnění automaticky přidá 0,1 sekundy za sekundu
+[extra_minutes] Další minuty
+[extra_minutes_desc] Každé zlevnění přidá 0,01 minuty za sekundu
+[speed_multiplier] Násobení rychlosti
+[speed_multiplier_desc] Každé zlevnění zvýší rychlostní násobič o 10%
+[minute_multiplier] Násobení minut
+[minute_multiplier_desc] Každé zlevnění zvýší násobič získávání minut o 10%
+[cycle_bonus] Odměna za cyklus
+[cycle_bonus_desc] 1 dodatečná minuta za každý cyklus
+[auto_minutes] Automatické minuty
+[auto_minutes_desc] Každé zlevnění automaticky přidá 0,01 minuty za sekundu
+[cost_optimization] Optimalizace nákladů
+[cost_optimization_desc] Každé zlevnění sníží všechny náklady na vylepšení o 5%
+[golden_time] Zlatý čas
+[golden_time_desc] Každé zlevnění zvýší šanci na dvojitou odměnu o 1%
+[upgrade] Vylepšit
+[completed] Dokončeno
+[purchase] Koupit
+[need_purchase_previous] Nejprve koupit předchozí položku
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Režim výzev
+[current_challenge] Aktuální výzva
+[remaining_time] Zbývající čas
+[exit_challenge] Ukončit výzvu
+[welcome_challenge] Vítej v režimu výzev!
+[challenge_desc_text] V režimu výzev čekají různá omezení a cíle. Úspěšné dokončení výzvy odemkne trvalé odměny!
+[challenge_rules_title] Pravidla výzev:
+[challenge_rule1] V režimu výzev nelze kupovat vylepšení
+[challenge_rule2] Výzvy mají časový limit nebo speciální podmínky
+[challenge_rule3] Neúspěch nebo ukončení resetuje aktuální postup
+[challenge_rule4] Úspěšné dokončení poskytne trvalou odměnu
+[enter_challenge_mode] Vstoupit do režimu výzev
+[target] Cíl:
+[time_format] min
+[rebirth_need_minutes] Pro časové znovuzrození potřebuješ alespoň 10 minut.
+[rebirth_success] Časové znovuzrození úspěšné, získáno:
+[vdp_need_sdp] Pro získání fragmentů času potřebuješ alespoň 1000 SDP.
+[vdp_cannot_obtain] Nyní nelze získat fragmenty času.
+[vdp_obtained] Získáno
+[time_fragments_obtained] fragmentů času!
+[abandon_sdv_confirm] Opravdu chceš zrušit aktuální SDV výzvu?
+[sdv_started] Spuštěna SDV výzva:
+[sdv_unlock_hint] K odemknutí je potřeba koupit příslušné vylepšení SDV znovuzrození
+[challenge_failed] Výzva selhala! Čas vypršel.
+[speed_calc_error] Chyba při výpočtu rychlosti, obnovena výchozí hodnota:
+[speed_calc_error_hint] To může být způsobeno poškozenými údaji uložené hry.
+[seconds_per_second] s/s
+[minutes_per_second] min/s
+[minutes_per_cycle] min/cyklus
+[minutes_per_second_auto] min/s
+[seconds] sekundy
+[locked_status] Zamčeno
+[start_sdv] Spustit SDV
+[abandon_sdv] Zrušit SDV
+[rebirth_gain_sdp] Časové znovuzrození (získáš {0} SDP)
+[upgrade_completed] Dokončeno
+[purchase_button] Koupit {0} {1}
+[rebirth_button_text] Časové znovuzrození (získáš {0} SDP)
+[insufficient_funds] Nedostatečný zůstatek
+[unit_seconds_per_second] s/s
+[yes] Ano
+[no] Ne
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Vyber jazyk rozhraní
+[load_language_fail] Načtení jazyka selhalo
+[change_language] Změnit jazyk
+[choose_language] Vybrat jazyk
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

@@ -1,0 +1,424 @@
+[game_title] Инкрементальный таймер
+[version_text] Текущая версия 1.4.2
+[join_us] Присоединяйтесь к нам
+[about] О игре
+[about_title] Об инкрементальном таймере
+[about_desc] Это игра с накоплением времени, где игрок покупает улучшения и выполняет испытания, чтобы ускорить накопление времени и ощутить процесс роста от медленного до взрывного.
+[author] Автор:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Подсказка по геймплею:
+[gameplay_text] В первую очередь повышайте скорость и автоматические минуты, затем собирайте циклические награды и золотое время, чтобы быстрее получать минуты.
+[acknowledgment] Благодарности:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Спасибо всем игрокам за поддержку и отзывы!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Вы уверены, что хотите выйти из режима испытания? Текущий прогресс будет потерян.
+[exit_challenge_success] Вы вышли из режима испытания.
+[enter_challenge_success] Вы вошли в режим испытания! Теперь вы можете выбрать и начать испытание.
+[resume] Продолжить
+[play] Играть
+[pause] Пауза
+[export_prompt] Скопируйте код сохранения ниже:
+[export_prompt_raw] Скопируйте необработанное сохранение ниже:
+[import_prompt] Вставьте строку сохранения:
+[import_success] Импорт успешен! Игра обновится.
+[import_error] Неверное сохранение, не удаётся разобрать! Проверьте, скопировали ли вы полностью. Ошибка:
+[delete_confirm] ⚠️ Предупреждение: Это действие навсегда удалит все игровые данные, включая сохранения, прогресс достижений, историю кликов, вехи и т.д.\n\nВы уверены, что хотите полностью удалить сохранение и начать заново?
+[delete_success] Все данные полностью удалены!
+[time_day] дн.
+[time_hour] ч
+[time_minute] мин
+[time_second] с
+[tab_timer] Таймер
+[tab_upgrades] Улучшения
+[tab_achievements] Достижения
+[tab_challenges] Испытания
+[tab_rebirth] Возрождение
+[tab_stats] Статистика
+[tab_settings] Настройки
+[settings_title] Настройки игры
+[save_management] Управление сохранениями
+[export_save] Экспорт сохранения
+[import_save] Импорт сохранения
+[interface_theme] Тема интерфейса
+[theme_desc] Переключение между разными визуальными стилями
+[danger_operations] Опасные операции
+[delete_save] Удалить сохранение и начать заново
+[delete_save_desc] Полностью удаляет все игровые данные (сохранение, достижения, историю кликов и т.д.). Это действие необратимо!
+[current_minute_seconds] Текущие секунды минуты
+[accumulated_seconds] Накопленные секунды
+[completed_cycles] Завершённые циклы
+[current_multiplier] Текущий множитель
+[play] Играть
+[pause] Пауза
+[resume] Продолжить
+[minutes_owned] Имеется минут:
+[basic_upgrades] Базовые улучшения
+[advanced_upgrades] Продвинутые улучшения
+[expert_upgrades] Экспертные улучшения
+[ach_first_step_title] Первый шаг
+[ach_first_step_desc] Купить первое улучшение
+[ach_one_hour_title] Час!
+[ach_one_hour_desc] Накопленное время достигло 1 часа
+[ach_time_traveler_title] Путешественник во времени
+[ach_time_traveler_desc] Накопленное время достигло 10000 секунд
+[ach_100_minutes_title] Стоминутный юбилей
+[ach_100_minutes_desc] Иметь 100 минут
+[ach_1000_minutes_title] Легенда тысячи минут
+[ach_1000_minutes_desc] Иметь 1000 минут
+[ach_start_cycle_title] Начать цикл
+[ach_start_cycle_desc] Завершить 1 цикл
+[ach_time_controller_title] Повелитель времени
+[ach_time_controller_desc] Достичь множителя 3.0x или выше
+[ach_time_accelerator_title] Ускоритель времени
+[ach_time_accelerator_desc] Достичь множителя 5.0x
+[ach_extreme_speed_title] Экстремальный спринт
+[ach_extreme_speed_desc] Достичь множителя скорости 10.0x
+[ach_meteor_acceleration_title] Метеоритное ускорение
+[ach_meteor_acceleration_desc] Достичь множителя скорости 25.0x
+[ach_prestige_beginning_title] Начало престижа
+[ach_prestige_beginning_desc] Иметь 1000 SDP
+[ach_fragment_obtained_title] Получен фрагмент времени
+[ach_fragment_obtained_desc] Получить 1 фрагмент времени (VDP)
+[ach_first_rebirth_title] Первое возрождение
+[ach_first_rebirth_desc] Совершить 1 временное возрождение
+[ach_fragment_reset_title] Сброс фрагментов
+[ach_fragment_reset_desc] Совершить 1 сброс фрагментов времени
+[ach_fragment_upgrader_title] Улучшатель фрагментов
+[ach_fragment_upgrader_desc] Купить 1 улучшение фрагментов времени
+[ach_fragment_craftsman_title] Ремесленник фрагментов
+[ach_fragment_craftsman_desc] Купить 5 улучшений фрагментов времени
+[ach_challenge_door_title] Дверь испытаний
+[ach_challenge_door_desc] Завершить 1 испытание
+[ach_challenge_master_title] Мастер испытаний
+[ach_challenge_master_desc] Завершить 3 испытания
+[ach_ultimate_challenge_title] Высшее испытание
+[ach_ultimate_challenge_desc] Завершить 5 испытаний
+[ach_hundred_year_solitude_title] Сто лет одиночества
+[ach_hundred_year_solitude_desc] Завершить 52560000 циклов (минут)
+[ch_speed_demon_title] Демон скорости
+[ch_speed_demon_desc] Достичь 25-кратного множителя скорости за 3 минуты
+[ch_speed_demon_reward] Постоянное +1.0x к базовой скорости
+[ch_time_master_title] Мастер времени
+[ch_time_master_desc] Завершить 200 циклов за 2 минуты
+[ch_time_master_reward] Открывает улучшение циклической награды
+[ch_efficiency_expert_title] Эксперт по эффективности
+[ch_efficiency_expert_desc] Достичь 100-кратного множителя скорости, потратив менее 1000 минут
+[ch_efficiency_expert_reward] Открывает улучшение оптимизации затрат
+[ch_minimalist_master_title] Мастер минимализма
+[ch_minimalist_master_desc] Достичь 5000 накопленных секунд без покупки каких-либо улучшений
+[ch_minimalist_master_reward] Открывает улучшение автоматических минут
+[ch_golden_chaser_title] Охотник за золотом
+[ch_golden_chaser_desc] Активировать золотое время 5 раз за 10 минут
+[ch_golden_chaser_reward] Постоянное увеличение шанса золотого времени на +5%
+[up_speed_boost_name] Усиление скорости
+[up_speed_boost_desc] Каждый уровень навсегда увеличивает базовую скорость на 0.1x
+[up_auto_seconds_name] Автосекунды
+[up_auto_seconds_desc] Каждый уровень автоматически даёт 0.1 секунды в секунду
+[up_minute_boost_name] Дополнительные минуты
+[up_minute_boost_desc] Каждый уровень даёт дополнительные 0.01 минуты в секунду
+[up_speed_multiplier_name] Множитель скорости
+[up_speed_multiplier_desc] Каждый уровень увеличивает множитель скорости на 10%
+[up_minute_multiplier_name] Множитель минут
+[up_minute_multiplier_desc] Каждый уровень увеличивает множитель получения минут на 10%
+[up_cycle_bonus_name] Циклическая награда
+[up_cycle_bonus_desc] Каждый цикл даёт дополнительную 1 минуту
+[up_auto_minutes_name] Автоматические минуты
+[up_auto_minutes_desc] Каждый уровень автоматически даёт 0.01 минуты в секунду
+[up_cost_reduction_name] Оптимизация затрат
+[up_cost_reduction_desc] Каждый уровень снижает стоимость всех улучшений на 5%
+[up_golden_time_name] Золотое время
+[up_golden_time_desc] Каждый уровень увеличивает вероятность случайной двойной награды на 1%
+[reb1_name] Улучшение временного возрождения 1
+[reb1_desc] После возрождения получение секунд ×2, эффект усиления скорости становится 0.15
+[reb2_name] Улучшение временного возрождения 2
+[reb2_desc] Сохраняет 3 уровня усиления скорости при возрождении и позволяет минутам увеличивать скорость получения секунд
+[reb3_name] Улучшение временного возрождения 3
+[reb3_desc] Получение секунд ×2.5, и каждая минута добавляет 0.01 к множителю секунд
+[reb4_name] Улучшение временного возрождения 4
+[reb4_desc] Увеличивает производство секунд в зависимости от квадратного корня из имеющихся минут
+[reb5_name] Улучшение временного возрождения 5
+[reb5_desc] Открывает испытание SDV1
+[reb6_name] Улучшение временного возрождения 6
+[reb6_desc] Открывает конвертер, превращающий 60 секунд в 1 минуту, умноженную на 1 + √(количество возрождений)
+[reb7_name] Улучшение временного возрождения 7
+[reb7_desc] Открывает SDV2 и увеличивает производство
+[reb8_name] Улучшение временного возрождения 8
+[reb8_desc] Производство очков ×7.8 (требуется завершение SDV2)
+[reb9_name] Улучшение временного возрождения 9
+[reb9_desc] За каждую купленную улучшение SDP эффект усиления скорости +0.02
+[reb10_name] Улучшение временного возрождения 10
+[reb10_desc] Открывает испытание SDV3
+[reb11_name] Улучшение временного возрождения 11
+[reb11_desc] Получение SDP удваивается, а также увеличивает получение секунд в зависимости от SDP
+[vdp11_name] Улучшение фрагментов времени 1-1
+[vdp11_desc] Производство секунд ×2, получение SDP ×2
+[vdp12_name] Улучшение фрагментов времени 1-2
+[vdp12_desc] Получение минут ×3
+[vdp21_name] Улучшение фрагментов времени 2-1
+[vdp21_desc] Увеличивает производство секунд в зависимости от имеющихся минут: ×(1 + минуты^0.6)
+[vdp22_name] Улучшение фрагментов времени 2-2
+[vdp22_desc] Увеличивает производство секунд в зависимости от текущего SDP: ×(1 + SDP^0.7)
+[vdp23_name] Улучшение фрагментов времени 2-3
+[vdp23_desc] Увеличивает получение минут в зависимости от текущего SDP: ×(1 + SDP^0.55)
+[vdp33_name] Улучшение фрагментов времени 3-3
+[vdp33_desc] За каждое завершённое испытание производство секунд +0.02
+[vdp41_name] Открыть ускоритель
+[vdp41_desc] Открывает систему ускорителя, дающую дополнительные бонусы
+[sdv1_title] SDV1
+[sdv1_desc] Одна минута становится 120 секундами, сбрасывает SDP и игнорирует все улучшения. Цель: 7777 секунд для завершения испытания.
+[sdv1_reward] После завершения каждая минута составляет 40 секунд
+[sdv2_title] SDV2
+[sdv2_desc] Открывает SDV2, усиление скорости +0.05, эффективность производства дополнительных минут удваивается.
+[sdv2_reward] Увеличивает особую производственную способность SDV2
+[sdv3_title] SDV3
+[sdv3_desc] Во время испытания постоянно действует мягкое ограничение, производство ^0.8125. Цель: 2125 секунд для завершения.
+[sdv3_reward] После завершения: 25% вероятность удвоения минут каждую минуту
+[current_bonus] Текущий бонус
+[current_income] Текущий доход
+[current_multiplier_label] Текущий множитель
+[cycle_reward] Циклическая награда
+[cost_reduced] Снижение стоимости
+[golden_probability] Вероятность золота
+[speed] Скорость
+[minutes_short] мин
+[up_effect_speed] Текущий бонус: +{0}x скорости
+[up_effect_auto_seconds] Текущий доход: +{0} сек/сек
+[up_effect_minute_boost] Текущий доход: +{0} мин/сек
+[up_effect_speed_multiplier] Текущий множитель: x{0} скорости
+[up_effect_minute_multiplier] Текущий множитель: x{0} минут
+[up_effect_cycle_bonus] Циклическая награда: +{0} мин/цикл
+[up_effect_auto_minutes] Автоматические минуты: +{0} мин/сек
+[up_effect_cost_reduction] Снижение стоимости: {0}%
+[up_effect_golden_time] Вероятность золота: {0}%
+[upgrade_button] Улучшить {0} {1}
+[minutes_currency] минут
+[theme_blue] Синий
+[theme_darkred] Красный
+[theme_minimal] Чёрный
+[theme_neon] Фиолетово-синий
+[theme_yellow] Жёлтый
+[progress] Прогресс
+[unlocked] Достигнуто
+[reward] Награда
+[time_limit] Ограничение по времени
+[in_progress] Выполняется
+[complete] Завершено
+[start_challenge] Начать испытание
+[abandon_challenge] Прервать испытание
+[no_time_limit] Без ограничения времени
+[rebirth_info] Информация о возрождении
+[rebirth_upgrades_tab] Улучшения возрождения
+[time_fragment_upgrades] Улучшения фрагментов времени
+[sdv_challenges] Испытания SDV
+[time_rebirth_points] Очки временного возрождения (SDP)
+[time_fragments] Фрагменты времени (VDP)
+[rebirth_count] Количество возрождений
+[fragment_reset_count] Количество сбросов фрагментов
+[time_rebirth] Временное возрождение
+[get_time_fragments] Получить фрагменты времени
+[current_rebirth_gain] Текущее возрождение даст:
+[sdp_label] SDP
+[rebirth_desc] Временное возрождение сбрасывает текущее прохождение и даёт SDP, которые можно использовать для покупки улучшений возрождения. Получение фрагментов времени потребляет SDP и увеличивает VDP.
+[sdv_challenge_note] Испытания SDV независимы от основных испытаний, после завершения дают особые награды возрождения.
+[time_rebirth_upgrades_desc] Используйте SDP для покупки улучшений временного возрождения, повышающих доход от возрождения и особые способности.
+[time_fragment_upgrades_desc] Используйте VDP для покупки улучшений фрагментов времени, усиливающих производство секунд, получение минут и эффективность возрождения.
+[booster_level] Уровень ускорителя
+[sdv_challenge_desc] Испытания SDV независимы от обычных испытаний, после завершения дают особые бонусы возрождения. Каждое испытание может выполняться только одно; если прервать, его можно выбрать снова.
+[current_sdv_challenge] Текущее испытание SDV
+[completed_sdv_challenges] Завершённые испытания SDV
+[none] Нет
+[game_stats] Статистика игры
+[total_accumulated_seconds] Всего накоплено секунд
+[current_speed_multiplier] Текущий множитель скорости
+[highest_second_speed] Наивысшая скорость секунд
+[current_minutes] Текущее количество минут
+[current_seconds] Текущее количество секунд
+[total_rebirths] Общее количество возрождений
+[current_sdp] Текущее SDP
+[current_vdp] Текущее VDP
+[total_current_upgrades] Общее количество текущих улучшений
+[total_current_rebirth_upgrades] Общее количество текущих улучшений возрождения
+[current_challenges_completed] Завершённые испытания
+[save_created_time] Время создания сохранения
+[save_elapsed_time] Прошедшее время сохранения
+[current_theme] Текущая тема
+[footer_text] Вперёд во времени - BY
+[speed_boost] Усиление скорости
+[speed_boost_desc] Каждый уровень навсегда увеличивает базовую скорость на 0.1x
+[auto_seconds] Автосекунды
+[auto_seconds_desc] Каждый уровень автоматически даёт 0.1 секунды в секунду
+[extra_minutes] Дополнительные минуты
+[extra_minutes_desc] Каждый уровень даёт дополнительные 0.01 минуты в секунду
+[speed_multiplier] Множитель скорости
+[speed_multiplier_desc] Каждый уровень увеличивает множитель скорости на 10%
+[minute_multiplier] Множитель минут
+[minute_multiplier_desc] Каждый уровень увеличивает множитель получения минут на 10%
+[cycle_bonus] Циклическая награда
+[cycle_bonus_desc] Каждый цикл даёт дополнительную 1 минуту
+[auto_minutes] Автоматические минуты
+[auto_minutes_desc] Каждый уровень автоматически даёт 0.01 минуты в секунду
+[cost_optimization] Оптимизация затрат
+[cost_optimization_desc] Каждый уровень снижает стоимость всех улучшений на 5%
+[golden_time] Золотое время
+[golden_time_desc] Каждый уровень увеличивает вероятность случайной двойной награды на 1%
+[current_bonus] Текущий бонус
+[current_income] Текущий доход
+[current_multiplier_label] Текущий множитель
+[cycle_reward] Циклическая награда
+[cost_reduced] Снижение стоимости
+[golden_probability] Вероятность золота
+[upgrade] Улучшить
+[completed] Завершено
+[purchase] Купить
+[minutes_currency] минут
+[need_purchase_previous] Сначала купите предыдущее
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Режим испытания
+[current_challenge] Текущее испытание
+[remaining_time] Оставшееся время
+[exit_challenge] Выйти из испытания
+[welcome_challenge] Добро пожаловать в режим испытания!
+[challenge_desc_text] В режиме испытания вы столкнётесь с различными ограничениями и целями. Успешное выполнение испытания даст постоянные награды!
+[challenge_rules_title] Правила испытания:
+[challenge_rule1] Войдя в режим испытания, вы не можете покупать улучшения
+[challenge_rule2] У испытания есть ограничение по времени или особые условия
+[challenge_rule3] Неудача или выход сбросят текущий прогресс
+[challenge_rule4] Успешное завершение даёт постоянную награду
+[enter_challenge_mode] Войти в режим испытания
+[time_limit] Ограничение времени
+[reward] Награда
+[progress] Прогресс
+[in_progress] Выполняется
+[complete] Завершено
+[start_challenge] Начать испытание
+[abandon_challenge] Прервать испытание
+[achievement_first_step] Первый шаг
+[achievement_first_step_desc] Купить первое улучшение
+[achievement_one_hour] Час!
+[achievement_one_hour_desc] Накопленное время достигло 1 часа
+[achievement_time_traveler] Путешественник во времени
+[achievement_time_traveler_desc] Накопленное время достигло 10000 секунд
+[achievement_100_minutes] Стоминутный юбилей
+[achievement_100_minutes_desc] Иметь 100 минут
+[achievement_1000_minutes] Легенда тысячи минут
+[achievement_1000_minutes_desc] Иметь 1000 минут
+[achievement_start_cycle] Начать цикл
+[achievement_start_cycle_desc] Завершить 1 цикл
+[achievement_time_controller] Повелитель времени
+[achievement_time_controller_desc] Достичь множителя 3.0x или выше
+[achievement_time_accelerator] Ускоритель времени
+[achievement_time_accelerator_desc] Достичь множителя 5.0x
+[achievement_extreme_speed] Экстремальный спринт
+[achievement_extreme_speed_desc] Достичь множителя скорости 10.0x
+[achievement_meteor_acceleration] Метеоритное ускорение
+[achievement_meteor_acceleration_desc] Достичь множителя скорости 25.0x
+[achievement_prestige_beginning] Начало престижа
+[achievement_prestige_beginning_desc] Иметь 1000 SDP
+[achievement_fragment_obtained] Получен фрагмент времени
+[achievement_fragment_obtained_desc] Получить 1 фрагмент времени (VDP)
+[achievement_first_rebirth] Первое возрождение
+[achievement_first_rebirth_desc] Совершить 1 временное возрождение
+[achievement_fragment_reset] Сброс фрагментов
+[achievement_fragment_reset_desc] Совершить 1 сброс фрагментов времени
+[achievement_fragment_upgrader] Улучшатель фрагментов
+[achievement_fragment_upgrader_desc] Купить 1 улучшение фрагментов времени
+[achievement_fragment_craftsman] Ремесленник фрагментов
+[achievement_fragment_craftsman_desc] Купить 5 улучшений фрагментов времени
+[achievement_challenge_door] Дверь испытаний
+[achievement_challenge_door_desc] Завершить 1 испытание
+[achievement_challenge_master] Мастер испытаний
+[achievement_challenge_master_desc] Завершить 3 испытания
+[achievement_ultimate_challenge] Высшее испытание
+[achievement_ultimate_challenge_desc] Завершить 5 испытаний
+[achievement_hundred_year_solitude] Сто лет одиночества
+[achievement_hundred_year_solitude_desc] Завершить 52560000 циклов (минут)
+[import_prompt] Вставьте строку сохранения:
+[export_prompt] Скопируйте код сохранения ниже:
+[import_success] Импорт успешен! Игра обновится.
+[import_error] Неверное сохранение, не удаётся разобрать! Проверьте, скопировали ли вы полностью.
+[delete_confirm] ⚠️ Предупреждение: Это действие навсегда удалит все игровые данные, включая сохранения, прогресс достижений, историю кликов, вехи и т.д.
+[delete_confirm_question] Вы уверены, что хотите полностью удалить сохранение и начать заново?
+[delete_success] Все данные полностью удалены!
+[save_load_error] Ошибка загрузки сохранения:
+[save_check_message] Проверьте правильность сохранения или попробуйте импортировать снова.
+[exit_challenge_confirm] Вы уверены, что хотите выйти из режима испытания? Текущий прогресс будет потерян.
+[exit_challenge_success] Вы вышли из режима испытания.
+[enter_challenge_success] Вы вошли в режим испытания! Теперь вы можете выбрать и начать испытание.
+[challenge_start_message] Испытание началось!
+[target] Цель:
+[time_format] мин
+[rebirth_need_minutes] Для временного возрождения требуется не менее 10 минут.
+[rebirth_success] Временное возрождение успешно, получено
+[vdp_need_sdp] Для получения фрагментов времени требуется не менее 1000 SDP.
+[vdp_cannot_obtain] Сейчас невозможно получить фрагменты времени.
+[vdp_obtained] Получено
+[time_fragments_obtained] фрагментов времени!
+[abandon_sdv_confirm] Вы уверены, что хотите прервать текущее испытание SDV?
+[sdv_started] Запуск испытания SDV:
+[sdv_unlock_hint] Требуется купить соответствующее улучшение возрождения SDV для открытия
+[challenge_failed] Испытание провалено! Время вышло.
+[speed_calc_error] Ошибка вычисления скорости, восстановлено значение по умолчанию:
+[speed_calc_error_hint] Это может быть вызвано повреждением данных сохранения.
+[seconds_per_second] сек/сек
+[minutes_per_second] мин/сек
+[minutes_per_cycle] мин/цикл
+[minutes_per_second_auto] мин/сек
+[seconds] секунд
+[no_time_limit] Без ограничения времени
+[unlocked] Достигнуто
+[locked_status] Не открыто
+[start_sdv] Начать SDV
+[abandon_sdv] Прервать SDV
+[rebirth_gain_sdp] Временное возрождение (даст {0} SDP)
+[upgrade_completed] Завершено
+[need_purchase_previous] Сначала купите предыдущее
+[purchase_button] Купить {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Завершено
+[need_purchase_previous] Сначала купите предыдущее
+[purchase_button] Купить {0} {1}
+[vdp_currency] VDP
+[start_sdv] Начать SDV
+[abandon_sdv] Прервать SDV
+[sdv_unlock_hint] Требуется купить соответствующее улучшение возрождения SDV для открытия
+[abandon_sdv_confirm] Вы уверены, что хотите прервать текущее испытание SDV?
+[rebirth_button_text] Временное возрождение (даст {0} SDP)
+[insufficient_funds] Недостаточно средств
+[unit_seconds_per_second] сек/с
+[none] Нет
+[yes] Да
+[no] Нет
+[basic_upgrades] Базовые улучшения
+[advanced_upgrades] Продвинутые улучшения
+[expert_upgrades] Экспертные улучшения
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Выберите язык интерфейса
+[load_language_fail] Не удалось загрузить язык
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

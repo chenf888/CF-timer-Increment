@@ -1,0 +1,424 @@
+[game_title] Timer Incremental
+[version_text] Nuvarande version 1.4.2
+[join_us] Gå med oss
+[about] Om
+[about_title] Om Timer Incremental
+[about_desc] Detta är ett tidsinkrementellt spel där spelaren köper uppgraderingar och slutför utmaningar för att påskynda tidsackumulering och uppleva en tillväxtprocess från långsam till explosiv.
+[author] Författare:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Speltips:
+[gameplay_text] Prioritera att öka hastighet och automatiska minuter, samla sedan cykelbelöningar och gyllene tid för att snabbare få minuter.
+[acknowledgment] Tack till:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Tack till alla spelare för ert stöd och era synpunkter!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Är du säker på att du vill lämna utmaningsläget? Nuvarande framsteg kommer att förloras.
+[exit_challenge_success] Utmaningsläget har avslutats.
+[enter_challenge_success] Utmaningsläget är aktivt! Nu kan du välja och starta en utmaning.
+[resume] Fortsätt
+[play] Spela
+[pause] Pausa
+[export_prompt] Kopiera spara-koden nedan:
+[export_prompt_raw] Kopiera den råa spara-texten nedan:
+[import_prompt] Klistra in spara-strängen:
+[import_success] Import lyckades! Spelet kommer att uppdateras.
+[import_error] Ogiltig spara-fil, kunde inte tolkas! Kontrollera att du kopierat allt. Fel:
+[delete_confirm] ⚠️ Varning: Denna åtgärd kommer att permanent radera ALLA speldata, inklusive sparningar, framsteg för prestationer, klickhistorik, milstolpar etc.\n\nÄr du säker på att du vill radera allt och börja om?
+[delete_success] All data har raderats fullständigt!
+[time_day] dag
+[time_hour] tim
+[time_minute] min
+[time_second] sek
+[tab_timer] Timer
+[tab_upgrades] Uppgraderingar
+[tab_achievements] Prestationer
+[tab_challenges] Utmaningar
+[tab_rebirth] Återfödelse
+[tab_stats] Statistik
+[tab_settings] Inställningar
+[settings_title] Spelinställningar
+[save_management] Sparhantering
+[export_save] Exportera sparning
+[import_save] Importera sparning
+[interface_theme] Gränssnittstema
+[theme_desc] Växla mellan olika visuella stilar
+[danger_operations] Farliga operationer
+[delete_save] Radera sparning och börja om
+[delete_save_desc] Raderar all speldata permanent (sparning, prestationer, klickhistorik, etc.). Denna åtgärd går inte att ångra!
+[current_minute_seconds] Nuvarande minuts sekunder
+[accumulated_seconds] Ackumulerade sekunder
+[completed_cycles] Slutförda cykler
+[current_multiplier] Nuvarande multiplikator
+[play] Spela
+[pause] Pausa
+[resume] Fortsätt
+[minutes_owned] Ägda minuter:
+[basic_upgrades] Grundläggande uppgraderingar
+[advanced_upgrades] Avancerade uppgraderingar
+[expert_upgrades] Expertuppgraderingar
+[ach_first_step_title] Första steget
+[ach_first_step_desc] Köp den första uppgraderingen
+[ach_one_hour_title] En timme!
+[ach_one_hour_desc] Ackumulerad tid nådde 1 timme
+[ach_time_traveler_title] Tidsresenär
+[ach_time_traveler_desc] Ackumulerad tid nådde 10 000 sekunder
+[ach_100_minutes_title] 100-minutersjubileum
+[ach_100_minutes_desc] Äg 100 minuter
+[ach_1000_minutes_title] Legenden om 1000 minuter
+[ach_1000_minutes_desc] Äg 1000 minuter
+[ach_start_cycle_title] Starta cykel
+[ach_start_cycle_desc] Slutför 1 cykel
+[ach_time_controller_title] Tidskontrollant
+[ach_time_controller_desc] Nå 3.0x multiplikator eller högre
+[ach_time_accelerator_title] Tidsaccelerator
+[ach_time_accelerator_desc] Nå 5.0x multiplikator
+[ach_extreme_speed_title] Extremsprint
+[ach_extreme_speed_desc] Nå 10.0x hastighetsmultiplikator
+[ach_meteor_acceleration_title] Meteoracceleration
+[ach_meteor_acceleration_desc] Nå 25.0x hastighetsmultiplikator
+[ach_prestige_beginning_title] Ryktets början
+[ach_prestige_beginning_desc] Äg 1000 SDP
+[ach_fragment_obtained_title] Tidsfragment erhållet
+[ach_fragment_obtained_desc] Få 1 tidsfragment (VDP)
+[ach_first_rebirth_title] Första återfödelsen
+[ach_first_rebirth_desc] Utför 1 tidsåterfödelse
+[ach_fragment_reset_title] Fragmentåterställning
+[ach_fragment_reset_desc] Utför 1 återställning av tidsfragment
+[ach_fragment_upgrader_title] Fragmentuppgraderare
+[ach_fragment_upgrader_desc] Köp 1 tidsfragmentuppgradering
+[ach_fragment_craftsman_title] Fragmenthantverkare
+[ach_fragment_craftsman_desc] Köp 5 tidsfragmentuppgraderingar
+[ach_challenge_door_title] Utmaningens dörr
+[ach_challenge_door_desc] Slutför 1 utmaning
+[ach_challenge_master_title] Utmaningsmästare
+[ach_challenge_master_desc] Slutför 3 utmaningar
+[ach_ultimate_challenge_title] Den ultimata utmaningen
+[ach_ultimate_challenge_desc] Slutför 5 utmaningar
+[ach_hundred_year_solitude_title] Hundra år av ensamhet
+[ach_hundred_year_solitude_desc] Slutför 52 560 000 cykler (minuter)
+[ch_speed_demon_title] Hastighetsdemon
+[ch_speed_demon_desc] Nå 25x hastighetsmultiplikator inom 3 minuter
+[ch_speed_demon_reward] Permanent +1.0x bashastighet
+[ch_time_master_title] Tidsmästare
+[ch_time_master_desc] Slutför 200 cykler inom 2 minuter
+[ch_time_master_reward] Låser upp cykelbelöningsuppgradering
+[ch_efficiency_expert_title] Effektivitetsexpert
+[ch_efficiency_expert_desc] Nå 100x hastighetsmultiplikator med mindre än 1000 minuter
+[ch_efficiency_expert_reward] Låser upp kostnadsoptimeringsuppgradering
+[ch_minimalist_master_title] Minimalistmästare
+[ch_minimalist_master_desc] Nå 5000 ackumulerade sekunder utan att köpa några uppgraderingar
+[ch_minimalist_master_reward] Låser upp automatiska minutuppgraderingar
+[ch_golden_chaser_title] Guldsökare
+[ch_golden_chaser_desc] Utlös gyllene tid 5 gånger inom 10 minuter
+[ch_golden_chaser_reward] Permanent +5% chans för gyllene tid
+[up_speed_boost_name] Hastighetsförstärkning
+[up_speed_boost_desc] Varje nivå ökar bashastigheten permanent med 0.1x
+[up_auto_seconds_name] Automatiska sekunder
+[up_auto_seconds_desc] Varje nivå ger automatiskt 0.1 sekund per sekund
+[up_minute_boost_name] Extra minuter
+[up_minute_boost_desc] Varje nivå ger extra 0.01 minut per sekund
+[up_speed_multiplier_name] Hastighetsmultiplikator
+[up_speed_multiplier_desc] Varje nivå ökar hastighetsmultiplikatorn med 10%
+[up_minute_multiplier_name] Minutmultiplikator
+[up_minute_multiplier_desc] Varje nivå ökar minutvinstmultiplikatorn med 10%
+[up_cycle_bonus_name] Cykelbelöning
+[up_cycle_bonus_desc] Varje cykel ger 1 extra minut
+[up_auto_minutes_name] Automatiska minuter
+[up_auto_minutes_desc] Varje nivå ger automatiskt 0.01 minut per sekund
+[up_cost_reduction_name] Kostnadsoptimering
+[up_cost_reduction_desc] Varje nivå minskar kostnaden för alla uppgraderingar med 5%
+[up_golden_time_name] Gyllene tid
+[up_golden_time_desc] Varje nivå ökar chansen för slumpmässig dubbel belöning med 1%
+[reb1_name] Tidsåterfödelseuppgradering 1
+[reb1_desc] Efter återfödelse: sekundvinst ×2, hastighetsförstärkningseffekt blir 0.15
+[reb2_name] Tidsåterfödelseuppgradering 2
+[reb2_desc] Behåller 3 nivåer av hastighetsförstärkning vid återfödelse, och låter minuten öka sekundvinsthastigheten
+[reb3_name] Tidsåterfödelseuppgradering 3
+[reb3_desc] Sekundvinst ×2.5, och varje minut lägger till 0.01 till sekundmultiplikatorn
+[reb4_name] Tidsåterfödelseuppgradering 4
+[reb4_desc] Ökar sekundproduktionen baserat på kvadratroten av ägda minuter
+[reb5_name] Tidsåterfödelseuppgradering 5
+[reb5_desc] Låser upp utmaningen SDV1
+[reb6_name] Tidsåterfödelseuppgradering 6
+[reb6_desc] Låser upp omvandlaren, så att 60 sekunder blir 1 minut multiplicerat med 1 + √(antal återfödelser)
+[reb7_name] Tidsåterfödelseuppgradering 7
+[reb7_desc] Låser upp SDV2 och ökar produktionen
+[reb8_name] Tidsåterfödelseuppgradering 8
+[reb8_desc] Poängproduktion ×7.8 (kräver slutförd SDV2)
+[reb9_name] Tidsåterfödelseuppgradering 9
+[reb9_desc] För varje köpt SDP-uppgradering, hastighetsförstärkningseffekt +0.02
+[reb10_name] Tidsåterfödelseuppgradering 10
+[reb10_desc] Låser upp utmaningen SDV3
+[reb11_name] Tidsåterfödelseuppgradering 11
+[reb11_desc] SDP-vinst fördubblas, och ökar sekundvinst baserat på SDP
+[vdp11_name] Tidsfragmentuppgradering 1-1
+[vdp11_desc] Sekundproduktion ×2, SDP-vinst ×2
+[vdp12_name] Tidsfragmentuppgradering 1-2
+[vdp12_desc] Minutvinst ×3
+[vdp21_name] Tidsfragmentuppgradering 2-1
+[vdp21_desc] Ökar sekundproduktion baserat på ägda minuter: ×(1 + minuter^0.6)
+[vdp22_name] Tidsfragmentuppgradering 2-2
+[vdp22_desc] Ökar sekundproduktion baserat på nuvarande SDP: ×(1 + SDP^0.7)
+[vdp23_name] Tidsfragmentuppgradering 2-3
+[vdp23_desc] Ökar minutvinst baserat på nuvarande SDP: ×(1 + SDP^0.55)
+[vdp33_name] Tidsfragmentuppgradering 3-3
+[vdp33_desc] För varje slutförd utmaning, sekundproduktion +0.02
+[vdp41_name] Lås upp boostern
+[vdp41_desc] Låser upp boostersystemet som ger extra bonusar
+[sdv1_title] SDV1
+[sdv1_desc] En minut blir 120 sekunder, nollställer SDP och ignorerar alla uppgraderingar. Mål: 7777 sekunder för att slutföra utmaningen.
+[sdv1_reward] Efter slutförande är varje minut 40 sekunder
+[sdv2_title] SDV2
+[sdv2_desc] Låser upp SDV2, hastighetsförstärkning +0.05, effektiviteten för extra minutproduktion fördubblas.
+[sdv2_reward] Ökar SDV2:s specifika produktionsförmåga
+[sdv3_title] SDV3
+[sdv3_desc] Under utmaningen är mjuk gräns alltid aktiv, produktion ^0.8125. Mål: 2125 sekunder för att slutföra.
+[sdv3_reward] Efter slutförande: 25% chans till dubbla minuter varje minut
+[current_bonus] Nuvarande bonus
+[current_income] Nuvarande intäkt
+[current_multiplier_label] Nuvarande multiplikator
+[cycle_reward] Cykelbelöning
+[cost_reduced] Kostnadsminskning
+[golden_probability] Gyllene sannolikhet
+[speed] Hastighet
+[minutes_short] min
+[up_effect_speed] Nuvarande bonus: +{0}x hastighet
+[up_effect_auto_seconds] Nuvarande intäkt: +{0} sek/sek
+[up_effect_minute_boost] Nuvarande intäkt: +{0} min/sek
+[up_effect_speed_multiplier] Nuvarande multiplikator: x{0} hastighet
+[up_effect_minute_multiplier] Nuvarande multiplikator: x{0} minuter
+[up_effect_cycle_bonus] Cykelbelöning: +{0} min/cykel
+[up_effect_auto_minutes] Automatiska minuter: +{0} min/sek
+[up_effect_cost_reduction] Kostnadsminskning: {0}%
+[up_effect_golden_time] Gyllene sannolikhet: {0}%
+[upgrade_button] Uppgradera {0} {1}
+[minutes_currency] minuter
+[theme_blue] Blå
+[theme_darkred] Röd
+[theme_minimal] Svart
+[theme_neon] Lila+Blå
+[theme_yellow] Gul
+[progress] Framsteg
+[unlocked] Uppnått
+[reward] Belöning
+[time_limit] Tidsgräns
+[in_progress] Pågående
+[complete] Slutförd
+[start_challenge] Starta utmaning
+[abandon_challenge] Överge utmaning
+[no_time_limit] Ingen tidsgräns
+[rebirth_info] Återfödelseinformation
+[rebirth_upgrades_tab] Återfödelseuppgraderingar
+[time_fragment_upgrades] Tidsfragmentuppgraderingar
+[sdv_challenges] SDV-utmaningar
+[time_rebirth_points] Tidsåterfödelsepoäng (SDP)
+[time_fragments] Tidsfragment (VDP)
+[rebirth_count] Antal återfödelser
+[fragment_reset_count] Antal fragmentåterställningar
+[time_rebirth] Tidsåterfödelse
+[get_time_fragments] Få tidsfragment
+[current_rebirth_gain] Nuvarande återfödelse ger:
+[sdp_label] SDP
+[rebirth_desc] Tidsåterfödelse återställer nuvarande spelomgång och ger SDP, som kan användas för att köpa återfödelseuppgraderingar. Att få tidsfragment förbrukar SDP och ökar VDP.
+[sdv_challenge_note] SDV-utmaningar är oberoende av huvudutmaningarna och ger exklusiva återfödelsebelöningar efter slutförande.
+[time_rebirth_upgrades_desc] Använd SDP för att köpa tidsåterfödelseuppgraderingar som ökar återfödelsevinster och speciella förmågor.
+[time_fragment_upgrades_desc] Använd VDP för att köpa tidsfragmentuppgraderingar som förbättrar sekundproduktion, minutvinst och återfödelseeffektivitet.
+[booster_level] Boosternivå
+[sdv_challenge_desc] SDV-utmaningar är oberoende av vanliga utmaningar och ger speciella återfödelsebonusar efter slutförande. Varje utmaning kan bara vara aktiv en i taget; om den överges kan den väljas igen.
+[current_sdv_challenge] Nuvarande SDV-utmaning
+[completed_sdv_challenges] Slutförda SDV-utmaningar
+[none] Ingen
+[game_stats] Spelstatistik
+[total_accumulated_seconds] Totalt ackumulerade sekunder
+[current_speed_multiplier] Nuvarande hastighetsmultiplikator
+[highest_second_speed] Högsta sekundhastighet
+[current_minutes] Nuvarande minuter
+[current_seconds] Nuvarande sekunder
+[total_rebirths] Totalt antal återfödelser
+[current_sdp] Nuvarande SDP
+[current_vdp] Nuvarande VDP
+[total_current_upgrades] Totalt antal nuvarande uppgraderingar
+[total_current_rebirth_upgrades] Totalt antal nuvarande återfödelseuppgraderingar
+[current_challenges_completed] Slutförda utmaningar
+[save_created_time] Spara skapad tid
+[save_elapsed_time] Sparad tid som gått
+[current_theme] Nuvarande tema
+[footer_text] Framåt i tiden - BY
+[speed_boost] Hastighetsförstärkning
+[speed_boost_desc] Varje nivå ökar bashastigheten permanent med 0.1x
+[auto_seconds] Automatiska sekunder
+[auto_seconds_desc] Varje nivå ger automatiskt 0.1 sekund per sekund
+[extra_minutes] Extra minuter
+[extra_minutes_desc] Varje nivå ger extra 0.01 minut per sekund
+[speed_multiplier] Hastighetsmultiplikator
+[speed_multiplier_desc] Varje nivå ökar hastighetsmultiplikatorn med 10%
+[minute_multiplier] Minutmultiplikator
+[minute_multiplier_desc] Varje nivå ökar minutvinstmultiplikatorn med 10%
+[cycle_bonus] Cykelbelöning
+[cycle_bonus_desc] Varje cykel ger 1 extra minut
+[auto_minutes] Automatiska minuter
+[auto_minutes_desc] Varje nivå ger automatiskt 0.01 minut per sekund
+[cost_optimization] Kostnadsoptimering
+[cost_optimization_desc] Varje nivå minskar kostnaden för alla uppgraderingar med 5%
+[golden_time] Gyllene tid
+[golden_time_desc] Varje nivå ökar chansen för slumpmässig dubbel belöning med 1%
+[current_bonus] Nuvarande bonus
+[current_income] Nuvarande intäkt
+[current_multiplier_label] Nuvarande multiplikator
+[cycle_reward] Cykelbelöning
+[cost_reduced] Kostnadsminskning
+[golden_probability] Gyllene sannolikhet
+[upgrade] Uppgradera
+[completed] Slutförd
+[purchase] Köp
+[minutes_currency] minuter
+[need_purchase_previous] Köp föregående först
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Utmaningsläge
+[current_challenge] Nuvarande utmaning
+[remaining_time] Återstående tid
+[exit_challenge] Avsluta utmaning
+[welcome_challenge] Välkommen till utmaningsläget!
+[challenge_desc_text] I utmaningsläget möter du olika begränsningar och mål. Att slutföra en utmaning ger permanenta belöningar!
+[challenge_rules_title] Utmaningsregler:
+[challenge_rule1] När du går in i utmaningsläget kan du inte köpa uppgraderingar
+[challenge_rule2] Utmaningen har tidsgräns eller speciella villkor
+[challenge_rule3] Misslyckande eller avslut återställer nuvarande framsteg
+[challenge_rule4] Slutförande ger permanent belöning
+[enter_challenge_mode] Gå in i utmaningsläget
+[time_limit] Tidsgräns
+[reward] Belöning
+[progress] Framsteg
+[in_progress] Pågående
+[complete] Slutförd
+[start_challenge] Starta utmaning
+[abandon_challenge] Överge utmaning
+[achievement_first_step] Första steget
+[achievement_first_step_desc] Köp den första uppgraderingen
+[achievement_one_hour] En timme!
+[achievement_one_hour_desc] Ackumulerad tid nådde 1 timme
+[achievement_time_traveler] Tidsresenär
+[achievement_time_traveler_desc] Ackumulerad tid nådde 10 000 sekunder
+[achievement_100_minutes] 100-minutersjubileum
+[achievement_100_minutes_desc] Äg 100 minuter
+[achievement_1000_minutes] Legenden om 1000 minuter
+[achievement_1000_minutes_desc] Äg 1000 minuter
+[achievement_start_cycle] Starta cykel
+[achievement_start_cycle_desc] Slutför 1 cykel
+[achievement_time_controller] Tidskontrollant
+[achievement_time_controller_desc] Nå 3.0x multiplikator eller högre
+[achievement_time_accelerator] Tidsaccelerator
+[achievement_time_accelerator_desc] Nå 5.0x multiplikator
+[achievement_extreme_speed] Extremsprint
+[achievement_extreme_speed_desc] Nå 10.0x hastighetsmultiplikator
+[achievement_meteor_acceleration] Meteoracceleration
+[achievement_meteor_acceleration_desc] Nå 25.0x hastighetsmultiplikator
+[achievement_prestige_beginning] Ryktets början
+[achievement_prestige_beginning_desc] Äg 1000 SDP
+[achievement_fragment_obtained] Tidsfragment erhållet
+[achievement_fragment_obtained_desc] Få 1 tidsfragment (VDP)
+[achievement_first_rebirth] Första återfödelsen
+[achievement_first_rebirth_desc] Utför 1 tidsåterfödelse
+[achievement_fragment_reset] Fragmentåterställning
+[achievement_fragment_reset_desc] Utför 1 återställning av tidsfragment
+[achievement_fragment_upgrader] Fragmentuppgraderare
+[achievement_fragment_upgrader_desc] Köp 1 tidsfragmentuppgradering
+[achievement_fragment_craftsman] Fragmenthantverkare
+[achievement_fragment_craftsman_desc] Köp 5 tidsfragmentuppgraderingar
+[achievement_challenge_door] Utmaningens dörr
+[achievement_challenge_door_desc] Slutför 1 utmaning
+[achievement_challenge_master] Utmaningsmästare
+[achievement_challenge_master_desc] Slutför 3 utmaningar
+[achievement_ultimate_challenge] Den ultimata utmaningen
+[achievement_ultimate_challenge_desc] Slutför 5 utmaningar
+[achievement_hundred_year_solitude] Hundra år av ensamhet
+[achievement_hundred_year_solitude_desc] Slutför 52 560 000 cykler (minuter)
+[import_prompt] Klistra in spara-strängen:
+[export_prompt] Kopiera spara-koden nedan:
+[import_success] Import lyckades! Spelet kommer att uppdateras.
+[import_error] Ogiltig spara-fil, kunde inte tolkas! Kontrollera att du kopierat allt.
+[delete_confirm] ⚠️ Varning: Denna åtgärd kommer att permanent radera ALLA speldata, inklusive sparningar, framsteg för prestationer, klickhistorik, milstolpar etc.
+[delete_confirm_question] Är du säker på att du vill radera allt och börja om?
+[delete_success] All data har raderats fullständigt!
+[save_load_error] Misslyckades med att ladda sparning:
+[save_check_message] Kontrollera att sparningen är korrekt eller försök importera igen.
+[exit_challenge_confirm] Är du säker på att du vill lämna utmaningsläget? Nuvarande framsteg kommer att förloras.
+[exit_challenge_success] Utmaningsläget har avslutats.
+[enter_challenge_success] Utmaningsläget är aktivt! Nu kan du välja och starta en utmaning.
+[challenge_start_message] Utmaningen har börjat!
+[target] Mål:
+[time_format] min
+[rebirth_need_minutes] Du behöver minst 10 minuter för att kunna genomföra en tidsåterfödelse.
+[rebirth_success] Tidsåterfödelse lyckades, fick
+[vdp_need_sdp] Du behöver minst 1000 SDP för att få tidsfragment.
+[vdp_cannot_obtain] Kan inte få tidsfragment just nu.
+[vdp_obtained] Fick
+[time_fragments_obtained] tidsfragment!
+[abandon_sdv_confirm] Är du säker på att du vill överge den nuvarande SDV-utmaningen?
+[sdv_started] Startar SDV-utmaning:
+[sdv_unlock_hint] Kräver köp av motsvarande SDV-återfödelseuppgradering för att låsa upp
+[challenge_failed] Utmaningen misslyckades! Tiden är slut.
+[speed_calc_error] Fel vid hastighetsberäkning, återställde till standardvärde:
+[speed_calc_error_hint] Detta kan bero på skadade spardata.
+[seconds_per_second] sek/sek
+[minutes_per_second] min/sek
+[minutes_per_cycle] min/cykel
+[minutes_per_second_auto] min/sek
+[seconds] sekunder
+[no_time_limit] Ingen tidsgräns
+[unlocked] Uppnått
+[locked_status] Olåst
+[start_sdv] Starta SDV
+[abandon_sdv] Överge SDV
+[rebirth_gain_sdp] Tidsåterfödelse (ger {0} SDP)
+[upgrade_completed] Slutförd
+[need_purchase_previous] Köp föregående först
+[purchase_button] Köp {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Slutförd
+[need_purchase_previous] Köp föregående först
+[purchase_button] Köp {0} {1}
+[vdp_currency] VDP
+[start_sdv] Starta SDV
+[abandon_sdv] Överge SDV
+[sdv_unlock_hint] Kräver köp av motsvarande SDV-återfödelseuppgradering för att låsa upp
+[abandon_sdv_confirm] Är du säker på att du vill överge den nuvarande SDV-utmaningen?
+[rebirth_button_text] Tidsåterfödelse (ger {0} SDP)
+[insufficient_funds] Otillräckliga medel
+[unit_seconds_per_second] sek/s
+[none] Ingen
+[yes] Ja
+[no] Nej
+[basic_upgrades] Grundläggande uppgraderingar
+[advanced_upgrades] Avancerade uppgraderingar
+[expert_upgrades] Expertuppgraderingar
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Välj gränssnittsspråk
+[load_language_fail] Språkladdning misslyckades
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

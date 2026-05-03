@@ -1,0 +1,424 @@
+[game_title] ตัวจับเวลาแบบสะสม
+[version_text] เวอร์ชัน 1.4.2
+[join_us] ร่วมกับเรา
+[about] เกี่ยวกับ
+[about_title] เกี่ยวกับตัวจับเวลาแบบสะสม
+[about_desc] เกมสะสมเวลานี้ ผู้เล่นซื้อการอัปเกรดและทำความท้าทายเพื่อเร่งการสะสมเวลา สัมผัสกระบวนการเติบโตจากช้าไปจนถึงระเบิดเร็ว
+[author] ผู้แต่ง:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] วิธีเล่น:
+[gameplay_text] เพิ่มความเร็วและนาทีอัตโนมัติก่อน จากนั้นเก็บรางวัลรอบและเวลาทองคำ เพื่อรับนาทีได้เร็วขึ้น
+[acknowledgment] คำขอบคุณ:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] ขอบคุณผู้เล่นทุกท่านที่ให้การสนับสนุนและข้อเสนอแนะ!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] คุณแน่ใจหรือไม่ที่จะออกจากโหมดความท้าทาย? ความคืบหน้าปัจจุบันจะสูญหาย
+[exit_challenge_success] ออกจากโหมดความท้าทายแล้ว
+[enter_challenge_success] เข้าสู่โหมดความท้าทายแล้ว! ตอนนี้คุณสามารถเลือกและเริ่มความท้าทายได้
+[resume] ดำเนินต่อ
+[play] เริ่ม
+[pause] หยุดชั่วคราว
+[export_prompt] กรุณาคัดลอกรหัสบันทึกด้านล่าง:
+[export_prompt_raw] กรุณาคัดลอกบันทึกดิบด้านล่าง:
+[import_prompt] กรุณาวางสตริงบันทึก:
+[import_success] นำเข้าสำเร็จ! เกมจะรีเฟรช
+[import_error] บันทึกไม่ถูกต้อง ไม่สามารถวิเคราะห์ได้! กรุณาตรวจสอบว่าคัดลอกครบถ้วนหรือไม่ ข้อผิดพลาด:
+[delete_confirm] ⚠️ คำเตือน: การดำเนินการนี้จะลบข้อมูลเกมทั้งหมดอย่างถาวร รวมถึงบันทึก ความคืบหน้าของความสำเร็จ ประวัติการคลิก เหตุการณ์สำคัญ ฯลฯ\n\nคุณแน่ใจหรือไม่ที่จะลบข้อมูลทั้งหมดและเริ่มใหม่?
+[delete_success] ลบข้อมูลทั้งหมดเรียบร้อยแล้ว!
+[time_day] วัน
+[time_hour] ชม.
+[time_minute] นาที
+[time_second] วินาที
+[tab_timer] ตัวจับเวลา
+[tab_upgrades] การอัปเกรด
+[tab_achievements] ความสำเร็จ
+[tab_challenges] ความท้าทาย
+[tab_rebirth] การเกิดใหม่
+[tab_stats] สถิติ
+[tab_settings] การตั้งค่า
+[settings_title] การตั้งค่าเกม
+[save_management] การจัดการบันทึก
+[export_save] ส่งออกบันทึก
+[import_save] นำเข้าบันทึก
+[interface_theme] ธีมอินเทอร์เฟซ
+[theme_desc] สลับรูปแบบภาพที่แตกต่างกัน
+[danger_operations] การดำเนินการที่อันตราย
+[delete_save] ลบข้อมูลและเริ่มใหม่
+[delete_save_desc] ลบข้อมูลเกมทั้งหมด (บันทึก ความสำเร็จ ประวัติการคลิก ฯลฯ) อย่างถาวร การดำเนินการนี้ไม่สามารถย้อนกลับได้!
+[current_minute_seconds] วินาทีของนาทีปัจจุบัน
+[accumulated_seconds] วินาทีสะสมทั้งหมด
+[completed_cycles] รอบที่ทำสำเร็จ
+[current_multiplier] ตัวคูณปัจจุบัน
+[play] เริ่ม
+[pause] หยุดชั่วคราว
+[resume] ดำเนินต่อ
+[minutes_owned] มีนาที:
+[basic_upgrades] การอัปเกรดพื้นฐาน
+[advanced_upgrades] การอัปเกรดขั้นสูง
+[expert_upgrades] การอัปเกรดผู้เชี่ยวชาญ
+[ach_first_step_title] ก้าวแรก
+[ach_first_step_desc] ซื้อการอัปเกรดแรก
+[ach_one_hour_title] หนึ่งชั่วโมง!
+[ach_one_hour_desc] เวลาสะสมถึง 1 ชั่วโมง
+[ach_time_traveler_title] นักเดินเวลา
+[ach_time_traveler_desc] เวลาสะสมถึง 10,000 วินาที
+[ach_100_minutes_title] ครบรอบ 100 นาที
+[ach_100_minutes_desc] มี 100 นาที
+[ach_1000_minutes_title] ตำนานพันนาที
+[ach_1000_minutes_desc] มี 1,000 นาที
+[ach_start_cycle_title] เริ่มรอบ
+[ach_start_cycle_desc] ทำครบ 1 รอบ
+[ach_time_controller_title] ผู้ควบคุมเวลา
+[ach_time_controller_desc] มีตัวคูณ 3.0x หรือสูงกว่า
+[ach_time_accelerator_title] ตัวเร่งเวลา
+[ach_time_accelerator_desc] มีตัวคูณ 5.0x
+[ach_extreme_speed_title] พุ่งทะยานสุดขีด
+[ach_extreme_speed_desc] มีตัวคูณความเร็ว 10.0x
+[ach_meteor_acceleration_title] เร่งความเร็วดาวตก
+[ach_meteor_acceleration_desc] มีตัวคูณความเร็ว 25.0x
+[ach_prestige_beginning_title] จุดเริ่มต้นแห่งชื่อเสียง
+[ach_prestige_beginning_desc] มี SDP 1,000
+[ach_fragment_obtained_title] ได้รับเศษเวลา
+[ach_fragment_obtained_desc] ได้รับเศษเวลา (VDP) 1 ชิ้น
+[ach_first_rebirth_title] ประสบการณ์เกิดใหม่ครั้งแรก
+[ach_first_rebirth_desc] เกิดใหม่ 1 ครั้ง
+[ach_fragment_reset_title] รีเซ็ตเศษเวลา
+[ach_fragment_reset_desc] รีเซ็ตเศษเวลา 1 ครั้ง
+[ach_fragment_upgrader_title] ผู้ยกระดับเศษเวลา
+[ach_fragment_upgrader_desc] ซื้อการอัปเกรดเศษเวลา 1 รายการ
+[ach_fragment_craftsman_title] ช่างฝีมือเศษเวลา
+[ach_fragment_craftsman_desc] ซื้อการอัปเกรดเศษเวลา 5 รายการ
+[ach_challenge_door_title] ประตูแห่งความท้าทาย
+[ach_challenge_door_desc] ทำความท้าทายสำเร็จ 1 ครั้ง
+[ach_challenge_master_title] ปรมาจารย์ความท้าทาย
+[ach_challenge_master_desc] ทำความท้าทายสำเร็จ 3 ครั้ง
+[ach_ultimate_challenge_title] ความท้าทายสูงสุด
+[ach_ultimate_challenge_desc] ทำความท้าทายสำเร็จ 5 ครั้ง
+[ach_hundred_year_solitude_title] ร้อยปีแห่งความโดดเดี่ยว
+[ach_hundred_year_solitude_desc] ทำครบ 52,560,000 รอบ (นาที)
+[ch_speed_demon_title] ปีศาจความเร็ว
+[ch_speed_demon_desc] มีตัวคูณความเร็ว 25x ภายใน 3 นาที
+[ch_speed_demon_reward] เพิ่มความเร็วพื้นฐาน +1.0x ถาวร
+[ch_time_master_title] จ้าวแห่งเวลา
+[ch_time_master_desc] ทำครบ 200 รอบภายใน 2 นาที
+[ch_time_master_reward] ปลดล็อคการอัปเกรดรางวัลรอบ
+[ch_efficiency_expert_title] ผู้เชี่ยวชาญด้านประสิทธิภาพ
+[ch_efficiency_expert_desc] มีตัวคูณความเร็ว 100x โดยใช้นาทีน้อยกว่า 1,000 นาที
+[ch_efficiency_expert_reward] ปลดล็อคการอัปเกรดลดต้นทุน
+[ch_minimalist_master_title] ปรมาจารย์มินิมอล
+[ch_minimalist_master_desc] มีเวลาสะสม 5,000 วินาทีโดยไม่ซื้อการอัปเกรดใดๆ
+[ch_minimalist_master_reward] ปลดล็อคการอัปเกรดนาทีอัตโนมัติ
+[ch_golden_chaser_title] ผู้ล่าเงินทอง
+[ch_golden_chaser_desc] เรียกเวลาทองคำ 5 ครั้งภายใน 10 นาที
+[ch_golden_chaser_reward] เพิ่มโอกาสเวลาทองคำถาวร +5%
+[up_speed_boost_name] เร่งความเร็ว
+[up_speed_boost_desc] แต่ละระดับเพิ่มความเร็วพื้นฐาน 0.1x ถาวร
+[up_auto_seconds_name] วินาทีอัตโนมัติ
+[up_auto_seconds_desc] แต่ละระดับได้รับ 0.1 วินาทีต่อวินาทีอัตโนมัติ
+[up_minute_boost_name] นาทีพิเศษ
+[up_minute_boost_desc] แต่ละระดับได้รับ 0.01 นาทีต่อวินาทีเพิ่มเติม
+[up_speed_multiplier_name] ตัวคูณความเร็ว
+[up_speed_multiplier_desc] แต่ละระดับเพิ่มตัวคูณความเร็ว 10%
+[up_minute_multiplier_name] ตัวคูณนาที
+[up_minute_multiplier_desc] แต่ละระดับเพิ่มตัวคูณการรับนาที 10%
+[up_cycle_bonus_name] รางวัลรอบ
+[up_cycle_bonus_desc] แต่ละรอบได้รับ 1 นาทีพิเศษ
+[up_auto_minutes_name] นาทีอัตโนมัติ
+[up_auto_minutes_desc] แต่ละระดับได้รับ 0.01 นาทีต่อวินาทีอัตโนมัติ
+[up_cost_reduction_name] การลดต้นทุน
+[up_cost_reduction_desc] แต่ละระดับลดต้นทุนการอัปเกรดทั้งหมด 5%
+[up_golden_time_name] เวลาทองคำ
+[up_golden_time_desc] แต่ละระดับเพิ่มโอกาสได้รับรางวัลสองเท่าสุ่ม 1%
+[reb1_name] การอัปเกรดเกิดใหม่ 1
+[reb1_desc] หลังเกิดใหม่ การรับวินาที ×2 เอฟเฟกต์เร่งความเร็ว变为 0.15
+[reb2_name] การอัปเกรดเกิดใหม่ 2
+[reb2_desc] เกิดใหม่จะรักษาระดับเร่งความเร็ว 3 ไว้ และให้นาทีเพิ่มความเร็วในการรับวินาที
+[reb3_name] การอัปเกรดเกิดใหม่ 3
+[reb3_desc] การรับวินาที ×2.5 และทุกนาทีจะเพิ่ม 0.01 ให้กับตัวคูณวินาที
+[reb4_name] การอัปเกรดเกิดใหม่ 4
+[reb4_desc] เพิ่มการผลิตวินาทีตามรากที่สองของจำนวนนาทีที่มี
+[reb5_name] การอัปเกรดเกิดใหม่ 5
+[reb5_desc] ปลดล็อคความท้าทาย SDV1
+[reb6_name] การอัปเกรดเกิดใหม่ 6
+[reb6_desc] ปลดล็อคตัวแปลง ทำให้ 60 วินาทีกลายเป็น 1 นาที คูณด้วย 1 + √(จำนวนการเกิดใหม่)
+[reb7_name] การอัปเกรดเกิดใหม่ 7
+[reb7_desc] ปลดล็อค SDV2 และเพิ่มการผลิต
+[reb8_name] การอัปเกรดเกิดใหม่ 8
+[reb8_desc] การผลิตแต้ม ×7.8 (ต้องทำ SDV2 สำเร็จ)
+[reb9_name] การอัปเกรดเกิดใหม่ 9
+[reb9_desc] ทุกครั้งที่ซื้อการอัปเกรด SDP เอฟเฟกต์เร่งความเร็ว +0.02
+[reb10_name] การอัปเกรดเกิดใหม่ 10
+[reb10_desc] ปลดล็อคความท้าทาย SDV3
+[reb11_name] การอัปเกรดเกิดใหม่ 11
+[reb11_desc] การรับ SDP เป็นสองเท่า และเพิ่มการรับวินาทีตาม SDP
+[vdp11_name] การอัปเกรดเศษเวลา 1-1
+[vdp11_desc] การผลิตวินาที ×2 การรับ SDP ×2
+[vdp12_name] การอัปเกรดเศษเวลา 1-2
+[vdp12_desc] การรับนาที ×3
+[vdp21_name] การอัปเกรดเศษเวลา 2-1
+[vdp21_desc] เพิ่มการผลิตวินาทีตามจำนวนนาทีที่มี: ×(1 + นาที^0.6)
+[vdp22_name] การอัปเกรดเศษเวลา 2-2
+[vdp22_desc] เพิ่มการผลิตวินาทีตาม SDP ปัจจุบัน: ×(1 + SDP^0.7)
+[vdp23_name] การอัปเกรดเศษเวลา 2-3
+[vdp23_desc] เพิ่มการรับนาทีตาม SDP ปัจจุบัน: ×(1 + SDP^0.55)
+[vdp33_name] การอัปเกรดเศษเวลา 3-3
+[vdp33_desc] ทุกความท้าทายที่ทำสำเร็จ การผลิตวินาที +0.02
+[vdp41_name] ปลดล็อคตัวเร่งพลัง
+[vdp41_desc] ปลดล็อคระบบตัวเร่งพลัง ให้โบนัสเพิ่มเติม
+[sdv1_title] SDV1
+[sdv1_desc] หนึ่งนาที变为 120 วินาที รีเซ็ต SDP และไม่สนใจการอัปเกรดทั้งหมด เป้าหมาย: 7,777 วินาทีเพื่อทำความท้าทายสำเร็จ
+[sdv1_reward] หลังจากสำเร็จ ทุกนาที变为 40 วินาที
+[sdv2_title] SDV2
+[sdv2_desc] ปลดล็อค SDV2 เร่งความเร็ว +0.05 ประสิทธิภาพการผลิตนาทีพิเศษเพิ่มเป็นสองเท่า
+[sdv2_reward] เพิ่มความสามารถการผลิตเฉพาะของ SDV2
+[sdv3_title] SDV3
+[sdv3_desc] ในความท้าทายจะเปิดขอบอ่อนตลอดเวลา การผลิต ^0.8125 เป้าหมาย: 2,125 วินาทีเพื่อทำสำเร็จ
+[sdv3_reward] หลังจากสำเร็จ มีโอกาส 25% ที่จะได้นาทีสองเท่าในทุกนาที
+[current_bonus] โบนัสปัจจุบัน
+[current_income] รายได้ปัจจุบัน
+[current_multiplier_label] ตัวคูณปัจจุบัน
+[cycle_reward] รางวัลรอบ
+[cost_reduced] ลดต้นทุน
+[golden_probability] โอกาสทอง
+[speed] ความเร็ว
+[minutes_short] นาที
+[up_effect_speed] โบนัสปัจจุบัน: +{0}x ความเร็ว
+[up_effect_auto_seconds] รายได้ปัจจุบัน: +{0} วินาที/วินาที
+[up_effect_minute_boost] รายได้ปัจจุบัน: +{0} นาที/วินาที
+[up_effect_speed_multiplier] ตัวคูณปัจจุบัน: x{0} ความเร็ว
+[up_effect_minute_multiplier] ตัวคูณปัจจุบัน: x{0} นาที
+[up_effect_cycle_bonus] รางวัลรอบ: +{0} นาที/รอบ
+[up_effect_auto_minutes] นาทีอัตโนมัติ: +{0} นาที/วินาที
+[up_effect_cost_reduction] ลดต้นทุน: {0}%
+[up_effect_golden_time] โอกาสทอง: {0}%
+[upgrade_button] อัปเกรด {0} {1}
+[minutes_currency] นาที
+[theme_blue] น้ำเงิน
+[theme_darkred] แดง
+[theme_minimal] ดำ
+[theme_neon] ม่วง+น้ำเงิน
+[theme_yellow] เหลือง
+[progress] ความคืบหน้า
+[unlocked] บรรลุแล้ว
+[reward] รางวัล
+[time_limit] จำกัดเวลา
+[in_progress] กำลังดำเนินการ
+[complete] สำเร็จแล้ว
+[start_challenge] เริ่มความท้าทาย
+[abandon_challenge] ยกเลิกความท้าทาย
+[no_time_limit] ไม่จำกัดเวลา
+[rebirth_info] ข้อมูลการเกิดใหม่
+[rebirth_upgrades_tab] การอัปเกรดเกิดใหม่
+[time_fragment_upgrades] การอัปเกรดเศษเวลา
+[sdv_challenges] ความท้าทาย SDV
+[time_rebirth_points] แต้มเกิดใหม่เวลา (SDP)
+[time_fragments] เศษเวลา (VDP)
+[rebirth_count] จำนวนการเกิดใหม่
+[fragment_reset_count] จำนวนการรีเซ็ตเศษเวลา
+[time_rebirth] เกิดใหม่เวลา
+[get_time_fragments] รับเศษเวลา
+[current_rebirth_gain] การเกิดใหม่ปัจจุบันจะได้รับ:
+[sdp_label] SDP
+[rebirth_desc] การเกิดใหม่เวลาจะรีเซ็ตการเล่นปัจจุบันและได้รับ SDP ซึ่งใช้ซื้อการอัปเกรดเกิดใหม่ การรับเศษเวลาจะใช้ SDP และเพิ่ม VDP
+[sdv_challenge_note] ความท้าทาย SDV เป็นอิสระจากความท้าทายหลัก เมื่อสำเร็จจะได้รับรางวัลเกิดใหม่พิเศษ
+[time_rebirth_upgrades_desc] ใช้ SDP ซื้อการอัปเกรดเกิดใหม่เวลา เพิ่มผลตอบแทนการเกิดใหม่และความสามารถพิเศษ
+[time_fragment_upgrades_desc] ใช้ VDP ซื้อการอัปเกรดเศษเวลา เพิ่มการผลิตวินาที การรับนาที และประสิทธิภาพการเกิดใหม่
+[booster_level] ระดับตัวเร่งพลัง
+[sdv_challenge_desc] ความท้าทาย SDV เป็นอิสระจากความท้าทายทั่วไป เมื่อสำเร็จจะได้รับโบนัสเกิดใหม่พิเศษ แต่ละความท้าทายสามารถทำได้ทีละหนึ่งรายการ หากยกเลิกสามารถเลือกใหม่ได้
+[current_sdv_challenge] ความท้าทาย SDV ปัจจุบัน
+[completed_sdv_challenges] ความท้าทาย SDV ที่สำเร็จแล้ว
+[none] ไม่มี
+[game_stats] สถิติเกม
+[total_accumulated_seconds] วินาทีสะสมทั้งหมด
+[current_speed_multiplier] ตัวคูณความเร็วปัจจุบัน
+[highest_second_speed] ความเร็ววินาทีสูงสุด
+[current_minutes] นาทีปัจจุบัน
+[current_seconds] วินาทีปัจจุบัน
+[total_rebirths] จำนวนการเกิดใหม่ทั้งหมด
+[current_sdp] SDP ปัจจุบัน
+[current_vdp] VDP ปัจจุบัน
+[total_current_upgrades] จำนวนการอัปเกรดทั้งหมดปัจจุบัน
+[total_current_rebirth_upgrades] จำนวนการอัปเกรดเกิดใหม่ทั้งหมดปัจจุบัน
+[current_challenges_completed] ความท้าทายที่สำเร็จแล้ว
+[save_created_time] เวลาที่สร้างบันทึก
+[save_elapsed_time] เวลาที่ผ่านไปของบันทึก
+[current_theme] ธีมปัจจุบัน
+[footer_text] ก้าวไปพร้อมกับเวลา - BY
+[speed_boost] เร่งความเร็ว
+[speed_boost_desc] แต่ละระดับเพิ่มความเร็วพื้นฐาน 0.1x ถาวร
+[auto_seconds] วินาทีอัตโนมัติ
+[auto_seconds_desc] แต่ละระดับได้รับ 0.1 วินาทีต่อวินาทีอัตโนมัติ
+[extra_minutes] นาทีพิเศษ
+[extra_minutes_desc] แต่ละระดับได้รับ 0.01 นาทีต่อวินาทีเพิ่มเติม
+[speed_multiplier] ตัวคูณความเร็ว
+[speed_multiplier_desc] แต่ละระดับเพิ่มตัวคูณความเร็ว 10%
+[minute_multiplier] ตัวคูณนาที
+[minute_multiplier_desc] แต่ละระดับเพิ่มตัวคูณการรับนาที 10%
+[cycle_bonus] รางวัลรอบ
+[cycle_bonus_desc] แต่ละรอบได้รับ 1 นาทีพิเศษ
+[auto_minutes] นาทีอัตโนมัติ
+[auto_minutes_desc] แต่ละระดับได้รับ 0.01 นาทีต่อวินาทีอัตโนมัติ
+[cost_optimization] การลดต้นทุน
+[cost_optimization_desc] แต่ละระดับลดต้นทุนการอัปเกรดทั้งหมด 5%
+[golden_time] เวลาทองคำ
+[golden_time_desc] แต่ละระดับเพิ่มโอกาสได้รับรางวัลสองเท่าสุ่ม 1%
+[current_bonus] โบนัสปัจจุบัน
+[current_income] รายได้ปัจจุบัน
+[current_multiplier_label] ตัวคูณปัจจุบัน
+[cycle_reward] รางวัลรอบ
+[cost_reduced] ลดต้นทุน
+[golden_probability] โอกาสทอง
+[upgrade] อัปเกรด
+[completed] สำเร็จแล้ว
+[purchase] ซื้อ
+[minutes_currency] นาที
+[need_purchase_previous] ซื้อรายการก่อนหน้าก่อน
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] โหมดความท้าทาย
+[current_challenge] ความท้าทายปัจจุบัน
+[remaining_time] เวลาที่เหลือ
+[exit_challenge] ออกจากความท้าทาย
+[welcome_challenge] ยินดีต้อนรับสู่โหมดความท้าทาย!
+[challenge_desc_text] ในโหมดความท้าทาย คุณจะพบกับข้อจำกัดและเป้าหมายต่างๆ การทำความท้าทายสำเร็จจะได้รับรางวัลถาวร!
+[challenge_rules_title] กฎความท้าทาย:
+[challenge_rule1] เมื่อเข้าสู่โหมดความท้าทาย จะไม่สามารถซื้อการอัปเกรดได้
+[challenge_rule2] ความท้าทายมีข้อจำกัดด้านเวลาหรือเงื่อนไขพิเศษ
+[challenge_rule3] ความล้มเหลวหรือการออกจะรีเซ็ตความคืบหน้าปัจจุบัน
+[challenge_rule4] การทำสำเร็จจะได้รับรางวัลถาวร
+[enter_challenge_mode] เข้าสู่โหมดความท้าทาย
+[time_limit] จำกัดเวลา
+[reward] รางวัล
+[progress] ความคืบหน้า
+[in_progress] กำลังดำเนินการ
+[complete] สำเร็จแล้ว
+[start_challenge] เริ่มความท้าทาย
+[abandon_challenge] ยกเลิกความท้าทาย
+[achievement_first_step] ก้าวแรก
+[achievement_first_step_desc] ซื้อการอัปเกรดแรก
+[achievement_one_hour] หนึ่งชั่วโมง!
+[achievement_one_hour_desc] เวลาสะสมถึง 1 ชั่วโมง
+[achievement_time_traveler] นักเดินเวลา
+[achievement_time_traveler_desc] เวลาสะสมถึง 10,000 วินาที
+[achievement_100_minutes] ครบรอบ 100 นาที
+[achievement_100_minutes_desc] มี 100 นาที
+[achievement_1000_minutes] ตำนานพันนาที
+[achievement_1000_minutes_desc] มี 1,000 นาที
+[achievement_start_cycle] เริ่มรอบ
+[achievement_start_cycle_desc] ทำครบ 1 รอบ
+[achievement_time_controller] ผู้ควบคุมเวลา
+[achievement_time_controller_desc] มีตัวคูณ 3.0x หรือสูงกว่า
+[achievement_time_accelerator] ตัวเร่งเวลา
+[achievement_time_accelerator_desc] มีตัวคูณ 5.0x
+[achievement_extreme_speed] พุ่งทะยานสุดขีด
+[achievement_extreme_speed_desc] มีตัวคูณความเร็ว 10.0x
+[achievement_meteor_acceleration] เร่งความเร็วดาวตก
+[achievement_meteor_acceleration_desc] มีตัวคูณความเร็ว 25.0x
+[achievement_prestige_beginning] จุดเริ่มต้นแห่งชื่อเสียง
+[achievement_prestige_beginning_desc] มี SDP 1,000
+[achievement_fragment_obtained] ได้รับเศษเวลา
+[achievement_fragment_obtained_desc] ได้รับเศษเวลา (VDP) 1 ชิ้น
+[achievement_first_rebirth] ประสบการณ์เกิดใหม่ครั้งแรก
+[achievement_first_rebirth_desc] เกิดใหม่ 1 ครั้ง
+[achievement_fragment_reset] รีเซ็ตเศษเวลา
+[achievement_fragment_reset_desc] รีเซ็ตเศษเวลา 1 ครั้ง
+[achievement_fragment_upgrader] ผู้ยกระดับเศษเวลา
+[achievement_fragment_upgrader_desc] ซื้อการอัปเกรดเศษเวลา 1 รายการ
+[achievement_fragment_craftsman] ช่างฝีมือเศษเวลา
+[achievement_fragment_craftsman_desc] ซื้อการอัปเกรดเศษเวลา 5 รายการ
+[achievement_challenge_door] ประตูแห่งความท้าทาย
+[achievement_challenge_door_desc] ทำความท้าทายสำเร็จ 1 ครั้ง
+[achievement_challenge_master] ปรมาจารย์ความท้าทาย
+[achievement_challenge_master_desc] ทำความท้าทายสำเร็จ 3 ครั้ง
+[achievement_ultimate_challenge] ความท้าทายสูงสุด
+[achievement_ultimate_challenge_desc] ทำความท้าทายสำเร็จ 5 ครั้ง
+[achievement_hundred_year_solitude] ร้อยปีแห่งความโดดเดี่ยว
+[achievement_hundred_year_solitude_desc] ทำครบ 52,560,000 รอบ (นาที)
+[import_prompt] กรุณาวางสตริงบันทึก:
+[export_prompt] กรุณาคัดลอกรหัสบันทึกด้านล่าง:
+[import_success] นำเข้าสำเร็จ! เกมจะรีเฟรช
+[import_error] บันทึกไม่ถูกต้อง ไม่สามารถวิเคราะห์ได้! กรุณาตรวจสอบว่าคัดลอกครบถ้วนหรือไม่
+[delete_confirm] ⚠️ คำเตือน: การดำเนินการนี้จะลบข้อมูลเกมทั้งหมดอย่างถาวร รวมถึงบันทึก ความคืบหน้าของความสำเร็จ ประวัติการคลิก เหตุการณ์สำคัญ ฯลฯ
+[delete_confirm_question] คุณแน่ใจหรือไม่ที่จะลบข้อมูลทั้งหมดและเริ่มใหม่?
+[delete_success] ลบข้อมูลทั้งหมดเรียบร้อยแล้ว!
+[save_load_error] โหลดบันทึกล้มเหลว:
+[save_check_message] กรุณาตรวจสอบว่าบันทึกถูกต้องหรือลองนำเข้าใหม่
+[exit_challenge_confirm] คุณแน่ใจหรือไม่ที่จะออกจากโหมดความท้าทาย? ความคืบหน้าปัจจุบันจะสูญหาย
+[exit_challenge_success] ออกจากโหมดความท้าทายแล้ว
+[enter_challenge_success] เข้าสู่โหมดความท้าทายแล้ว! ตอนนี้คุณสามารถเลือกและเริ่มความท้าทายได้
+[challenge_start_message] เริ่มความท้าทาย!
+[target] เป้าหมาย:
+[time_format] นาที
+[rebirth_need_minutes] ต้องมีอย่างน้อย 10 นาทีจึงจะเกิดใหม่เวลาได้
+[rebirth_success] เกิดใหม่เวลาสำเร็จ ได้รับ
+[vdp_need_sdp] ต้องมี SDP อย่างน้อย 1,000 จึงจะได้รับเศษเวลา
+[vdp_cannot_obtain] ไม่สามารถรับเศษเวลาได้ในขณะนี้
+[vdp_obtained] ได้รับ
+[time_fragments_obtained] เศษเวลา!
+[abandon_sdv_confirm] คุณแน่ใจหรือไม่ที่จะยกเลิกความท้าทาย SDV ปัจจุบัน?
+[sdv_started] เริ่มความท้าทาย SDV:
+[sdv_unlock_hint] ต้องซื้อการอัปเกรดเกิดใหม่ SDV ที่เกี่ยวข้องเพื่อปลดล็อค
+[challenge_failed] ความท้าทายล้มเหลว! เวลาหมด
+[speed_calc_error] ข้อผิดพลาดในการคำนวณความเร็ว กลับสู่ค่าปริยาย:
+[speed_calc_error_hint] อาจเกิดจากข้อมูลบันทึกเสียหาย
+[seconds_per_second] วินาที/วินาที
+[minutes_per_second] นาที/วินาที
+[minutes_per_cycle] นาที/รอบ
+[minutes_per_second_auto] นาที/วินาที
+[seconds] วินาที
+[no_time_limit] ไม่จำกัดเวลา
+[unlocked] บรรลุแล้ว
+[locked_status] ยังไม่ปลดล็อค
+[start_sdv] เริ่ม SDV
+[abandon_sdv] ยกเลิก SDV
+[rebirth_gain_sdp] เกิดใหม่เวลา (จะได้รับ {0} SDP)
+[upgrade_completed] สำเร็จแล้ว
+[need_purchase_previous] ซื้อรายการก่อนหน้าก่อน
+[purchase_button] ซื้อ {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] สำเร็จแล้ว
+[need_purchase_previous] ซื้อรายการก่อนหน้าก่อน
+[purchase_button] ซื้อ {0} {1}
+[vdp_currency] VDP
+[start_sdv] เริ่ม SDV
+[abandon_sdv] ยกเลิก SDV
+[sdv_unlock_hint] ต้องซื้อการอัปเกรดเกิดใหม่ SDV ที่เกี่ยวข้องเพื่อปลดล็อค
+[abandon_sdv_confirm] คุณแน่ใจหรือไม่ที่จะยกเลิกความท้าทาย SDV ปัจจุบัน?
+[rebirth_button_text] เกิดใหม่เวลา (จะได้รับ {0} SDP)
+[insufficient_funds] เงินไม่พอ
+[unit_seconds_per_second] วินาที/วินาที
+[none] ไม่มี
+[yes] ใช่
+[no] ไม่ใช่
+[basic_upgrades] การอัปเกรดพื้นฐาน
+[advanced_upgrades] การอัปเกรดขั้นสูง
+[expert_upgrades] การอัปเกรดผู้เชี่ยวชาญ
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] เลือกภาษาของอินเทอร์เฟซ
+[load_language_fail] โหลดภาษาไม่สำเร็จ
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

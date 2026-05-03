@@ -1,0 +1,424 @@
+[game_title] Timer Increments
+[version_text] Huidige versie 1.4.2
+[join_us] Doe mee
+[about] Over
+[about_title] Over Timer Increments
+[about_desc] Dit is een tijd-incrementspel waarbij spelers tijdaccumulatie versnellen door upgrades te kopen en uitdagingen te voltooien, en een groei ervaren van langzaam naar explosief.
+[author] Auteur:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Speeltips:
+[gameplay_text] Verbeter eerst snelheid en automatische minuten, verzamel vervolgens cyclusbeloningen en gouden tijd om sneller minuten te verdienen.
+[acknowledgment] Dank aan:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Bedankt aan alle spelers die steunen en feedback geven!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Weet je zeker dat je de uitdagingsmodus wilt afsluiten? Huidige voortgang gaat verloren.
+[exit_challenge_success] Uitdagingsmodus afgesloten.
+[enter_challenge_success] Je bent de uitdagingsmodus binnengegaan! Je kunt nu een uitdaging kiezen en starten.
+[resume] Doorgaan
+[play] Start
+[pause] Pauzeren
+[export_prompt] Kopieer de onderstaande opslagcode:
+[export_prompt_raw] Kopieer de onderstaande originele opslag:
+[import_prompt] Plak de opslagreeks:
+[import_success] Importeren gelukt! Het spel wordt zo vernieuwd.
+[import_error] Ongeldige opslag, kan niet worden geparseerd! Controleer of je alles hebt gekopieerd. Fout:
+[delete_confirm] ⚠️ WAARSCHUWING: Deze actie verwijdert alle spelgegevens permanent, inclusief opslag, prestatievoortgang, klikregistraties, mijlpalen enz.Weet je zeker dat je volledig opnieuw wilt beginnen?
+[delete_success] Alle gegevens zijn volledig verwijderd!
+[time_day] dag
+[time_hour] uur
+[time_minute] min
+[time_second] sec
+[tab_timer] Timer
+[tab_upgrades] Upgrades
+[tab_achievements] Prestaties
+[tab_challenges] Uitdagingen
+[tab_rebirth] Hergeboorte
+[tab_stats] Statistieken
+[tab_settings] Instellingen
+[settings_title] Spelinstellingen
+[save_management] Opslagbeheer
+[export_save] Opslag exporteren
+[import_save] Opslag importeren
+[interface_theme] Interface-thema
+[theme_desc] Wissel van visuele stijl
+[danger_operations] Gevaarlijke handelingen
+[delete_save] Opslag wissen en opnieuw beginnen
+[delete_save_desc] Verwijder alle spelgegevens volledig (opslag, prestaties, klikregistraties enz.). Deze actie kan niet ongedaan worden gemaakt!
+[current_minute_second] Seconden van huidige minuut
+[accumulated_seconds] Opgetelde seconden
+[completed_cycles] Voltooide cycli
+[current_multiplier] Huidige vermenigvuldiger
+[play] Start
+[pause] Pauzeren
+[resume] Doorgaan
+[minutes_owned] Bezit minuten:
+[basic_upgrades] Basisupgrades
+[advanced_upgrades] Geavanceerde upgrades
+[expert_upgrades] Expert-upgrades
+[ach_first_step_title] Eerste stap
+[ach_first_step_desc] Koop de eerste upgrade
+[ach_one_hour_title] Een uur!
+[ach_one_hour_desc] Opgetelde tijd bereikt 1 uur
+[ach_time_traveler_title] Tijdreiziger
+[ach_time_traveler_desc] Opgetelde tijd bereikt 10.000 seconden
+[ach_100_minutes_title] 100 minuten herdenking
+[ach_100_minutes_desc] Bezit 100 minuten
+[ach_1000_minutes_title] 1000 minuten legende
+[ach_1000_minutes_desc] Bezit 1000 minuten
+[ach_start_cycle_title] Cyclus starten
+[ach_start_cycle_desc] Voltooi 1 cyclus
+[ach_time_controller_title] Tijdbeheerder
+[ach_time_controller_desc] Bereik 3,0x of hogere vermenigvuldiger
+[ach_time_accelerator_title] Tijdversneller
+[ach_time_accelerator_desc] Bereik 5,0x vermenigvuldiger
+[ach_extreme_speed_title] Extreme snelheid
+[ach_extreme_speed_desc] Bereik 10,0x snelheidsvermenigvuldiger
+[ach_meteor_acceleration_title] Meteoorversnelling
+[ach_meteor_acceleration_desc] Bereik 25,0x snelheidsvermenigvuldiger
+[ach_prestige_beginning_title] Prestige begin
+[ach_prestige_beginning_desc] Bezit 1000 SDP
+[ach_fragment_obtained_title] Tijdfragment verkregen
+[ach_fragment_obtained_desc] Verkrijg 1 tijdfragment (VDP)
+[ach_first_rebirth_title] Eerste hergeboorte
+[ach_first_rebirth_desc] Voltooi 1 tijdhergeboorte
+[ach_fragment_reset_title] Fragmentreset
+[ach_fragment_reset_desc] Voltooi 1 tijdfragmentreset
+[ach_fragment_upgrader_title] Fragment-upgrader
+[ach_fragment_upgrader_desc] Koop 1 tijdfragment-upgrade
+[ach_fragment_craftsman_title] Fragment-ambachtsman
+[ach_fragment_craftsman_desc] Koop 5 tijdfragment-upgrades
+[ach_challenge_door_title] Uitdagingspoort
+[ach_challenge_door_desc] Voltooi 1 uitdaging
+[ach_challenge_master_title] Uitdagingmeester
+[ach_challenge_master_desc] Voltooi 3 uitdagingen
+[ach_ultimate_challenge_title] Ultieme uitdaging
+[ach_ultimate_challenge_desc] Voltooi 5 uitdagingen
+[ach_hundred_year_solitude_title] Honderdjarige eenzaamheid
+[ach_hundred_year_solitude_desc] Voltooi 52.560.000 cycli (minuten)
+[ch_speed_demon_title] Snelheidsduivel
+[ch_speed_demon_desc] Bereik 25x snelheidsvermenigvuldiger binnen 3 minuten
+[ch_speed_demon_reward] Permanent +1,0x basis snelheid
+[ch_time_master_title] Tijdmeester
+[ch_time_master_desc] Voltooi 200 cycli binnen 2 minuten
+[ch_time_master_reward] Ontgrendel cyclusbeloning-upgrade
+[ch_efficiency_expert_title] Efficiëntie-expert
+[ch_efficiency_expert_desc] Bereik 100x snelheidsvermenigvuldiger met minder dan 1000 minuten
+[ch_efficiency_expert_reward] Ontgrendel kostenoptimalisatie-upgrade
+[ch_minimalist_master_title] Minimalistische meester
+[ch_minimalist_master_desc] Bereik 5000 seconden opgetelde tijd zonder upgrades te kopen
+[ch_minimalist_master_reward] Ontgrendel automatische minuten-upgrade
+[ch_golden_chaser_title] Gouden jager
+[ch_golden_chaser_desc] Activeer 5 keer gouden tijd binnen 10 minuten
+[ch_golden_chaser_reward] Kans op gouden tijd permanent +5%
+[up_speed_boost_name] Snelheidsversterking
+[up_speed_boost_desc] Elk niveau verhoogt permanent de basis snelheid met 0,1x
+[up_auto_seconds_name] Automatische seconden
+[up_auto_seconds_desc] Elk niveau verdient automatisch 0,1 seconde per seconde
+[up_minute_boost_name] Extra minuten
+[up_minute_boost_desc] Elk niveau verdient extra 0,01 minuten per seconde
+[up_speed_multiplier_name] Snelheidsvermenigvuldiging
+[up_speed_multiplier_desc] Elk niveau verhoogt de snelheidsvermenigvuldiger met 10%
+[up_minute_multiplier_name] Minutenvermenigvuldiging
+[up_minute_multiplier_desc] Elk niveau verhoogt de minutenverdienvermenigvuldiger met 10%
+[up_cycle_bonus_name] Cyclusbeloning
+[up_cycle_bonus_desc] Elke cyclus verdient extra 1 minuut
+[up_auto_minutes_name] Automatische minuten
+[up_auto_minutes_desc] Elk niveau verdient automatisch 0,01 minuten per seconde
+[up_cost_reduction_name] Kostenreductie
+[up_cost_reduction_desc] Elk niveau verlaagt de kosten van alle upgrades met 5%
+[up_golden_time_name] Gouden tijd
+[up_golden_time_desc] Elk niveau verhoogt de kans op willekeurige dubbele beloning met 1%
+[reb1_name] Tijdhergeboorte-upgrade 1
+[reb1_desc] Secondenverdienste ×2 na hergeboorte, snelheidsversterking wordt 0,15
+[reb2_name] Tijdhergeboorte-upgrade 2
+[reb2_desc] Behoud snelheidsversterking niveau 3 bij hergeboorte, en laat minuten de secondensnelheid verhogen
+[reb3_name] Tijdhergeboorte-upgrade 3
+[reb3_desc] Secondenverdienste ×2,5, en elke minuut verhoogt de secondenvermenigvuldiger met 0,01
+[reb4_name] Tijdhergeboorte-upgrade 4
+[reb4_desc] Verhoog secondenproductie op basis van de vierkantswortel van bezit minuten
+[reb5_name] Tijdhergeboorte-upgrade 5
+[reb5_desc] Ontgrendel SDV1-uitdaging
+[reb6_name] Tijdhergeboorte-upgrade 6
+[reb6_desc] Ontgrendel converter, zodat 60 seconden voor 1 minuut wordt 1 + √aantal hergeboortes keer
+[reb7_name] Tijdhergeboorte-upgrade 7
+[reb7_desc] Ontgrendel SDV2 en verhoog productie
+[reb8_name] Tijdhergeboorte-upgrade 8
+[reb8_desc] Puntenproductie ×7,8 (vereist voltooide SDV2)
+[reb9_name] Tijdhergeboorte-upgrade 9
+[reb9_desc] Elke gekochte SDP-upgrade verhoogt snelheidsversterking met 0,02
+[reb10_name] Tijdhergeboorte-upgrade 10
+[reb10_desc] Ontgrendel SDV3-uitdaging
+[reb11_name] Tijdhergeboorte-upgrade 11
+[reb11_desc] SDP-verdienste verdubbelt, en verhoog secondenverdienste op basis van SDP
+[vdp11_name] Tijdfragment-upgrade 1-1
+[vdp11_desc] Secondenproductie ×2, SDP-verdienste ×2
+[vdp12_name] Tijdfragment-upgrade 1-2
+[vdp12_desc] Minutenverdienste ×3
+[vdp21_name] Tijdfragment-upgrade 2-1
+[vdp21_desc] Verhoog secondenproductie op basis van bezit minuten: ×(1 + minuten^0,6)
+[vdp22_name] Tijdfragment-upgrade 2-2
+[vdp22_desc] Verhoog secondenproductie op basis van huidige SDP: ×(1 + SDP^0,7)
+[vdp23_name] Tijdfragment-upgrade 2-3
+[vdp23_desc] Verhoog minutenverdienste op basis van huidige SDP: ×(1 + SDP^0,55)
+[vdp33_name] Tijdfragment-upgrade 3-3
+[vdp33_desc] Elke voltooide uitdaging verhoogt secondenproductie met 0,02
+[vdp41_name] Booster ontgrendelen
+[vdp41_desc] Ontgrendel boostersysteem voor extra bonussen
+[sdv1_title] SDV1
+[sdv1_desc] Eén minuut wordt 120 seconden, reset SDP en negeer alle upgrades. Doel: voltooi uitdaging op 7777 seconden.
+[sdv1_reward] Na voltooiing wordt één minuut 40 seconden
+[sdv2_title] SDV2
+[sdv2_desc] Ontgrendel SDV2, snelheidsversterking +0,05, extra minutenproductie-efficiëntie verdubbelt.
+[sdv2_reward] Verhoog SDV2-exclusieve productiecapaciteit
+[sdv3_title] SDV3
+[sdv3_desc] Activeer voortdurend zachte limiet tijdens uitdaging, productie ^0,8125. Doel: voltooi op 2125 seconden.
+[sdv3_reward] Na voltooiing heeft elke minuut 25% kans op dubbele minuten
+[current_bonus] Huidige bonus
+[current_income] Huidige inkomen
+[current_multiplier_label] Huidige vermenigvuldiger
+[cycle_reward] Cyclusbeloning
+[cost_reduced] Kosten verlaagd
+[golden_probability] Gouden kans
+[speed] Snelheid
+[minutes_short] min
+[up_effect_speed] Huidige bonus: +{0}x snelheid
+[up_effect_auto_seconds] Huidige inkomen: +{0} sec/sec
+[up_effect_minute_boost] Huidige inkomen: +{0} min/sec
+[up_effect_speed_multiplier] Huidige vermenigvuldiger: x{0} snelheid
+[up_effect_minute_multiplier] Huidige vermenigvuldiger: x{0} minuten
+[up_effect_cycle_bonus] Cyclusbeloning: +{0} min/cyclus
+[up_effect_auto_minutes] Automatische minuten: +{0} min/sec
+[up_effect_cost_reduction] Kostenreductie: {0}%
+[up_effect_golden_time] Gouden kans: {0}%
+[upgrade_button] Upgrade {0} {1}
+[minutes_currency] minuten
+[theme_blue] Blauw
+[theme_darkred] Rood
+[theme_minimal] Zwart
+[theme_neon] Paars+Blauw
+[theme_yellow] Geel
+[progress] Voortgang
+[unlocked] Vrijgespeeld
+[reward] Beloning
+[time_limit] Tijdslimiet
+[in_progress] Bezig
+[complete] Voltooid
+[start_challenge] Start uitdaging
+[abandon_challenge] Opgeven uitdaging
+[no_time_limit] Geen tijdslimiet
+[rebirth_info] Hergeboorte-informatie
+[rebirth_upgrades_tab] Hergeboorte-upgrades
+[time_fragment_upgrades] Tijdfragment-upgrades
+[sdv_challenges] SDV-uitdagingen
+[time_rebirth_points] Tijdhergeboortepunten (SDP)
+[time_fragments] Tijdfragmenten (VDP)
+[rebirth_count] Aantal hergeboortes
+[fragment_reset_count] Aantal fragmentresets
+[time_rebirth] Tijdhergeboorte
+[get_time_fragments] Verkrijg tijdfragmenten
+[current_rebirth_gain] Huidige hergeboorte opbrengst:
+[sdp_label] SDP
+[rebirth_desc] Tijdhergeboorte reset de huidige run en geeft SDP, gebruikt voor het kopen van hergeboorte-upgrades. Het verkrijgen van tijdfragmenten verbruikt SDP en verhoogt VDP.
+[sdv_challenge_note] SDV-uitdagingen zijn onafhankelijk van hoofduitdagingen, voltooiing geeft exclusieve hergeboortebeloningen.
+[time_rebirth_upgrades_desc] Koop tijdhergeboorte-upgrades met SDP om hergeboorte-opbrengsten en speciale vaardigheden te verbeteren.
+[time_fragment_upgrades_desc] Koop tijdfragment-upgrades met VDP om secondenproductie, minutenverdienste en hergeboorte-efficiëntie te versterken.
+[booster_level] Booster niveau
+[sdv_challenge_desc] SDV-uitdagingen zijn onafhankelijk van reguliere uitdagingen, voltooiing geeft speciale hergeboorte-bonussen. Slechts één uitdaging tegelijk, opgeven om opnieuw te kiezen.
+[current_sdv_challenge] Huidige SDV-uitdaging
+[completed_sdv_challenges] Voltooide SDV-uitdagingen
+[none] Geen
+[game_stats] Spelstatistieken
+[total_accumulated_seconds] Totaal opgetelde seconden
+[current_speed_multiplier] Huidige snelheidsvermenigvuldiger
+[highest_second_speed] Hoogste secondensnelheid
+[current_minutes] Huidige minuten
+[current_seconds] Huidige seconden
+[total_rebirths] Totaal aantal hergeboortes
+[current_sdp] Huidige SDP
+[current_vdp] Huidige VDP
+[total_current_upgrades] Totaal huidige upgrades
+[total_current_rebirth_upgrades] Totaal huidige hergeboorte-upgrades
+[current_challenges_completed] Huidige voltooide uitdagingen
+[save_created_time] Opslag aangemaakt op
+[save_elapsed_time] Verstreken tijd sinds opslag
+[current_theme] Huidige thema
+[footer_text] Vooruit in de tijd - BY
+[speed_boost] Snelheidsversterking
+[speed_boost_desc] Elk niveau verhoogt permanent de basis snelheid met 0,1x
+[auto_seconds] Automatische seconden
+[auto_seconds_desc] Elk niveau verdient automatisch 0,1 seconde per seconde
+[extra_minutes] Extra minuten
+[extra_minutes_desc] Elk niveau verdient extra 0,01 minuten per seconde
+[speed_multiplier] Snelheidsvermenigvuldiging
+[speed_multiplier_desc] Elk niveau verhoogt de snelheidsvermenigvuldiger met 10%
+[minute_multiplier] Minutenvermenigvuldiging
+[minute_multiplier_desc] Elk niveau verhoogt de minutenverdienvermenigvuldiger met 10%
+[cycle_bonus] Cyclusbeloning
+[cycle_bonus_desc] Elke cyclus verdient extra 1 minuut
+[auto_minutes] Automatische minuten
+[auto_minutes_desc] Elk niveau verdient automatisch 0,01 minuten per seconde
+[cost_optimization] Kostenoptimalisatie
+[cost_optimization_desc] Elk niveau verlaagt de kosten van alle upgrades met 5%
+[golden_time] Gouden tijd
+[golden_time_desc] Elk niveau verhoogt de kans op willekeurige dubbele beloning met 1%
+[current_bonus] Huidige bonus
+[current_income] Huidige inkomen
+[current_multiplier_label] Huidige vermenigvuldiger
+[cycle_reward] Cyclusbeloning
+[cost_reduced] Kosten verlaagd
+[golden_probability] Gouden kans
+[upgrade] Upgrade
+[completed] Voltooid
+[purchase] Kopen
+[minutes_currency] minuten
+[need_purchase_previous] Koop eerst het vorige item
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Uitdagingsmodus
+[current_challenge] Huidige uitdaging
+[remaining_time] Resterende tijd
+[exit_challenge] Verlaat uitdaging
+[welcome_challenge] Welkom bij de uitdagingsmodus!
+[challenge_desc_text] In de uitdagingsmodus krijg je te maken met verschillende beperkingen en doelen. Succesvolle voltooiing geeft permanente beloningen!
+[challenge_rules_title] Uitdagingsregels:
+[challenge_rule1] Je kunt geen upgrades kopen na het betreden van de uitdagingsmodus
+[challenge_rule2] Uitdagingen hebben een tijdslimiet of speciale voorwaarden
+[challenge_rule3] Falen of afsluiten reset de huidige voortgang
+[challenge_rule4] Succesvolle voltooiing geeft permanente beloningen
+[enter_challenge_mode] Ga naar uitdagingsmodus
+[time_limit] Tijdslimiet
+[reward] Beloning
+[progress] Voortgang
+[in_progress] Bezig
+[complete] Voltooid
+[start_challenge] Start uitdaging
+[abandon_challenge] Opgeven uitdaging
+[achievement_first_step] Eerste stap
+[achievement_first_step_desc] Koop de eerste upgrade
+[achievement_one_hour] Een uur!
+[achievement_one_hour_desc] Opgetelde tijd bereikt 1 uur
+[achievement_time_traveler] Tijdreiziger
+[achievement_time_traveler_desc] Opgetelde tijd bereikt 10.000 seconden
+[achievement_100_minutes] 100 minuten herdenking
+[achievement_100_minutes_desc] Bezit 100 minuten
+[achievement_1000_minutes] 1000 minuten legende
+[achievement_1000_minutes_desc] Bezit 1000 minuten
+[achievement_start_cycle] Cyclus starten
+[achievement_start_cycle_desc] Voltooi 1 cyclus
+[achievement_time_controller] Tijdbeheerder
+[achievement_time_controller_desc] Bereik 3,0x of hogere vermenigvuldiger
+[achievement_time_accelerator] Tijdversneller
+[achievement_time_accelerator_desc] Bereik 5,0x vermenigvuldiger
+[achievement_extreme_speed] Extreme snelheid
+[achievement_extreme_speed_desc] Bereik 10,0x snelheidsvermenigvuldiger
+[achievement_meteor_acceleration] Meteoorversnelling
+[achievement_meteor_acceleration_desc] Bereik 25,0x snelheidsvermenigvuldiger
+[achievement_prestige_beginning] Prestige begin
+[achievement_prestige_beginning_desc] Bezit 1000 SDP
+[achievement_fragment_obtained] Tijdfragment verkregen
+[achievement_fragment_obtained_desc] Verkrijg 1 tijdfragment (VDP)
+[achievement_first_rebirth] Eerste hergeboorte
+[achievement_first_rebirth_desc] Voltooi 1 tijdhergeboorte
+[achievement_fragment_reset] Fragmentreset
+[achievement_fragment_reset_desc] Voltooi 1 tijdfragmentreset
+[achievement_fragment_upgrader] Fragment-upgrader
+[achievement_fragment_upgrader_desc] Koop 1 tijdfragment-upgrade
+[achievement_fragment_craftsman] Fragment-ambachtsman
+[achievement_fragment_craftsman_desc] Koop 5 tijdfragment-upgrades
+[achievement_challenge_door] Uitdagingspoort
+[achievement_challenge_door_desc] Voltooi 1 uitdaging
+[achievement_challenge_master] Uitdagingmeester
+[achievement_challenge_master_desc] Voltooi 3 uitdagingen
+[achievement_ultimate_challenge] Ultieme uitdaging
+[achievement_ultimate_challenge_desc] Voltooi 5 uitdagingen
+[achievement_hundred_year_solitude] Honderdjarige eenzaamheid
+[achievement_hundred_year_solitude_desc] Voltooi 52.560.000 cycli (minuten)
+[import_prompt] Plak de opslagreeks:
+[export_prompt] Kopieer de onderstaande opslagcode:
+[import_success] Importeren gelukt! Het spel wordt zo vernieuwd.
+[import_error] Ongeldige opslag, kan niet worden geparseerd! Controleer of je alles hebt gekopieerd.
+[delete_confirm] ⚠️ WAARSCHUWING: Deze actie verwijdert alle spelgegevens permanent, inclusief opslag, prestatievoortgang, klikregistraties, mijlpalen enz.
+[delete_confirm_question] Weet je zeker dat je volledig opnieuw wilt beginnen?
+[delete_success] Alle gegevens zijn volledig verwijderd!
+[save_load_error] Opslag laden mislukt:
+[save_check_message] Controleer of de opslag correct is of probeer opnieuw te importeren.
+[exit_challenge_confirm] Weet je zeker dat je de uitdagingsmodus wilt afsluiten? Huidige voortgang gaat verloren.
+[exit_challenge_success] Uitdagingsmodus afgesloten.
+[enter_challenge_success] Je bent de uitdagingsmodus binnengegaan! Je kunt nu een uitdaging kiezen en starten.
+[challenge_start_message] Uitdaging gestart!
+[target] Doel:
+[time_format] min
+[rebirth_need_minutes] Je hebt ten minste 10 minuten nodig voor een tijdhergeboorte.
+[rebirth_success] Tijdhergeboorte gelukt, verkregen
+[vdp_need_sdp] Je hebt ten minste 1000 SDP nodig om tijdfragmenten te verkrijgen.
+[vdp_cannot_obtain] Kan momenteel geen tijdfragmenten verkrijgen.
+[vdp_obtained] Verkregen
+[time_fragments_obtained] tijdfragmenten!
+[abandon_sdv_confirm] Weet je zeker dat je de huidige SDV-uitdaging wilt opgeven?
+[sdv_started] SDV-uitdaging gestart:
+[sdv_unlock_hint] Vereist de bijbehorende SDV-hergeboorte-upgrade om te ontgrendelen
+[challenge_failed] Uitdaging mislukt! Tijd is op.
+[speed_calc_error] Fout bij snelheidsberekening, standaardwaarde hersteld:
+[speed_calc_error_hint] Dit kan worden veroorzaakt door beschadigde opslaggegevens.
+[seconds_per_second] sec/sec
+[minutes_per_second] min/sec
+[minutes_per_cycle] min/cyclus
+[minutes_per_second_auto] min/sec
+[seconds] seconden
+[no_time_limit] Geen tijdslimiet
+[unlocked] Vrijgespeeld
+[locked_status] Vergrendeld
+[start_sdv] Start SDV
+[abandon_sdv] Opgeven SDV
+[rebirth_gain_sdp] Tijdhergeboorte (verkrijg {0} SDP)
+[upgrade_completed] Voltooid
+[need_purchase_previous] Koop eerst het vorige item
+[purchase_button] Koop {0} {1}
+[sdp_currency] SDP
+[upgrade_completed] Voltooid
+[need_purchase_previous] Koop eerst het vorige item
+[purchase_button] Koop {0} {1}
+[vdp_currency] VDP
+[start_sdv] Start SDV
+[abandon_sdv] Opgeven SDV
+[sdv_unlock_hint] Vereist de bijbehorende SDV-hergeboorte-upgrade om te ontgrendelen
+[abandon_sdv_confirm] Weet je zeker dat je de huidige SDV-uitdaging wilt opgeven?
+[rebirth_button_text] Tijdhergeboorte (verkrijg {0} SDP)
+[insufficient_funds] Onvoldoende saldo
+[unit_seconds_per_second] sec/s
+[none] Geen
+[yes] Ja
+[no] Nee
+[basic_upgrades] Basisupgrades
+[advanced_upgrades] Geavanceerde upgrades
+[expert_upgrades] Expert-upgrades
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Selecteer interfacetaal
+[load_language_fail] Taal laden mislukt
+[change_language] Change Language
+[choose_language] Choose Language
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

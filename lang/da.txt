@@ -1,0 +1,340 @@
+[game_title] Tidsstegning
+[version_text] Nuværende version 1.4.2
+[join_us] Bliv med
+[about] Om
+[about_title] Om Tidsstegning
+[about_desc] Dette er et tidsstegningsspil. Spillerne fremskynder tidsakkumulering ved at købe opgraderinger og fuldføre udfordringer og oplever vækst fra langsom til eksplosiv.
+[author] Forfatter:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Spiltip:
+[gameplay_text] Forstyg først hastighed og automatiske minutter, indsamling derefter cyklusbelønninger og gylden tid for at få minutter hurtigere.
+[acknowledgment] Tak til:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Tak til alle spillere for støtte og feedback!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Er du sikker på at forlade udfordringstilstand? Nuværende fremskridt går tabt.
+[exit_challenge_success] Forlod udfordringstilstand.
+[enter_challenge_success] Du er nu i udfordringstilstand! Du kan vælge og starte en udfordring.
+[resume] Genoptag
+[play] Start
+[pause] Pause
+[export_prompt] Kopier gemkoden nedenfor:
+[export_prompt_raw] Kopier den originale gemning nedenfor:
+[import_prompt] Indsæt gemningsstrengen:
+[import_success] Import lykkedes! Spillet genindlæses om lidt.
+[import_error] Ugyldig gemning, kan ikke analyseres! Tjek om du har kopieret hele strengen. Fejl:
+[delete_confirm] ⚠️ Advarsel: Denne handling sletter alle spildata permanent, inklusive gemning, præstationsfremskridt, kliklog, milepæle og meget mere.
+
+Er du sikker på at slette alt og starte forfra?
+[delete_success] Alle data er blevet slettet!
+[time_day] dag
+[time_hour] time
+[time_minute] minut
+[time_second] sekund
+[tab_timer] Timer
+[tab_upgrades] Opgraderinger
+[tab_achievements] Præstationer
+[tab_challenges] Udfordringer
+[tab_rebirth] Genfødsel
+[tab_stats] Statistik
+[tab_settings] Indstillinger
+[settings_title] Spilindstillinger
+[save_management] Gemningsstyring
+[export_save] Eksporter gemning
+[import_save] Importer gemning
+[interface_theme] Grænsefladetema
+[theme_desc] Skift visuelle stil
+[danger_operations] Farlige handlinger
+[delete_save] Slet gemning og start forfra
+[delete_save_desc] Slet alle spildata permanent (gemning, præstationer, kliklog mv.). Kan ikke fortrydes!
+[current_minute_seconds] Sekunder i nuværende minut
+[accumulated_seconds] Akkumulerede sekunder
+[completed_cycles] Fuldførte cyklusser
+[current_multiplier] Nuværende multiplikator
+[minutes_owned] Ejede minutter:
+[basic_upgrades] Basisopgraderinger
+[advanced_upgrades] Avancerede opgraderinger
+[expert_upgrades] Ekspertopgraderinger
+[ach_first_step_title] Første skridt
+[ach_first_step_desc] Køb din første opgradering
+[ach_one_hour_title] En time!
+[ach_one_hour_desc] Samlet tid når 1 time
+[ach_time_traveler_title] Tidstravler
+[ach_time_traveler_desc] Samlet tid når 10000 sekunder
+[ach_100_minutes_title] 100-minutters minde
+[ach_100_minutes_desc] Ej 100 minutter
+[ach_1000_minutes_title] 1000-minutters legende
+[ach_1000_minutes_desc] Ej 1000 minutter
+[ach_start_cycle_title] Start cyklus
+[ach_start_cycle_desc] Fuldfør 1 cyklus
+[ach_time_controller_title] Tidskontroller
+[ach_time_controller_desc] Nå 3,0x multiplikator eller højere
+[ach_time_accelerator_title] Tidsaccelerator
+[ach_time_accelerator_desc] Nå 5,0x multiplikator
+[ach_extreme_speed_title] Ekstrem hastighed
+[ach_extreme_speed_desc] Nå 10,0x hastighedsmultiplikator
+[ach_meteor_acceleration_title] Meteorbeskyldning
+[ach_meteor_acceleration_desc] Nå 25,0x hastighedsmultiplikator
+[ach_prestige_beginning_title] Prestigebegyndelse
+[ach_prestige_beginning_desc] Ej 1000 SDP
+[ach_fragment_obtained_title] Tidfragment opnået
+[ach_fragment_obtained_desc] Få 1 tidfragment (VDP)
+[ach_first_rebirth_title] Første genfødsel
+[ach_first_rebirth_desc] Fuldfør 1 tidsgenfødsel
+[ach_fragment_reset_title] Fragmentnulstilling
+[ach_fragment_reset_desc] Fuldfør 1 tidfragmentnulstilling
+[ach_fragment_upgrader_title] Fragmentopgraderer
+[ach_fragment_upgrader_desc] Køb 1 tidfragmentopgradering
+[ach_fragment_craftsman_title] Fragmenthåndværker
+[ach_fragment_craftsman_desc] Køb 5 tidfragmentopgraderinger
+[ach_challenge_door_title] Udfordringsporten
+[ach_challenge_door_desc] Fuldfør 1 udfordring
+[ach_challenge_master_title] Udfordringsmester
+[ach_challenge_master_desc] Fuldfør 3 udfordringer
+[ach_ultimate_challenge_title] Den ultimative udfordring
+[ach_ultimate_challenge_desc] Fuldfør 5 udfordringer
+[ach_hundred_year_solitude_title] Hundredeårsensomhed
+[ach_hundred_year_solitude_desc] Fuldfør 52560000 cyklusser (minutter)
+[ch_speed_demon_title] Hastighedsdæmon
+[ch_speed_demon_desc] Nå 25x hastighedsmultiplikator inden for 3 minutter
+[ch_speed_demon_reward] Permanent +1,0x basishastighed
+[ch_time_master_title] Tidsmester
+[ch_time_master_desc] Fuldfør 200 cyklusser inden for 2 minutter
+[ch_time_master_reward] Lås cyklusbelønningsopgradering op
+[ch_efficiency_expert_title] Effektivitetsekspert
+[ch_efficiency_expert_desc] Nå 100x hastighedsmultiplikator med mindre end 1000 minutter
+[ch_efficiency_expert_reward] Lås omkostningsoptimering op
+[ch_minimalist_master_title] Minimalistmester
+[ch_minimalist_master_desc] Nå 5000 sekunder samlet tid uden at købe nogen opgraderinger
+[ch_minimalist_master_reward] Lås automatiske minutter op
+[ch_golden_chaser_title] Gyldenjæger
+[ch_golden_chaser_desc] Aktiver gylden tid 5 gange inden for 10 minutter
+[ch_golden_chaser_reward] Permanent +5% chance for gylden tid
+[up_speed_boost_name] Hastighedsforstærkning
+[up_speed_boost_desc] Hver opgradering giver permanent +0,1x basishastighed
+[up_auto_seconds_name] Automatiske sekunder
+[up_auto_seconds_desc] Hver opgradering giver automatisk 0,1 sekund pr. sekund
+[up_minute_boost_name] Ekstra minutter
+[up_minute_boost_desc] Hver opgradering giver 0,01 minut ekstra pr. sekund
+[up_speed_multiplier_name] Hastighedsmultiplikation
+[up_speed_multiplier_desc] Hver opgradering øger hastighedsmultiplikatoren med 10%
+[up_minute_multiplier_name] Minutmultiplikation
+[up_minute_multiplier_desc] Hver opgradering øger minutindvindingsmultiplikatoren med 10%
+[up_cycle_bonus_name] Cyklusbelønning
+[up_cycle_bonus_desc] 1 ekstra minut pr. cyklus
+[up_auto_minutes_name] Automatiske minutter
+[up_auto_minutes_desc] Hver opgradering giver automatisk 0,01 minut pr. sekund
+[up_cost_reduction_name] Omkostningsreduktion
+[up_cost_reduction_desc] Hver opgradering sænker alle opgraderingsomkostninger med 5%
+[up_golden_time_name] Gylden tid
+[up_golden_time_desc] Hver opgradering øger chancen for dobbelt belønning med 1%
+[reb1_name] Tidsgenfødsel 1
+[reb1_desc] Efter genfødsel ×2 sekundindvinding, hastighedsforstærkning bliver 0,15
+[reb2_name] Tidsgenfødsel 2
+[reb2_desc] Bevar niveau 3 i hastighedsforstærkning ved genfødsel, minutter øger sekundhastigheden
+[reb3_name] Tidsgenfødsel 3
+[reb3_desc] ×2,5 sekundindvinding, hvert minut giver +0,01 til sekundmultiplikator
+[reb4_name] Tidsgenfødsel 4
+[reb4_desc] Øg sekundproduktion baseret på kvadratroden af ejede minutter
+[reb5_name] Tidsgenfødsel 5
+[reb5_desc] Lås SDV1-udfordring op
+[reb6_name] Tidsgenfødsel 6
+[reb6_desc] Lås omformer op, 60 sekunder = 1 minut bliver 1 + √(antal genfødsler) gange
+[reb7_name] Tidsgenfødsel 7
+[reb7_desc] Lås SDV2 op og øg produktion
+[reb8_name] Tidsgenfødsel 8
+[reb8_desc] Punktproduktion ×7,8 (kræver SDV2 fuldført)
+[reb9_name] Tidsgenfødsel 9
+[reb9_desc] Hver købte SDP-opgradering giver +0,02 til hastighedsforstærkning
+[reb10_name] Tidsgenfødsel 10
+[reb10_desc] Lås SDV3-udfordring op
+[reb11_name] Tidsgenfødsel 11
+[reb11_desc] SDP-indvinding fordobles, øg sekundindvinding baseret på SDP
+[vdp11_name] Tidfragment 1-1
+[vdp11_desc] ×2 sekundproduktion, ×2 SDP-indvinding
+[vdp12_name] Tidfragment 1-2
+[vdp12_desc] ×3 minutindvinding
+[vdp21_name] Tidfragment 2-1
+[vdp21_desc] Øg sekundproduktion baseret på ejede minutter: ×(1 + minutter^0,6)
+[vdp22_name] Tidfragment 2-2
+[vdp22_desc] Øg sekundproduktion baseret på nuværende SDP: ×(1 + SDP^0,7)
+[vdp23_name] Tidfragment 2-3
+[vdp23_desc] Øg minutindvinding baseret på nuværende SDP: ×(1 + SDP^0,55)
+[vdp33_name] Tidfragment 3-3
+[vdp33_desc] Hver fuldført udfordring giver +0,02 til sekundproduktion
+[vdp41_name] Lås booster op
+[vdp41_desc] Lås boostersystem til ekstra bonusser
+[sdv1_title] SDV1
+[sdv1_desc] 1 minut = 120 sekunder, nulstil SDP, ignorér alle opgraderinger. Mål: 7777 sekunder.
+[sdv1_reward] Efter fuldførelse bliver 1 minut til 40 sekunder
+[sdv2_title] SDV2
+[sdv2_desc] Lås SDV2 op, +0,05 hastighedsforstærkning, fordoblet ekstra minutproduktion
+[sdv2_reward] Øg SDV2-eksklusiv produktion
+[sdv3_title] SDV3
+[sdv3_desc] Konstant blød grænse i udfordringen, produktion ^0,8125. Mål: 2125 sekunder.
+[sdv3_reward] Efter fuldførelse 25% chance for dobbelt minut pr. minut
+[current_bonus] Nuværende bonus
+[current_income] Nuværende indkomst
+[current_multiplier_label] Nuværende multiplikator
+[cycle_reward] Cyklusbelønning
+[cost_reduced] Omkostning reduceret
+[golden_probability] Gylden chance
+[speed] Hastighed
+[minutes_short] min
+[up_effect_speed] Nuværende bonus: +{0}x hastighed
+[up_effect_auto_seconds] Nuværende indkomst: +{0} s/s
+[up_effect_minute_boost] Nuværende indkomst: +{0} min/s
+[up_effect_speed_multiplier] Nuværende multiplikator: ×{0} hastighed
+[up_effect_minute_multiplier] Nuværende multiplikator: ×{0} minutter
+[up_effect_cycle_bonus] Cyklusbelønning: +{0} min/cyklus
+[up_effect_auto_minutes] Automatiske minutter: +{0} min/s
+[up_effect_cost_reduction] Omkostningsreduktion: {0}%
+[up_effect_golden_time] Gylden chance: {0}%
+[upgrade_button] Opgrader {0} {1}
+[minutes_currency] minutter
+[theme_blue] Blå
+[theme_darkred] Rød
+[theme_minimal] Sort
+[theme_neon] Lilla+Blå
+[theme_yellow] Gul
+[progress] Fremskridt
+[unlocked] Opklaret
+[reward] Belønning
+[time_limit] Tidsbegrænsning
+[in_progress] I gang
+[complete] Fuldført
+[start_challenge] Start udfordring
+[abandon_challenge] Opgiv udfordring
+[no_time_limit] Ingen tidsbegrænsning
+[rebirth_info] Info om genfødsel
+[rebirth_upgrades_tab] Genfødselopgraderinger
+[time_fragment_upgrades] Tidfragmentopgraderinger
+[sdv_challenges] SDV-udfordringer
+[time_rebirth_points] Tidsgenfødselspoint (SDP)
+[time_fragments] Tidfragments (VDP)
+[rebirth_count] Antal genfødsler
+[fragment_reset_count] Antal fragmentnulstillinger
+[time_rebirth] Tidsgenfødsel
+[get_time_fragments] Få tidfragments
+[current_rebirth_gain] Nuværende genfødselgevinst:
+[sdp_label] SDP
+[rebirth_desc] Tidsgenfødsel nulstiller din kørsel og giver SDP, som kan bruges til genfødselopgraderinger. Fåelse af tidfragments koster SDP og øger VDP.
+[sdv_challenge_note] SDV-udfordringer er uafhængige af hovedudfordringer og giver eksklusive belønninger.
+[time_rebirth_upgrades_desc] Brug SDP til at købe tidsgenfødselopgraderinger for at øge gevinster og evner.
+[time_fragment_upgrades_desc] Brug VDP til at købe tidfragmentopgraderinger for at styrke sekundproduktion, minutindvinding og genfødselseffektivitet.
+[booster_level] Boosterniveau
+[sdv_challenge_desc] SDV-udfordringer er uafhængige; kun én ad gangen, kan opgives og genstartes.
+[current_sdv_challenge] Nuværende SDV-udfordring
+[completed_sdv_challenges] Fuldførte SDV-udfordringer
+[none] Ingen
+[game_stats] Spilstatistik
+[total_accumulated_seconds] Samlede akkumulerede sekunder
+[current_speed_multiplier] Nuværende hastighedsmultiplikator
+[highest_second_speed] Højeste sekundhastighed
+[current_minutes] Nuværende minutter
+[current_seconds] Nuværende sekunder
+[total_rebirths] Samlede genfødsler
+[current_sdp] Nuværende SDP
+[current_vdp] Nuværende VDP
+[total_current_upgrades] Samlede nuværende opgraderinger
+[total_current_rebirth_upgrades] Samlede nuværende genfødselopgraderinger
+[current_challenges_completed] Fuldførte udfordringer lige nu
+[save_created_time] Gemning oprettet
+[save_elapsed_time] Tid siden gemning
+[current_theme] Nuværende tema
+[footer_text] Fremad med tiden - BY
+[speed_boost] Hastighedsforstærkning
+[speed_boost_desc] Hver opgradering giver permanent +0,1x basishastighed
+[auto_seconds] Automatiske sekunder
+[auto_seconds_desc] Hver opgradering giver automatisk 0,1 sekund pr. sekund
+[extra_minutes] Ekstra minutter
+[extra_minutes_desc] Hver opgradering giver 0,01 minut ekstra pr. sekund
+[speed_multiplier] Hastighedsmultiplikation
+[speed_multiplier_desc] Hver opgradering øger hastighedsmultiplikatoren med 10%
+[minute_multiplier] Minutmultiplikation
+[minute_multiplier_desc] Hver opgradering øger minutindvindingsmultiplikatoren med 10%
+[cycle_bonus] Cyklusbelønning
+[cycle_bonus_desc] 1 ekstra minut pr. cyklus
+[auto_minutes] Automatiske minutter
+[auto_minutes_desc] Hver opgradering giver automatisk 0,01 minut pr. sekund
+[cost_optimization] Omkostningsoptimering
+[cost_optimization_desc] Hver opgradering sænker alle opgraderingsomkostninger med 5%
+[golden_time] Gylden tid
+[golden_time_desc] Hver opgradering øger chancen for dobbelt belønning med 1%
+[upgrade] Opgrader
+[completed] Fuldført
+[purchase] Køb
+[need_purchase_previous] Køb venligst det forrige først
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Udfordringstilstand
+[current_challenge] Nuværende udfordring
+[remaining_time] Resterende tid
+[exit_challenge] Forlad udfordring
+[welcome_challenge] Velkommen til udfordringstilstand!
+[challenge_desc_text] I udfordringstilstand møder du begrænsninger og mål. Fuldendelse giver permanente belønninger!
+[challenge_rules_title] Udfordringsregler:
+[challenge_rule1] Ingen opgraderinger kan købes i udfordringstilstand
+[challenge_rule2] Udfordringer har tidsbegrænsning eller specielle betingelser
+[challenge_rule3] Fiasko eller exit nulstiller fremskridt
+[challenge_rule4] Fuldendelse giver permanent belønning
+[enter_challenge_mode] Gå til udfordringstilstand
+[target] Mål:
+[time_format] min
+[rebirth_need_minutes] Mindst 10 minutter krævet for tidsgenfødsel.
+[rebirth_success] Tidsgenfødsel lykkedes, modtog:
+[vdp_need_sdp] Mindst 1000 SDP krævet for at få tidfragments.
+[vdp_cannot_obtain] Kan ikke få tidfragments lige nu.
+[vdp_obtained] Fik
+[time_fragments_obtained] tidfragments!
+[abandon_sdv_confirm] Er du sikker på at opgive denne SDV-udfordring?
+[sdv_started] Startet SDV-udfordring:
+[sdv_unlock_hint] Kræver tilsvarende SDV-genfødselopgradering
+[challenge_failed] Udfordring mislykkedes! Tiden er udløbet.
+[speed_calc_error] Fejl i hastighedsberegning, standardværdi gendannet:
+[speed_calc_error_hint] Dette skyldes muligvis beskadiget gemning.
+[seconds_per_second] s/s
+[minutes_per_second] min/s
+[minutes_per_cycle] min/cyklus
+[minutes_per_second_auto] min/s
+[seconds] sekunder
+[locked_status] Låst
+[start_sdv] Start SDV
+[abandon_sdv] Afbryd SDV
+[rebirth_gain_sdp] Tidsgenfødsel (får {0} SDP)
+[upgrade_completed] Fuldført
+[purchase_button] Køb {0} {1}
+[rebirth_button_text] Tidsgenfødsel (får {0} SDP)
+[insufficient_funds] Utilstrækkelig saldo
+[unit_seconds_per_second] s/s
+[yes] Ja
+[no] Nej
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Vælg grænsefladesprog
+[load_language_fail] Sprog indlæses fejlet
+[change_language] Skift sprog
+[choose_language] Vælg sprog
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

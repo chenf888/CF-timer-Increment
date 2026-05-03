@@ -1,0 +1,340 @@
+[game_title] टाइमर वृद्धि
+[version_text] वर्तमान संस्करण 1.4.2
+[join_us] हमसे जुड़ें
+[about] के बारे में
+[about_title] टाइमर वृद्धि के बारे में
+[about_desc] यह एक समय वृद्धि खेल है। खिलाड़ी अपग्रेड खरीदकर और चुनौतियां पूरी करके समय संचय को तेज करते हैं, और धीरे से तेजी में वृद्धि का अनुभव करते हैं।
+[author] लेखक:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] खेल का टिप:
+[gameplay_text] पहले गति और स्वचालित मिनट बढ़ाएं, फिर चक्र इनाम और सुनहरा समय एकत्र करें ताकि मिनट जल्दी प्राप्त हों।
+[acknowledgment] धन्यवाद:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] सभी समर्थन और प्रतिक्रिया देने वाले खिलाड़ियों को धन्यवाद!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] क्या आप वाकई चुनौती मोड से बाहर निकलना चाहते हैं? वर्तमान प्रगति खो जाएगी।
+[exit_challenge_success] चुनौती मोड से बाहर निकल गए।
+[enter_challenge_success] आप चुनौती मोड में प्रवेश कर गए! अब आप चुनौती चुन और शुरू कर सकते हैं।
+[resume] जारी रखें
+[play] शुरू करें
+[pause] रोकें
+[export_prompt] कृपया नीचे दिए गए सेव कोड की कॉपी करें:
+[export_prompt_raw] कृपया नीचे दिए गए मूल सेव की कॉपी करें:
+[import_prompt] कृपया सेव स्ट्रिंग पेस्ट करें:
+[import_success] आयात सफल! खेल जल्द ही रिफ्रेश होगा।
+[import_error] अमान्य सेव, विश्लेषण नहीं किया जा सकता! कृपया जांचें कि आपने पूरी कॉपी की है या नहीं। त्रुटि:
+[delete_confirm] ⚠️ चेतावनी: यह कार्रवाई सभी खेल डेटा को स्थायी रूप से हटा देगी, जिसमें सेव, उपलब्धि प्रगति, क्लिक रिकॉर्ड, मील के पत्थर आदि शामिल हैं।
+
+क्या आप वाकई पूरी डेटा हटाकर फिर से शुरू करना चाहते हैं?
+[delete_success] सभी डेटा पूरी तरह से हटा दिए गए हैं!
+[time_day] दिन
+[time_hour] घंटा
+[time_minute] मिनट
+[time_second] सेकंड
+[tab_timer] टाइमर
+[tab_upgrades] अपग्रेड
+[tab_achievements] उपलब्धियां
+[tab_challenges] चुनौतियां
+[tab_rebirth] पुनर्जन्म
+[tab_stats] आंकड़े
+[tab_settings] सेटिंग्स
+[settings_title] खेल सेटिंग्स
+[save_management] सेव प्रबंधन
+[export_save] सेव निर्यात करें
+[import_save] सेव आयात करें
+[interface_theme] इंटरफेस थीम
+[theme_desc] विभिन्न दृश्य शैलियों को स्विच करें
+[danger_operations] खतरनाक कार्रवाइयां
+[delete_save] सेव हटाकर फिर से शुरू करें
+[delete_save_desc] सभी खेल डेटा को पूरी तरह से हटा दें (सेव, उपलब्धियां, क्लिक रिकॉर्ड आदि)। यह कार्रवाई पूर्ववत नहीं की जा सकती!
+[current_minute_seconds] वर्तमान मिनट के सेकंड
+[accumulated_seconds] संचित सेकंड
+[completed_cycles] पूरे किए गए चक्र
+[current_multiplier] वर्तमान गुणक
+[minutes_owned] मिनट उपलब्ध हैं:
+[basic_upgrades] बुनियादी अपग्रेड
+[advanced_upgrades] उन्नत अपग्रेड
+[expert_upgrades] विशेषज्ञ अपग्रेड
+[ach_first_step_title] पहला कदम
+[ach_first_step_desc] पहला अपग्रेड खरीदें
+[ach_one_hour_title] एक घंटा!
+[ach_one_hour_desc] कुल समय 1 घंटे तक पहुंचा
+[ach_time_traveler_title] टाइम ट्रैवलर
+[ach_time_traveler_desc] कुल समय 10000 सेकंड तक पहुंचा
+[ach_100_minutes_title] 100 मिनट स्मृति
+[ach_100_minutes_desc] 100 मिनट उपलब्ध करें
+[ach_1000_minutes_title] 1000 मिनट के दंतकथा
+[ach_1000_minutes_desc] 1000 मिनट उपलब्ध करें
+[ach_start_cycle_title] चक्र शुरू करें
+[ach_start_cycle_desc] 1 चक्र पूरा करें
+[ach_time_controller_title] समय नियंत्रक
+[ach_time_controller_desc] 3.0x या अधिक गुणक तक पहुंचें
+[ach_time_accelerator_title] टाइम एक्सेलरेटर
+[ach_time_accelerator_desc] 5.0x गुणक तक पहुंचें
+[ach_extreme_speed_title] अत्यधिक गति
+[ach_extreme_speed_desc] 10.0x गति गुणक तक पहुंचें
+[ach_meteor_acceleration_title] उल्का त्वरण
+[ach_meteor_acceleration_desc] 25.0x गति गुणक तक पहुंचें
+[ach_prestige_beginning_title] प्रतिष्ठा की शुरुआत
+[ach_prestige_beginning_desc] 1000 SDP उपलब्ध करें
+[ach_fragment_obtained_title] समय खंड प्राप्त हुआ
+[ach_fragment_obtained_desc] 1 समय खंड (VDP) प्राप्त करें
+[ach_first_rebirth_title] पहला पुनर्जन्म
+[ach_first_rebirth_desc] 1 समय पुनर्जन्म पूरा करें
+[ach_fragment_reset_title] खंड रीसेट
+[ach_fragment_reset_desc] 1 समय खंड रीसेट पूरा करें
+[ach_fragment_upgrader_title] खंड अपग्रेडर
+[ach_fragment_upgrader_desc] 1 समय खंड अपग्रेड खरीदें
+[ach_fragment_craftsman_title] खंड कारीगर
+[ach_fragment_craftsman_desc] 5 समय खंड अपग्रेड खरीदें
+[ach_challenge_door_title] चुनौती का द्वार
+[ach_challenge_door_desc] 1 चुनौती पूरा करें
+[ach_challenge_master_title] चुनौती मास्टर
+[ach_challenge_master_desc] 3 चुनौतियां पूरी करें
+[ach_ultimate_challenge_title] अंतिम चुनौती
+[ach_ultimate_challenge_desc] 5 चुनौतियां पूरी करें
+[ach_hundred_year_solitude_title] सौ वर्ष का अकेलापन
+[ach_hundred_year_solitude_desc] 52560000 चक्र (मिनट) पूरे करें
+[ch_speed_demon_title] गति राक्षस
+[ch_speed_demon_desc] 3 मिनट में 25x गति गुणक तक पहुंचें
+[ch_speed_demon_reward] स्थायी +1.0x मूल गति
+[ch_time_master_title] समय मास्टर
+[ch_time_master_desc] 2 मिनट में 200 चक्र पूरे करें
+[ch_time_master_reward] चक्र इनाम अपग्रेड अनलॉक करें
+[ch_efficiency_expert_title] दक्षता विशेषज्ञ
+[ch_efficiency_expert_desc] 1000 मिनट से कम में 100x गति गुणक तक पहुंचें
+[ch_efficiency_expert_reward] लागत अनुकूलन अपग्रेड अनलॉक करें
+[ch_minimalist_master_title] न्यूनतमवादी मास्टर
+[ch_minimalist_master_desc] बिना कोई अपग्रेड खरीदे 5000 सेकंड संचित समय तक पहुंचें
+[ch_minimalist_master_reward] स्वचालित मिनट अपग्रेड अनलॉक करें
+[ch_golden_chaser_title] सुनहरा चेज़र
+[ch_golden_chaser_desc] 10 मिनट में 5 बार सुनहरा समय सक्रिय करें
+[ch_golden_chaser_reward] स्थायी +5% सुनहरा समय संभावना
+[up_speed_boost_name] गति बढ़ावा
+[up_speed_boost_desc] हर लेवल स्थायी रूप से +0.1x मूल गति बढ़ाता है
+[up_auto_seconds_name] स्वचालित सेकंड
+[up_auto_seconds_desc] हर लेवल प्रति सेकंड स्वचालित रूप से 0.1 सेकंड देता है
+[up_minute_boost_name] अतिरिक्त मिनट
+[up_minute_boost_desc] हर लेवल प्रति सेकंड 0.01 मिनट अतिरिक्त देता है
+[up_speed_multiplier_name] गति गुणन
+[up_speed_multiplier_desc] हर लेवल गति गुणक को 10% बढ़ाता है
+[up_minute_multiplier_name] मिनट गुणन
+[up_minute_multiplier_desc] हर लेवल मिनट प्राप्ति गुणक को 10% बढ़ाता है
+[up_cycle_bonus_name] चक्र इनाम
+[up_cycle_bonus_desc] प्रति चक्र 1 अतिरिक्त मिनट
+[up_auto_minutes_name] स्वचालित मिनट
+[up_auto_minutes_desc] हर लेवल प्रति सेकंड स्वचालित रूप से 0.01 मिनट देता है
+[up_cost_reduction_name] लागत कमी
+[up_cost_reduction_desc] हर लेवल सभी अपग्रेड लागत को 5% कम करता है
+[up_golden_time_name] सुनहरा समय
+[up_golden_time_desc] हर लेवल दोहरा इनाम प्राप्त करने की संभावना को 1% बढ़ाता है
+[reb1_name] समय पुनर्जन्म अपग्रेड 1
+[reb1_desc] पुनर्जन्म के बाद सेकंड प्राप्ति ×2, गति बढ़ावा 0.15 हो जाता है
+[reb2_name] समय पुनर्जन्म अपग्रेड 2
+[reb2_desc] पुनर्जन्म पर गति बढ़ावा लेवल 3 बनाए रखें, मिनट सेकंड गति को बढ़ाते हैं
+[reb3_name] समय पुनर्जन्म अपग्रेड 3
+[reb3_desc] सेकंड प्राप्ति ×2.5, हर मिनट सेकंड गुणक में +0.01 जोड़ता है
+[reb4_name] समय पुनर्जन्म अपग्रेड 4
+[reb4_desc] उपलब्ध मिनटों के वर्गमूल के आधार पर सेकंड उत्पादन बढ़ाएं
+[reb5_name] समय पुनर्जन्म अपग्रेड 5
+[reb5_desc] SDV1 चुनौती अनलॉक करें
+[reb6_name] समय पुनर्जन्म अपग्रेड 6
+[reb6_desc] कनवर्टर अनलॉक करें, 60 सेकंड = 1 मिनट के बजाय 1 + √(पुनर्जन्म संख्या) गुना हो जाता है
+[reb7_name] समय पुनर्जन्म अपग्रेड 7
+[reb7_desc] SDV2 अनलॉक करें और उत्पादन बढ़ाएं
+[reb8_name] समय पुनर्जन्म अपग्रेड 8
+[reb8_desc] पॉइंट उत्पादन ×7.8 (SDV2 पूरा होना चाहिए)
+[reb9_name] समय पुनर्जन्म अपग्रेड 9
+[reb9_desc] हर खरीदे गए SDP अपग्रेड से गति बढ़ावा +0.02 होता है
+[reb10_name] समय पुनर्जन्म अपग्रेड 10
+[reb10_desc] SDV3 चुनौती अनलॉक करें
+[reb11_name] समय पुनर्जन्म अपग्रेड 11
+[reb11_desc] SDP प्राप्ति दोगुनी हो जाती है, SDP के आधार पर सेकंड प्राप्ति बढ़ाती है
+[vdp11_name] समय खंड अपग्रेड 1-1
+[vdp11_desc] सेकंड उत्पादन ×2, SDP प्राप्ति ×2
+[vdp12_name] समय खंड अपग्रेड 1-2
+[vdp12_desc] मिनट प्राप्ति ×3
+[vdp21_name] समय खंड अपग्रेड 2-1
+[vdp21_desc] उपलब्ध मिनटों के आधार पर सेकंड उत्पादन बढ़ाएं: ×(1 + मिनट^0.6)
+[vdp22_name] समय खंड अपग्रेड 2-2
+[vdp22_desc] वर्तमान SDP के आधार पर सेकंड उत्पादन बढ़ाएं: ×(1 + SDP^0.7)
+[vdp23_name] समय खंड अपग्रेड 2-3
+[vdp23_desc] वर्तमान SDP के आधार पर मिनट प्राप्ति बढ़ाएं: ×(1 + SDP^0.55)
+[vdp33_name] समय खंड अपग्रेड 3-3
+[vdp33_desc] हर पूरी चुनौती से सेकंड उत्पादन +0.02 होता है
+[vdp41_name] बूस्टर अनलॉक करें
+[vdp41_desc] अतिरिक्त बोनस के लिए बूस्टर सिस्टम अनलॉक करें
+[sdv1_title] SDV1
+[sdv1_desc] 1 मिनट = 120 सेकंड, SDP रीसेट करें, सभी अपग्रेड नजरअंदाज करें। लक्ष्य: 7777 सेकंड पूरे करें।
+[sdv1_reward] पूरा होने के बाद 1 मिनट 40 सेकंड हो जाता है
+[sdv2_title] SDV2
+[sdv2_desc] SDV2 अनलॉक करें, +0.05 गति बढ़ावा, अतिरिक्त मिनट उत्पादन दक्षता दोगुनी।
+[sdv2_reward] SDV2 विशेष उत्पादन क्षमता बढ़ाएं
+[sdv3_title] SDV3
+[sdv3_desc] चुनौती में लगातार नरम सीमा, उत्पादन ^0.8125। लक्ष्य: 2125 सेकंड पूरे करें।
+[sdv3_reward] पूरा होने के बाद प्रति मिनट 25% संभावना दोहरा मिनट
+[current_bonus] वर्तमान बोनस
+[current_income] वर्तमान आय
+[current_multiplier_label] वर्तमान गुणक
+[cycle_reward] चक्र इनाम
+[cost_reduced] लागत कम हुई
+[golden_probability] सुनहरी संभावना
+[speed] गति
+[minutes_short] मिन
+[up_effect_speed] वर्तमान बोनस: +{0}x गति
+[up_effect_auto_seconds] वर्तमान आय: +{0} से./से.
+[up_effect_minute_boost] वर्तमान आय: +{0} मिन./से.
+[up_effect_speed_multiplier] वर्तमान गुणक: ×{0} गति
+[up_effect_minute_multiplier] वर्तमान गुणक: ×{0} मिनट
+[up_effect_cycle_bonus] चक्र इनाम: +{0} मिन./चक्र
+[up_effect_auto_minutes] स्वचालित मिनट: +{0} मिन./से.
+[up_effect_cost_reduction] लागत कमी: {0}%
+[up_effect_golden_time] सुनहरी संभावना: {0}%
+[upgrade_button] अपग्रेड करें {0} {1}
+[minutes_currency] मिनट
+[theme_blue] नीला
+[theme_darkred] लाल
+[theme_minimal] काला
+[theme_neon] बैंगनी+नीला
+[theme_yellow] पीला
+[progress] प्रगति
+[unlocked] अनलॉक किया गया
+[reward] इनाम
+[time_limit] समय सीमा
+[in_progress] चल रहा है
+[complete] पूरा हो गया
+[start_challenge] चुनौती शुरू करें
+[abandon_challenge] चुनौती छोड़ें
+[no_time_limit] कोई समय सीमा नहीं
+[rebirth_info] पुनर्जन्म जानकारी
+[rebirth_upgrades_tab] पुनर्जन्म अपग्रेड
+[time_fragment_upgrades] समय खंड अपग्रेड
+[sdv_challenges] SDV चुनौतियां
+[time_rebirth_points] समय पुनर्जन्म पॉइंट (SDP)
+[time_fragments] समय खंड (VDP)
+[rebirth_count] पुनर्जन्म संख्या
+[fragment_reset_count] खंड रीसेट संख्या
+[time_rebirth] समय पुनर्जन्म
+[get_time_fragments] समय खंड प्राप्त करें
+[current_rebirth_gain] वर्तमान पुनर्जन्म से प्राप्ति:
+[sdp_label] SDP
+[rebirth_desc] समय पुनर्जन्म वर्तमान रन को रीसेट करता है और SDP देता है, जिसे पुनर्जन्म अपग्रेड खरीदने के लिए उपयोग किया जा सकता है। समय खंड प्राप्त करने से SDP खर्च होता है और VDP बढ़ता है।
+[sdv_challenge_note] SDV चुनौतियां मुख्य चुनौतियों से स्वतंत्र हैं, पूरी होने पर विशेष पुनर्जन्म इनाम देती हैं।
+[time_rebirth_upgrades_desc] पुनर्जन्म लाभ और विशेष क्षमताओं को बढ़ाने के लिए SDP से समय पुनर्जन्म अपग्रेड खरीदें।
+[time_fragment_upgrades_desc] सेकंड उत्पादन, मिनट प्राप्ति और पुनर्जन्म दक्षता को मजबूत करने के लिए VDP से समय खंड अपग्रेड खरीदें।
+[booster_level] बूस्टर लेवल
+[sdv_challenge_desc] SDV चुनौतियां सामान्य चुनौतियों से स्वतंत्र हैं, पूरी होने पर विशेष पुनर्जन्म बोनस देती हैं। एक समय में केवल एक चुनौती चल सकती है, छोड़कर फिर से चुनी जा सकती है।
+[current_sdv_challenge] वर्तमान SDV चुनौती
+[completed_sdv_challenges] पूरी हुई SDV चुनौतियां
+[none] कुछ नहीं
+[game_stats] खेल आंकड़े
+[total_accumulated_seconds] कुल संचित सेकंड
+[current_speed_multiplier] वर्तमान गति गुणक
+[highest_second_speed] उच्चतम सेकंड गति
+[current_minutes] वर्तमान मिनट
+[current_seconds] वर्तमान सेकंड
+[total_rebirths] कुल पुनर्जन्म
+[current_sdp] वर्तमान SDP
+[current_vdp] वर्तमान VDP
+[total_current_upgrades] कुल वर्तमान अपग्रेड
+[total_current_rebirth_upgrades] कुल वर्तमान पुनर्जन्म अपग्रेड
+[current_challenges_completed] वर्तमान में पूरी हुई चुनौतियां
+[save_created_time] सेव बनाई गई थी
+[save_elapsed_time] सेव से बीता समय
+[current_theme] वर्तमान थीम
+[footer_text] समय के साथ आगे बढ़ें - BY
+[speed_boost] गति बढ़ावा
+[speed_boost_desc] हर लेवल स्थायी रूप से +0.1x मूल गति बढ़ाता है
+[auto_seconds] स्वचालित सेकंड
+[auto_seconds_desc] हर लेवल प्रति सेकंड स्वचालित रूप से 0.1 सेकंड देता है
+[extra_minutes] अतिरिक्त मिनट
+[extra_minutes_desc] हर लेवल प्रति सेकंड 0.01 मिनट अतिरिक्त देता है
+[speed_multiplier] गति गुणन
+[speed_multiplier_desc] हर लेवल गति गुणक को 10% बढ़ाता है
+[minute_multiplier] मिनट गुणन
+[minute_multiplier_desc] हर लेवल मिनट प्राप्ति गुणक को 10% बढ़ाता है
+[cycle_bonus] चक्र इनाम
+[cycle_bonus_desc] प्रति चक्र 1 अतिरिक्त मिनट
+[auto_minutes] स्वचालित मिनट
+[auto_minutes_desc] हर लेवल प्रति सेकंड स्वचालित रूप से 0.01 मिनट देता है
+[cost_optimization] लागत अनुकूलन
+[cost_optimization_desc] हर लेवल सभी अपग्रेड लागत को 5% कम करता है
+[golden_time] सुनहरा समय
+[golden_time_desc] हर लेवल दोहरा इनाम प्राप्त करने की संभावना को 1% बढ़ाता है
+[upgrade] अपग्रेड करें
+[completed] पूरा हो गया
+[purchase] खरीदें
+[need_purchase_previous] पहले पिछला आइटम खरीदें
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] चुनौती मोड
+[current_challenge] वर्तमान चुनौती
+[remaining_time] शेष समय
+[exit_challenge] चुनौती से बाहर निकलें
+[welcome_challenge] चुनौती मोड में आपका स्वागत है!
+[challenge_desc_text] चुनौती मोड में आपको विभिन्न प्रतिबंधों और लक्ष्यों का सामना करना पड़ेगा। सफलतापूर्वक पूरा करने से स्थायी इनाम मिलते हैं!
+[challenge_rules_title] चुनौती नियम:
+[challenge_rule1] चुनौती मोड में कोई अपग्रेड नहीं खरीद सकते
+[challenge_rule2] चुनौतियों की समय सीमा या विशेष शर्तें होती हैं
+[challenge_rule3] असफलता या बाहर निकलने से वर्तमान प्रगति रीसेट हो जाती है
+[challenge_rule4] सफलतापूर्वक पूरा करने से स्थायी इनाम मिलता है
+[enter_challenge_mode] चुनौती मोड में प्रवेश करें
+[target] लक्ष्य:
+[time_format] मिन
+[rebirth_need_minutes] समय पुनर्जन्म के लिए कम से कम 10 मिनट चाहिए।
+[rebirth_success] समय पुनर्जन्म सफल, प्राप्त हुआ:
+[vdp_need_sdp] समय खंड प्राप्त करने के लिए कम से कम 1000 SDP चाहिए।
+[vdp_cannot_obtain] वर्तमान में समय खंड प्राप्त नहीं कर सकते।
+[vdp_obtained] प्राप्त हुआ
+[time_fragments_obtained] समय खंड!
+[abandon_sdv_confirm] क्या आप वाकई वर्तमान SDV चुनौती छोड़ना चाहते हैं?
+[sdv_started] SDV चुनौती शुरू हुई:
+[sdv_unlock_hint] अनलॉक करने के लिए संबंधित SDV पुनर्जन्म अपग्रेड खरीदें
+[challenge_failed] चुनौती असफल! समय समाप्त हो गया।
+[speed_calc_error] गति गणना में त्रुटि, डिफ़ॉल्ट मान बहाल किया गया:
+[speed_calc_error_hint] यह सेव डेटा खराब होने के कारण हो सकता है।
+[seconds_per_second] से./से.
+[minutes_per_second] मिन./से.
+[minutes_per_cycle] मिन./चक्र
+[minutes_per_second_auto] मिन./से.
+[seconds] सेकंड
+[locked_status] लॉक किया गया
+[start_sdv] SDV शुरू करें
+[abandon_sdv] SDV छोड़ें
+[rebirth_gain_sdp] समय पुनर्जन्म (प्राप्त हुआ {0} SDP)
+[upgrade_completed] पूरा हो गया
+[purchase_button] खरीदें {0} {1}
+[rebirth_button_text] समय पुनर्जन्म (प्राप्त हुआ {0} SDP)
+[insufficient_funds] बैलेंस अपर्याप्त
+[unit_seconds_per_second] से./से.
+[yes] हां
+[no] नहीं
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] इंटरफेस भाषा चुनें
+[load_language_fail] भाषा लोड करने में विफल
+[change_language] भाषा बदलें
+[choose_language] भाषा चुनें
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

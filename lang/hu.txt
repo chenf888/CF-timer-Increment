@@ -1,0 +1,340 @@
+[game_title] Időmérő Növelés
+[version_text] Jelenlegi verzió 1.4.2
+[join_us] Csatlakozz hozzánk
+[about] Névjegy
+[about_title] Névjegy az Időmérő Növelésről
+[about_desc] Ez egy időnövelős játék. A játékosok felgyorsítják az idő felhalmozását feltételek vásárlásával és kihívások teljesítésével, és élvezik a lassuból robbanásszerű növekedést.
+[author] Szerző:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Játéktipp:
+[gameplay_text] Először fejleszd a sebességet és az automatikus percet, majd gyűjtsd össze a ciklusjutalmakat és az aranyidőt, hogy gyorsabban szerezz percek.
+[acknowledgment] Elismerések:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Köszönöm minden támogató és visszajelzést adó játékosnak!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Biztosan kilép a kihívás módból? A jelenlegi folyamat elvész.
+[exit_challenge_success] Kiléptél a kihívás módból.
+[enter_challenge_success] Beléptél a kihívás módba! Most választhatsz és indíthatsz kihívást.
+[resume] Folytatás
+[play] Indítás
+[pause] Szünet
+[export_prompt] Másold le az alábbi mentési kódot:
+[export_prompt_raw] Másold le az alábbi eredeti mentést:
+[import_prompt] Illeszd be a mentési karakterláncot:
+[import_success] Import sikeres! A játék hamarosan frissül.
+[import_error] Érvénytelen mentés, nem elemezhető! Ellenőrizd, hogy teljesen másoltad-e. Hiba:
+[delete_confirm] ⚠️ Figyelmeztetés: Ez a művelet véglegesen törli az összes játékadatot, beleértve a mentést, eredmények folyamatát, kattintás előzményeit, mérföldköveket és egyebeket.
+
+Biztosan teljesen törölsz és újra kezdesz?
+[delete_success] Minden adat véglegesen törölve!
+[time_day] nap
+[time_hour] óra
+[time_minute] perc
+[time_second] másodperc
+[tab_timer] Időmérő
+[tab_upgrades] Feltételek
+[tab_achievements] Eredmények
+[tab_challenges] Kihívások
+[tab_rebirth] Újra születés
+[tab_stats] Statisztika
+[tab_settings] Beállítások
+[settings_title] Játék beállítások
+[save_management] Mentéskezelés
+[export_save] Mentés exportálása
+[import_save] Mentés importálása
+[interface_theme] Felület téma
+[theme_desc] Vizuális stílusok váltása
+[danger_operations] Veszélyes műveletek
+[delete_save] Mentés törlése és újra kezdés
+[delete_save_desc] Teljesen törli az összes játékadatot (mentés, eredmények, kattintás előzmények stb.). Ez a művelet nem vonható vissza!
+[current_minute_seconds] Jelenlegi perc másodpercei
+[accumulated_seconds] Összegyűjtött másodpercek
+[completed_cycles] Befejezett ciklusok
+[current_multiplier] Jelenlegi szorzó
+[minutes_owned] Birtokolt percek:
+[basic_upgrades] Alap feltételek
+[advanced_upgrades] Haladó feltételek
+[expert_upgrades] Szakértői feltételek
+[ach_first_step_title] Első lépés
+[ach_first_step_desc] Vásárold meg az első feltételt
+[ach_one_hour_title] Egy óra!
+[ach_one_hour_desc] Az összidő eléri 1 órát
+[ach_time_traveler_title] Időutazó
+[ach_time_traveler_desc] Az összidő eléri 10000 másodpercet
+[ach_100_minutes_title] 100 perc emlék
+[ach_100_minutes_desc] Birtokolj 100 percet
+[ach_1000_minutes_title] 1000 perc legenda
+[ach_1000_minutes_desc] Birtokolj 1000 percet
+[ach_start_cycle_title] Ciklus indítása
+[ach_start_cycle_desc] Befejezd 1 ciklust
+[ach_time_controller_title] Időirányító
+[ach_time_controller_desc] Érd el 3,0x-szorzót vagy magasabbat
+[ach_time_accelerator_title] Időgyorsító
+[ach_time_accelerator_desc] Érd el 5,0x-szorzót
+[ach_extreme_speed_title] Extrem sebesség
+[ach_extreme_speed_desc] Érd el 10,0x sebességszorzót
+[ach_meteor_acceleration_title] Meteor gyorsulás
+[ach_meteor_acceleration_desc] Érd el 25,0x sebességszorzót
+[ach_prestige_beginning_title] Prestí Kezdete
+[ach_prestige_beginning_desc] Birtokolj 1000 SDP-t
+[ach_fragment_obtained_title] Idődarab megszerezte
+[ach_fragment_obtained_desc] Szerezz 1 idődarabot (VDP)
+[ach_first_rebirth_title] Első újraszületés
+[ach_first_rebirth_desc] Befejezd 1 időújraszületést
+[ach_fragment_reset_title] Darab alaphelyzet
+[ach_fragment_reset_desc] Befejezd 1 idődarab alaphelyzetet
+[ach_fragment_upgrader_title] Darab fejlesztő
+[ach_fragment_upgrader_desc] Vásárold meg 1 idődarab feltételt
+[ach_fragment_craftsman_title] Darab szakács
+[ach_fragment_craftsman_desc] Vásárold meg 5 idődarab feltételt
+[ach_challenge_door_title] Kihívás kapuja
+[ach_challenge_door_desc] Befejezd 1 kihívást
+[ach_challenge_master_title] Kihívás mester
+[ach_challenge_master_desc] Befejezd 3 kihívást
+[ach_ultimate_challenge_title] Végső kihívás
+[ach_ultimate_challenge_desc] Befejezd 5 kihívást
+[ach_hundred_year_solitude_title] száz éves magány
+[ach_hundred_year_solitude_desc] Befejezd 52560000 ciklust (perc)
+[ch_speed_demon_title] Sebesség démon
+[ch_speed_demon_desc] Érd el 25x sebességszorzót 3 perc alatt
+[ch_speed_demon_reward] Állandó +1,0x alap sebesség
+[ch_time_master_title] Idő mester
+[ch_time_master_desc] Befejezd 200 ciklust 2 perc alatt
+[ch_time_master_reward] Ciklusjutalom feltétel feloldása
+[ch_efficiency_expert_title] Hatékonyság szakértő
+[ch_efficiency_expert_desc] Érd el 100x sebességszorzót kevesebb, mint 1000 perccel
+[ch_efficiency_expert_reward] Költséghatékonyság feltétel feloldása
+[ch_minimalist_master_title] Minimalista mester
+[ch_minimalist_master_desc] Érd el 5000 másodperc összidőt anélkül, hogy vásárolnál feltételt
+[ch_minimalist_master_reward] Automatikus perc feltétel feloldása
+[ch_golden_chaser_title] Aranyvadász
+[ch_golden_chaser_desc] Aktiváld az aranyidőt 5-szer 10 perc alatt
+[ch_golden_chaser_reward] Állandó +5% aranyidő esély
+[up_speed_boost_name] Sebesség erősítés
+[up_speed_boost_desc] Minden szint állandóan +0,1x alap sebességet ad
+[up_auto_seconds_name] Automatikus másodpercek
+[up_auto_seconds_desc] Minden szint automatikusan 0,1 másodpercet ad másodpercenként
+[up_minute_boost_name] Extra percek
+[up_minute_boost_desc] Minden szint extra 0,01 percet ad másodpercenként
+[up_speed_multiplier_name] Sebesség szorzás
+[up_speed_multiplier_desc] Minden szint 10%-kal növeli a sebességszorzót
+[up_minute_multiplier_name] Perc szorzás
+[up_minute_multiplier_desc] Minden szint 10%-kal növeli a percnyerési szorzót
+[up_cycle_bonus_name] Ciklusjutalom
+[up_cycle_bonus_desc] 1 extra perc minden ciklushoz
+[up_auto_minutes_name] Automatikus percek
+[up_auto_minutes_desc] Minden szint automatikusan 0,01 percet ad másodpercenként
+[up_cost_reduction_name] Költségcsökkentés
+[up_cost_reduction_desc] Minden szint 5%-kal csökkenti az összes feltétel költségét
+[up_golden_time_name] Aranyidő
+[up_golden_time_desc] Minden szint 1%-kal növeli a dupla jutalom esélyét
+[reb1_name] Időújraszületés Feltétel 1
+[reb1_desc] Újraszületés után ×2 másodperc nyerés, sebesség erősítés 0,15 lesz
+[reb2_name] Időújraszületés Feltétel 2
+[reb2_desc] Tartsd meg a sebesség erősítés 3. szintjét újraszületéskor, a percek növelik a másodperc sebességet
+[reb3_name] Időújraszületés Feltétel 3
+[reb3_desc] ×2,5 másodperc nyerés, minden perc +0,01-t ad a másodperc szorzóhoz
+[reb4_name] Időújraszületés Feltétel 4
+[reb4_desc] Növeli a másodperc termelést a birtokolt percek négyzetgyöke alapján
+[reb5_name] Időújraszületés Feltétel 5
+[reb5_desc] SDV1 kihívás feloldása
+[reb6_name] Időújraszületés Feltétel 6
+[reb6_desc] Konverter feloldása, 60 másodperc = 1 perc → 1 + √(újraszületések száma) szor
+[reb7_name] Időújraszületés Feltétel 7
+[reb7_desc] SDV2 feloldása és termelés növelése
+[reb8_name] Időújraszületés Feltétel 8
+[reb8_desc] Ponttermelés ×7,8 (SDV2 teljesítése szükséges)
+[reb9_name] Időújraszületés Feltétel 9
+[reb9_desc] Minden vásárolt SDP feltétel +0,02-t ad a sebesség erősítéshez
+[reb10_name] Időújraszületés Feltétel 10
+[reb10_desc] SDV3 kihívás feloldása
+[reb11_name] Időújraszületés Feltétel 11
+[reb11_desc] SDP nyerés megduplázódik, növeli a másodperc nyerést az SDP alapján
+[vdp11_name] Idődarab Feltétel 1-1
+[vdp11_desc] ×2 másodperc termelés, ×2 SDP nyerés
+[vdp12_name] Idődarab Feltétel 1-2
+[vdp12_desc] ×3 perc nyerés
+[vdp21_name] Idődarab Feltétel 2-1
+[vdp21_desc] Növeli a másodperc termelést a birtokolt percek alapján: ×(1 + percek^0,6)
+[vdp22_name] Idődarab Feltétel 2-2
+[vdp22_desc] Növeli a másodperc termelést az aktuális SDP alapján: ×(1 + SDP^0,7)
+[vdp23_name] Idődarab Feltétel 2-3
+[vdp23_desc] Növeli a perc nyerést az aktuális SDP alapján: ×(1 + SDP^0,55)
+[vdp33_name] Idődarab Feltétel 3-3
+[vdp33_desc] Minden teljesített kihívás +0,02-t ad a másodperc termeléshez
+[vdp41_name] Felerősítő feloldása
+[vdp41_desc] Felerősítő rendszer feloldása extra bónuszokhoz
+[sdv1_title] SDV1
+[sdv1_desc] 1 perc = 120 másodperc, SDP alaphelyzet, minden feltétel figyelmen kívül hagyása. Cél: 7777 másodperc teljesítése.
+[sdv1_reward] Teljesítés után 1 perc 40 másodperc lesz
+[sdv2_title] SDV2
+[sdv2_desc] SDV2 feloldása, +0,05 sebesség erősítés, extra perc termelés hatékonysága megduplázódik.
+[sdv2_reward] Növeli az SDV2 exkluzív termelési kapacitást
+[sdv3_title] SDV3
+[sdv3_desc] Állandó lágy korlát a kihívásban, termelés ^0,8125. Cél: 2125 másodperc teljesítése.
+[sdv3_reward] Teljesítés után 25% esély dupla percre minden percben
+[current_bonus] Jelenlegi bónusz
+[current_income] Jelenlegi bevétel
+[current_multiplier_label] Jelenlegi szorzó
+[cycle_reward] Ciklusjutalom
+[cost_reduced] Költség csökkentve
+[golden_probability] Arany esély
+[speed] Sebesség
+[minutes_short] perc
+[up_effect_speed] Jelenlegi bónusz: +{0}x sebesség
+[up_effect_auto_seconds] Jelenlegi bevétel: +{0} mp/mp
+[up_effect_minute_boost] Jelenlegi bevétel: +{0} perc/mp
+[up_effect_speed_multiplier] Jelenlegi szorzó: ×{0} sebesség
+[up_effect_minute_multiplier] Jelenlegi szorzó: ×{0} perc
+[up_effect_cycle_bonus] Ciklusjutalom: +{0} perc/ciklus
+[up_effect_auto_minutes] Automatikus percek: +{0} perc/mp
+[up_effect_cost_reduction] Költségcsökkentés: {0}%
+[up_effect_golden_time] Arany esély: {0}%
+[upgrade_button] Fejlesztés {0} {1}
+[minutes_currency] perc
+[theme_blue] Kék
+[theme_darkred] Piros
+[theme_minimal] Fekete
+[theme_neon] Lila+Kék
+[theme_yellow] Sárga
+[progress] Folyamat
+[unlocked] Feloldva
+[reward] Jutalom
+[time_limit] Időkorlát
+[in_progress] Folyamatban
+[complete] Befejezett
+[start_challenge] Kihívás indítása
+[abandon_challenge] Kihívás elhagyása
+[no_time_limit] Nincs időkorlát
+[rebirth_info] Újraszületés információ
+[rebirth_upgrades_tab] Újraszületés feltételek
+[time_fragment_upgrades] Idődarab feltételek
+[sdv_challenges] SDV kihívások
+[time_rebirth_points] Időújraszületés pontok (SDP)
+[time_fragments] Idődarabok (VDP)
+[rebirth_count] Újraszületések száma
+[fragment_reset_count] Darab alaphelyzetek száma
+[time_rebirth] Időújraszületés
+[get_time_fragments] Idődarabok megszerezése
+[current_rebirth_gain] Jelenlegi újraszületés haszon:
+[sdp_label] SDP
+[rebirth_desc] Az időújraszületés alaphelyzetbe állítja a jelenlegi futást és SDP-t ad, amely újraszületés feltételek vásárlására használható. Az idődarabok megszerezése SDP-t költi és növeli a VDP-t.
+[sdv_challenge_note] Az SDV kihívások függetlenek a fő kihívásoktól, exkluzív újraszületés jutalmakat adnak teljesítés után.
+[time_rebirth_upgrades_desc] Használj SDP-t időújraszületés feltételek vásárlásához az újraszületés haszon és speciális képességek növeléséhez.
+[time_fragment_upgrades_desc] Használj VDP-t idődarab feltételek vásárlásához a másodperc termelés, perc nyerés és újraszületés hatékonyság erősítéséhez.
+[booster_level] Felerősítő szint
+[sdv_challenge_desc] Az SDV kihívások függetlenek a szokásos kihívásoktól, speciális újraszületés bónuszokat adnak teljesítés után. Egyszerre csak egy kihívás futhat, elhagyható és újra választható.
+[current_sdv_challenge] Jelenlegi SDV kihívás
+[completed_sdv_challenges] Befejezett SDV kihívások
+[none] Nincs
+[game_stats] Játék statisztika
+[total_accumulated_seconds] Teljes összegyűjtött másodpercek
+[current_speed_multiplier] Jelenlegi sebességszorzó
+[highest_second_speed] Legmagasabb másodperc sebesség
+[current_minutes] Jelenlegi percek
+[current_seconds] Jelenlegi másodpercek
+[total_rebirths] Teljes újraszületések száma
+[current_sdp] Jelenlegi SDP
+[current_vdp] Jelenlegi VDP
+[total_current_upgrades] Teljes jelenlegi feltételek száma
+[total_current_rebirth_upgrades] Teljes jelenlegi újraszületés feltételek száma
+[current_challenges_completed] Jelenleg befejezett kihívások
+[save_created_time] Mentés létrehozva
+[save_elapsed_time] Eltelt idő a mentés óta
+[current_theme] Jelenlegi téma
+[footer_text] Előre az idővel - BY
+[speed_boost] Sebesség erősítés
+[speed_boost_desc] Minden szint állandóan +0,1x alap sebességet ad
+[auto_seconds] Automatikus másodpercek
+[auto_seconds_desc] Minden szint automatikusan 0,1 másodpercet ad másodpercenként
+[extra_minutes] Extra percek
+[extra_minutes_desc] Minden szint extra 0,01 percet ad másodpercenként
+[speed_multiplier] Sebesség szorzás
+[speed_multiplier_desc] Minden szint 10%-kal növeli a sebességszorzót
+[minute_multiplier] Perc szorzás
+[minute_multiplier_desc] Minden szint 10%-kal növeli a percnyerési szorzót
+[cycle_bonus] Ciklusjutalom
+[cycle_bonus_desc] 1 extra perc minden ciklushoz
+[auto_minutes] Automatikus percek
+[auto_minutes_desc] Minden szint automatikusan 0,01 percet ad másodpercenként
+[cost_optimization] Költséghatékonyság
+[cost_optimization_desc] Minden szint 5%-kal csökkenti az összes feltétel költségét
+[golden_time] Aranyidő
+[golden_time_desc] Minden szint 1%-kal növeli a dupla jutalom esélyét
+[upgrade] Fejlesztés
+[completed] Befejezett
+[purchase] Vásárlás
+[need_purchase_previous] Először vásárold meg az előző elemet
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Kihívás mód
+[current_challenge] Jelenlegi kihívás
+[remaining_time] Hátra lévő idő
+[exit_challenge] Kihívás elhagyása
+[welcome_challenge] Üdvözöllek a kihívás módban!
+[challenge_desc_text] A kihívás módban különféle korlátozásokkal és célokkal találkozol. Sikeres teljesítés állandó jutalmakat ad!
+[challenge_rules_title] Kihívás szabályok:
+[challenge_rule1] Nem vásárolhatsz feltételt a kihívás módban
+[challenge_rule2] A kihívásoknak időkorlátja vagy speciális feltételei vannak
+[challenge_rule3] Sikertelenség vagy kilépés alaphelyzetbe állítja a folyamatot
+[challenge_rule4] Sikeres teljesítés állandó jutalmat ad
+[enter_challenge_mode] Belépés a kihívás módba
+[target] Cél:
+[time_format] perc
+[rebirth_need_minutes] Legalább 10 perc szükséges az időújraszületéshez.
+[rebirth_success] Időújraszületés sikeres, kapott:
+[vdp_need_sdp] Legalább 1000 SDP szükséges az idődarabokhoz.
+[vdp_cannot_obtain] Jelenleg nem szerezhetsz idődarabokat.
+[vdp_obtained] Megszerzett
+[time_fragments_obtained] idődarabot!
+[abandon_sdv_confirm] Biztosan elhagyod a jelenlegi SDV kihívást?
+[sdv_started] SDV kihívás indítva:
+[sdv_unlock_hint] A megfelelő SDV újraszületés feltétel vásárlása szükséges a feloldáshoz
+[challenge_failed] Kihívás sikertelen! Az idő lejárt.
+[speed_calc_error] Sebesség számítási hiba, alapérték visszaállítva:
+[speed_calc_error_hint] Ez a mentési adatok sérülése miatt fordulhat elő.
+[seconds_per_second] mp/mp
+[minutes_per_second] perc/mp
+[minutes_per_cycle] perc/ciklus
+[minutes_per_second_auto] perc/mp
+[seconds] másodperc
+[locked_status] Zárolva
+[start_sdv] SDV indítása
+[abandon_sdv] SDV elhagyása
+[rebirth_gain_sdp] Időújraszületés (kapcs {0} SDP-t)
+[upgrade_completed] Befejezett
+[purchase_button] Vásárlás {0} {1}
+[rebirth_button_text] Időújraszületés (kapcs {0} SDP-t)
+[insufficient_funds] Elégtelen egyenleg
+[unit_seconds_per_second] mp/mp
+[yes] Igen
+[no] Nem
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Válaszd ki a felület nyelvét
+[load_language_fail] Nyelv betöltése sikertelen
+[change_language] Nyelv változtatása
+[choose_language] Nyelv választása
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

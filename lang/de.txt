@@ -1,0 +1,340 @@
+[game_title] Zeitinkrement
+[version_text] Aktuelle Version 1.4.2
+[join_us] Mitmachen
+[about] Über
+[about_title] Über Zeitinkrement
+[about_desc] Dies ist ein Zeitinkrementspiel. Spieler beschleunigen die Zeitansammlung durch Upgrades und Herausforderungen und erleben das Wachstum von langsam zu explosiv.
+[author] Autor:
+[author_name] 陈风就是浪(QQ 399095982)
+[gameplay_tip] Spieltipp:
+[gameplay_text] Verbessere zuerst Geschwindigkeit und automatische Minuten, sammle dann Zyklusbelohnungen und Goldene Zeit, um schneller Minuten zu erhalten.
+[acknowledgment] Danksagung:
+[acknowledgment_names] anzero(QQ 3993298503) 一个增量的人(QQ 2481258834) 一个刷号的人(QQ 3605754861)
+[thanks] Danke an alle Spieler für Unterstützung und Feedback!
+[author_name_short] 陈风就是浪
+[exit_challenge_confirm] Herausforderungsmodus wirklich verlassen? Aktueller Fortschritt geht verloren.
+[exit_challenge_success] Herausforderungsmodus verlassen.
+[enter_challenge_success] Du bist im Herausforderungsmodus! Wähle und starte eine Herausforderung.
+[resume] Fortsetzen
+[play] Starten
+[pause] Pausieren
+[export_prompt] Kopiere den Speichercode unten:
+[export_prompt_raw] Kopiere den Original-Speicher unten:
+[import_prompt] Füge den Speicherstring ein:
+[import_success] Import erfolgreich! Spiel wird neu geladen.
+[import_error] Ungültiger Speicher, kann nicht geparst werden! Prüfe, ob vollständig kopiert. Fehler:
+[delete_confirm] ⚠️ Warnung: Diese Aktion löscht alle Spieldaten dauerhaft, einschließlich Speicher, Erfolge, Klickverlauf, Meilensteine u.v.m.
+
+Wirklich alles löschen und neu beginnen?
+[delete_success] Alle Daten vollständig gelöscht!
+[time_day] Tag
+[time_hour] Stunde
+[time_minute] Minute
+[time_second] Sekunde
+[tab_timer] Timer
+[tab_upgrades] Upgrades
+[tab_achievements] Erfolge
+[tab_challenges] Herausforderungen
+[tab_rebirth] Wiedergeburt
+[tab_stats] Statistik
+[tab_settings] Einstellungen
+[settings_title] Spieleinstellungen
+[save_management] Speicherverwaltung
+[export_save] Speicher exportieren
+[import_save] Speicher importieren
+[interface_theme] Oberflächenthema
+[theme_desc] Visuellen Stil wechseln
+[danger_operations] Gefährliche Aktionen
+[delete_save] Speicher löschen & neu starten
+[delete_save_desc] Löscht alle Spieldaten dauerhaft (Speicher, Erfolge, Klickverlauf usw.). Nicht rückgängig zu machen!
+[current_minute_seconds] Sekunden der aktuellen Minute
+[accumulated_seconds] Gesammelte Sekunden
+[completed_cycles] Abgeschlossene Zyklen
+[current_multiplier] Aktueller Multiplikator
+[minutes_owned] Besessene Minuten:
+[basic_upgrades] Basis-Upgrades
+[advanced_upgrades] Fortgeschrittene Upgrades
+[expert_upgrades] Experten-Upgrades
+[ach_first_step_title] Erster Schritt
+[ach_first_step_desc] Erstes Upgrade kaufen
+[ach_one_hour_title] Eine Stunde!
+[ach_one_hour_desc] Gesamte Zeit erreicht 1 Stunde
+[ach_time_traveler_title] Zeitreisender
+[ach_time_traveler_desc] Gesamte Zeit erreicht 10.000 Sekunden
+[ach_100_minutes_title] 100-Minuten-Gedenken
+[ach_100_minutes_desc] Besitze 100 Minuten
+[ach_1000_minutes_title] 1000-Minuten-Legende
+[ach_1000_minutes_desc] Besitze 1000 Minuten
+[ach_start_cycle_title] Zyklus gestartet
+[ach_start_cycle_desc] 1 Zyklus abgeschlossen
+[ach_time_controller_title] Zeitkontrolleur
+[ach_time_controller_desc] Erreiche 3,0x-Multiplikator oder höher
+[ach_time_accelerator_title] Zeitbeschleuniger
+[ach_time_accelerator_desc] Erreiche 5,0x-Multiplikator
+[ach_extreme_speed_title] Extremgeschwindigkeit
+[ach_extreme_speed_desc] Erreiche 10,0x-Geschwindigkeitsmultiplikator
+[ach_meteor_acceleration_title] Meteorbeschleunigung
+[ach_meteor_acceleration_desc] Erreiche 25,0x-Geschwindigkeitsmultiplikator
+[ach_prestige_beginning_title] Prestige-Anfang
+[ach_prestige_beginning_desc] Besitze 1000 SDP
+[ach_fragment_obtained_title] Zeitfragment erhalten
+[ach_fragment_obtained_desc] Erhalte 1 Zeitfragment (VDP)
+[ach_first_rebirth_title] Erste Wiedergeburt
+[ach_first_rebirth_desc] 1 Zeitwiedergeburt abschließen
+[ach_fragment_reset_title] Fragment-Reset
+[ach_fragment_reset_desc] 1 Zeitfragment-Reset abschließen
+[ach_fragment_upgrader_title] Fragment-Upgrader
+[ach_fragment_upgrader_desc] 1 Zeitfragment-Upgrade kaufen
+[ach_fragment_craftsman_title] Fragment-Handwerker
+[ach_fragment_craftsman_desc] 5 Zeitfragment-Upgrades kaufen
+[ach_challenge_door_title] Herausforderungstor
+[ach_challenge_door_desc] 1 Herausforderung abschließen
+[ach_challenge_master_title] Herausforderungsmeister
+[ach_challenge_master_desc] 3 Herausforderungen abschließen
+[ach_ultimate_challenge_title] Ultimative Herausforderung
+[ach_ultimate_challenge_desc] 5 Herausforderungen abschließen
+[ach_hundred_year_solitude_title] Hundertjährige Einsamkeit
+[ach_hundred_year_solitude_desc] 52.560.000 Zyklen (Minuten) abschließen
+[ch_speed_demon_title] Geschwindigkeitsdämon
+[ch_speed_demon_desc] Erreiche 25x-Geschwindigkeitsmultiplikator in 3 Minuten
+[ch_speed_demon_reward] Dauerhaft +1,0x Basisgeschwindigkeit
+[ch_time_master_title] Zeitmeister
+[ch_time_master_desc] Schließe 200 Zyklen in 2 Minuten ab
+[ch_time_master_reward] Zyklusbelohnungs-Upgrade freischalten
+[ch_efficiency_expert_title] Effizienzexperte
+[ch_efficiency_expert_desc] Erreiche 100x-Geschwindigkeitsmultiplikator mit weniger als 1000 Minuten
+[ch_efficiency_expert_reward] Kostenoptimierungs-Upgrade freischalten
+[ch_minimalist_master_title] Minimalist-Meister
+[ch_minimalist_master_desc] Erreiche 5000 Sekunden Gesamtzeit ohne Upgrades zu kaufen
+[ch_minimalist_master_reward] Automatische Minuten-Upgrade freischalten
+[ch_golden_chaser_title] Goldjäger
+[ch_golden_chaser_desc] Aktiviere Goldene Zeit 5 Mal in 10 Minuten
+[ch_golden_chaser_reward] Dauerhaft +5% Chance auf Goldene Zeit
+[up_speed_boost_name] Geschwindigkeitsverstärkung
+[up_speed_boost_desc] Jede Stufe gibt dauerhaft +0,1x Basisgeschwindigkeit
+[up_auto_seconds_name] Automatische Sekunden
+[up_auto_seconds_desc] Jede Stufe gibt automatisch 0,1 Sekunde pro Sekunde
+[up_minute_boost_name] Zusätzliche Minuten
+[up_minute_boost_desc] Jede Stufe gibt zusätzlich 0,01 Minute pro Sekunde
+[up_speed_multiplier_name] Geschwindigkeitsvervielfachung
+[up_speed_multiplier_desc] Jede Stufe erhöht Geschwindigkeitsmultiplikator um 10%
+[up_minute_multiplier_name] Minutenvervielfachung
+[up_minute_multiplier_desc] Jede Stufe erhöht Minuten-Erhaltsmultiplikator um 10%
+[up_cycle_bonus_name] Zyklusbelohnung
+[up_cycle_bonus_desc] 1 zusätzliche Minute pro Zyklus
+[up_auto_minutes_name] Automatische Minuten
+[up_auto_minutes_desc] Jede Stufe gibt automatisch 0,01 Minute pro Sekunde
+[up_cost_reduction_name] Kostenreduzierung
+[up_cost_reduction_desc] Jede Stufe senkt alle Upgrade-Kosten um 5%
+[up_golden_time_name] Goldene Zeit
+[up_golden_time_desc] Jede Stufe erhöht die Chance auf doppelte Belohnung um 1%
+[reb1_name] Zeitwiedergeburt-Upgrade 1
+[reb1_desc] Nach Wiedergeburt ×2 Sekundenerhalt, Geschwindigkeitsverstärkung wird 0,15
+[reb2_name] Zeitwiedergeburt-Upgrade 2
+[reb2_desc] Behalte Stufe 3 der Geschwindigkeitsverstärkung bei Wiedergeburt, Minuten erhöhen Sekundengeschwindigkeit
+[reb3_name] Zeitwiedergeburt-Upgrade 3
+[reb3_desc] ×2,5 Sekundenerhalt, jede Minute gibt +0,01 zum Sekundenmultiplikator
+[reb4_name] Zeitwiedergeburt-Upgrade 4
+[reb4_desc] Erhöhe Sekundenproduktion basierend auf der Quadratwurzel der besessenen Minuten
+[reb5_name] Zeitwiedergeburt-Upgrade 5
+[reb5_desc] Schalte SDV1-Herausforderung frei
+[reb6_name] Zeitwiedergeburt-Upgrade 6
+[reb6_desc] Schalte Umrichter frei, 60 Sekunden = 1 Minute wird 1 + √(Anzahl Wiedergeburten) fach
+[reb7_name] Zeitwiedergeburt-Upgrade 7
+[reb7_desc] Schalte SDV2 frei und erhöhe Produktion
+[reb8_name] Zeitwiedergeburt-Upgrade 8
+[reb8_desc] Punkteproduktion ×7,8 (erfordert SDV2 abgeschlossen)
+[reb9_name] Zeitwiedergeburt-Upgrade 9
+[reb9_desc] Jede gekaufte SDP-Upgrade gibt +0,02 zur Geschwindigkeitsverstärkung
+[reb10_name] Zeitwiedergeburt-Upgrade 10
+[reb10_desc] Schalte SDV3-Herausforderung frei
+[reb11_name] Zeitwiedergeburt-Upgrade 11
+[reb11_desc] SDP-Erhalt verdoppelt, erhöhe Sekundenerhalt basierend auf SDP
+[vdp11_name] Zeitfragment-Upgrade 1-1
+[vdp11_desc] ×2 Sekundenproduktion, ×2 SDP-Erhalt
+[vdp12_name] Zeitfragment-Upgrade 1-2
+[vdp12_desc] ×3 Minutenerhalt
+[vdp21_name] Zeitfragment-Upgrade 2-1
+[vdp21_desc] Erhöhe Sekundenproduktion basierend auf besessenen Minuten: ×(1 + Minuten^0,6)
+[vdp22_name] Zeitfragment-Upgrade 2-2
+[vdp22_desc] Erhöhe Sekundenproduktion basierend auf aktuellem SDP: ×(1 + SDP^0,7)
+[vdp23_name] Zeitfragment-Upgrade 2-3
+[vdp23_desc] Erhöhe Minutenerhalt basierend auf aktuellem SDP: ×(1 + SDP^0,55)
+[vdp33_name] Zeitfragment-Upgrade 3-3
+[vdp33_desc] Jede abgeschlossene Herausforderung gibt +0,02 zur Sekundenproduktion
+[vdp41_name] Booster freischalten
+[vdp41_desc] Schalte Boostersystem für zusätzliche Boni frei
+[sdv1_title] SDV1
+[sdv1_desc] 1 Minute = 120 Sekunden, SDP zurücksetzen, alle Upgrades ignorieren. Ziel: 7777 Sekunden abschließen.
+[sdv1_reward] Nach Abschluss wird 1 Minute zu 40 Sekunden
+[sdv2_title] SDV2
+[sdv2_desc] Schalte SDV2 frei, +0,05 Geschwindigkeitsverstärkung, verdoppelte Effizienz bei zusätzlicher Minutenproduktion.
+[sdv2_reward] Erhöhe SDV2-exklusive Produktionskapazität
+[sdv3_title] SDV3
+[sdv3_desc] Ständige weiche Obergrenze in der Herausforderung, Produktion ^0,8125. Ziel: 2125 Sekunden abschließen.
+[sdv3_reward] Nach Abschluss 25% Chance auf doppelte Minute pro Minute
+[current_bonus] Aktueller Bonus
+[current_income] Aktuelles Einkommen
+[current_multiplier_label] Aktueller Multiplikator
+[cycle_reward] Zyklusbelohnung
+[cost_reduced] Kosten reduziert
+[golden_probability] Goldchance
+[speed] Geschwindigkeit
+[minutes_short] Min
+[up_effect_speed] Aktueller Bonus: +{0}x Geschwindigkeit
+[up_effect_auto_seconds] Aktuelles Einkommen: +{0} s/s
+[up_effect_minute_boost] Aktuelles Einkommen: +{0} Min/s
+[up_effect_speed_multiplier] Aktueller Multiplikator: ×{0} Geschwindigkeit
+[up_effect_minute_multiplier] Aktueller Multiplikator: ×{0} Minuten
+[up_effect_cycle_bonus] Zyklusbelohnung: +{0} Min/Zyklus
+[up_effect_auto_minutes] Automatische Minuten: +{0} Min/s
+[up_effect_cost_reduction] Kostenreduzierung: {0}%
+[up_effect_golden_time] Goldchance: {0}%
+[upgrade_button] Upgrade {0} {1}
+[minutes_currency] Minuten
+[theme_blue] Blau
+[theme_darkred] Rot
+[theme_minimal] Schwarz
+[theme_neon] Lila+Blau
+[theme_yellow] Gelb
+[progress] Fortschritt
+[unlocked] Freigeschaltet
+[reward] Belohnung
+[time_limit] Zeitlimit
+[in_progress] Laufend
+[complete] Abgeschlossen
+[start_challenge] Herausforderung starten
+[abandon_challenge] Herausforderung aufgeben
+[no_time_limit] Kein Zeitlimit
+[rebirth_info] Wiedergeburtsinfo
+[rebirth_upgrades_tab] Wiedergeburts-Upgrades
+[time_fragment_upgrades] Zeitfragment-Upgrades
+[sdv_challenges] SDV-Herausforderungen
+[time_rebirth_points] Zeitwiedergeburtspunkte (SDP)
+[time_fragments] Zeitfragmente (VDP)
+[rebirth_count] Anzahl Wiedergeburten
+[fragment_reset_count] Anzahl Fragment-Resets
+[time_rebirth] Zeitwiedergeburt
+[get_time_fragments] Zeitfragmente erhalten
+[current_rebirth_gain] Aktueller Wiedergeburtsgewinn:
+[sdp_label] SDP
+[rebirth_desc] Zeitwiedergeburt setzt aktuellen Lauf zurück und gibt SDP, nutzbar für Wiedergeburts-Upgrades. Erhalten von Zeitfragmenten kostet SDP und erhöht VDP.
+[sdv_challenge_note] SDV-Herausforderungen sind unabhängig von Haupt-Herausforderungen, geben exklusive Wiedergeburtsbelohnungen.
+[time_rebirth_upgrades_desc] Kaufe Zeitwiedergeburts-Upgrades mit SDP, um Wiedergeburtsgewinne und spezielle Fähigkeiten zu erhöhen.
+[time_fragment_upgrades_desc] Kaufe Zeitfragment-Upgrades mit VDP, um Sekundenproduktion, Minutenerhalt und Wiedergeburtseffizienz zu stärken.
+[booster_level] Booster-Stufe
+[sdv_challenge_desc] SDV-Herausforderungen unabhängig; nur eine gleichzeitig, aufgebbar und neu wählbar.
+[current_sdv_challenge] Aktuelle SDV-Herausforderung
+[completed_sdv_challenges] Abgeschlossene SDV-Herausforderungen
+[none] Keine
+[game_stats] Spielstatistik
+[total_accumulated_seconds] Gesamte gesammelte Sekunden
+[current_speed_multiplier] Aktueller Geschwindigkeitsmultiplikator
+[highest_second_speed] Höchste Sekundengeschwindigkeit
+[current_minutes] Aktuelle Minuten
+[current_seconds] Aktuelle Sekunden
+[total_rebirths] Gesamte Wiedergeburten
+[current_sdp] Aktuelles SDP
+[current_vdp] Aktuelles VDP
+[total_current_upgrades] Gesamte aktuelle Upgrades
+[total_current_rebirth_upgrades] Gesamte aktuelle Wiedergeburts-Upgrades
+[current_challenges_completed] Aktuell abgeschlossene Herausforderungen
+[save_created_time] Speicher erstellt am
+[save_elapsed_time] Zeit seit Speichern
+[current_theme] Aktuelles Thema
+[footer_text] Vorwärts mit der Zeit - BY
+[speed_boost] Geschwindigkeitsverstärkung
+[speed_boost_desc] Jede Stufe gibt dauerhaft +0,1x Basisgeschwindigkeit
+[auto_seconds] Automatische Sekunden
+[auto_seconds_desc] Jede Stufe gibt automatisch 0,1 Sekunde pro Sekunde
+[extra_minutes] Zusätzliche Minuten
+[extra_minutes_desc] Jede Stufe gibt zusätzlich 0,01 Minute pro Sekunde
+[speed_multiplier] Geschwindigkeitsvervielfachung
+[speed_multiplier_desc] Jede Stufe erhöht Geschwindigkeitsmultiplikator um 10%
+[minute_multiplier] Minutenvervielfachung
+[minute_multiplier_desc] Jede Stufe erhöht Minuten-Erhaltsmultiplikator um 10%
+[cycle_bonus] Zyklusbelohnung
+[cycle_bonus_desc] 1 zusätzliche Minute pro Zyklus
+[auto_minutes] Automatische Minuten
+[auto_minutes_desc] Jede Stufe gibt automatisch 0,01 Minute pro Sekunde
+[cost_optimization] Kostenoptimierung
+[cost_optimization_desc] Jede Stufe senkt alle Upgrade-Kosten um 5%
+[golden_time] Goldene Zeit
+[golden_time_desc] Jede Stufe erhöht die Chance auf doppelte Belohnung um 1%
+[upgrade] Upgrade
+[completed] Abgeschlossen
+[purchase] Kaufen
+[need_purchase_previous] Zuerst vorheriges Item kaufen
+[sdp_currency] SDP
+[vdp_currency] VDP
+[challenge_mode_title] Herausforderungsmodus
+[current_challenge] Aktuelle Herausforderung
+[remaining_time] Verbleibende Zeit
+[exit_challenge] Herausforderung verlassen
+[welcome_challenge] Willkommen im Herausforderungsmodus!
+[challenge_desc_text] Im Herausforderungsmodus erwarten dich Einschränkungen und Ziele. Erfolgreicher Abschluss gibt dauerhafte Belohnungen!
+[challenge_rules_title] Herausforderungsregeln:
+[challenge_rule1] Keine Upgrades im Herausforderungsmodus kaufbar
+[challenge_rule2] Herausforderungen haben Zeitlimit oder spezielle Bedingungen
+[challenge_rule3] Misserfolg oder Verlassen setzt Fortschritt zurück
+[challenge_rule4] Erfolgreicher Abschluss gibt dauerhafte Belohnung
+[enter_challenge_mode] Herausforderungsmodus betreten
+[target] Ziel:
+[time_format] Min
+[rebirth_need_minutes] Mindestens 10 Minuten für Zeitwiedergeburt benötigt.
+[rebirth_success] Zeitwiedergeburt erfolgreich, erhalten:
+[vdp_need_sdp] Mindestens 1000 SDP für Zeitfragmente benötigt.
+[vdp_cannot_obtain] Zurzeit keine Zeitfragmente erhältlich.
+[vdp_obtained] Erhalten
+[time_fragments_obtained] Zeitfragmente!
+[abandon_sdv_confirm] Aktuelle SDV-Herausforderung wirklich aufgeben?
+[sdv_started] SDV-Herausforderung gestartet:
+[sdv_unlock_hint] Benötigt passendes SDV-Wiedergeburts-Upgrade zum Freischalten
+[challenge_failed] Herausforderung fehlgeschlagen! Zeit abgelaufen.
+[speed_calc_error] Fehler bei Geschwindigkeitsberechnung, Standardwert wiederhergestellt:
+[speed_calc_error_hint] Kann durch beschädigten Speicher verursacht sein.
+[seconds_per_second] s/s
+[minutes_per_second] Min/s
+[minutes_per_cycle] Min/Zyklus
+[minutes_per_second_auto] Min/s
+[seconds] Sekunden
+[locked_status] Gesperrt
+[start_sdv] SDV starten
+[abandon_sdv] SDV abbrechen
+[rebirth_gain_sdp] Zeitwiedergeburt (erhalte {0} SDP)
+[upgrade_completed] Abgeschlossen
+[purchase_button] Kaufen {0} {1}
+[rebirth_button_text] Zeitwiedergeburt (erhalte {0} SDP)
+[insufficient_funds] Ungenügendes Guthaben
+[unit_seconds_per_second] s/s
+[yes] Ja
+[no] Nein
+[lang_zh] 中文
+[lang_en] English
+[lang_ja] 日本語
+[lang_ko] 한국어
+[lang_fr] Français
+[language_desc] Oberflächensprache wählen
+[load_language_fail] Sprachladen fehlgeschlagen
+[change_language] Sprache ändern
+[choose_language] Sprache wählen
+[lang_de] Deutsch
+[lang_es] Español
+[lang_pt] Português
+[lang_it] Italiano
+[lang_ru] Русский
+[lang_ar] العربية
+[lang_hi] हिंदी
+[lang_th] ไทย
+[lang_vi] Tiếng Việt
+[lang_id] Bahasa Indonesia
+[lang_tr] Türkçe
+[lang_pl] Polski
+[lang_nl] Nederlands
+[lang_sv] Svenska
+[lang_da] Dansk
+[lang_fi] Suomi
+[lang_nb] Norsk bokmål
+[lang_cs] Čeština
+[lang_hu] Magyar
+[lang_ro] Română

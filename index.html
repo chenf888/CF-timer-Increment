@@ -1585,6 +1585,240 @@
                 grid-template-columns: repeat(2, 1fr);
             }
         }
+
+        .settings-layout-switcher {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 25px;
+        }
+
+        .layout-switch-btn {
+            background: transparent;
+            border: 2px solid var(--border);
+            color: var(--text-muted);
+            padding: 10px 16px;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: 0.25s;
+        }
+
+        .layout-switch-btn.active,
+        .layout-switch-btn:hover {
+            background: rgba(var(--primary-rgb), 0.15);
+            color: var(--primary);
+            border-color: var(--primary);
+        }
+
+        .settings-grid-cards .settings-card-group {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 22px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .setting-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 24px;
+            text-align: center;
+            transition: 0.3s;
+            box-shadow: 0 0 20px rgba(var(--primary-rgb), 0.05);
+        }
+
+        .setting-card:hover {
+            border-color: var(--primary);
+            box-shadow: 0 0 30px var(--shadow);
+        }
+
+        .danger-card {
+            border-color: rgba(239, 68, 68, 0.3);
+        }
+
+        .danger-card:hover {
+            border-color: #ef4444;
+            box-shadow: 0 0 30px rgba(239, 68, 68, 0.2);
+        }
+
+        .setting-card-icon {
+            font-size: 2.5rem;
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+
+        .setting-card h3 {
+            color: var(--text);
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+
+        .setting-card-actions {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin: 15px 0;
+        }
+
+        .settings-sidebar-layout .settings-container {
+            display: flex;
+            gap: 28px;
+            max-width: 1000px;
+            margin: 0 auto;
+            align-items: flex-start;
+        }
+
+        .settings-sidebar {
+            flex: 0 0 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            background: var(--panel-bg);
+            border-radius: 16px;
+            padding: 16px;
+            border: 1px solid var(--border);
+        }
+
+        .sidebar-item {
+            background: transparent;
+            color: var(--text-muted);
+            border: none;
+            padding: 12px 16px;
+            text-align: left;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: 0.2s;
+            width: 100%;
+        }
+
+        .sidebar-item i {
+            margin-right: 8px;
+        }
+
+        .sidebar-item.active,
+        .sidebar-item:hover {
+            background: rgba(var(--primary-rgb), 0.15);
+            color: var(--primary);
+        }
+
+        .settings-content {
+            flex: 1;
+            background: var(--card-bg);
+            border-radius: 20px;
+            padding: 30px;
+            border: 1px solid var(--border);
+            min-height: 0px;
+        }
+
+        .settings-panel {
+            display: none;
+        }
+
+        .settings-panel.active {
+            display: block;
+        }
+
+        .danger-zone {
+            border: 1px dashed rgba(239, 68, 68, 0.4);
+            padding: 20px;
+            border-radius: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .settings-sidebar-layout .settings-container {
+                flex-direction: column;
+            }
+
+            .settings-sidebar {
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            .sidebar-item {
+                width: auto;
+                flex: 1 1 auto;
+            }
+        }
+
+        @keyframes fadeOutSettings {
+            from {
+                opacity: 1;
+                transform: translateY(0);
+            }
+
+            to {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+        }
+
+        @keyframes fadeInSettings {
+            from {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        #settings-content-wrapper {
+            animation-fill-mode: forwards;
+        }
+
+        @media (max-width: 600px) {
+            .settings-grid-cards .settings-card-group {
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
+
+            .setting-card {
+                padding: 11px 9px;
+                border-radius: 13px;
+            }
+
+            .setting-card-icon {
+                font-size: 1.4rem;
+                margin-bottom: 5px;
+            }
+
+            .setting-card h3 {
+                font-size: 0.9rem;
+                margin-bottom: 7px;
+            }
+
+            .setting-card-actions {
+                gap: 5px;
+                margin: 10px 0;
+                flex-wrap: wrap;
+            }
+
+            .setting-card-actions .setting-btn {
+                padding: 7px 11px;
+                font-size: 0.78rem;
+                border-radius: 9px;
+                margin: 0;
+                width: 100%;
+            }
+
+            .setting-desc {
+                font-size: 0.72rem;
+                margin-top: 5px;
+                line-height: 1.3;
+            }
+
+            .danger-card .setting-card-actions .setting-btn {
+                width: auto;
+                padding: 7px 15px;
+            }
+        }
     </style>
 </head>
 
@@ -1597,7 +1831,7 @@
                     <a href="https://qm.qq.com/q/vGlvGiHR4G" target="_blank"
                         style="color: inherit; text-decoration: none; opacity: 1;" data-i18n="join_us">加入我们</a>
                     <span> | </span>
-                    <span data-i18n="version_text">当前版本 1.4.2</span>
+                    <span data-i18n="version_text">当前版本 1.4.3</span>
                 </p>
                 <button class="about-button" onclick="openAbout()">
                     <i class="fas fa-info-circle"></i> <span data-i18n="about">关于</span>
@@ -1661,42 +1895,18 @@
             <div class="settings-page">
                 <h2 class="section-title"><i class="fas fa-cog"></i> <span data-i18n="settings_title">游戏设置</span></h2>
 
-                <div class="settings-container">
-
-                    <div class="setting-group">
-                        <h3 data-i18n="save_management">存档管理</h3>
-                        <div class="settings-row">
-                            <button onclick="exportSave()" class="setting-btn"><span
-                                    data-i18n="export_save">导出存档</span></button>
-                            <button onclick="importSave()" class="setting-btn"><span
-                                    data-i18n="import_save">导入存档</span></button>
-                        </div>
-                    </div>
-                    <div class="setting-group">
-                        <h3 data-i18n="language">语言 / Language</h3>
-                        <div class="settings-row" id="language-buttons"></div>
-                        <p class="setting-desc" data-i18n="language_desc">选择界面语言</p>
-                    </div>
-
-                    <!-- 主题切换 -->
-                    <div class="setting-group">
-                        <h3 data-i18n="interface_theme">界面主题</h3>
-                        <div class="settings-row" id="theme-buttons"></div>
-                        <p class="setting-desc" data-i18n="theme_desc">切换不同视觉风格</p>
-                    </div>
-
-                    <div class="setting-group">
-                        <h3 data-i18n="danger_operations">危险操作</h3>
-                        <button onclick="deleteSaveConfirm()" class="setting-btn danger-btn">
-                            <i class="fas fa-trash-alt"></i> <span data-i18n="delete_save">删档重来</span>
-                        </button>
-                        <p class="setting-desc" data-i18n="delete_save_desc">彻底清除所有游戏数据（存档、成就、点击记录等）。此操作不可恢复！</p>
-                    </div>
-
+                <div class="settings-layout-switcher">
+                    <button class="layout-switch-btn active" data-layout="grid" title="网格卡片布局">
+                        <i class="fas fa-th-large"></i>
+                    </button>
+                    <button class="layout-switch-btn" data-layout="sidebar" title="侧边栏布局">
+                        <i class="fas fa-columns"></i>
+                    </button>
                 </div>
+
+                <div id="settings-content-wrapper"></div>
             </div>
         </div>
-
         <!-- 计时器标签页 -->
         <div id="tab-timer" class="tab-content active">
             <div class="timer-page">
@@ -1995,7 +2205,7 @@
 
     <script>
         // ===================== 核心变量 =====================
-        const GAME_VERSION = "1.4.2";
+        const GAME_VERSION = "1.4.3";
 
         const D = (x) => new Decimal(x || 0);
         console.log("✅ Break Infinity 加载状态:", typeof Decimal === "function" ? "成功！" : "失败！");
@@ -2070,7 +2280,7 @@
 
         window.format = function (val) {
             let d = D(val);
-            if (d.gte(10000)) return d.toExponential(2).replace(/\+/g, '');
+            if (d.abs().gte(10000)) return d.toExponential(2).replace(/\+/g, '');
             return d.toFixed(0);
         };
 
@@ -2086,12 +2296,9 @@
 
         window.switchUpgradeTab = function (tab) {
             currentUpgradeTab = tab;
-            // 更新按钮状态
             document.querySelectorAll('.upgrade-sub-btn').forEach(btn => btn.classList.remove('active'));
             document.getElementById(`upgrade-tab-${tab}`).classList.add('active');
-            // 重新渲染升级
             renderUpgrades();
-            // 保存游戏状态
             if (typeof saveGame === 'function') saveGame();
         };
 
@@ -2302,7 +2509,7 @@
                 recalculateSpeed();
             } catch (e) {
                 console.error("存档解析失败:", e);
-                alert("存档加载失败：" + e.message + "\n\n请检查存档是否正确或尝试重新导入。");
+                alert(t('save_load_error') + e.message + "\n\n" + t('save_check_message'));
             }
         }
         function saveGame() {
@@ -2411,7 +2618,7 @@
         function format(decimal) {
             let d = D(decimal);
             if (isNaN(d.toNumber())) return "0.00";
-            if (d.gte(10000)) {
+            if (d.abs().gte(10000)) {
                 return d.toExponential(2).replace(/\+/g, '');
             }
             return d.toFixed(0);
@@ -2428,7 +2635,7 @@
             if (abs.lt(1)) {
                 return d.toFixed(4).replace(/\.?(0+)$/, '');
             }
-            if (d.lt(10000)) {
+            if (abs.lt(10000)) {
                 return d.toFixed(2).replace(/\.?(0+)$/, '');
             }
             return d.toExponential(2).replace(/\+/g, '');
@@ -2451,12 +2658,10 @@
         let totalDisplay
         let lastSpeedUpdate = Date.now();
         function updateTimer() {
-            // 强制确保是 Decimal
             seconds = D(seconds);
 
             const newSeconds = seconds.floor().toNumber();
 
-            // 更新显示
             document.getElementById('currentSeconds').textContent = newSeconds;
             document.getElementById('accumulatedSeconds').textContent = format(accumulatedSeconds);
             document.getElementById('cycles').textContent = format(cycleCount);
@@ -2490,15 +2695,11 @@
             if (document.getElementById('tab-stats').classList.contains('active')) {
                 updateStatsDisplay();
             }
-
-            // 检查挑战完成
             checkChallengeCompletion();
 
-            // 更新挑战UI
             updateChallengeUI();
         }
 
-        // 成就标签页自动刷新
         const achievementsTab = document.getElementById('tab-achievements');
         if (achievementsTab && achievementsTab.classList.contains('active')) {
             renderAchievementsThrottled();
@@ -2689,6 +2890,14 @@
             if (tab === 'challenges') {
                 renderChallengesGrid();
                 renderChallengesList();
+            }
+            if (tab === 'settings') {
+                if (document.getElementById('settings-content-wrapper').children.length === 0) {
+                    renderSettingsLayout();
+                }
+                document.querySelectorAll('.layout-switch-btn').forEach(btn => {
+                    btn.classList.toggle('active', btn.dataset.layout === settingsLayout);
+                });
             }
         }
 
@@ -2909,7 +3118,6 @@
                     if (challenge) {
                         document.getElementById('current-challenge-title').textContent = challenge.title;
 
-                        // 更新进度
                         let progress = 0;
                         if (typeof challenge.progress === 'function') {
                             progress = challenge.progress();
@@ -2917,7 +3125,6 @@
                         document.getElementById('challenge-progress-fill').style.width = Math.min(100, progress) + '%';
                         document.getElementById('challenge-progress-text').textContent = Math.floor(progress) + '%';
 
-                        // 更新计时器
                         if (challenge.timeLimit && challengeStartTime) {
                             const elapsed = (Date.now() - challengeStartTime) / 1000;
                             const remaining = Math.max(0, challenge.timeLimit - elapsed);
@@ -2980,7 +3187,7 @@
             renderChallengesList();
             saveGame();
 
-            alert(`挑战 "${challenge.title}" 开始！\n\n目标：${challenge.desc}\n奖励：${challenge.reward}`);
+            alert(t('challenge_start_details', challenge.title, challenge.desc, challenge.reward));
         };
 
         function resetForChallenge() {
@@ -3022,7 +3229,7 @@
                 challenge.completed = true;
                 applyChallengeReward(challenge);
 
-                alert(`恭喜！挑战 "${challenge.title}" 完成！\n\n获得奖励：${challenge.reward}`);
+                alert(t('challenge_completed_msg', challenge.title, challenge.reward));
 
                 activeChallenge = null;
                 challengeStartTime = null;
@@ -3038,7 +3245,7 @@
             if (!activeChallenge) return;
 
             const challenge = challenges.find(c => c.id === activeChallenge);
-            alert(`挑战 "${challenge.title}" 失败！时间已到。`);
+            alert(t('challenge_failed', challenge.title));
 
             activeChallenge = null;
             challengeStartTime = null;
@@ -3308,7 +3515,7 @@
                 }
             } catch (e) {
                 console.error("计算速度时出错，正在恢复默认值:", e);
-                alert("速度计算出错，已恢复默认值: " + e.message + "\n\n这可能是由于存档数据损坏导致的。");
+                alert(t('speed_calc_error') + e.message + "\n\n" + t('speed_calc_error_hint'));
                 speed = D(1.0);
                 bonusSpeed = D(0);
                 bonusMinutesPerSecond = D(0);
@@ -3586,7 +3793,7 @@
             if (document.getElementById('sdvCurrentChallenge')) {
                 document.getElementById('sdvCurrentChallenge').textContent = challenge.title;
             }
-            alert(`已开始 SDV 挑战：${challenge.title}`);
+            alert(t('sdv_started', challenge.title));
             renderSdvChallenges();
             saveGame();
         };
@@ -3858,6 +4065,246 @@
             container.appendChild(btn);
         }
 
+        let settingsLayout = localStorage.getItem('settingsLayout') || 'grid';
+        let isAnimatingSettings = false;
+
+        function renderSettingsContent() {
+            const wrapper = document.getElementById('settings-content-wrapper');
+            if (!wrapper) return;
+
+            if (settingsLayout === 'grid') {
+                wrapper.innerHTML = `
+      <div class="settings-grid-cards">
+        <div class="settings-card-group">
+          <div class="setting-card">
+            <div class="setting-card-icon"><i class="fas fa-save"></i></div>
+            <h3 data-i18n="save_management">存档管理</h3>
+            <div class="setting-card-actions">
+              <button onclick="exportSave()" class="setting-btn"><i class="fas fa-file-export"></i> <span data-i18n="export_save">导出存档</span></button>
+              <button onclick="importSave()" class="setting-btn"><i class="fas fa-file-import"></i> <span data-i18n="import_save">导入存档</span></button>
+            </div>
+          </div>
+          <div class="setting-card">
+            <div class="setting-card-icon"><i class="fas fa-language"></i></div>
+            <h3 data-i18n="language">语言 / Language</h3>
+            <div class="setting-card-actions" id="language-buttons"></div>
+            <p class="setting-desc" data-i18n="language_desc">选择界面语言</p>
+          </div>
+          <div class="setting-card">
+            <div class="setting-card-icon"><i class="fas fa-palette"></i></div>
+            <h3 data-i18n="interface_theme">界面主题</h3>
+            <div class="setting-card-actions" id="theme-buttons"></div>
+            <p class="setting-desc" data-i18n="theme_desc">切换不同视觉风格</p>
+          </div>
+          <div class="setting-card danger-card">
+            <div class="setting-card-icon"><i class="fas fa-exclamation-triangle"></i></div>
+            <h3 data-i18n="danger_operations">危险操作</h3>
+            <div class="setting-card-actions">
+              <button onclick="deleteSaveConfirm()" class="setting-btn danger-btn">
+                <i class="fas fa-trash-alt"></i> <span data-i18n="delete_save">删档重来</span>
+              </button>
+            </div>
+            <p class="setting-desc" data-i18n="delete_save_desc">彻底清除所有游戏数据（存档、成就、点击记录等）。此操作不可恢复！</p>
+          </div>
+        </div>
+      </div>`;
+            } else {
+                wrapper.innerHTML = `
+      <div class="settings-sidebar-layout">
+        <div class="settings-container">
+          <nav class="settings-sidebar">
+            <button class="sidebar-item active" data-panel="general"><i class="fas fa-cogs"></i> <span data-i18n="general_tab">通用</span></button>
+            <button class="sidebar-item" data-panel="appearance"><i class="fas fa-paint-brush"></i> <span data-i18n="appearance_tab">外观</span></button>
+            <button class="sidebar-item" data-panel="danger"><i class="fas fa-skull"></i> <span data-i18n="danger_tab">危险</span></button>
+          </nav>
+          <div class="settings-content">
+            <div class="settings-panel active" data-panel="general">
+              <div class="setting-group">
+                <h3 data-i18n="save_management">存档管理</h3>
+                <div class="settings-row">
+                  <button onclick="exportSave()" class="setting-btn"><i class="fas fa-file-export"></i> <span data-i18n="export_save">导出存档</span></button>
+                  <button onclick="importSave()" class="setting-btn"><i class="fas fa-file-import"></i> <span data-i18n="import_save">导入存档</span></button>
+                </div>
+              </div>
+              <div class="setting-group">
+                <h3 data-i18n="language">语言 / Language</h3>
+                <div class="settings-row" id="language-buttons"></div>
+                <p class="setting-desc" data-i18n="language_desc">选择界面语言</p>
+              </div>
+            </div>
+            <div class="settings-panel" data-panel="appearance">
+              <div class="setting-group">
+                <h3 data-i18n="interface_theme">界面主题</h3>
+                <div class="settings-row" id="theme-buttons"></div>
+                <p class="setting-desc" data-i18n="theme_desc">切换不同视觉风格</p>
+              </div>
+            </div>
+            <div class="settings-panel" data-panel="danger">
+              <div class="setting-group danger-zone">
+                <h3 data-i18n="danger_operations">危险操作</h3>
+                <button onclick="deleteSaveConfirm()" class="setting-btn danger-btn">
+                  <i class="fas fa-trash-alt"></i> <span data-i18n="delete_save">删档重来</span>
+                </button>
+                <p class="setting-desc" data-i18n="delete_save_desc">彻底清除所有游戏数据（存档、成就、点击记录等）。此操作不可恢复！</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>`;
+                const sidebar = wrapper.querySelector('.settings-sidebar');
+                if (sidebar) {
+                    sidebar.addEventListener('click', (e) => {
+                        const item = e.target.closest('.sidebar-item');
+                        if (!item) return;
+                        const panelName = item.dataset.panel;
+                        sidebar.querySelectorAll('.sidebar-item').forEach(b => b.classList.remove('active'));
+                        item.classList.add('active');
+                        const content = wrapper.querySelector('.settings-content');
+                        content.querySelectorAll('.settings-panel').forEach(p => p.classList.remove('active'));
+                        content.querySelector(`[data-panel="${panelName}"]`).classList.add('active');
+                    });
+                }
+            }
+        }
+        function renderSettingsLayout() {
+            renderSettingsContent();
+            if (typeof createLanguageSelector === 'function') createLanguageSelector();
+            if (typeof createThemeButtons === 'function') createThemeButtons();
+            applyLanguage();
+        }
+        function renderSettingsContent() {
+            const wrapper = document.getElementById('settings-content-wrapper');
+            if (!wrapper) return;
+
+            if (settingsLayout === 'grid') {
+                wrapper.innerHTML = `<div class="settings-grid-cards">
+        <div class="settings-card-group">
+          <div class="setting-card">
+            <div class="setting-card-icon"><i class="fas fa-save"></i></div>
+            <h3 data-i18n="save_management">存档管理</h3>
+            <div class="setting-card-actions">
+              <button onclick="exportSave()" class="setting-btn"><i class="fas fa-file-export"></i> <span data-i18n="export_save">导出存档</span></button>
+              <button onclick="importSave()" class="setting-btn"><i class="fas fa-file-import"></i> <span data-i18n="import_save">导入存档</span></button>
+            </div>
+          </div>
+          <div class="setting-card">
+            <div class="setting-card-icon"><i class="fas fa-language"></i></div>
+            <h3 data-i18n="language">语言 / Language</h3>
+            <div class="setting-card-actions" id="language-buttons"></div>
+            <p class="setting-desc" data-i18n="language_desc">选择界面语言</p>
+          </div>
+          <div class="setting-card">
+            <div class="setting-card-icon"><i class="fas fa-palette"></i></div>
+            <h3 data-i18n="interface_theme">界面主题</h3>
+            <div class="setting-card-actions" id="theme-buttons"></div>
+            <p class="setting-desc" data-i18n="theme_desc">切换不同视觉风格</p>
+          </div>
+          <div class="setting-card danger-card">
+            <div class="setting-card-icon"><i class="fas fa-exclamation-triangle"></i></div>
+            <h3 data-i18n="danger_operations">危险操作</h3>
+            <div class="setting-card-actions">
+              <button onclick="deleteSaveConfirm()" class="setting-btn danger-btn">
+                <i class="fas fa-trash-alt"></i> <span data-i18n="delete_save">删档重来</span>
+              </button>
+            </div>
+            <p class="setting-desc" data-i18n="delete_save_desc">彻底清除所有游戏数据（存档、成就、点击记录等）。此操作不可恢复！</p>
+          </div>
+        </div>
+      </div>`;
+            } else {
+                wrapper.innerHTML = `<div class="settings-sidebar-layout">
+        <div class="settings-container">
+          <nav class="settings-sidebar">
+            <button class="sidebar-item active" data-panel="general"><i class="fas fa-cogs"></i> <span data-i18n="general_tab">通用</span></button>
+            <button class="sidebar-item" data-panel="appearance"><i class="fas fa-paint-brush"></i> <span data-i18n="appearance_tab">外观</span></button>
+            <button class="sidebar-item" data-panel="danger"><i class="fas fa-skull"></i> <span data-i18n="danger_tab">危险</span></button>
+          </nav>
+          <div class="settings-content">
+            <div class="settings-panel active" data-panel="general">
+              <div class="setting-group">
+                <h3 data-i18n="save_management">存档管理</h3>
+                <div class="settings-row">
+                  <button onclick="exportSave()" class="setting-btn"><i class="fas fa-file-export"></i> <span data-i18n="export_save">导出存档</span></button>
+                  <button onclick="importSave()" class="setting-btn"><i class="fas fa-file-import"></i> <span data-i18n="import_save">导入存档</span></button>
+                </div>
+              </div>
+              <div class="setting-group">
+                <h3 data-i18n="language">语言 / Language</h3>
+                <div class="settings-row" id="language-buttons"></div>
+                <p class="setting-desc" data-i18n="language_desc">选择界面语言</p>
+              </div>
+            </div>
+            <div class="settings-panel" data-panel="appearance">
+              <div class="setting-group">
+                <h3 data-i18n="interface_theme">界面主题</h3>
+                <div class="settings-row" id="theme-buttons"></div>
+                <p class="setting-desc" data-i18n="theme_desc">切换不同视觉风格</p>
+              </div>
+            </div>
+            <div class="settings-panel" data-panel="danger">
+              <div class="setting-group danger-zone">
+                <h3 data-i18n="danger_operations">危险操作</h3>
+                <button onclick="deleteSaveConfirm()" class="setting-btn danger-btn">
+                  <i class="fas fa-trash-alt"></i> <span data-i18n="delete_save">删档重来</span>
+                </button>
+                <p class="setting-desc" data-i18n="delete_save_desc">彻底清除所有游戏数据（存档、成就、点击记录等）。此操作不可恢复！</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>`;
+                const sidebar = wrapper.querySelector('.settings-sidebar');
+                if (sidebar) {
+                    sidebar.addEventListener('click', (e) => {
+                        const item = e.target.closest('.sidebar-item');
+                        if (!item) return;
+                        const panelName = item.dataset.panel;
+                        sidebar.querySelectorAll('.sidebar-item').forEach(b => b.classList.remove('active'));
+                        item.classList.add('active');
+                        const content = wrapper.querySelector('.settings-content');
+                        content.querySelectorAll('.settings-panel').forEach(p => p.classList.remove('active'));
+                        content.querySelector(`[data-panel="${panelName}"]`).classList.add('active');
+                    });
+                }
+            }
+        }
+        // 切换设置布局
+        function switchSettingsLayout(layout) {
+            if (settingsLayout === layout || isAnimatingSettings) return;
+
+            const wrapper = document.getElementById('settings-content-wrapper');
+            if (!wrapper) return;
+
+            isAnimatingSettings = true;
+
+            wrapper.style.animation = 'fadeOutSettings 0.2s ease forwards';
+
+            wrapper.addEventListener('animationend', function outHandler() {
+                wrapper.removeEventListener('animationend', outHandler);
+
+                settingsLayout = layout;
+                localStorage.setItem('settingsLayout', settingsLayout);
+                renderSettingsLayout();
+
+                wrapper.style.animation = 'fadeInSettings 0.3s ease forwards';
+                wrapper.addEventListener('animationend', function inHandler() {
+                    wrapper.removeEventListener('animationend', inHandler);
+                    wrapper.style.animation = '';
+                    isAnimatingSettings = false;
+                });
+            });
+
+            document.querySelectorAll('.layout-switch-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.layout === layout);
+            });
+        }
+
+        function initSettingsSwitcher() {
+            document.querySelectorAll('.layout-switch-btn').forEach(btn => {
+                btn.onclick = () => switchSettingsLayout(btn.dataset.layout);
+            });
+        }
+
         // ====================== 初始化 ======================
         async function init() {
             const savedLang = localStorage.getItem('language') || 'zh-CN';
@@ -3871,13 +4318,13 @@
             renderRebirthUpgrades();
             renderChallengesGrid();
             updateChallengeUI();
-            createThemeButtons();
-            createParticles();
-            applyAllTranslations();
-            applyLanguage();
+            renderSettingsLayout();
+            initSettingsSwitcher();
             createThemeButtons();
             createLanguageSelector();
             createParticles();
+            applyAllTranslations();
+            applyLanguage();
 
             const startBtn = document.getElementById('startBtn');
             if (startBtn) {

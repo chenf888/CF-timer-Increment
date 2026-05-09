@@ -1,5 +1,5 @@
 [game_title] Timer Incremental
-[version_text] Nuvarande version 1.4.2
+[version_text] Nuvarande version 1.4.3
 [join_us] Gå med oss
 [about] Om
 [about_title] Om Timer Incremental
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Du behöver minst 1000 SDP för att få tidsfragment.
+[claim_vdp_cannot_claim] Det går inte att få tidsfragment just nu.
+[claim_vdp_success] Du har fått {0} tidsfragment (VDP)!
+[challenge_failed] Utmaning {0} misslyckades! Tiden är ute.
+[challenge_start_details] Utmaning {0} startad!\n\nMål: {1}\nBelöning: {2}
+[challenge_completed_msg] Grattis! Utmaning {0} klar!\n\nBelöning: {1}
+[sdv_started] SDV-utmaning startad: {0}
+[save_load_error] Fel vid laddning av sparning:
+[save_check_message] Kontrollera om sparningen är korrekt eller försök importera igen.
+[speed_calc_error] Hastighetsberäkningsfel, återställd till standard: 
+[speed_calc_error_hint] Detta kan bero på skadad spardata.
+[general_tab] Allmänt
+[appearance_tab] Utseende
+[danger_tab] Fara

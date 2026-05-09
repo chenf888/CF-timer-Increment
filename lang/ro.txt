@@ -1,5 +1,5 @@
 [game_title] Incrementarea temporizatorului
-[version_text] Versiunea curentă 1.4.2
+[version_text] Versiunea curentă 1.4.3
 [join_us] Alătură-te nouă
 [about] Despre
 [about_title] Despre Incrementarea temporizatorului
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Ai nevoie de cel puțin 1000 SDP pentru a obține Fragmente de Timp.
+[claim_vdp_cannot_claim] Nu se pot obține Fragmente de Timp momentan.
+[claim_vdp_success] Ai obținut {0} Fragment(e) de Timp (VDP)!
+[challenge_failed] Provocarea {0} a eșuat! Timpul a expirat.
+[challenge_start_details] Provocarea {0} a început!\n\nObiectiv: {1}\nRecompensă: {2}
+[challenge_completed_msg] Felicitări! Provocarea {0} finalizată!\n\nRecompensă: {1}
+[sdv_started] Provocarea SDV a început: {0}
+[save_load_error] Eroare la încărcarea salvării:
+[save_check_message] Verifică dacă salvarea este corectă sau încearcă să o reimporți.
+[speed_calc_error] Eroare la calcularea vitezei, restaurat la implicit: 
+[speed_calc_error_hint] Acest lucru poate fi cauzat de date de salvare corupte.
+[general_tab] General
+[appearance_tab] Aspect
+[danger_tab] Pericol

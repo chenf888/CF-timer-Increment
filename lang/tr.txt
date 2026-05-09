@@ -1,5 +1,5 @@
 [game_title] Zamanlayıcı Birikimi
-[version_text] Güncel sürüm 1.4.2
+[version_text] Güncel sürüm 1.4.3
 [join_us] Bize Katılın
 [about] Hakkında
 [about_title] Zamanlayıcı Birikimi Hakkında
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Zaman Parçaları almak için en az 1000 SDP'ye ihtiyacın var.
+[claim_vdp_cannot_claim] Şu anda Zaman Parçaları alınamıyor.
+[claim_vdp_success] {0} Zaman Parçası (VDP) kazandın!
+[challenge_failed] Mücadele {0} başarısız! Süre doldu.
+[challenge_start_details] Mücadele {0} başladı!\n\nHedef: {1}\nÖdül: {2}
+[challenge_completed_msg] Tebrikler! Mücadele {0} tamamlandı!\n\nÖdül: {1}
+[sdv_started] SDV mücadelesi başladı: {0}
+[save_load_error] Kayıt yükleme hatası:
+[save_check_message] Lütfen kaydın doğru olduğundan emin ol veya tekrar içe aktarmayı dene.
+[speed_calc_error] Hız hesaplama hatası, varsayılana geri döndürüldü: 
+[speed_calc_error_hint] Bu, bozuk kayıt verilerinden kaynaklanıyor olabilir.
+[general_tab] Genel
+[appearance_tab] Görünüm
+[danger_tab] Tehlike

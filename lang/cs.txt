@@ -1,5 +1,5 @@
 [game_title] Časovač Přírůstek
-[version_text] Aktuální verze 1.4.2
+[version_text] Aktuální verze 1.4.3
 [join_us] Přidej se
 [about] O aplikaci
 [about_title] O Časovači Přírůstek
@@ -338,3 +338,17 @@ Opravdu chceš vše smazat a začít znovu?
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] K získání Časových Střepů potřebuješ alespoň 1000 SDP.
+[claim_vdp_cannot_claim] Momentálně nelze získat Časové Střepy.
+[claim_vdp_success] Získal/a jsi {0} Časových Střepů (VDP)!
+[challenge_failed] Výzva {0} selhala! Čas vypršel.
+[challenge_start_details] Výzva {0} zahájena!\n\nCíl: {1}\nOdměna: {2}
+[challenge_completed_msg] Gratulujeme! Výzva {0} dokončena!\n\nOdměna: {1}
+[sdv_started] SDV výzva zahájena: {0}
+[save_load_error] Chyba při načítání uložené pozice:
+[save_check_message] Zkontroluj, zda je uložená pozice správná, nebo ji zkus znovu importovat.
+[speed_calc_error] Chyba výpočtu rychlosti, obnoveno na výchozí: 
+[speed_calc_error_hint] To může být způsobeno poškozenými daty uložené pozice.
+[general_tab] Obecné
+[appearance_tab] Vzhled
+[danger_tab] Nebezpečí

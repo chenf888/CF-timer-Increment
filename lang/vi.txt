@@ -1,5 +1,5 @@
 [game_title] Bộ đếm thời gian tăng dần
-[version_text] Phiên bản 1.4.2
+[version_text] Phiên bản 1.4.3
 [join_us] Tham gia cùng chúng tôi
 [about] Giới thiệu
 [about_title] Về Bộ đếm thời gian tăng dần
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Bạn cần ít nhất 1000 SDP để nhận được Mảnh Thời Gian.
+[claim_vdp_cannot_claim] Hiện tại không thể nhận Mảnh Thời Gian.
+[claim_vdp_success] Đã nhận được {0} Mảnh Thời Gian (VDP)!
+[challenge_failed] Thử thách {0} thất bại! Đã hết giờ.
+[challenge_start_details] Bắt đầu thử thách {0}!\n\nMục tiêu: {1}\nPhần thưởng: {2}
+[challenge_completed_msg] Chúc mừng! Đã hoàn thành thử thách {0}!\n\nPhần thưởng: {1}
+[sdv_started] Đã bắt đầu thử thách SDV: {0}
+[save_load_error] Lỗi tải bản lưu:
+[save_check_message] Vui lòng kiểm tra xem bản lưu có chính xác không hoặc thử nhập lại.
+[speed_calc_error] Lỗi tính toán tốc độ, đã khôi phục về mặc định: 
+[speed_calc_error_hint] Có thể do dữ liệu lưu bị hỏng.
+[general_tab] Chung
+[appearance_tab] Giao diện
+[danger_tab] Nguy hiểm

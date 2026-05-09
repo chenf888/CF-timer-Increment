@@ -1,5 +1,5 @@
 [game_title] ตัวจับเวลาแบบสะสม
-[version_text] เวอร์ชัน 1.4.2
+[version_text] เวอร์ชัน 1.4.3
 [join_us] ร่วมกับเรา
 [about] เกี่ยวกับ
 [about_title] เกี่ยวกับตัวจับเวลาแบบสะสม
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] คุณต้องมีอย่างน้อย 1000 SDP เพื่อรับเศษเสี้ยวแห่งกาลเวลา
+[claim_vdp_cannot_claim] ไม่สามารถรับเศษเสี้ยวแห่งกาลเวลาได้ในขณะนี้
+[claim_vdp_success] คุณได้รับเศษเสี้ยวแห่งกาลเวลา (VDP) จำนวน {0} ชิ้น!
+[challenge_failed] ความท้าทาย {0} ล้มเหลว! หมดเวลา
+[challenge_start_details] เริ่มความท้าทาย {0}!\n\nเป้าหมาย: {1}\nรางวัล: {2}
+[challenge_completed_msg] ยินดีด้วย! ความท้าทาย {0} สำเร็จ!\n\nรางวัล: {1}
+[sdv_started] เริ่มความท้าทาย SDV: {0}
+[save_load_error] โหลดบันทึกผิดพลาด:
+[save_check_message] โปรดตรวจสอบว่าบันทึกถูกต้องหรือลองนำเข้าอีกครั้ง
+[speed_calc_error] การคำนวณความเร็วผิดพลาด คืนค่าเป็นค่าเริ่มต้น: 
+[speed_calc_error_hint] อาจเกิดจากข้อมูลบันทึกเสียหาย
+[general_tab] ทั่วไป
+[appearance_tab] รูปร่างหน้าตา
+[danger_tab] อันตราย

@@ -1,5 +1,5 @@
 [game_title] Timer Incremento
-[version_text] Versione attuale 1.4.2
+[version_text] Versione attuale 1.4.3
 [join_us] Unisciti a noi
 [about] Informazioni
 [about_title] Informazioni su Timer Incremento
@@ -338,3 +338,17 @@ Sicuro di voler cancellare tutto e ricominciare da capo?
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Hai bisogno di almeno 1000 SDP per ottenere Frammenti Temporali.
+[claim_vdp_cannot_claim] Impossibile ottenere Frammenti Temporali al momento.
+[claim_vdp_success] Hai ottenuto {0} frammento/i temporale/i (VDP)!
+[challenge_failed] Sfida {0} fallita! Tempo scaduto.
+[challenge_start_details] Sfida {0} iniziata!\n\nObiettivo: {1}\nRicompensa: {2}
+[challenge_completed_msg] Congratulazioni! Sfida {0} completata!\n\nRicompensa: {1}
+[sdv_started] Sfida SDV iniziata: {0}
+[save_load_error] Errore durante il caricamento del salvataggio:
+[save_check_message] Controlla che il salvataggio sia corretto o prova a reimportarlo.
+[speed_calc_error] Errore nel calcolo della velocità, ripristinato il valore predefinito: 
+[speed_calc_error_hint] Potrebbe essere causato da dati di salvataggio danneggiati.
+[general_tab] Generale
+[appearance_tab] Aspetto
+[danger_tab] Pericolo

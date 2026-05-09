@@ -1,5 +1,5 @@
 [game_title] Időmérő Növelés
-[version_text] Jelenlegi verzió 1.4.2
+[version_text] Jelenlegi verzió 1.4.3
 [join_us] Csatlakozz hozzánk
 [about] Névjegy
 [about_title] Névjegy az Időmérő Növelésről
@@ -338,3 +338,17 @@ Biztosan teljesen törölsz és újra kezdesz?
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Legalább 1000 SDP szükséges az Időszilánkok megszerzéséhez.
+[claim_vdp_cannot_claim] Jelenleg nem szerezhetők Időszilánkok.
+[claim_vdp_success] Sikeresen megszereztél {0} Időszilánkot (VDP)!
+[challenge_failed] A kihívás ({0}) sikertelen! Lejárt az idő.
+[challenge_start_details] A kihívás ({0}) elindult!\n\nCél: {1}\nJutalom: {2}
+[challenge_completed_msg] Gratulálunk! A kihívás ({0}) teljesítve!\n\nJutalom: {1}
+[sdv_started] SDV kihívás elindítva: {0}
+[save_load_error] Hiba a mentés betöltésekor:
+[save_check_message] Ellenőrizd, hogy a mentés helyes-e, vagy próbáld újraimportálni.
+[speed_calc_error] Sebességszámítási hiba, alapértelmezett visszaállítva: 
+[speed_calc_error_hint] Ezt sérült mentési adatok okozhatják.
+[general_tab] Általános
+[appearance_tab] Megjelenés
+[danger_tab] Veszély

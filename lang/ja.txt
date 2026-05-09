@@ -1,5 +1,5 @@
 [game_title] タイマーインクリメンタル
-[version_text] 現在のバージョン 1.4.2
+[version_text] 現在のバージョン 1.4.3
 [join_us] 参加する
 [about] について
 [about_title] タイマーインクリメンタルについて
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] 時間の欠片を入手するには少なくとも1000 SDPが必要です。
+[claim_vdp_cannot_claim] 現在、時間の欠片を入手できません。
+[claim_vdp_success] 時間の欠片（VDP）を{0}個入手しました！
+[challenge_failed] チャレンジ {0} 失敗！時間切れです。
+[challenge_start_details] チャレンジ {0} 開始！\n\n目標：{1}\n報酬：{2}
+[challenge_completed_msg] おめでとうございます！チャレンジ {0} 完了！\n\n報酬：{1}
+[sdv_started] SDVチャレンジ開始：{0}
+[save_load_error] セーブデータ読み込みエラー：
+[save_check_message] セーブデータが正しいか確認するか、再インポートしてください。
+[speed_calc_error] 速度計算エラー、デフォルト値に復元されました: 
+[speed_calc_error_hint] セーブデータの破損が原因の可能性があります。
+[general_tab] 一般
+[appearance_tab] 外観
+[danger_tab] 危険

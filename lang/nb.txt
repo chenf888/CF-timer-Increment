@@ -1,5 +1,5 @@
 [game_title] Tidsinkrement
-[version_text] Gjeldende versjon 1.4.2
+[version_text] Gjeldende versjon 1.4.3
 [join_us] Bli med oss
 [about] Om
 [about_title] Om Tidsinkrement
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Du trenger minst 1000 SDP for å få tidsfragmenter.
+[claim_vdp_cannot_claim] Kan ikke få tidsfragmenter akkurat nå.
+[claim_vdp_success] Du har fått {0} tidsfragment(er) (VDP)!
+[challenge_failed] Utfordring {0} mislyktes! Tiden er ute.
+[challenge_start_details] Utfordring {0} startet!\n\nMål: {1}\nBelønning: {2}
+[challenge_completed_msg] Gratulerer! Utfordring {0} fullført!\n\nBelønning: {1}
+[sdv_started] SDV-utfordring startet: {0}
+[save_load_error] Feil ved lasting av lagring:
+[save_check_message] Sjekk om lagringen er riktig, eller prøv å importere på nytt.
+[speed_calc_error] Feil i hastighetsberegning, tilbakestilt til standard: 
+[speed_calc_error_hint] Dette kan skyldes ødelagte lagringsdata.
+[general_tab] Generelt
+[appearance_tab] Utseende
+[danger_tab] Fare

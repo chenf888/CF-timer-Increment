@@ -1,5 +1,5 @@
 [game_title] Timer Increments
-[version_text] Huidige versie 1.4.2
+[version_text] Huidige versie 1.4.3
 [join_us] Doe mee
 [about] Over
 [about_title] Over Timer Increments
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Je hebt minstens 1000 SDP nodig om Tijdsfragmenten te verkrijgen.
+[claim_vdp_cannot_claim] Kan op dit moment geen Tijdsfragmenten verkrijgen.
+[claim_vdp_success] Je hebt {0} Tijdsfragment(en) (VDP) verkregen!
+[challenge_failed] Uitdaging {0} mislukt! Tijd is om.
+[challenge_start_details] Uitdaging {0} gestart!\n\nDoel: {1}\nBeloning: {2}
+[challenge_completed_msg] Gefeliciteerd! Uitdaging {0} voltooid!\n\nBeloning: {1}
+[sdv_started] SDV-uitdaging gestart: {0}
+[save_load_error] Fout bij laden van opgeslagen bestand:
+[save_check_message] Controleer of de opslag correct is of probeer opnieuw te importeren.
+[speed_calc_error] Fout bij snelheidsberekening, teruggezet naar standaard: 
+[speed_calc_error_hint] Dit kan worden veroorzaakt door beschadigde opslaggegevens.
+[general_tab] Algemeen
+[appearance_tab] Uiterlijk
+[danger_tab] Gevaar

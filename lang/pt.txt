@@ -1,5 +1,5 @@
 [game_title] Temporizador Incremental
-[version_text] Versão 1.4.2
+[version_text] Versão 1.4.3
 [join_us] Junte-se a nós
 [about] Sobre
 [about_title] Sobre o Temporizador Incremental
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Você precisa de pelo menos 1000 SDP para obter Fragmentos de Tempo.
+[claim_vdp_cannot_claim] Não é possível obter Fragmentos de Tempo neste momento.
+[claim_vdp_success] Você obteve {0} fragmento(s) de tempo (VDP)!
+[challenge_failed] Desafio {0} falhou! Tempo esgotado.
+[challenge_start_details] Desafio {0} iniciado!\n\nObjetivo: {1}\nRecompensa: {2}
+[challenge_completed_msg] Parabéns! Desafio {0} concluído!\n\nRecompensa: {1}
+[sdv_started] Desafio SDV iniciado: {0}
+[save_load_error] Erro ao carregar o salvamento:
+[save_check_message] Verifique se o salvamento está correto ou tente importar novamente.
+[speed_calc_error] Erro no cálculo de velocidade, restaurado para o padrão: 
+[speed_calc_error_hint] Isso pode ter sido causado por dados de salvamento corrompidos.
+[general_tab] Geral
+[appearance_tab] Aparência
+[danger_tab] Perigo

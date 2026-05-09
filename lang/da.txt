@@ -1,5 +1,5 @@
 [game_title] Tidsstegning
-[version_text] Nuværende version 1.4.2
+[version_text] Nuværende version 1.4.3
 [join_us] Bliv med
 [about] Om
 [about_title] Om Tidsstegning
@@ -338,3 +338,17 @@ Er du sikker på at slette alt og starte forfra?
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Du skal bruge mindst 1000 SDP for at få tidsfragmenter.
+[claim_vdp_cannot_claim] Kan ikke få tidsfragmenter lige nu.
+[claim_vdp_success] Du har fået {0} tidsfragment(er) (VDP)!
+[challenge_failed] Udfordring {0} fejlede! Tiden er gået.
+[challenge_start_details] Udfordring {0} startet!\n\nMål: {1}\nBelønning: {2}
+[challenge_completed_msg] Tillykke! Udfordring {0} gennemført!\n\nBelønning: {1}
+[sdv_started] SDV-udfordring startet: {0}
+[save_load_error] Fejl ved indlæsning af gemning:
+[save_check_message] Tjek om gemningen er korrekt, eller prøv at importere igen.
+[speed_calc_error] Hastighedsberegningsfejl, gendannet til standard: 
+[speed_calc_error_hint] Dette kan skyldes beskadigede gemmedata.
+[general_tab] Generelt
+[appearance_tab] Udseende
+[danger_tab] Fare

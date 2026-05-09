@@ -1,5 +1,5 @@
 [game_title] Kellon lisäys
-[version_text] Nykyinen versio 1.4.2
+[version_text] Nykyinen versio 1.4.3
 [join_us] Liity mukaan
 [about] Tietoa
 [about_title] Tietoa Kellon lisäyksestä
@@ -338,3 +338,17 @@ Haluatko varmasti poistaa kaiken ja aloittaa alusta?
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Tarvitset vähintään 1000 SDP:tä saadaksesi aikamurskeita.
+[claim_vdp_cannot_claim] Aikamurskeita ei voi saada tällä hetkellä.
+[claim_vdp_success] Sait {0} aikamursketta (VDP)!
+[challenge_failed] Haaste {0} epäonnistui! Aika loppui.
+[challenge_start_details] Haaste {0} aloitettu!\n\nTavoite: {1}\nPalkinto: {2}
+[challenge_completed_msg] Onnittelut! Haaste {0} suoritettu!\n\nPalkinto: {1}
+[sdv_started] SDV-haaste aloitettu: {0}
+[save_load_error] Virhe ladattaessa tallennusta:
+[save_check_message] Tarkista, että tallennus on oikein tai yritä tuoda se uudelleen.
+[speed_calc_error] Nopeuden laskentavirhe, palautettu oletukseen: 
+[speed_calc_error_hint] Tämä voi johtua vaurioituneesta tallennustiedosta.
+[general_tab] Yleiset
+[appearance_tab] Ulkoasu
+[danger_tab] Vaara

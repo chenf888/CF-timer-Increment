@@ -1,5 +1,5 @@
 [game_title] 计时器增量
-[version_text] 当前版本 1.4.2
+[version_text] 当前版本 1.4.3
 [join_us] 加入我们
 [about] 关于
 [about_title] 关于计时器增量
@@ -393,15 +393,15 @@
 [basic_upgrades] 基础升级
 [advanced_upgrades] 高级升级
 [expert_upgrades] 专家升级
+[language_desc] 选择界面语言
+[load_language_fail] 语言加载失败
+[change_language] Change Language
+[choose_language] Choose Language
 [lang_zh] 中文
 [lang_en] English
 [lang_ja] 日本語
 [lang_ko] 한국어
 [lang_fr] Français
-[language_desc] 选择界面语言
-[load_language_fail] 语言加载失败
-[change_language] Change Language
-[choose_language] Choose Language
 [lang_de] Deutsch
 [lang_es] Español
 [lang_pt] Português
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] 需要至少 1000 SDP 才能获得时间碎片
+[claim_vdp_cannot_claim] 当前无法获得时间碎片
+[claim_vdp_success] 成功获得 {0} 个时间碎片（VDP）！
+[challenge_failed] 挑战 {0} 失败！时间已到。
+[challenge_start_details] 挑战 {0} 开始！\n\n目标：{1}\n奖励：{2}
+[challenge_completed_msg] 恭喜！挑战 {0} 完成！\n\n获得奖励：{1}
+[sdv_started] 已开始 SDV 挑战：{0}
+[save_load_error] 存档加载失败：
+[save_check_message] 请检查存档是否正确或尝试重新导入。
+[speed_calc_error] 速度计算出错，已恢复默认值: 
+[speed_calc_error_hint] 这可能是由于存档数据损坏导致的。
+[general_tab] 通用
+[appearance_tab] 外观
+[danger_tab] 危险

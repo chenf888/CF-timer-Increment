@@ -1,5 +1,5 @@
 [game_title] Timer Increment
-[version_text] Versi saat ini 1.4.2
+[version_text] Versi saat ini 1.4.3
 [join_us] Bergabunglah
 [about] Tentang
 [about_title] Tentang Timer Increment
@@ -338,3 +338,17 @@ Yakin hapus semua dan mulai dari awal?
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Kamu membutuhkan setidaknya 1000 SDP untuk mendapatkan Fragmen Waktu.
+[claim_vdp_cannot_claim] Saat ini tidak bisa mendapatkan Fragmen Waktu.
+[claim_vdp_success] Kamu mendapatkan {0} Fragmen Waktu (VDP)!
+[challenge_failed] Tantangan {0} gagal! Waktu habis.
+[challenge_start_details] Tantangan {0} dimulai!\n\nTujuan: {1}\nHadiah: {2}
+[challenge_completed_msg] Selamat! Tantangan {0} selesai!\n\nHadiah: {1}
+[sdv_started] Tantangan SDV dimulai: {0}
+[save_load_error] Kesalahan memuat simpanan:
+[save_check_message] Silakan periksa apakah simpanan sudah benar atau coba impor ulang.
+[speed_calc_error] Kesalahan perhitungan kecepatan, dikembalikan ke default: 
+[speed_calc_error_hint] Ini mungkin disebabkan oleh data simpanan yang rusak.
+[general_tab] Umum
+[appearance_tab] Tampilan
+[danger_tab] Bahaya

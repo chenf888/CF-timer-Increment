@@ -1,5 +1,5 @@
 [game_title] टाइमर वृद्धि
-[version_text] वर्तमान संस्करण 1.4.2
+[version_text] वर्तमान संस्करण 1.4.3
 [join_us] हमसे जुड़ें
 [about] के बारे में
 [about_title] टाइमर वृद्धि के बारे में
@@ -338,3 +338,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] समय के टुकड़े प्राप्त करने के लिए आपको कम से कम 1000 SDP की आवश्यकता है।
+[claim_vdp_cannot_claim] इस समय समय के टुकड़े प्राप्त नहीं किए जा सकते।
+[claim_vdp_success] आपने {0} समय के टुकड़े (VDP) प्राप्त कर लिए हैं!
+[challenge_failed] चुनौती {0} विफल! समय समाप्त।
+[challenge_start_details] चुनौती {0} शुरू!\n\nलक्ष्य: {1}\nइनाम: {2}
+[challenge_completed_msg] बधाई हो! चुनौती {0} पूरी हुई!\n\nइनाम: {1}
+[sdv_started] SDV चुनौती शुरू: {0}
+[save_load_error] सेव लोड करने में त्रुटि:
+[save_check_message] कृपया जांचें कि सेव सही है या पुनः आयात करने का प्रयास करें।
+[speed_calc_error] गति गणना त्रुटि, डिफ़ॉल्ट पर बहाल: 
+[speed_calc_error_hint] यह संभवतः दूषित सेव डेटा के कारण हुआ है।
+[general_tab] सामान्य
+[appearance_tab] दिखावट
+[danger_tab] खतरा

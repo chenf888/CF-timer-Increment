@@ -1,5 +1,5 @@
 [game_title] زيادة العداد
-[version_text] الإصدار الحالي 1.4.2
+[version_text] الإصدار الحالي 1.4.3
 [join_us] انضم إلينا
 [about] حول
 [about_title] حول زيادة العداد
@@ -338,3 +338,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] تحتاج على الأقل إلى 1000 نقطة SDP للحصول على شظايا الزمن.
+[claim_vdp_cannot_claim] لا يمكن الحصول على شظايا الزمن حاليًا.
+[claim_vdp_success] حصلت على {0} شظية زمنية (VDP)!
+[challenge_failed] فشل التحدي {0}! انتهى الوقت.
+[challenge_start_details] بدأ التحدي {0}!\n\nالهدف: {1}\nالمكافأة: {2}
+[challenge_completed_msg] مبروك! أتممت التحدي {0}!\n\nالمكافأة: {1}
+[sdv_started] بدأ تحدي SDV: {0}
+[save_load_error] خطأ في تحميل الحفظ:
+[save_check_message] يرجى التحقق من صحة ملف الحفظ أو محاولة إعادة استيراده.
+[speed_calc_error] خطأ في حساب السرعة، تمت الاستعادة إلى الوضع الافتراضي: 
+[speed_calc_error_hint] قد يكون هذا بسبب تلف بيانات الحفظ.
+[general_tab] عام
+[appearance_tab] المظهر
+[danger_tab] خطر

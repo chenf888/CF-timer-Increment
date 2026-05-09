@@ -1,5 +1,5 @@
 [game_title] Przyrost czasomierza
-[version_text] Wersja 1.4.2
+[version_text] Wersja 1.4.3
 [join_us] Dołącz do nas
 [about] O grze
 [about_title] O Przyroście czasomierza
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Potrzebujesz co najmniej 1000 SDP, aby zdobyć Okruchy Czasu.
+[claim_vdp_cannot_claim] Obecnie nie można zdobyć Okruchów Czasu.
+[claim_vdp_success] Zdobyto {0} Okruchów Czasu (VDP)!
+[challenge_failed] Wyzwanie {0} nieudane! Czas minął.
+[challenge_start_details] Rozpoczęto wyzwanie {0}!\n\nCel: {1}\nNagroda: {2}
+[challenge_completed_msg] Gratulacje! Wyzwanie {0} ukończone!\n\nNagroda: {1}
+[sdv_started] Rozpoczęto wyzwanie SDV: {0}
+[save_load_error] Błąd wczytywania zapisu:
+[save_check_message] Sprawdź, czy zapis jest poprawny, lub spróbuj zaimportować go ponownie.
+[speed_calc_error] Błąd obliczania prędkości, przywrócono domyślną: 
+[speed_calc_error_hint] Może to być spowodowane uszkodzonymi danymi zapisu.
+[general_tab] Ogólne
+[appearance_tab] Wygląd
+[danger_tab] Niebezpieczeństwo

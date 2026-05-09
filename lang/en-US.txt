@@ -1,5 +1,5 @@
 [game_title] Timer Incremental
-[version_text] Current Version 1.4.2
+[version_text] Current Version 1.4.3
 [join_us] Join Us
 [about] About
 [about_title] About Timer Incremental
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] You need at least 1000 SDP to obtain Time Fragments.
+[claim_vdp_cannot_claim] Unable to obtain Time Fragments at this time.
+[claim_vdp_success] Successfully obtained {0} Time Fragment(s) (VDP)!
+[challenge_failed] Challenge {0} failed! Time's up.
+[challenge_start_details] Challenge {0} started!\n\nGoal: {1}\nReward: {2}
+[challenge_completed_msg] Congratulations! Challenge {0} completed!\n\nReward: {1}
+[sdv_started] SDV challenge started: {0}
+[save_load_error] Save load error:
+[save_check_message] Please check if the save is correct or try re-importing.
+[speed_calc_error] Speed calculation error, restored to default: 
+[speed_calc_error_hint] This might be caused by corrupted save data.
+[general_tab] General
+[appearance_tab] Appearance
+[danger_tab] Danger

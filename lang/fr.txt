@@ -1,5 +1,5 @@
 [game_title] Chrono Incrément
-[version_text] Version actuelle 1.4.2
+[version_text] Version actuelle 1.4.3
 [join_us] Rejoignez-nous
 [about] À propos
 [about_title] À propos de Chrono Incrément
@@ -338,3 +338,17 @@ Voulez-vous vraiment tout supprimer et recommencer à zéro ?
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Vous avez besoin d'au moins 1000 SDP pour obtenir des fragments temporels.
+[claim_vdp_cannot_claim] Impossible d'obtenir des fragments temporels pour le moment.
+[claim_vdp_success] Vous avez obtenu {0} fragment(s) temporel(s) (VDP) !
+[challenge_failed] Échec du défi {0} ! Temps écoulé.
+[challenge_start_details] Défi {0} commencé !\n\nObjectif : {1}\nRécompense : {2}
+[challenge_completed_msg] Félicitations ! Défi {0} terminé !\n\nRécompense : {1}
+[sdv_started] Défi SDV commencé : {0}
+[save_load_error] Erreur de chargement de la sauvegarde :
+[save_check_message] Veuillez vérifier que la sauvegarde est correcte ou essayez de la réimporter.
+[speed_calc_error] Erreur de calcul de vitesse, restaurée par défaut : 
+[speed_calc_error_hint] Cela peut être dû à des données de sauvegarde corrompues.
+[general_tab] Général
+[appearance_tab] Apparence
+[danger_tab] Danger

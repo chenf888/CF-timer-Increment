@@ -1,5 +1,5 @@
 [game_title] Zeitinkrement
-[version_text] Aktuelle Version 1.4.2
+[version_text] Aktuelle Version 1.4.3
 [join_us] Mitmachen
 [about] Über
 [about_title] Über Zeitinkrement
@@ -338,3 +338,17 @@ Wirklich alles löschen und neu beginnen?
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] Du benötigst mindestens 1000 SDP, um Zeitfragmente zu erhalten.
+[claim_vdp_cannot_claim] Zeitfragmente können derzeit nicht erhalten werden.
+[claim_vdp_success] {0} Zeitfragment(e) (VDP) erhalten!
+[challenge_failed] Herausforderung {0} fehlgeschlagen! Zeit abgelaufen.
+[challenge_start_details] Herausforderung {0} gestartet!\n\nZiel: {1}\nBelohnung: {2}
+[challenge_completed_msg] Glückwunsch! Herausforderung {0} abgeschlossen!\n\nBelohnung: {1}
+[sdv_started] SDV-Herausforderung gestartet: {0}
+[save_load_error] Fehler beim Laden des Spielstands:
+[save_check_message] Bitte überprüfe, ob der Spielstand korrekt ist, oder versuche ihn erneut zu importieren.
+[speed_calc_error] Geschwindigkeitsberechnungsfehler, auf Standard zurückgesetzt: 
+[speed_calc_error_hint] Dies kann durch beschädigte Spielstandsdaten verursacht werden.
+[general_tab] Allgemein
+[appearance_tab] Aussehen
+[danger_tab] Gefahr

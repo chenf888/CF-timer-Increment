@@ -1,5 +1,5 @@
 [game_title] 타이머 인크리멘탈
-[version_text] 현재 버전 1.4.2
+[version_text] 현재 버전 1.4.3
 [join_us] 참여하기
 [about] 정보
 [about_title] 타이머 인크리멘탈 정보
@@ -422,3 +422,17 @@
 [lang_cs] Čeština
 [lang_hu] Magyar
 [lang_ro] Română
+[claim_vdp_need_sdp] 시간 조각을 얻으려면 최소 1000 SDP가 필요합니다.
+[claim_vdp_cannot_claim] 현재 시간 조각을 얻을 수 없습니다.
+[claim_vdp_success] 시간 조각(VDP) {0}개를 획득했습니다!
+[challenge_failed] 도전 {0} 실패! 시간이 초과되었습니다.
+[challenge_start_details] 도전 {0} 시작!\n\n목표: {1}\n보상: {2}
+[challenge_completed_msg] 축하합니다! 도전 {0} 완료!\n\n보상: {1}
+[sdv_started] SDV 도전 시작: {0}
+[save_load_error] 저장 파일 불러오기 오류:
+[save_check_message] 저장 파일이 올바른지 확인하거나 다시 가져오세요.
+[speed_calc_error] 속도 계산 오류, 기본값으로 복원됨: 
+[speed_calc_error_hint] 저장 데이터 손상으로 인한 것일 수 있습니다.
+[general_tab] 일반
+[appearance_tab] 외관
+[danger_tab] 위험

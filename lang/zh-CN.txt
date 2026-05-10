@@ -436,3 +436,9 @@
 [general_tab] 通用
 [appearance_tab] 外观
 [danger_tab] 危险
+[custom_colors] 自定义颜色
+[text_color] 文字颜色
+[bg_color] 背景颜色
+[theme_color] 主题颜色
+[reset_custom_colors] 重置自定义颜色
+[custom_theme] 自定义

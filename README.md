@@ -68,10 +68,6 @@ python -m http.server 8080
 
 当前支持 25 种语言，翻译文件位于 `lang/` 目录。
 
-## 📝 版本历史
-
-- **v1.4.4** — 重生系统完善，挑战系统重构，大数库升级为 break_eternity.js
-- **v1.4.3** — 原始版本
 
 ## 👤 作者
 
@@ -79,9 +75,6 @@ python -m http.server 8080
 
 ## 🙏 鸣谢
 
-- anzero (QQ: 3993298503)
-- 一个增量的人 (QQ: 2481258834)
-- 一个刷号的人 (QQ: 3605754861)
 - [break_eternity.js](https://github.com/Patashu/break_eternity.js) — 大数运算库
 
 ## 📄 开源协议

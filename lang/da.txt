@@ -1,4 +1,5 @@
 [game_title] Tidsstegning
+[version_prefix] Nuværende version
 [version_text] Nuværende version 1.4.3
 [join_us] Bliv med
 [about] Om

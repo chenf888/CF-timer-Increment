@@ -3204,6 +3204,9 @@
 
             });
 
+            const versionEl = document.getElementById('versionDisplay');
+            if (versionEl) versionEl.textContent = t('version_prefix') + ' ' + GAME_VERSION;
+
             renderUpgrades();
 
             renderAchievements();

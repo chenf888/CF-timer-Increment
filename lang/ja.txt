@@ -1,4 +1,5 @@
 [game_title] タイマーインクリメンタル
+[version_prefix] 現在のバージョン
 [version_text] 現在のバージョン 1.4.3
 [join_us] 参加する
 [about] について

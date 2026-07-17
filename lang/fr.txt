@@ -1,4 +1,5 @@
 [game_title] Chrono Incrément
+[version_prefix] Version actuelle
 [version_text] Version actuelle 1.4.3
 [join_us] Rejoignez-nous
 [about] À propos

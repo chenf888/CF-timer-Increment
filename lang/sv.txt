@@ -1,4 +1,5 @@
 [game_title] Timer Incremental
+[version_prefix] Nuvarande version
 [version_text] Nuvarande version 1.4.3
 [join_us] Gå med oss
 [about] Om

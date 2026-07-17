@@ -1,4 +1,5 @@
 [game_title] Kellon lisäys
+[version_prefix] Nykyinen versio
 [version_text] Nykyinen versio 1.4.3
 [join_us] Liity mukaan
 [about] Tietoa

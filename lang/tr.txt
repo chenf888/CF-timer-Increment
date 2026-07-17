@@ -1,4 +1,5 @@
 [game_title] Zamanlayıcı Birikimi
+[version_prefix] Güncel sürüm
 [version_text] Güncel sürüm 1.4.3
 [join_us] Bize Katılın
 [about] Hakkında

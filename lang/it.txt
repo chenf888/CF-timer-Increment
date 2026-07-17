@@ -1,4 +1,5 @@
 [game_title] Timer Incremento
+[version_prefix] Versione attuale
 [version_text] Versione attuale 1.4.3
 [join_us] Unisciti a noi
 [about] Informazioni

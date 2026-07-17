@@ -1,4 +1,5 @@
 [game_title] Bộ đếm thời gian tăng dần
+[version_prefix] Phiên bản
 [version_text] Phiên bản 1.4.3
 [join_us] Tham gia cùng chúng tôi
 [about] Giới thiệu

@@ -1,4 +1,5 @@
 [game_title] 타이머 인크리멘탈
+[version_prefix] 현재 버전
 [version_text] 현재 버전 1.4.3
 [join_us] 참여하기
 [about] 정보

@@ -1,4 +1,5 @@
 [game_title] Incrementarea temporizatorului
+[version_prefix] Versiunea curentă
 [version_text] Versiunea curentă 1.4.3
 [join_us] Alătură-te nouă
 [about] Despre

@@ -1,4 +1,5 @@
 [game_title] زيادة العداد
+[version_prefix] الإصدار الحالي
 [version_text] الإصدار الحالي 1.4.3
 [join_us] انضم إلينا
 [about] حول

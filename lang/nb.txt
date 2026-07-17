@@ -1,4 +1,5 @@
 [game_title] Tidsinkrement
+[version_prefix] Gjeldende versjon
 [version_text] Gjeldende versjon 1.4.3
 [join_us] Bli med oss
 [about] Om

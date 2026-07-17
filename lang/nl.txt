@@ -1,4 +1,5 @@
 [game_title] Timer Increments
+[version_prefix] Huidige versie
 [version_text] Huidige versie 1.4.3
 [join_us] Doe mee
 [about] Over

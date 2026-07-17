@@ -1,4 +1,5 @@
 [game_title] Časovač Přírůstek
+[version_prefix] Aktuální verze
 [version_text] Aktuální verze 1.4.3
 [join_us] Přidej se
 [about] O aplikaci

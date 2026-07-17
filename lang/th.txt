@@ -1,4 +1,5 @@
 [game_title] ตัวจับเวลาแบบสะสม
+[version_prefix] เวอร์ชัน
 [version_text] เวอร์ชัน 1.4.3
 [join_us] ร่วมกับเรา
 [about] เกี่ยวกับ
